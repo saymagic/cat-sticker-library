@@ -1,0 +1,742 @@
+{
+  "status": "PASS",
+  "verified_at": "2026-10-02T21:18:54.768920+08:00",
+  "url": "https://stickers.saymagic.cn/",
+  "source_commit": "f846ea861ae628c9298f7d80d4be9048c0421e3a",
+  "https_certificate_validation": true,
+  "files_checked": 119,
+  "files_passed": 119,
+  "build": {
+    "status": "PASS",
+    "versions": 3,
+    "stickers": 72,
+    "files": 120,
+    "bytes": 18358439,
+    "release_downloads": 3,
+    "site_downloads": 6,
+    "local_links_checked": 121,
+    "output": "/Users/saymagic/workspace/表情包/_site",
+    "source_commit": "f846ea861ae628c9298f7d80d4be9048c0421e3a",
+    "built_at": "2026-10-02T21:07:53.828694+08:00",
+    "public_url": "https://stickers.saymagic.cn/",
+    "workflow_run": null
+  },
+  "results": [
+    {
+      "path": "index.html",
+      "bytes": 56383,
+      "sha256": "88746be25b556bf528735932a1729a5ef9265ddf554d8411188c5de9c23c7c2d",
+      "pass": true
+    },
+    {
+      "path": "作品库设计与规则.html",
+      "bytes": 11758,
+      "sha256": "12989b16c4fe9bed62cd7b08b3035224576feaafc9c2610b226c767ad99c2fa6",
+      "pass": true
+    },
+    {
+      "path": "AGENTS.html",
+      "bytes": 8341,
+      "sha256": "2c33e95de71dc1dcad57171ed024a1789377e23a01b660cf10fb041cfc96a1ff",
+      "pass": true
+    },
+    {
+      "path": "catalog.json",
+      "bytes": 29975,
+      "sha256": "ad83e49685a109d5320dee93cb39d09e2793b9a30704e174bf7bb82ed2d3a2d9",
+      "pass": true
+    },
+    {
+      "path": "表情包作品库.html",
+      "bytes": 56383,
+      "sha256": "88746be25b556bf528735932a1729a5ef9265ddf554d8411188c5de9c23c7c2d",
+      "pass": true
+    },
+    {
+      "path": "build.json",
+      "bytes": 417,
+      "sha256": "44b9a587ff5fc69d03b1f1dd1650c72e7bae0e976508261e3739b9a251f50593",
+      "pass": true
+    },
+    {
+      "path": "00_官方调研/微信表情制作与投稿调研.html",
+      "bytes": 7754,
+      "sha256": "1b47d4d6bc326d4e4f003a5f16688ea00f9a2189012b0de1496bd04932816c16",
+      "pass": true
+    },
+    {
+      "path": "deployment/部署与更新.html",
+      "bytes": 6997,
+      "sha256": "e8c181198e2e13e7e00c6481133674e7668aa0f3bfc6c8ae3a8ec37197d93219",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/README.html",
+      "bytes": 1246,
+      "sha256": "34f79e00617460b405b9d1601895cee4b4cdd54b35a24ceeeab62d1addac92f3",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/zip_validation.json",
+      "bytes": 654,
+      "sha256": "a2100b9155268319830433706140e85e283ff0dc221503870efe5e16a628099d",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/preview.html",
+      "bytes": 6603,
+      "sha256": "583c6e9e2479adfff08fc2622eb8128d2aa1522cd745b8106ec43925aba6a01d",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
+      "bytes": 2279959,
+      "sha256": "1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/上传填写文案.html",
+      "bytes": 3653,
+      "sha256": "a44e41d111cdf0719395d8ca3254efcbcdd0f9d7b20c64a4708bad2cc9b640d9",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/visual_review.json",
+      "bytes": 16553,
+      "sha256": "41ab2f975628baec171212214c4b12586911ee30602fd27257fbd83f5d6b51f6",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/validation_report.json",
+      "bytes": 131683,
+      "sha256": "f7f06dcb9d158d3ef1b2ca830015fb68fe750a1a1d6779d739838219f0d573b4",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
+      "bytes": 1403484,
+      "sha256": "12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/05_验收/完成锁定.json",
+      "bytes": 51552,
+      "sha256": "08358d5cedd4392a1c8c532c816d2e922e4f9f7c32a4dbf6fa808a6bf107f6ac",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/14.png",
+      "bytes": 70157,
+      "sha256": "9f7fe85aad5995e908c9833786859b5d383ad4fface46093ea87a9a51b6be3e4",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/01.png",
+      "bytes": 53810,
+      "sha256": "dfe4f86699ff6454c0fe83cd92996551d20336468999eea2cd4497d9a55b4d35",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/15.png",
+      "bytes": 60051,
+      "sha256": "8be6bb29533d0ea7518266897e5015eeead1871b4eeb38aa3cb47c03cee9082d",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/03.png",
+      "bytes": 59352,
+      "sha256": "ff89441ad4bdaf1b74290f5fe9168129190f999340d87208bce3d2d1f1d0fe25",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/17.png",
+      "bytes": 68602,
+      "sha256": "3e680c0807963ce9c0b8856c8376803e61daf9a15e8a2c2c800164c1b6b532a2",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/16.png",
+      "bytes": 59181,
+      "sha256": "439a7872e42ffab3dfb54f9f14bb3df33b901617145e1dbd07d0f13e0d2af507",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/02.png",
+      "bytes": 58007,
+      "sha256": "857419ba493b7ab4bbcde2384d2ef82e18eb79e26d6f383a10cc99b69e45b139",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/06.png",
+      "bytes": 63803,
+      "sha256": "8515f609da55e833b78ddb37471521111d1de2e89a208a5063e7e8f0b7bbfae3",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/12.png",
+      "bytes": 62114,
+      "sha256": "1ba8c110cf638acdd6cef482266c0b588909ee9d059f60bb670afb4478d04532",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/13.png",
+      "bytes": 60724,
+      "sha256": "1f938fcf7db94123e48c2e2950c799d41ba55216a29fab5f9d920fe4fafd8928",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/07.png",
+      "bytes": 63871,
+      "sha256": "d87406600958dc53a271dce9d425f482a22da06fdf2bb16f6ef35203be2f2bbd",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/11.png",
+      "bytes": 75634,
+      "sha256": "abe68d11012d35b1b9ca87c72d4eac6654f596c0acde067d2b68aadac12cc1fa",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/05.png",
+      "bytes": 60671,
+      "sha256": "194d8bdf8ee14c60258c7c2f9b0166800360322a6c5f69fd12400af86e055732",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/04.png",
+      "bytes": 61003,
+      "sha256": "15fe13000095af3f32728c425c68e49a0ae60228b13581cc014c3bca51e6d8a0",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/10.png",
+      "bytes": 65257,
+      "sha256": "232e7ff53dfdda996e6635428c5ed03497ea7bf5d6a226165e7da97eec869816",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/21.png",
+      "bytes": 79238,
+      "sha256": "d7b3d668d0aef7db43b9f07a1360416565beea618c0c7e602cd12edf35c9f26e",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/09.png",
+      "bytes": 63990,
+      "sha256": "46da81aadf27344e9e827c2d64d160ba263c8118ccd624e44296de7eae20c14b",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/08.png",
+      "bytes": 58595,
+      "sha256": "fee92cd22e10e774373e45bf0a0f14db2cf46c7859172abafbf711c129829ea5",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/20.png",
+      "bytes": 75002,
+      "sha256": "40061ed6fbac5d7b5c68669fc1cca77be96091558414ca4b15b86e942c9f79cb",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/22.png",
+      "bytes": 76940,
+      "sha256": "1338079b8e8322f081aa022a00fd6651cc6e48dffc709c12352e0a9f051e83ec",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/23.png",
+      "bytes": 60356,
+      "sha256": "4735322c3f5975187bd4437ce46d8b352e71ac3604ea6ab4548788beeb9390b4",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/18.png",
+      "pass": true,
+      "bytes": 74862,
+      "sha256": "651ff5bfc787c4fb15c7529d88a58f5e95005963a51bc6e6c85515e685924d8a",
+      "initial_error": "<urlopen error [Errno 60] Operation timed out>",
+      "retried": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/24.png",
+      "bytes": 59614,
+      "sha256": "8700891cfcd65583f35f980bf61a5dd8acdae8953cb74ea055f608e90c260141",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/main_png/19.png",
+      "bytes": 61063,
+      "sha256": "a6b3144e6868a49f0a9494106fe5754e54ed6326f336908e39f2fcd8947d6102",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/extras/cover_240.png",
+      "bytes": 67631,
+      "sha256": "af7f15f2e46e6d0da707a63e12a515e4eff4d6055d21046f819efd8a16b66994",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/extras/banner_750x400.jpg",
+      "bytes": 76782,
+      "sha256": "f34d9bae0029fc985d8c628dea83ad2bbb52277812814e441bbd44de463bde3b",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/extras/chat_icon_240_备用.png",
+      "bytes": 84315,
+      "sha256": "2040ba94dd8d65be0e7a41dbac338397c0e76063e4c3fe1e45c092842d6c3533",
+      "pass": true
+    },
+    {
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/extras/chat_icon_50.png",
+      "bytes": 5253,
+      "sha256": "fc554bb17867842f6f29aefdad2e4ee1b73f215b8914c2efffd20aa063b47790",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/README.html",
+      "bytes": 1246,
+      "sha256": "4b56ea318e0e34a4f9bfb8adab53fc889780e3ef4fc415e83c0fd3818afeed32",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/zip_validation.json",
+      "bytes": 655,
+      "sha256": "35aab4ce952448be2aa0cd7175a8b6d419052a9d2bda5df638ffae394b8c45e9",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/preview.html",
+      "bytes": 6627,
+      "sha256": "292274ebe9edca943b393481408fb19f43ee295b1ff96083d250e32f1a8a3778",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
+      "bytes": 2507024,
+      "sha256": "7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/上传填写文案.html",
+      "bytes": 3659,
+      "sha256": "c1e790e4a1c397ec17fda45b2992ceefa32e4c1e9e6cda5a98b189576961a6d0",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/visual_review.json",
+      "bytes": 16349,
+      "sha256": "5264bcbee4904de5b26eb1462c677889cc86b1704486fdd78706e5360a1842d8",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/validation_report.json",
+      "bytes": 121104,
+      "sha256": "c8ac8ecf02377df3a481411277e6f26092b98892dfb46e5256593c3568b16a72",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
+      "bytes": 1458407,
+      "sha256": "96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/05_验收/完成锁定.json",
+      "bytes": 51314,
+      "sha256": "4bec72703d679865938c51adb3830cb194ae6a2f8fc6590883bee66515841db3",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/14.png",
+      "bytes": 67425,
+      "sha256": "8a1cf905b3c8c9e46f1069119d8ed672b09930e431c0756a53a9e7458d4bc2af",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/01.png",
+      "bytes": 71080,
+      "sha256": "2267d7ee941730180c40fd276c0049af3c1c87af9a7abcae293a2703033f897c",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/15.png",
+      "bytes": 63329,
+      "sha256": "d90fd877127c134a19b44eff4c5ccb5ed86570805e2491d0a41bdd0b1d8f13ef",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/03.png",
+      "bytes": 64957,
+      "sha256": "0c730cd0610ff64f88d21594442a640c4e4165a66d91c6b82515d57ff084ac56",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/17.png",
+      "bytes": 77488,
+      "sha256": "5d34971c37a57c25ed558c0c5023adc0f49e55c364d74e296b1039c14ecdba1b",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/16.png",
+      "bytes": 63028,
+      "sha256": "c81fc2d03e0e541cb104cd3a598ebd3b6c160d88871af08c2fdeeaca48cfbadd",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/02.png",
+      "bytes": 64674,
+      "sha256": "dab6005b7c0a8ce0cc03dce96039f0b3290aa65ace593e3bbe60bb5446a7cab2",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/06.png",
+      "bytes": 68815,
+      "sha256": "6537583f84600fe39be51064213fb11618334fd178b14824b1b56a4f4b15bc5a",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/12.png",
+      "bytes": 65329,
+      "sha256": "18d72f7c2de9852e1d5a23e83485f49422736359bc18afeac8fc5554e65c43b6",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/13.png",
+      "bytes": 63087,
+      "sha256": "5085dec1843e0b73fe7e0b77cc0e4f27adaa9ee0fcec3240b8392b6f3ebb40a0",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/07.png",
+      "bytes": 69461,
+      "sha256": "7e69956b05d5152654f37b8854bbcba4b074d889a52e870948b6aa320509e915",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/11.png",
+      "bytes": 78558,
+      "sha256": "522d0e3159220e83aa557ac8a9cbe78b8d32b32792148a7c1cedba98cf795c65",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/05.png",
+      "bytes": 59842,
+      "sha256": "0e748f5e5eecfda29cf512caf56f0f42a7518b220845b03775671b1ff4437dc7",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/04.png",
+      "bytes": 71676,
+      "sha256": "02877ed7ce9e961424cf0ead80bd9f325fcdf95232fd88182249c90af4db5fd7",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/10.png",
+      "bytes": 68651,
+      "sha256": "dc6190e22db2168794674a8625c35a601c988353896aee0ca329667d1328b7de",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/21.png",
+      "bytes": 92814,
+      "sha256": "052b7ef5a6a3117ab135f427ddcc3050c594d054d855bfce8bec40b9219b6a90",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/09.png",
+      "bytes": 70088,
+      "sha256": "e1fb9af14dd501fef7ae96775fc4a2d5e30ce46a92581150528b408d3bb85856",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/08.png",
+      "bytes": 62365,
+      "sha256": "8f86d1b546ef60aa8123569a764d287984293388fb9f695ebcd6f17b5cdb0ff5",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/20.png",
+      "bytes": 77266,
+      "sha256": "34a47379d4e7047d4822b58d95206e9de15c813773a36b52893677a02c7f4ec8",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/22.png",
+      "bytes": 78612,
+      "sha256": "ee38f35cb36026482071fd460bb9adcea6ecd2a29a540a209fdc824740ab462e",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/23.png",
+      "bytes": 67716,
+      "sha256": "07ec3b1d42c3ec3f2c05e3c1deefd0105c76c677a1aef8fb095bd27842c1a623",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/18.png",
+      "bytes": 97058,
+      "sha256": "65ad1e7347043eb17256d1b930d66f3b0543d06203eb51ca3d4d3ad30cbbacdd",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/24.png",
+      "bytes": 70888,
+      "sha256": "44584eecc535ff78ba990013d7e13609dc79e17c43a22aad23e72939c4674ab5",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/main_png/19.png",
+      "bytes": 68641,
+      "sha256": "3700e406d77982760b384567d1a5dc9166b83a83f03280a6fce53303048f0017",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/extras/cover_240.png",
+      "bytes": 75174,
+      "sha256": "b454f59d81a7c9a4e07819f424570b07947a088ce36823f60feb9c7b99a0f1df",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/extras/banner_750x400.jpg",
+      "bytes": 76457,
+      "sha256": "bfdfdb807e7f5310e0c91e6f20151858af72825c70ddce754d2195bbf5b617ea",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/extras/chat_icon_240_备用.png",
+      "bytes": 96755,
+      "sha256": "aa87beb076f351cf529745e64d87c85e514c88f46249c7ac7eb384559d711d73",
+      "pass": true
+    },
+    {
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/extras/chat_icon_50.png",
+      "bytes": 5981,
+      "sha256": "db630f829cb20dd5f63faf93a935b8c94d3d5da25595d67a99c352b5bd603b97",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/README.html",
+      "bytes": 1243,
+      "sha256": "9f0ce2e957acd6af7b94a896e1da6b77ab2b6a9bff086bd26772ecb3720b99b1",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/zip_validation.json",
+      "bytes": 655,
+      "sha256": "435fbde312a0aec994f1675c0cef2bce3b4bb4b45d6f8ea5add937c86a158364",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/preview.html",
+      "bytes": 6615,
+      "sha256": "f6af5dab64b9edc95972085de5dc1971d1c135c3704e2f2ce11e817902c09991",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
+      "bytes": 2614567,
+      "sha256": "18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/上传填写文案.html",
+      "bytes": 3653,
+      "sha256": "664e2c40f94ba613be093bd30afa167ea1fd86eb756d752db3edd93c93433f5e",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/visual_review.json",
+      "bytes": 16202,
+      "sha256": "127540d7cbef87a20a3f71f82a110b530cdd1cb489efa202d8499c9f6e089ffb",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/validation_report.json",
+      "bytes": 131674,
+      "sha256": "d087e6aef566f7dfd9c12f6d6bf63e9ce2172b1a69bfe6b616fd355c8e1cf7d0",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
+      "bytes": 1501360,
+      "sha256": "17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/05_验收/完成锁定.json",
+      "bytes": 51316,
+      "sha256": "99b8b51d5126442e63b440512d377ed4f46cfb9ccca0ccf80fb28080bdc1f81b",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/14.png",
+      "bytes": 74323,
+      "sha256": "3b701f6e8028c7f6e03b3af57e8ead19fe725c3c94a9d65cefa9c91c932621df",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/01.png",
+      "bytes": 70776,
+      "sha256": "aaf231cdbdfb038f141ea08d1cff1b960aed3c241087d7dd4fe28fcf420826ac",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/15.png",
+      "bytes": 71903,
+      "sha256": "df08c5a60de6755bd7ee9fedf4fd99b3df0854d6c80e37ac86b9e0ffb2486839",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/03.png",
+      "bytes": 71678,
+      "sha256": "cd6b5912a1f2a9aa41acbb0c26f682bd3aeab2ad582981e3d1f3a89417607cbf",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/17.png",
+      "bytes": 79753,
+      "sha256": "d30f9420d7d61f5bbb60db9eb64e9a9dc21c69678a80887d87958e85d009da6c",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/16.png",
+      "bytes": 75988,
+      "sha256": "c839dc16c51f7836ca676063a51bf1b676b085310d67e17987f157283478cc6b",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/02.png",
+      "bytes": 66710,
+      "sha256": "667b4824171ed18668bc5d8526632558a121d406e8636301fc14e475c07a4a14",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/06.png",
+      "bytes": 74700,
+      "sha256": "083bc02d0d1bc3e4e56dd4603d6a3855c440c09ce5d8a439dd4c50e898165ee1",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/12.png",
+      "bytes": 69274,
+      "sha256": "fae6a467da5e03a322176bd125c8aa8b2ced7beb258d31a0099ad17701961660",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/13.png",
+      "bytes": 73594,
+      "sha256": "326be489b4885e60d4fb5cf4fede51a32f518e6d8f9e2d06c9d73455c9c64aca",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/07.png",
+      "bytes": 76058,
+      "sha256": "7831a4811931d62008a1c242df4c525ce304abb95bc8ef2b090456aa5fa281f3",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/11.png",
+      "bytes": 81069,
+      "sha256": "679cfb44289019e2c5fe07aa8b4644f151bdcc27e3f1a56154ba560361f56e7e",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/05.png",
+      "bytes": 69078,
+      "sha256": "72125e208e1eee3aa8dbf303a5741a6863e5a016212081486d4d9f4c69db7d94",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/04.png",
+      "bytes": 70954,
+      "sha256": "ab3f74accf933a9f4999b137050f488e4c606b3755a18a37780e093e1c045cbd",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/10.png",
+      "bytes": 71697,
+      "sha256": "77223d8952ea74e9e8d3cdb26f1074e9792dfbb1fe449d0f92e3c4ac77dfce7f",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/21.png",
+      "bytes": 89002,
+      "sha256": "7d449f08654a5bd8d054e39c5292356fe23a4f7b4f2326089c55a5de16bbcbe4",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/09.png",
+      "bytes": 76256,
+      "sha256": "adbf2fde3eb7306cb021ff988dcc3fbba5e4eaa71d527fdf3befc462ff32875e",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/08.png",
+      "bytes": 67399,
+      "sha256": "c9a4f147ef0ea1660eb4702514badb008331140765da9a9285dd9d331abc31fc",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/20.png",
+      "bytes": 85535,
+      "sha256": "3338162575ac8524db390a25f36f551176a94224c0bd2c584e751391aa8e3f6f",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/22.png",
+      "bytes": 92752,
+      "sha256": "37153b2134b9f722c9f3e904755c719f6fbd6a7f7fec995878944a026b721c4c",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/23.png",
+      "bytes": 67969,
+      "sha256": "d49c109afba45cb4f7773b5ea4b4f6d9377353c517213a14bf6134d64e11a614",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/18.png",
+      "bytes": 72005,
+      "sha256": "422a230837d28cddbfc2464736343eec7c457f8fa47d05956ce4dac253bcb075",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/24.png",
+      "bytes": 76543,
+      "sha256": "387d07cdf8dfd7ccf84a472323b63cc8e47eae82aa5012afad3b410ce8deba0a",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/main_png/19.png",
+      "bytes": 70116,
+      "sha256": "031394b7a9c53be2e35e61147eb3258a114af14a2e4130dd1101552911e39cc4",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/extras/cover_240.png",
+      "bytes": 74685,
+      "sha256": "611afd2ea767d2057b4486785765e17fe8032faabf627885f0d96d6b97922d83",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/extras/banner_750x400.jpg",
+      "bytes": 79233,
+      "sha256": "69aebd60a9a28d275a984dde81cbfefaccaebd669c4c2c974cc5131ab54a8482",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/extras/chat_icon_240_备用.png",
+      "bytes": 93608,
+      "sha256": "e1b1d18ee72243e6c3d87cb223b864eba513c8f5efea0a43eefb5bf42d338186",
+      "pass": true
+    },
+    {
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/extras/chat_icon_50.png",
+      "bytes": 6019,
+      "sha256": "5f9acdf1673902da9b36e2156965eebebfc5f523f8cf581b524af57be664852f",
+      "pass": true
+    }
+  ]
+}

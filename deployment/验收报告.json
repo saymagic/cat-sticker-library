@@ -1,0 +1,161 @@
+{
+  "status": "PUBLIC_SITE_PASS_WITH_ACTIONS_BLOCKED",
+  "verified_source_commit": "f846ea861ae628c9298f7d80d4be9048c0421e3a",
+  "public_url": "https://stickers.saymagic.cn/",
+  "repository": "https://github.com/saymagic/cat-sticker-library",
+  "materials_release": "https://github.com/saymagic/cat-sticker-library/releases/tag/materials-v1",
+  "versions": 3,
+  "stickers": 72,
+  "local_validation": {
+    "status": "PASS",
+    "workflow_tests": 16,
+    "publish_tests": 5,
+    "production_file_hashes": 748,
+    "zip_content_validation": true
+  },
+  "dns": {
+    "status": "PASS",
+    "provider": "DNSPod",
+    "domain": "saymagic.cn",
+    "host": "stickers",
+    "record_type": "CNAME",
+    "value": "saymagic.github.io",
+    "ttl": 600,
+    "line": "默认",
+    "checks": [
+      "DNSPod保存成功",
+      "权威解析",
+      "1.1.1.1解析",
+      "本机dig解析"
+    ]
+  },
+  "pages": {
+    "status": "PASS",
+    "source": "Deploy from a branch",
+    "branch": "gh-pages",
+    "directory": "/",
+    "custom_domain": "stickers.saymagic.cn",
+    "dns_check": "successful",
+    "enforce_https": true,
+    "https_certificate_validation": true
+  },
+  "public_files": {
+    "status": "PASS",
+    "verified_at": "2026-10-02T21:18:54.768920+08:00",
+    "source_commit": "f846ea861ae628c9298f7d80d4be9048c0421e3a",
+    "files_checked": 119,
+    "files_passed": 119,
+    "https_certificate_validation": true
+  },
+  "browser": {
+    "status": "PASS",
+    "verified_at": "2026-10-02T13:29:32.388Z",
+    "source_commit": "f846ea861ae628c9298f7d80d4be9048c0421e3a",
+    "url": "https://stickers.saymagic.cn/",
+    "checks": [
+      {
+        "name": "中文检索与角色组合",
+        "pass": true
+      },
+      {
+        "name": "空检索结果",
+        "pass": true
+      },
+      {
+        "name": "奶思详情24张加载",
+        "pass": true,
+        "count": 24,
+        "loaded": 24
+      },
+      {
+        "name": "375px手机主页布局",
+        "pass": true,
+        "cards": 3,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      {
+        "name": "375px手机角色筛选",
+        "pass": true
+      },
+      {
+        "name": "375px手机整套详情",
+        "pass": true
+      },
+      {
+        "name": "古德详情完整加载复检",
+        "pass": true,
+        "count": 24,
+        "failures": [],
+        "loaded": 24
+      },
+      {
+        "name": "375px范恩详情完整加载复检",
+        "pass": true,
+        "count": 24,
+        "failures": [],
+        "loaded": 24
+      }
+    ],
+    "cover_images": {
+      "count": 3,
+      "loaded": 3
+    },
+    "backgrounds": {
+      "light": true,
+      "dark": true,
+      "checker": true
+    },
+    "network_observations": [
+      {
+        "name": "IAB 投稿ZIP下载事件",
+        "status": "TIMEOUT",
+        "detail": "独立域名链接等待30秒未收到下载事件；随后改用Google Chrome原生下载，实际文件已完成并核对SHA256。"
+      },
+      {
+        "name": "GitHub完整制作备份重复下载",
+        "status": "NOT_COMPLETED",
+        "detail": "三份备份已响应并开始下载；当前网络25-45KB/s，Chrome显示还需14分钟至2小时，主动取消重复验收副本。9份ZIP在GitHub的大小与服务端SHA256已核对通过；不将完整备份端到端下载标为通过。"
+      }
+    ]
+  },
+  "actual_submission_package_download": {
+    "name": "下载验证_奶思PNG投稿包.zip",
+    "bytes": 2507024,
+    "sha256": "7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936",
+    "matches_original": true,
+    "source": "https://stickers.saymagic.cn/",
+    "browser": "Google Chrome",
+    "status": "PASS"
+  },
+  "actual_single_png_download": {
+    "status": "PASS",
+    "character": "奶思",
+    "number": "04",
+    "sha256": "02877ed7ce9e961424cf0ead80bd9f325fcdf95232fd88182249c90af4db5fd7",
+    "matches_original": true
+  },
+  "release_assets": {
+    "status": "PASS",
+    "zip_assets": 9,
+    "manifest_assets": 1,
+    "verification": "GitHub API size and server digest equal local originals",
+    "report": "Release验收.json"
+  },
+  "github_actions": {
+    "status": "BLOCKED",
+    "reason": "The job was not started because your account is locked due to a billing issue.",
+    "run": "https://github.com/saymagic/cat-sticker-library/actions/runs/37007562668",
+    "fallback": "本地运行同一完整验收与发布流程，更新gh-pages分支。网站已正常上线。"
+  },
+  "proofs": [
+    "公网作品库.png",
+    "公网文件验收.json",
+    "Release验收.json"
+  ],
+  "notes": [
+    "本报告记录已实际验收的源码提交。最终新增验收文档的提交沿用相同生产素材与页面，另执行完整发布与公网文件核对；不循环重写本报告。",
+    "三套均为本地成品、未投稿。GitHub公开发布不代表微信审核通过。",
+    "网站为公开静态作品库；制作与登记由本地工具维护，收藏按浏览器保存。"
+  ]
+}

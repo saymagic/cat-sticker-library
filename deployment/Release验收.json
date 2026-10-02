@@ -1,0 +1,68 @@
+{
+  "url": "https://github.com/saymagic/cat-sticker-library/releases/tag/materials-v1",
+  "id": 401786821,
+  "published_at": "2026-10-02T12:34:14Z",
+  "draft": false,
+  "assets": [
+    {
+      "name": "archive-0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec.zip",
+      "bytes": 112611896,
+      "sha256": "sha256:0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec.zip"
+    },
+    {
+      "name": "archive-12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a.zip",
+      "bytes": 1403484,
+      "sha256": "sha256:12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a.zip"
+    },
+    {
+      "name": "archive-17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268.zip",
+      "bytes": 1501360,
+      "sha256": "sha256:17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268.zip"
+    },
+    {
+      "name": "archive-18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69.zip",
+      "bytes": 2614567,
+      "sha256": "sha256:18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69.zip"
+    },
+    {
+      "name": "archive-1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d.zip",
+      "bytes": 2279959,
+      "sha256": "sha256:1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d.zip"
+    },
+    {
+      "name": "archive-36b2869122387301df76819bda3e0bcfd50f4939f92a4c63ef3c6493cbc61744.zip",
+      "bytes": 96589093,
+      "sha256": "sha256:36b2869122387301df76819bda3e0bcfd50f4939f92a4c63ef3c6493cbc61744",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-36b2869122387301df76819bda3e0bcfd50f4939f92a4c63ef3c6493cbc61744.zip"
+    },
+    {
+      "name": "archive-7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936.zip",
+      "bytes": 2507024,
+      "sha256": "sha256:7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936.zip"
+    },
+    {
+      "name": "archive-96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6.zip",
+      "bytes": 1458407,
+      "sha256": "sha256:96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6.zip"
+    },
+    {
+      "name": "archive-a59f42c40196fbd81d3efc99a17ad0d29b755321287003473cce0e7800b83e59.zip",
+      "bytes": 118351429,
+      "sha256": "sha256:a59f42c40196fbd81d3efc99a17ad0d29b755321287003473cce0e7800b83e59",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-a59f42c40196fbd81d3efc99a17ad0d29b755321287003473cce0e7800b83e59.zip"
+    },
+    {
+      "name": "archives.json",
+      "bytes": 4030,
+      "sha256": "sha256:fc748815010dac11d82db2bb3aca33cd8b1bd482d1ec6bce9449987b1e6fcc3c",
+      "download_url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archives.json"
+    }
+  ]
+}

@@ -188,6 +188,11 @@ def _build(root, output):
         destination.parent.mkdir(parents=True, exist_ok=True)
         if source.suffix == '.md':
             text = source.read_text(encoding='utf-8')
+            def command_link(match):
+                linked = (source.parent / html.unescape(match[2])).resolve()
+                if not linked.is_relative_to(root):raise ValueError('Documentation link escapes library')
+                return match[1] + 'https://github.com/' + settings['repository'] + '/blob/main/' + quote(linked.relative_to(root).as_posix(), safe='/') + match[3]
+            text = re.sub(r'(\[[^\]]+\]\()([^)]*\.command)(\))', command_link, text)
             back = os.path.relpath(output / lib.PAGE, destination.parent)
             destination.write_text(document(text, back), encoding='utf-8')
         elif source.suffix == '.html':
@@ -245,9 +250,26 @@ def _build(root, output):
     (output / '.nojekyll').write_text('')
     (output / 'CNAME').write_text(settings['domain'] + '\n')
     (output / 'catalog.json').write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    local_links = 0
+    for page_file in output.rglob('*.html'):
+        links = Links(); links.feed(page_file.read_text(encoding='utf-8'))
+        for value in links.values:
+            if urlsplit(value).scheme or value.startswith('#'):continue
+            local_links += 1
+            target = (page_file.parent / unquote(value.split('#')[0].split('?')[0])).resolve()
+            if not target.is_relative_to(output) or not target.is_file():
+                raise ValueError('Missing generated website link: ' + value)
     report = {'status': 'PASS', 'versions': len(entries), 'stickers': sum(len(e['items']) for e in entries),
         'files': sum(1 for p in output.rglob('*') if p.is_file()), 'bytes': sum(p.stat().st_size for p in output.rglob('*') if p.is_file()),
-        'release_downloads': sum(len(e['packages']) for e in entries), 'output': str(output)}
+        'release_downloads': sum(len(e['packages']) for e in entries), 'local_links_checked': local_links, 'output': str(output)}
+    revision = os.environ.get('GITHUB_SHA')
+    if not revision and (root / '.git').exists():
+        revision = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=root, text=True).strip()
+    report['source_commit'] = revision
+    report['built_at'] = lib.now().isoformat()
+    report['public_url'] = settings['public_url']
+    report['workflow_run'] = ('https://github.com/' + settings['repository'] + '/actions/runs/' + os.environ['GITHUB_RUN_ID']
+        if os.environ.get('GITHUB_RUN_ID') else None)
     (output / 'build.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     return report
 

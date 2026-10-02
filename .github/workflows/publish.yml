@@ -6,9 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
@@ -16,7 +14,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-python@v6
@@ -24,30 +22,11 @@ jobs:
           python-version: '3.12'
       - name: 安装图片检查依赖
         run: python -m pip install -r deployment/requirements.txt
-      - name: 测试版本约束和公开构建
+      - name: 设置发布提交身份
         run: |
-          python scripts/test_sticker_library.py
-          python scripts/test_publish_library.py
-      - name: 恢复Release物料并核对哈希
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: 完整验收并更新网站分支
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python scripts/publish_library.py restore
-      - name: 完整核对生产文件和ZIP
-        run: python scripts/sticker_library.py check --deep
-      - name: 生成公开站点
-        run: python scripts/publish_library.py build
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: 发布GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        run: bash scripts/publish_pages.sh

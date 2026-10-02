@@ -291,14 +291,44 @@ def build(root, output):
     return report
 
 
+def push_site(root, output):
+    """Push verified static output without switching or modifying the source checkout."""
+    def git(*args, env=None, cwd=None):
+        return subprocess.check_output(['git', *args], cwd=cwd or root, text=True, env=env).strip()
+    if git('branch', '--show-current') != 'main' or git('status', '--porcelain'):
+        raise ValueError('Commit source changes on main before publishing')
+    report = lib.load(output / 'build.json')
+    if report.get('status') != 'PASS' or report.get('source_commit') != git('rev-parse', 'HEAD'):
+        raise ValueError('Build does not match the committed source; rebuild before publishing')
+    settings = config(root)
+    if (output / 'CNAME').read_text().strip() != settings['domain'] or not (output / '.nojekyll').is_file():
+        raise ValueError('Invalid Pages domain or missing static publishing marker')
+    previous = git('ls-remote', '--heads', 'origin', 'refs/heads/gh-pages')
+    parent = []
+    if previous:
+        git('fetch', '--no-tags', 'origin', 'refs/heads/gh-pages')
+        parent = ['-p', git('rev-parse', 'FETCH_HEAD')]
+    with tempfile.TemporaryDirectory() as directory:
+        environment = dict(os.environ, GIT_INDEX_FILE=str(Path(directory) / 'pages.index'))
+        worktree = ['--work-tree=' + str(output)]
+        git(*worktree, 'read-tree', '--empty', env=environment, cwd=output)
+        git(*worktree, 'add', '--all', '--', '.', env=environment, cwd=output)
+        tree = git(*worktree, 'write-tree', env=environment, cwd=output)
+        commit = git('commit-tree', tree, *parent, '-m', '发布表情作品库 ' + report['source_commit'][:7], env=environment)
+    git('push', 'origin', commit + ':refs/heads/gh-pages')
+    return {'status': 'PUSHED', 'branch': 'gh-pages', 'source_commit': report['source_commit'],
+        'pages_commit': commit, 'public_url': settings['public_url']}
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root', type=Path, default=ROOT)
-    parser.add_argument('command', choices=('prepare', 'restore', 'build'))
+    parser.add_argument('command', choices=('prepare', 'restore', 'build', 'push'))
     parser.add_argument('--output', type=Path)
     args = parser.parse_args(); root = args.root.resolve()
     result = {'prepare': lambda:prepare(root), 'restore': lambda:restore(root),
-              'build': lambda:build(root, (args.output or root / '_site').resolve())}[args.command]()
+              'build': lambda:build(root, (args.output or root / '_site').resolve()),
+              'push': lambda:push_site(root, (args.output or root / '_site').resolve())}[args.command]()
     print(json.dumps(result, ensure_ascii=False))
 
 

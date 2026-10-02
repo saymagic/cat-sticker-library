@@ -1,8 +1,11 @@
 """Public build and restoration tests use synthetic, isolated library fixtures."""
 import json
+import os
 from pathlib import Path
 import shutil
+import subprocess
 import unittest
+from unittest.mock import patch
 from urllib.parse import unquote, urlsplit
 
 import publish_library as pub
@@ -66,6 +69,29 @@ class PublishTests(unittest.TestCase):
         self.assertEqual((site / 'index.html').read_bytes(), before)
         for output in (self.root, self.root / self.fixture.data['entries'][0]['path'], self.root / 'scripts'):
             with self.assertRaises(ValueError):pub.build(self.root, output)
+
+    def test_branch_publish_preserves_source_index_and_history_and_rejects_stale_build(self):
+        def git(*args):
+            return subprocess.check_output(['git', *args], cwd=self.root, text=True, stderr=subprocess.DEVNULL).strip()
+        remote = self.root / 'remote.git'
+        git('init', '-q', '--bare', str(remote)); git('init', '-q', '-b', 'main')
+        git('config', 'user.name', 'Isolated test'); git('config', 'user.email', 'test@example.invalid')
+        (self.root / '.gitignore').write_text('/_site/\n/remote.git/\n/deployment/staging/\n')
+        git('add', '--all'); git('commit', '-qm', 'Synthetic test only'); git('remote', 'add', 'origin', str(remote))
+        source = git('rev-parse', 'HEAD'); index = lib.sha(self.root / '.git/index')
+        site = self.root / '_site'
+        with patch.dict(os.environ, {'GITHUB_SHA': source}):pub.build(self.root, site)
+        first = pub.push_site(self.root, site); second = pub.push_site(self.root, site)
+        self.assertEqual(git('rev-parse', 'HEAD'), source)
+        self.assertEqual(lib.sha(self.root / '.git/index'), index)
+        self.assertEqual(git('status', '--porcelain'), '')
+        self.assertEqual(git('rev-parse', second['pages_commit'] + '^'), first['pages_commit'])
+        self.assertEqual(git('show', second['pages_commit'] + ':CNAME'), 'stickers.example.com')
+        self.assertNotIn('scripts/', git('ls-tree', '-r', '--name-only', second['pages_commit']))
+        (self.root / 'new-source.txt').write_text('Changed source')
+        with self.assertRaisesRegex(ValueError, 'Commit source'):pub.push_site(self.root, site)
+        git('add', 'new-source.txt'); git('commit', '-qm', 'Update synthetic source')
+        with self.assertRaisesRegex(ValueError, 'does not match'):pub.push_site(self.root, site)
 
 
 if __name__ == '__main__':unittest.main(verbosity=2)

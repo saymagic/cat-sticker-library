@@ -31,10 +31,16 @@ class PublishTests(unittest.TestCase):
     def test_public_links_and_release_downloads(self):
         site = self.root / '_site'; result = pub.build(self.root, site)
         self.assertEqual(result['versions'], 1); self.assertEqual(result['stickers'], 8)
-        self.assertEqual(list(site.rglob('*.zip')), [])
+        self.assertEqual([p.name for p in site.rglob('*.zip')], ['submission_PNG.zip'])
         data = lib.load(site / 'catalog.json')
-        self.assertTrue(all(p['path'].startswith('https://github.com/example/test-library/releases/download/')
-                            for e in data['entries'] for p in e['packages']))
+        packages = data['entries'][0]['packages']
+        self.assertEqual(result['site_downloads'], 1); self.assertEqual(result['release_downloads'], 1)
+        for package in packages:
+            if package['path'].endswith('submission_PNG.zip'):
+                self.assertTrue((site / package['path']).is_file())
+                self.assertEqual(lib.sha(site / package['path']), package['sha256'])
+            else:
+                self.assertTrue(package['path'].startswith('https://github.com/example/test-library/releases/download/'))
         self.assertEqual(data['entries'][0]['completion']['gate']['profile_date'], '2026-10-02')
         for page in site.rglob('*.html'):
             links = pub.Links(); links.feed(page.read_text())

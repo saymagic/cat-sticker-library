@@ -165,6 +165,8 @@ def _build(root, output):
     output.mkdir(parents=True, exist_ok=True)
     records = lib.load(root / 'deployment/archives.json')
     by_path = {path: asset for asset in records['assets'] for path in asset['paths']}
+    def direct_download(path, asset):
+        return Path(path).name.startswith('submission_') and asset['bytes'] < 50 * 1024 * 1024
     entries = [lib.hydrate(root, entry, characters) for entry in data['entries']]
     for entry in entries:
         if entry['status'] == '本地成品' and not entry['can_download']:
@@ -205,6 +207,7 @@ def _build(root, output):
                 if linked.suffix == '.zip' and linked.is_relative_to(root):
                     record = by_path.get(linked.relative_to(root).as_posix())
                     if record is None:raise ValueError('Preview ZIP missing from Release manifest')
+                    if direct_download(linked, record):return match[0]
                     return match[1] + archive_url(settings, record) + match[3]
                 if linked.suffix == '.md':
                     return match[1] + value.replace('.md', '.html') + match[3]
@@ -220,7 +223,8 @@ def _build(root, output):
                 path = (source.parent / unquote(value.split('#')[0].split('?')[0])).resolve()
                 if not path.is_relative_to(root) or not path.is_file():
                     raise ValueError('Preview contains invalid local reference: ' + value)
-                if path.suffix != '.zip':copy_file(path.relative_to(root).as_posix())
+                relative = path.relative_to(root).as_posix()
+                if path.suffix != '.zip' or direct_download(path, by_path[relative]):copy_file(relative)
         return destination.relative_to(output).as_posix()
     for entry in entries:
         entry.setdefault('default', False)
@@ -233,7 +237,7 @@ def _build(root, output):
             asset = by_path.get(package['path'])
             if not asset:
                 raise ValueError('ZIP has not been prepared for publishing: ' + package['path'])
-            package['path'] = archive_url(settings, asset)
+            package['path'] = copy_file(package['path']) if direct_download(package['path'], asset) else archive_url(settings, asset)
             package['sha256'] = asset['sha256']
         for key in ('reference',):
             entry.pop(key, None)
@@ -261,7 +265,9 @@ def _build(root, output):
                 raise ValueError('Missing generated website link: ' + value)
     report = {'status': 'PASS', 'versions': len(entries), 'stickers': sum(len(e['items']) for e in entries),
         'files': sum(1 for p in output.rglob('*') if p.is_file()), 'bytes': sum(p.stat().st_size for p in output.rglob('*') if p.is_file()),
-        'release_downloads': sum(len(e['packages']) for e in entries), 'local_links_checked': local_links, 'output': str(output)}
+        'release_downloads': sum(urlsplit(p['path']).scheme == 'https' for e in entries for p in e['packages']),
+        'site_downloads': sum(not urlsplit(p['path']).scheme for e in entries for p in e['packages']),
+        'local_links_checked': local_links, 'output': str(output)}
     revision = os.environ.get('GITHUB_SHA')
     if not revision and (root / '.git').exists():
         revision = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=root, text=True).strip()

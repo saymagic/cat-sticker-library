@@ -1,0 +1,450 @@
+{
+  "title": "奶思_奶思日常回应",
+  "characters": [
+    "奶思"
+  ],
+  "status": "planning",
+  "items": [
+    {
+      "number": "01",
+      "caption": "早上好",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "02",
+      "caption": "收到啦",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "03",
+      "caption": "好哒",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "04",
+      "caption": "谢谢你",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "05",
+      "caption": "不客气",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "06",
+      "caption": "来贴贴",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "07",
+      "caption": "想你啦",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "08",
+      "caption": "抱抱",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "09",
+      "caption": "哈哈哈",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "10",
+      "caption": "太棒了",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "11",
+      "caption": "加油呀",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "12",
+      "caption": "辛苦啦",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "13",
+      "caption": "等一下",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "14",
+      "caption": "在吗",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "15",
+      "caption": "真的吗",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "16",
+      "caption": "不懂呀",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "17",
+      "caption": "委屈了",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "18",
+      "caption": "气鼓鼓",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "19",
+      "caption": "我错啦",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "20",
+      "caption": "开饭啦",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "21",
+      "caption": "困困了",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "22",
+      "caption": "晚安",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "23",
+      "caption": "先走啦",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    },
+    {
+      "number": "24",
+      "caption": "明天见",
+      "meaning": "",
+      "characters": [
+        "奶思"
+      ],
+      "scene": {
+        "emotion": "",
+        "pose": "",
+        "props": [],
+        "interaction": "",
+        "tail": "",
+        "composition": ""
+      },
+      "art": ""
+    }
+  ],
+  "extras": {
+    "cover": "",
+    "chat_icon": "",
+    "banner": ""
+  },
+  "style": {
+    "text_style": "colorful",
+    "text_palette": [
+      "#EA92AD",
+      "#F2C454",
+      "#81A9DC",
+      "#A6C867",
+      "#AE98D4",
+      "#75BCB7",
+      "#EEA160",
+      "#E58070"
+    ],
+    "text_stroke_color": "#433535",
+    "text_stroke_radius": 6,
+    "text_fill_expand": 2,
+    "outline_radius": 12,
+    "text_outline_radius": 10,
+    "caption_position": "top"
+  },
+  "review": {
+    "status": "pending",
+    "reviewer": "",
+    "items": [],
+    "extras": {},
+    "issues": [],
+    "background_modes": [],
+    "actual_size_px": []
+  }
+}

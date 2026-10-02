@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pack-ca58ed5f4c50",
+    "character": "奶思",
+    "status": "PASS",
+    "technical_checks": 1033,
+    "visual_items": 24,
+    "assets": 76,
+    "packages": 3,
+    "profile_date": "2026-10-02"
+  },
+  {
+    "id": "pack-764d7b786fd9",
+    "character": "古德",
+    "status": "PASS",
+    "technical_checks": 1129,
+    "visual_items": 24,
+    "assets": 76,
+    "packages": 3,
+    "profile_date": "2026-10-02"
+  },
+  {
+    "id": "pack-67ff6aa24bdb",
+    "character": "范恩",
+    "status": "PASS",
+    "technical_checks": 1129,
+    "visual_items": 24,
+    "assets": 76,
+    "packages": 3,
+    "profile_date": "2026-10-02"
+  }
+]

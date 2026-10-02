@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "pack-ca58ed5f4c50",
+      "character": "奶思",
+      "theme": "奶思日常回应",
+      "title": "奶思日常回应",
+      "description": "灰虎斑奶思把问候、感谢和小情绪变成软萌回应，陪你聊好每一天。",
+      "media": "静态",
+      "count": 24,
+      "sequence": 1,
+      "date": "20261002",
+      "status": "本地成品",
+      "current": true,
+      "archived": false,
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张",
+      "reference": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/production/用户原始卡通参考.png",
+      "tags": [
+        "猫咪",
+        "可爱",
+        "日常",
+        "问候",
+        "情绪"
+      ],
+      "style": "原始卡通基准、中文在上、猫咪在下、主图白色贴纸外沿",
+      "copy_exception": "",
+      "created_at": "20261002",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "4bec72703d679865938c51adb3830cb194ae6a2f8fc6590883bee66515841db3",
+        "completed_at": "2026-10-02T18:06:04.130738+08:00",
+        "gate": {
+          "technical_checks": 1033,
+          "visual_items": 24,
+          "assets": 76,
+          "packages": 3,
+          "profile_date": "2026-10-02"
+        }
+      }
+    },
+    {
+      "id": "pack-764d7b786fd9",
+      "character": "古德",
+      "theme": "古德有话说",
+      "title": "古德有话说",
+      "description": "绿眼棕虎斑古德认真接话，也认真撒娇，让日常聊天多一点可爱和热闹。",
+      "media": "静态",
+      "count": 24,
+      "sequence": 1,
+      "date": "20261002",
+      "status": "本地成品",
+      "current": true,
+      "archived": false,
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张",
+      "reference": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/production/用户原始卡通参考.png",
+      "tags": [
+        "猫咪",
+        "可爱",
+        "日常",
+        "问候",
+        "情绪"
+      ],
+      "style": "原始卡通基准、中文在上、猫咪在下、主图白色贴纸外沿",
+      "copy_exception": "",
+      "created_at": "20261002",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "99b8b51d5126442e63b440512d377ed4f46cfb9ccca0ccf80fb28080bdc1f81b",
+        "completed_at": "2026-10-02T18:06:04.756503+08:00",
+        "gate": {
+          "technical_checks": 1129,
+          "visual_items": 24,
+          "assets": 76,
+          "packages": 3,
+          "profile_date": "2026-10-02"
+        }
+      }
+    },
+    {
+      "id": "pack-67ff6aa24bdb",
+      "character": "范恩",
+      "theme": "范恩软萌日常",
+      "title": "范恩软萌日常",
+      "description": "蓝眼长毛猫范恩送来轻轻的问候、甜甜的贴贴和暖暖的陪伴，软萌回应每一句话。",
+      "media": "静态",
+      "count": 24,
+      "sequence": 1,
+      "date": "20261002",
+      "status": "本地成品",
+      "current": true,
+      "archived": false,
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张",
+      "reference": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/production/用户原始卡通参考.png",
+      "tags": [
+        "猫咪",
+        "可爱",
+        "日常",
+        "问候",
+        "情绪"
+      ],
+      "style": "原始卡通基准、中文在上、猫咪在下、主图白色贴纸外沿",
+      "copy_exception": "",
+      "created_at": "20261002",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "08358d5cedd4392a1c8c532c816d2e922e4f9f7c32a4dbf6fa808a6bf107f6ac",
+        "completed_at": "2026-10-02T18:06:05.275261+08:00",
+        "gate": {
+          "technical_checks": 1129,
+          "visual_items": 24,
+          "assets": 76,
+          "packages": 3,
+          "profile_date": "2026-10-02"
+        }
+      }
+    }
+  ],
+  "updated_at": "2026-10-02T20:03:15.978503+08:00"
+}

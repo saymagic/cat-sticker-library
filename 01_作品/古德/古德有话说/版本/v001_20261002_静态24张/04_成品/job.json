@@ -1,0 +1,309 @@
+{
+  "title": "古德有话说",
+  "characters": [
+    "古德"
+  ],
+  "items": [
+    {
+      "number": "01",
+      "caption": "早呀",
+      "meaning": "早呀",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Cheerful morning stretch: chest low, front paws extended, rump raised, one tail curling upward, happy closed-eye smile. A small doodled yellow sun to one side.",
+      "art": "sources/01.png",
+      "text_color": "#EA7E44"
+    },
+    {
+      "number": "02",
+      "caption": "收到",
+      "meaning": "收到",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Attentive seated kitten holding a tiny blank cream envelope securely between its two front paws, bright interested eyes, tail wrapped along the side. One small blue acknowledgement sparkle.",
+      "art": "sources/02.png",
+      "text_color": "#427EBE"
+    },
+    {
+      "number": "03",
+      "caption": "安排上",
+      "meaning": "安排上",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Kitten seated in a confident three-quarter view, one front paw making a friendly OK-like paw gesture near the cheek, other front paw rests on the ground, warm smile. Two golden sparkles.",
+      "art": "sources/03.png",
+      "text_color": "#83AC5C"
+    },
+    {
+      "number": "04",
+      "caption": "谢谢啦",
+      "meaning": "谢谢啦",
+      "characters": [
+        "古德"
+      ],
+      "scene": "A grateful kitten making a little polite bow with both front paws neatly together, eyes softened, head lowered slightly; one small peach heart above its shoulder.",
+      "art": "sources/04.png",
+      "text_color": "#C18763"
+    },
+    {
+      "number": "05",
+      "caption": "没问题",
+      "meaning": "没问题",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Friendly kitten tilting its head with one front paw touching its chest and the other resting on the ground, smiling reassuringly, one tail loosely curved at the side. One tiny blue sparkle.",
+      "art": "sources/05.png",
+      "text_color": "#4B85B9"
+    },
+    {
+      "number": "06",
+      "caption": "贴一个",
+      "meaning": "贴一个",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Affectionate kitten rubbing its cheek gently against a small peach heart-shaped cushion, eyes blissfully closed, both front paws around the cushion, one curved tail behind. Two tiny pink hearts.",
+      "art": "sources/06.png",
+      "text_color": "#DC7993"
+    },
+    {
+      "number": "07",
+      "caption": "想你了",
+      "meaning": "想你了",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Dreamy kitten seated with both front paws below its chin, gazing upward with sparkling eyes, ears softly relaxed, one tail curled beside it. Two small rose-pink hearts over one shoulder.",
+      "art": "sources/07.png",
+      "text_color": "#B18BCC"
+    },
+    {
+      "number": "08",
+      "caption": "抱一个",
+      "meaning": "抱一个",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Kitten leaning forward with both front legs stretched out inviting an air hug, open gentle eyes, tiny warm smile; one fluffy/striped tail behind and both hind paws naturally supporting its body. A small coral heart.",
+      "art": "sources/08.png",
+      "text_color": "#E98B4A"
+    },
+    {
+      "number": "09",
+      "caption": "笑哈哈",
+      "meaning": "笑哈哈",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Laughing kitten rolling sideways on its back, paws naturally tucked toward its belly, eyes squeezed shut and joyful open mouth, one tail visible along its side. Three small orange doodled joy rays.",
+      "art": "sources/09.png",
+      "text_color": "#EA7E44"
+    },
+    {
+      "number": "10",
+      "caption": "点赞",
+      "meaning": "点赞",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Excited kitten seated upright with two front paws raised in a thumbs-up-like furry paw gesture, happy confident smile, one tail curved along the side. Two yellow star sparkles.",
+      "art": "sources/10.png",
+      "text_color": "#427EBE"
+    },
+    {
+      "number": "11",
+      "caption": "冲呀",
+      "meaning": "冲呀",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Energetic kitten in a little determined forward-running leap, front paws reaching forward and hind paws angled back, bright focused eyes, mouth smiling; one tail trailing backward. Two small orange motion strokes, no ground.",
+      "art": "sources/11.png",
+      "text_color": "#83AC5C"
+    },
+    {
+      "number": "12",
+      "caption": "歇会儿",
+      "meaning": "歇会儿",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Caring kitten offering a small plain pale-blue tea cup resting in a saucer, two front paws hold the saucer securely, body seated and tail beside it, tender smile. A tiny warm heart.",
+      "art": "sources/12.png",
+      "text_color": "#C18763"
+    },
+    {
+      "number": "13",
+      "caption": "等会儿",
+      "meaning": "等会儿",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Kitten lifting one front paw palm-forward to ask for a moment, the other front paw planted, wide attentive eyes, mild open mouth, tail resting at its side. Two small blue pause-like doodled rays, no text.",
+      "art": "sources/13.png",
+      "text_color": "#4B85B9"
+    },
+    {
+      "number": "14",
+      "caption": "在不在",
+      "meaning": "在不在",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Playful kitten peeking over a small narrow wooden ledge, just upper body and both front paws visible resting on it, head slightly tilted, curious open eyes. One tiny pink doodled exclamation-like ray, no lettering.",
+      "art": "sources/14.png",
+      "text_color": "#DC7993"
+    },
+    {
+      "number": "15",
+      "caption": "好家伙",
+      "meaning": "好家伙",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Surprised kitten leaning back with huge round eyes and a small O-shaped open mouth, both front paws held close to chest, one tail arched upward behind. Two golden burst rays.",
+      "art": "sources/15.png",
+      "text_color": "#B18BCC"
+    },
+    {
+      "number": "16",
+      "caption": "让我想想",
+      "meaning": "让我想想",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Puzzled kitten tilted three-quarter with head strongly cocked and one front paw touching its cheek, eyes looking sideways, other front paw on the ground, tail visible. Two curved blue doodled question marks without letters.",
+      "art": "sources/16.png",
+      "text_color": "#E98B4A"
+    },
+    {
+      "number": "17",
+      "caption": "委屈",
+      "meaning": "委屈",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Sad little kitten sitting low, front paws close together, watery expressive eyes, slightly downturned tiny mouth, ears lowered and one tail curled inward. Two clear pale-blue tear drops at cheeks.",
+      "art": "sources/17.png",
+      "text_color": "#EA7E44"
+    },
+    {
+      "number": "18",
+      "caption": "生气了",
+      "meaning": "生气了",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Grumpy kitten crouched low with both front paws pressed forward, brows lowered, ears tilted outward, pouty mouth, single tail curled tensely at its side. A small red hand-drawn anger mark above one ear.",
+      "art": "sources/18.png",
+      "text_color": "#427EBE"
+    },
+    {
+      "number": "19",
+      "caption": "对不起",
+      "meaning": "对不起",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Apologetic kitten seated with head lowered, one front paw rubbing the back of its head and the other resting in front, bashful eyes and tiny sheepish smile, tail tucked close. One small pale-blue sweat drop.",
+      "art": "sources/19.png",
+      "text_color": "#83AC5C"
+    },
+    {
+      "number": "20",
+      "caption": "干饭啦",
+      "meaning": "干饭啦",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Hungry happy kitten eagerly eating from a small round pale-colored cat-food bowl, both front paws naturally holding the bowl sides, eyes happily closed and tiny pink tongue. One little orange heart, one tail behind. No logo or lettering on bowl.",
+      "art": "sources/20.png",
+      "text_color": "#C18763"
+    },
+    {
+      "number": "21",
+      "caption": "困了",
+      "meaning": "困了",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Very sleepy kitten curled tightly into a small compact ball, face resting on both front paws, eyes peacefully closed, one tail curled around the body; a tiny pale-purple sleepy cloud, no Z letters.",
+      "art": "sources/21.png",
+      "text_color": "#4B85B9"
+    },
+    {
+      "number": "22",
+      "caption": "晚安啦",
+      "meaning": "晚安啦",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Kitten resting snugly under a soft blue quilt with simple pale stars, both front paws and head on a small pillow, closed peaceful eyes, body and single tail naturally hidden by quilt. Small golden crescent moon and one tiny star.",
+      "art": "sources/22.png",
+      "text_color": "#DC7993"
+    },
+    {
+      "number": "23",
+      "caption": "拜拜",
+      "meaning": "拜拜",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Kitten waving goodbye with one front paw, other front paw resting naturally, body turned slightly away but head looking back warmly, one tail curves behind it. Two small peach motion strokes.",
+      "art": "sources/23.png",
+      "text_color": "#B18BCC"
+    },
+    {
+      "number": "24",
+      "caption": "明天再聊",
+      "meaning": "明天再聊",
+      "characters": [
+        "古德"
+      ],
+      "scene": "Happy kitten walking away in three-quarter rear view while looking back with a friendly smile, all visible limbs naturally arranged, one tail raised in a loose curve. A small golden sparkle by the head.",
+      "art": "sources/24.png",
+      "text_color": "#E98B4A"
+    }
+  ],
+  "extras": {
+    "cover": "sources/cover.png",
+    "chat_icon": "sources/chat_icon.png",
+    "banner": "sources/banner.png"
+  },
+  "style": {
+    "font": "/System/Library/AssetsV2/com_apple_MobileAsset_Font7/8dc7805506cc9f233dcc19aabf593196842a47ae.asset/AssetData/Hannotate.ttc",
+    "outline_radius": 12,
+    "caption_position": "top",
+    "text_style": "colorful",
+    "text_palette": [
+      "#EA7E44",
+      "#427EBE",
+      "#83AC5C",
+      "#C18763",
+      "#4B85B9",
+      "#DC7993",
+      "#B18BCC",
+      "#E98B4A"
+    ],
+    "text_stroke_color": "#49352B",
+    "text_fill_expand": 2,
+    "text_stroke_radius": 5,
+    "text_outline_radius": 10
+  },
+  "description": "绿眼棕虎斑古德认真接话，也认真撒娇，让日常聊天多一点可爱和热闹。",
+  "tags": [
+    "猫咪",
+    "可爱",
+    "日常",
+    "问候",
+    "情绪"
+  ],
+  "artist_name": null,
+  "rights_owner": null,
+  "ai_assisted": true,
+  "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png"
+}

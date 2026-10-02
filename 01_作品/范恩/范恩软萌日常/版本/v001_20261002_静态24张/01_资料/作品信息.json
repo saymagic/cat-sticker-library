@@ -1,0 +1,43 @@
+{
+  "source": "根目录作品目录.json，由维护工具生成，请勿手工修改",
+  "id": "pack-67ff6aa24bdb",
+  "character": "范恩",
+  "theme": "范恩软萌日常",
+  "title": "范恩软萌日常",
+  "description": "蓝眼长毛猫范恩送来轻轻的问候、甜甜的贴贴和暖暖的陪伴，软萌回应每一句话。",
+  "media": "静态",
+  "count": 24,
+  "sequence": 1,
+  "date": "20261002",
+  "status": "本地成品",
+  "current": true,
+  "archived": false,
+  "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张",
+  "reference": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/production/用户原始卡通参考.png",
+  "tags": [
+    "猫咪",
+    "可爱",
+    "日常",
+    "问候",
+    "情绪"
+  ],
+  "style": "原始卡通基准、中文在上、猫咪在下、主图白色贴纸外沿",
+  "copy_exception": "",
+  "created_at": "20261002",
+  "platform": {
+    "state": "未投稿",
+    "evidence": null
+  },
+  "completion": {
+    "seal": "05_验收/完成锁定.json",
+    "sha256": "08358d5cedd4392a1c8c532c816d2e922e4f9f7c32a4dbf6fa808a6bf107f6ac",
+    "completed_at": "2026-10-02T18:06:05.275261+08:00",
+    "gate": {
+      "technical_checks": 1129,
+      "visual_items": 24,
+      "assets": 76,
+      "packages": 3,
+      "profile_date": "2026-10-02"
+    }
+  }
+}

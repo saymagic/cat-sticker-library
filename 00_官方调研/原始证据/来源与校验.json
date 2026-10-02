@@ -1,0 +1,24 @@
+{
+  "checked_date": "2026-10-02",
+  "public_official_rules_verified": true,
+  "logged_in_upload_page_verified": false,
+  "page": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+  "official_bundle": "https://res.wxqcloud.qq.com.cn/t/wx_fed/base/sticker_platform/26052800/static/js/pages/guide/index.f84d77217115a9c8a0ed.js?1ba308c511fe82c68e48",
+  "evidence": [
+    {
+      "file": "guide.html",
+      "bytes": 1394,
+      "sha256": "5af1be0e2ec932875eae133810e06b4bb3da397325d9ab15b18a027535203fd3"
+    },
+    {
+      "file": "guide.js",
+      "bytes": 792674,
+      "sha256": "9d16725d109eb65349369ceeda6212015d70af4f8121c34be92396bfe754cd78"
+    },
+    {
+      "file": "官方帮助中心可见文本.txt",
+      "bytes": 34251,
+      "sha256": "5e6dfcabbf564b6826b2631c1791f380ac0dbcd6881901569e7a2b299a569a6f"
+    }
+  ]
+}

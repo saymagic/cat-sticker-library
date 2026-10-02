@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-02",
+  "scope": "本地浏览器预览；375px为视口模拟，未验证微信手机安装发送",
+  "checks": [
+    {
+      "allMainSizes240": true,
+      "check": "desktop",
+      "documentWidth": 1280,
+      "images": 81,
+      "loaded": 81,
+      "mainCount": 72,
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    {
+      "check": "filter_naisi",
+      "filter": "naisi",
+      "visiblePacks": [
+        {
+          "cards": 24,
+          "cat": "naisi"
+        }
+      ]
+    },
+    {
+      "check": "filter_gude",
+      "filter": "gude",
+      "visiblePacks": [
+        {
+          "cards": 24,
+          "cat": "gude"
+        }
+      ]
+    },
+    {
+      "boardColor": "rgb(41, 44, 49)",
+      "bodyClass": "dark",
+      "check": "background_dark"
+    },
+    {
+      "check": "filter_fanen",
+      "filter": "fanen",
+      "visiblePacks": [
+        {
+          "cards": 24,
+          "cat": "fanen"
+        }
+      ]
+    },
+    {
+      "boardPattern": "conic-gradient(rgb(218, 214, 208) 25%, rgb(244, 240, 235) 0deg, rgb(244, 240, 235) 50%, rgb(218, 214, 208) 0deg, rgb(218, 214, 208) 75%, rgb(244, 240, 235) 0deg)",
+      "bodyClass": "checker",
+      "check": "background_checker"
+    },
+    {
+      "check": "mobile_375",
+      "columns": "343px",
+      "documentWidth": 375,
+      "mainSizes": [
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ]
+      ],
+      "viewport": [
+        375,
+        812
+      ]
+    },
+    {
+      "check": "mobile_extras",
+      "documentWidth": 375,
+      "expanded": true,
+      "images": [
+        {
+          "alt": "范恩240px无白边封面",
+          "height": 240,
+          "width": 240
+        },
+        {
+          "alt": "范恩50px无白边聊天图标",
+          "height": 50,
+          "width": 50
+        },
+        {
+          "alt": "范恩有色无字横幅",
+          "height": 164.796875,
+          "width": 309
+        }
+      ]
+    },
+    {
+      "bodyClass": "",
+      "check": "restored_all_light",
+      "documentWidth": 1280,
+      "filter": "all",
+      "viewport": [
+        1280,
+        720
+      ],
+      "visibleCards": 72
+    },
+    {
+      "check": "png_download",
+      "path": "/Users/saymagic/Downloads/%E5%A5%B6%E6%80%9D%E6%97%A5%E5%B8%B8%E5%9B%9E%E5%BA%94_PNG_20261002.zip",
+      "sha256_matches_submission": true
+    },
+    {
+      "check": "console",
+      "entries": []
+    },
+    {
+      "check": "explicit_download_names",
+      "items": [
+        {
+          "file": "奶思日常回应_PNG_20261002.zip",
+          "text": "上传PNG素材↓"
+        },
+        {
+          "file": "奶思日常回应_GIF_20261002.zip",
+          "text": "单帧GIF备用↓"
+        },
+        {
+          "file": "奶思日常回应_完整_20261002.zip",
+          "text": "完整制作备份↓"
+        },
+        {
+          "file": "古德有话说_PNG_20261002.zip",
+          "text": "上传PNG素材↓"
+        },
+        {
+          "file": "古德有话说_GIF_20261002.zip",
+          "text": "单帧GIF备用↓"
+        },
+        {
+          "file": "古德有话说_完整_20261002.zip",
+          "text": "完整制作备份↓"
+        },
+        {
+          "file": "范恩软萌日常_PNG_20261002.zip",
+          "text": "上传PNG素材↓"
+        },
+        {
+          "file": "范恩软萌日常_GIF_20261002.zip",
+          "text": "单帧GIF备用↓"
+        },
+        {
+          "file": "范恩软萌日常_完整_20261002.zip",
+          "text": "完整制作备份↓"
+        }
+      ]
+    }
+  ],
+  "screenshot": "03_工程/交付预览截图.jpg",
+  "status": "PASS"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "repository": "saymagic/cat-sticker-library",
+  "assets": [
+    {
+      "sha256": "a59f42c40196fbd81d3efc99a17ad0d29b755321287003473cce0e7800b83e59",
+      "bytes": 118351429,
+      "name": "archive-a59f42c40196fbd81d3efc99a17ad0d29b755321287003473cce0e7800b83e59.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/complete_delivery.zip",
+        "02_上传包/古德有话说_完整_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268",
+      "bytes": 1501360,
+      "name": "archive-17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
+        "02_上传包/古德有话说_GIF_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69",
+      "bytes": 2614567,
+      "name": "archive-18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
+        "02_上传包/古德有话说_PNG_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec",
+      "bytes": 112611896,
+      "name": "archive-0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/complete_delivery.zip",
+        "02_上传包/奶思日常回应_完整_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6",
+      "bytes": 1458407,
+      "name": "archive-96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
+        "02_上传包/奶思日常回应_GIF_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936",
+      "bytes": 2507024,
+      "name": "archive-7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
+        "02_上传包/奶思日常回应_PNG_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "36b2869122387301df76819bda3e0bcfd50f4939f92a4c63ef3c6493cbc61744",
+      "bytes": 96589093,
+      "name": "archive-36b2869122387301df76819bda3e0bcfd50f4939f92a4c63ef3c6493cbc61744.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/complete_delivery.zip",
+        "02_上传包/范恩软萌日常_完整_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a",
+      "bytes": 1403484,
+      "name": "archive-12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
+        "02_上传包/范恩软萌日常_GIF_20261002.zip"
+      ]
+    },
+    {
+      "sha256": "1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d",
+      "bytes": 2279959,
+      "name": "archive-1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d.zip",
+      "tag": "materials-v1",
+      "paths": [
+        "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
+        "02_上传包/范恩软萌日常_PNG_20261002.zip"
+      ]
+    }
+  ]
+}

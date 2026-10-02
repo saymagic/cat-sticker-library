@@ -1,0 +1,433 @@
+{
+  "sources": [
+    {
+      "number": "01",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/01.png",
+      "source_sha256": "d759434e65a2cd5edc0b72005710c9e5cec862d415f6a2bb88c350adff26d7ed",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "02",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/02.png",
+      "source_sha256": "098d48f7b0e807d819fe9534f6c30670d454de09a87c5fa0886f6a0f350f0f73",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "03",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/03.png",
+      "source_sha256": "acd02ae4093916931983cbad1b5d1cee117fd25e060f45519294e0beb1ae181c",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "04",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/04.png",
+      "source_sha256": "2814e0cf1bd9431b8177491797d45d92462277e97c320e7d1d62e646f51897df",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "05",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/05.png",
+      "source_sha256": "f489fe6d7be0966473b067d441080c1122f0bbf174bbace900dfd5fc05940a78",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "06",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/06.png",
+      "source_sha256": "9bdea99ac0da577a1ecb8a957b214472fd6040892800f3243b3025b35892ec42",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "07",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/07.png",
+      "source_sha256": "1c96bc8d7b5dbcd6d658384a75ef3979affb3b5412d250d1063b9ba7d6efabe5",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "08",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/08.png",
+      "source_sha256": "60e57dc533eee4408baab60a55e0e8443e58aba95faf5d038e20abad451f511a",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "09",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/09.png",
+      "source_sha256": "eb11a689c64167c139b7f4104407e6456d94c06ce8635654fad761b68b06a279",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "10",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/10.png",
+      "source_sha256": "9709652834142975acb1af92fa3fbfc2b7aff7e973e45d67a25757d32d5f4ce6",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "11",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/11.png",
+      "source_sha256": "bc5904723a72f1d5007d3ac89cfb28301812a2ee69c36c784e3a76604663a7ed",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "12",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/12.png",
+      "source_sha256": "4a8ae31404d3b13ae50ea8ab0721c894c7553b79728426ebb50d31efd3c7312b",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "13",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/13.png",
+      "source_sha256": "189664312b13b211e092226f5054b34e8698ebbdfe89eeb279c0d0a65c303326",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "14",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/14.png",
+      "source_sha256": "68fd59f5053cab934d51afeaa150cb6f50d5b06edbc2be9d5dd467ff3e66a6fe",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "15",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/15.png",
+      "source_sha256": "b7fcef79ef31ba8fdea0666240e1430bf7a4106db3b9bc835d63841ea3757a58",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "16",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/16.png",
+      "source_sha256": "447f768f4a4559f7f1f06065c2b30c0374ebef7ba539008ece4c33f0e0fa0a3e",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "17",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/17.png",
+      "source_sha256": "c59d9259a72cc3a4dfeda846ae887d7fb735fd62dbf3f304bc4bf31e1cf4f7f7",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "18",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/18.png",
+      "source_sha256": "e5c97d393b6ecb218e5a5be30c10dad51ecb4dfa23f3823adb40f72908667688",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "19",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/19.png",
+      "source_sha256": "623bfddc2d7dc7dad5b8cd951e91462863795d7ab7f84204f58e262dc9da5ffd",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "20",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/20.png",
+      "source_sha256": "b0b2d2c728ef8b52ef8add6475d5df1b1a34a07e69b73e6bbad6e3d2d79271c1",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "21",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/21.png",
+      "source_sha256": "1d676780ccfbeb167d73d992a6a89f1e4867be2f396448bb6abd6d023f6f8b7c",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "22",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/22.png",
+      "source_sha256": "42204515eff5e1769d16e1468b9987abdbc1a63453a1f75b4662358a3d6abb12",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "23",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/23.png",
+      "source_sha256": "aa86e758e256f71203d19e24d329d68befae1287ddfc6fbb8b12fc5cee49f7a0",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "24",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/24.png",
+      "source_sha256": "c00abc37b63ba6eaea222c49e6f4d1ad8936c7791f04ab49c5c3785808abc7d6",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "extra": "cover",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/cover.png",
+      "source_sha256": "6797230b6de8099a8c769db05ab023d6d681b1e52ff0decedd05bb4883d877c1"
+    },
+    {
+      "extra": "chat_icon",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/chat_icon.png",
+      "source_sha256": "7b3afc5c0aa58e5324925978dabaef0f6fbc4f4bee7c921b40c82f92b48f4618"
+    },
+    {
+      "extra": "banner",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/banner.png",
+      "source_sha256": "db31a77ab309957b83f0457f488e02ade57ea628976b20a48343a54366ca4a71"
+    }
+  ],
+  "font": "/System/Library/AssetsV2/com_apple_MobileAsset_Font7/8dc7805506cc9f233dcc19aabf593196842a47ae.asset/AssetData/Hannotate.ttc",
+  "font_sha256": "24e207207eaf19c5ba5b6966cef24cb7578ebd722102eeaa86a973e29a87b0ff",
+  "font_index": 2,
+  "typography": [
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    },
+    {
+      "mode": "legacy_coffee",
+      "fill": "#402319",
+      "stroke": "#402319",
+      "fill_expand": 5,
+      "stroke_radius": 0,
+      "white_radius": 14
+    }
+  ],
+  "gif": "single-frame static"
+}

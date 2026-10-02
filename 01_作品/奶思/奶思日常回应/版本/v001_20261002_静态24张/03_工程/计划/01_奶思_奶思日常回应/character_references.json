@@ -1,0 +1,14 @@
+[
+  {
+    "id": "naisi",
+    "name": "奶思",
+    "aliases": [],
+    "references": [
+      {
+        "path": "references/naisi_01.png",
+        "role": "current_user_original_cartoon",
+        "bundled_source": "/Users/saymagic/workspace/表情包/03_工程/references/naisi.png"
+      }
+    ]
+  }
+]

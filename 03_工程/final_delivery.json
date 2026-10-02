@@ -1,0 +1,113 @@
+[
+  {
+    "cat": "奶思",
+    "title": "奶思日常回应",
+    "main_count": 24,
+    "technical_checks": 1033,
+    "assets": 76,
+    "technical_pass": true,
+    "visual_complete": true,
+    "original_reference_sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec",
+    "packages": [
+      {
+        "file": "submission_PNG.zip",
+        "files": 59,
+        "bytes": 2507024,
+        "sha256": "7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936",
+        "testzip": "pass",
+        "html_links_checked": 0
+      },
+      {
+        "file": "submission_GIF.zip",
+        "files": 59,
+        "bytes": 1458407,
+        "sha256": "96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6",
+        "testzip": "pass",
+        "html_links_checked": 0
+      },
+      {
+        "file": "complete_delivery.zip",
+        "files": 202,
+        "bytes": 112611896,
+        "sha256": "0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec",
+        "testzip": "pass",
+        "html_links_checked": 30
+      }
+    ],
+    "platform_approval": "not_submitted"
+  },
+  {
+    "cat": "古德",
+    "title": "古德有话说",
+    "main_count": 24,
+    "technical_checks": 1129,
+    "assets": 76,
+    "technical_pass": true,
+    "visual_complete": true,
+    "original_reference_sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+    "packages": [
+      {
+        "file": "submission_PNG.zip",
+        "files": 59,
+        "bytes": 2614567,
+        "sha256": "18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69",
+        "testzip": "pass",
+        "html_links_checked": 0
+      },
+      {
+        "file": "submission_GIF.zip",
+        "files": 59,
+        "bytes": 1501360,
+        "sha256": "17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268",
+        "testzip": "pass",
+        "html_links_checked": 0
+      },
+      {
+        "file": "complete_delivery.zip",
+        "files": 202,
+        "bytes": 118351429,
+        "sha256": "a59f42c40196fbd81d3efc99a17ad0d29b755321287003473cce0e7800b83e59",
+        "testzip": "pass",
+        "html_links_checked": 30
+      }
+    ],
+    "platform_approval": "not_submitted"
+  },
+  {
+    "cat": "范恩",
+    "title": "范恩软萌日常",
+    "main_count": 24,
+    "technical_checks": 1129,
+    "assets": 76,
+    "technical_pass": true,
+    "visual_complete": true,
+    "original_reference_sha256": "9d57e48a9f1bb3dd5d8ec48a940b4d5bde3086b6ffffa7e7087d40116bcd0267",
+    "packages": [
+      {
+        "file": "submission_PNG.zip",
+        "files": 59,
+        "bytes": 2279959,
+        "sha256": "1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d",
+        "testzip": "pass",
+        "html_links_checked": 0
+      },
+      {
+        "file": "submission_GIF.zip",
+        "files": 59,
+        "bytes": 1403484,
+        "sha256": "12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a",
+        "testzip": "pass",
+        "html_links_checked": 0
+      },
+      {
+        "file": "complete_delivery.zip",
+        "files": 202,
+        "bytes": 96589093,
+        "sha256": "36b2869122387301df76819bda3e0bcfd50f4939f92a4c63ef3c6493cbc61744",
+        "testzip": "pass",
+        "html_links_checked": 30
+      }
+    ],
+    "platform_approval": "not_submitted"
+  }
+]

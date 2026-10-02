@@ -1,0 +1,698 @@
+[
+  {
+    "number": "01",
+    "caption": "早呀",
+    "meaning": "早呀",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/01.png",
+    "main_png": "main_png/01.png",
+    "main_gif": "main_gif/01.gif",
+    "thumbnail": "thumbnail/01.png",
+    "master": "masters/01.png",
+    "art_layer": "layers/01_art.png",
+    "text_layer": "layers/01_text.png",
+    "font_size_master": 174,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#EA7E44",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "02",
+    "caption": "收到",
+    "meaning": "收到",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/02.png",
+    "main_png": "main_png/02.png",
+    "main_gif": "main_gif/02.gif",
+    "thumbnail": "thumbnail/02.png",
+    "master": "masters/02.png",
+    "art_layer": "layers/02_art.png",
+    "text_layer": "layers/02_text.png",
+    "font_size_master": 168,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#427EBE",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "03",
+    "caption": "安排上",
+    "meaning": "安排上",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/03.png",
+    "main_png": "main_png/03.png",
+    "main_gif": "main_gif/03.gif",
+    "thumbnail": "thumbnail/03.png",
+    "master": "masters/03.png",
+    "art_layer": "layers/03_art.png",
+    "text_layer": "layers/03_text.png",
+    "font_size_master": 168,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#83AC5C",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "04",
+    "caption": "谢谢啦",
+    "meaning": "谢谢啦",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/04.png",
+    "main_png": "main_png/04.png",
+    "main_gif": "main_gif/04.gif",
+    "thumbnail": "thumbnail/04.png",
+    "master": "masters/04.png",
+    "art_layer": "layers/04_art.png",
+    "text_layer": "layers/04_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#C18763",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "05",
+    "caption": "没问题",
+    "meaning": "没问题",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/05.png",
+    "main_png": "main_png/05.png",
+    "main_gif": "main_gif/05.gif",
+    "thumbnail": "thumbnail/05.png",
+    "master": "masters/05.png",
+    "art_layer": "layers/05_art.png",
+    "text_layer": "layers/05_text.png",
+    "font_size_master": 174,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#4B85B9",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "06",
+    "caption": "贴一个",
+    "meaning": "贴一个",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/06.png",
+    "main_png": "main_png/06.png",
+    "main_gif": "main_gif/06.gif",
+    "thumbnail": "thumbnail/06.png",
+    "master": "masters/06.png",
+    "art_layer": "layers/06_art.png",
+    "text_layer": "layers/06_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#DC7993",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "07",
+    "caption": "想你了",
+    "meaning": "想你了",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/07.png",
+    "main_png": "main_png/07.png",
+    "main_gif": "main_gif/07.gif",
+    "thumbnail": "thumbnail/07.png",
+    "master": "masters/07.png",
+    "art_layer": "layers/07_art.png",
+    "text_layer": "layers/07_text.png",
+    "font_size_master": 168,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#B18BCC",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "08",
+    "caption": "抱一个",
+    "meaning": "抱一个",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/08.png",
+    "main_png": "main_png/08.png",
+    "main_gif": "main_gif/08.gif",
+    "thumbnail": "thumbnail/08.png",
+    "master": "masters/08.png",
+    "art_layer": "layers/08_art.png",
+    "text_layer": "layers/08_text.png",
+    "font_size_master": 172,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#E98B4A",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "09",
+    "caption": "笑哈哈",
+    "meaning": "笑哈哈",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/09.png",
+    "main_png": "main_png/09.png",
+    "main_gif": "main_gif/09.gif",
+    "thumbnail": "thumbnail/09.png",
+    "master": "masters/09.png",
+    "art_layer": "layers/09_art.png",
+    "text_layer": "layers/09_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#EA7E44",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "10",
+    "caption": "点赞",
+    "meaning": "点赞",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/10.png",
+    "main_png": "main_png/10.png",
+    "main_gif": "main_gif/10.gif",
+    "thumbnail": "thumbnail/10.png",
+    "master": "masters/10.png",
+    "art_layer": "layers/10_art.png",
+    "text_layer": "layers/10_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#427EBE",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "11",
+    "caption": "冲呀",
+    "meaning": "冲呀",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/11.png",
+    "main_png": "main_png/11.png",
+    "main_gif": "main_gif/11.gif",
+    "thumbnail": "thumbnail/11.png",
+    "master": "masters/11.png",
+    "art_layer": "layers/11_art.png",
+    "text_layer": "layers/11_text.png",
+    "font_size_master": 172,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#83AC5C",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "12",
+    "caption": "歇会儿",
+    "meaning": "歇会儿",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/12.png",
+    "main_png": "main_png/12.png",
+    "main_gif": "main_gif/12.gif",
+    "thumbnail": "thumbnail/12.png",
+    "master": "masters/12.png",
+    "art_layer": "layers/12_art.png",
+    "text_layer": "layers/12_text.png",
+    "font_size_master": 172,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#C18763",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "13",
+    "caption": "等会儿",
+    "meaning": "等会儿",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/13.png",
+    "main_png": "main_png/13.png",
+    "main_gif": "main_gif/13.gif",
+    "thumbnail": "thumbnail/13.png",
+    "master": "masters/13.png",
+    "art_layer": "layers/13_art.png",
+    "text_layer": "layers/13_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#4B85B9",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "14",
+    "caption": "在不在",
+    "meaning": "在不在",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/14.png",
+    "main_png": "main_png/14.png",
+    "main_gif": "main_gif/14.gif",
+    "thumbnail": "thumbnail/14.png",
+    "master": "masters/14.png",
+    "art_layer": "layers/14_art.png",
+    "text_layer": "layers/14_text.png",
+    "font_size_master": 166,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#DC7993",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "15",
+    "caption": "好家伙",
+    "meaning": "好家伙",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/15.png",
+    "main_png": "main_png/15.png",
+    "main_gif": "main_gif/15.gif",
+    "thumbnail": "thumbnail/15.png",
+    "master": "masters/15.png",
+    "art_layer": "layers/15_art.png",
+    "text_layer": "layers/15_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#B18BCC",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "16",
+    "caption": "让我想想",
+    "meaning": "让我想想",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/16.png",
+    "main_png": "main_png/16.png",
+    "main_gif": "main_gif/16.gif",
+    "thumbnail": "thumbnail/16.png",
+    "master": "masters/16.png",
+    "art_layer": "layers/16_art.png",
+    "text_layer": "layers/16_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#E98B4A",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "17",
+    "caption": "委屈",
+    "meaning": "委屈",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/17.png",
+    "main_png": "main_png/17.png",
+    "main_gif": "main_gif/17.gif",
+    "thumbnail": "thumbnail/17.png",
+    "master": "masters/17.png",
+    "art_layer": "layers/17_art.png",
+    "text_layer": "layers/17_text.png",
+    "font_size_master": 172,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#EA7E44",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "18",
+    "caption": "生气了",
+    "meaning": "生气了",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/18.png",
+    "main_png": "main_png/18.png",
+    "main_gif": "main_gif/18.gif",
+    "thumbnail": "thumbnail/18.png",
+    "master": "masters/18.png",
+    "art_layer": "layers/18_art.png",
+    "text_layer": "layers/18_text.png",
+    "font_size_master": 172,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#427EBE",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "19",
+    "caption": "对不起",
+    "meaning": "对不起",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/19.png",
+    "main_png": "main_png/19.png",
+    "main_gif": "main_gif/19.gif",
+    "thumbnail": "thumbnail/19.png",
+    "master": "masters/19.png",
+    "art_layer": "layers/19_art.png",
+    "text_layer": "layers/19_text.png",
+    "font_size_master": 172,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#83AC5C",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "20",
+    "caption": "干饭啦",
+    "meaning": "干饭啦",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/20.png",
+    "main_png": "main_png/20.png",
+    "main_gif": "main_gif/20.gif",
+    "thumbnail": "thumbnail/20.png",
+    "master": "masters/20.png",
+    "art_layer": "layers/20_art.png",
+    "text_layer": "layers/20_text.png",
+    "font_size_master": 172,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#C18763",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "21",
+    "caption": "困了",
+    "meaning": "困了",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/21.png",
+    "main_png": "main_png/21.png",
+    "main_gif": "main_gif/21.gif",
+    "thumbnail": "thumbnail/21.png",
+    "master": "masters/21.png",
+    "art_layer": "layers/21_art.png",
+    "text_layer": "layers/21_text.png",
+    "font_size_master": 174,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#4B85B9",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "22",
+    "caption": "晚安啦",
+    "meaning": "晚安啦",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/22.png",
+    "main_png": "main_png/22.png",
+    "main_gif": "main_gif/22.gif",
+    "thumbnail": "thumbnail/22.png",
+    "master": "masters/22.png",
+    "art_layer": "layers/22_art.png",
+    "text_layer": "layers/22_text.png",
+    "font_size_master": 168,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#DC7993",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "23",
+    "caption": "拜拜",
+    "meaning": "拜拜",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/23.png",
+    "main_png": "main_png/23.png",
+    "main_gif": "main_gif/23.gif",
+    "thumbnail": "thumbnail/23.png",
+    "master": "masters/23.png",
+    "art_layer": "layers/23_art.png",
+    "text_layer": "layers/23_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#B18BCC",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  },
+  {
+    "number": "24",
+    "caption": "明天再聊",
+    "meaning": "明天再聊",
+    "characters": [
+      "古德"
+    ],
+    "source": "sources/24.png",
+    "main_png": "main_png/24.png",
+    "main_gif": "main_gif/24.gif",
+    "thumbnail": "thumbnail/24.png",
+    "master": "masters/24.png",
+    "art_layer": "layers/24_art.png",
+    "text_layer": "layers/24_text.png",
+    "font_size_master": 170,
+    "outline_radius_master": 12,
+    "outline_radius_main": 2.8125,
+    "outline_color": "#FFFFFF",
+    "caption_position": "top",
+    "text_outline_radius_master": 10,
+    "typography": {
+      "mode": "colorful",
+      "fill": "#E98B4A",
+      "stroke": "#49352B",
+      "fill_expand": 2,
+      "stroke_radius": 5,
+      "white_radius": 10
+    }
+  }
+]

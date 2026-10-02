@@ -1,0 +1,956 @@
+[
+  {
+    "cat": "奶思",
+    "id": "naisi",
+    "title": "奶思日常回应",
+    "reference": "奶思/f916344e-49d3-4259-a768-20059517a107.png",
+    "identity": "A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.",
+    "captions": [
+      "早上好",
+      "收到啦",
+      "好哒",
+      "谢谢你",
+      "不客气",
+      "来贴贴",
+      "想你啦",
+      "抱抱",
+      "哈哈哈",
+      "太棒了",
+      "加油呀",
+      "辛苦啦",
+      "等一下",
+      "在吗",
+      "真的吗",
+      "不懂呀",
+      "委屈了",
+      "气鼓鼓",
+      "我错啦",
+      "开饭啦",
+      "困困了",
+      "晚安",
+      "先走啦",
+      "明天见"
+    ],
+    "description": "灰虎斑奶思把问候、感谢和小情绪变成软萌回应，陪你聊好每一天。",
+    "banner_scene": "Cozy golden morning nook with a peach-colored armchair and an airy sky-blue window. Naisi playfully stretches on a soft rounded rug, with a small potted plant, warm little sunbeams and a toy ball. One cat only, complete cat visible, storytelling composition, pale apricot and muted sky blue colored background, never plain white.",
+    "style": {
+      "text_style": "legacy_coffee",
+      "ink": "#402319",
+      "text_outline_radius": 14
+    },
+    "version_dir": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张",
+    "requests": [
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "01",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/01.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "早上好",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Cheerful morning stretch: chest low, front paws extended, rump raised, one tail curling upward, happy closed-eye smile. A small doodled yellow sun to one side.\nIntended Chinese caption (do NOT draw any text): 早上好"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "02",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/02.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "收到啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Attentive seated kitten holding a tiny blank cream envelope securely between its two front paws, bright interested eyes, tail wrapped along the side. One small blue acknowledgement sparkle.\nIntended Chinese caption (do NOT draw any text): 收到啦"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "03",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/03.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "好哒",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Kitten seated in a confident three-quarter view, one front paw making a friendly OK-like paw gesture near the cheek, other front paw rests on the ground, warm smile. Two golden sparkles.\nIntended Chinese caption (do NOT draw any text): 好哒"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "04",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/04.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "谢谢你",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: A grateful kitten making a little polite bow with both front paws neatly together, eyes softened, head lowered slightly; one small peach heart above its shoulder.\nIntended Chinese caption (do NOT draw any text): 谢谢你"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "05",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/05.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "不客气",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Friendly kitten tilting its head with one front paw touching its chest and the other resting on the ground, smiling reassuringly, one tail loosely curved at the side. One tiny blue sparkle.\nIntended Chinese caption (do NOT draw any text): 不客气"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "06",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/06.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "来贴贴",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Affectionate kitten rubbing its cheek gently against a small peach heart-shaped cushion, eyes blissfully closed, both front paws around the cushion, one curved tail behind. Two tiny pink hearts.\nIntended Chinese caption (do NOT draw any text): 来贴贴"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "07",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/07.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "想你啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Dreamy kitten seated with both front paws below its chin, gazing upward with sparkling eyes, ears softly relaxed, one tail curled beside it. Two small rose-pink hearts over one shoulder.\nIntended Chinese caption (do NOT draw any text): 想你啦"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "08",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/08.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "抱抱",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Kitten leaning forward with both front legs stretched out inviting an air hug, open gentle eyes, tiny warm smile; one fluffy/striped tail behind and both hind paws naturally supporting its body. A small coral heart.\nIntended Chinese caption (do NOT draw any text): 抱抱"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "09",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/09.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "哈哈哈",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Laughing kitten rolling sideways on its back, paws naturally tucked toward its belly, eyes squeezed shut and joyful open mouth, one tail visible along its side. Three small orange doodled joy rays.\nIntended Chinese caption (do NOT draw any text): 哈哈哈"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "10",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/10.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "太棒了",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Excited kitten seated upright with two front paws raised in a thumbs-up-like furry paw gesture, happy confident smile, one tail curved along the side. Two yellow star sparkles.\nIntended Chinese caption (do NOT draw any text): 太棒了"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "11",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/11.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "加油呀",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Energetic kitten in a little determined forward-running leap, front paws reaching forward and hind paws angled back, bright focused eyes, mouth smiling; one tail trailing backward. Two small orange motion strokes, no ground.\nIntended Chinese caption (do NOT draw any text): 加油呀"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "12",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/12.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "辛苦啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Caring kitten offering a small plain pale-blue tea cup resting in a saucer, two front paws hold the saucer securely, body seated and tail beside it, tender smile. A tiny warm heart.\nIntended Chinese caption (do NOT draw any text): 辛苦啦"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "13",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/13.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "等一下",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Kitten lifting one front paw palm-forward to ask for a moment, the other front paw planted, wide attentive eyes, mild open mouth, tail resting at its side. Two small blue pause-like doodled rays, no text.\nIntended Chinese caption (do NOT draw any text): 等一下"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "14",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/14.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "在吗",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Playful kitten peeking over a small narrow wooden ledge, just upper body and both front paws visible resting on it, head slightly tilted, curious open eyes. One tiny pink doodled exclamation-like ray, no lettering.\nIntended Chinese caption (do NOT draw any text): 在吗"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "15",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/15.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "真的吗",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Surprised kitten leaning back with huge round eyes and a small O-shaped open mouth, both front paws held close to chest, one tail arched upward behind. Two golden burst rays.\nIntended Chinese caption (do NOT draw any text): 真的吗"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "16",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/16.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "不懂呀",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Puzzled kitten tilted three-quarter with head strongly cocked and one front paw touching its cheek, eyes looking sideways, other front paw on the ground, tail visible. Two curved blue doodled question marks without letters.\nIntended Chinese caption (do NOT draw any text): 不懂呀"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "17",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/17.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "委屈了",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Sad little kitten sitting low, front paws close together, watery expressive eyes, slightly downturned tiny mouth, ears lowered and one tail curled inward. Two clear pale-blue tear drops at cheeks.\nIntended Chinese caption (do NOT draw any text): 委屈了"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "18",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/18.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "气鼓鼓",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Grumpy kitten crouched low with both front paws pressed forward, brows lowered, ears tilted outward, pouty mouth, single tail curled tensely at its side. A small red hand-drawn anger mark above one ear.\nIntended Chinese caption (do NOT draw any text): 气鼓鼓"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "19",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/19.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "我错啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Apologetic kitten seated with head lowered, one front paw rubbing the back of its head and the other resting in front, bashful eyes and tiny sheepish smile, tail tucked close. One small pale-blue sweat drop.\nIntended Chinese caption (do NOT draw any text): 我错啦"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "20",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/20.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "开饭啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Hungry happy kitten eagerly eating from a small round pale-colored cat-food bowl, both front paws naturally holding the bowl sides, eyes happily closed and tiny pink tongue. One little orange heart, one tail behind. No logo or lettering on bowl.\nIntended Chinese caption (do NOT draw any text): 开饭啦"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "21",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/21.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "困困了",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Very sleepy kitten curled tightly into a small compact ball, face resting on both front paws, eyes peacefully closed, one tail curled around the body; a tiny pale-purple sleepy cloud, no Z letters.\nIntended Chinese caption (do NOT draw any text): 困困了"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "22",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/22.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "晚安",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Kitten resting snugly under a soft blue quilt with simple pale stars, both front paws and head on a small pillow, closed peaceful eyes, body and single tail naturally hidden by quilt. Small golden crescent moon and one tiny star.\nIntended Chinese caption (do NOT draw any text): 晚安"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "23",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/23.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "先走啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Kitten waving goodbye with one front paw, other front paw resting naturally, body turned slightly away but head looking back warmly, one tail curves behind it. Two small peach motion strokes.\nIntended Chinese caption (do NOT draw any text): 先走啦"
+      },
+      {
+        "cat": "奶思",
+        "kind": "sticker",
+        "number": "24",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/24.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "caption": "明天见",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: Happy kitten walking away in three-quarter rear view while looking back with a friendly smile, all visible limbs naturally arranged, one tail raised in a loose curve. A small golden sparkle by the head.\nIntended Chinese caption (do NOT draw any text): 明天见"
+      },
+      {
+        "cat": "奶思",
+        "kind": "cover",
+        "number": "cover",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/cover.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: A friendly seated three-quarter full-body portrait, all paws naturally arranged, one visible tail curled at the side, bright open eyes and a small soft smile. No decorative marks, no text, no white outline."
+      },
+      {
+        "cat": "奶思",
+        "kind": "chat_icon",
+        "number": "chat_icon",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/chat_icon.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": true,
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nUnique scene: A centered FRONT-VIEW close-up portrait of the kitten HEAD, with only a tiny hint of neck fur. Both ears and full whiskers visible, eye color clearly readable, sweet neutral smile. No paws, no full body, no props, no decoration, no white outline. This icon must remain recognizable at 50 pixels."
+      },
+      {
+        "cat": "奶思",
+        "kind": "banner",
+        "number": "banner",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/02_原画/banner.png",
+        "reference": "/Users/saymagic/workspace/表情包/奶思/f916344e-49d3-4259-a768-20059517a107.png",
+        "transparent": false,
+        "prompt": "Create one independent polished wide LANDSCAPE 1500x800 or larger watercolor storybook banner for a WeChat cat sticker album. Match the supplied original character sheet's delicate colored-pencil and watercolor fur and chibi face. A gray-and-charcoal striped tabby SHORTHAIR kitten, round face, huge golden-brown eyes, cream muzzle and paws, pink nose, detailed soft short fur. Preserve the exact gray tabby character from the reference; never brown tabby, green eyes or long hair.\nScene: Cozy golden morning nook with a peach-colored armchair and an airy sky-blue window. Naisi playfully stretches on a soft rounded rug, with a small potted plant, warm little sunbeams and a toy ball. One cat only, complete cat visible, storytelling composition, pale apricot and muted sky blue colored background, never plain white.\nNo lettering, Chinese or English, no numbers, no logo, no watermark, no white sticker contour. OPAQUE colored background filling the whole canvas. Single cat only; harmonious wide storybook scene. Keep the whole cat and important props in the middle 75 percent safe area so a 750x400 crop preserves all key details."
+      }
+    ]
+  },
+  {
+    "cat": "古德",
+    "id": "gude",
+    "title": "古德有话说",
+    "reference": "古德/棕色虎斑猫可爱贴纸合集.png",
+    "identity": "A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.",
+    "captions": [
+      "早呀",
+      "收到",
+      "安排上",
+      "谢谢啦",
+      "没问题",
+      "贴一个",
+      "想你了",
+      "抱一个",
+      "笑哈哈",
+      "点赞",
+      "冲呀",
+      "歇会儿",
+      "等会儿",
+      "在不在",
+      "好家伙",
+      "让我想想",
+      "委屈",
+      "生气了",
+      "对不起",
+      "干饭啦",
+      "困了",
+      "晚安啦",
+      "拜拜",
+      "明天再聊"
+    ],
+    "description": "绿眼棕虎斑古德认真接话，也认真撒娇，让日常聊天多一点可爱和热闹。",
+    "banner_scene": "Cheerful mint-and-apricot living-room reading corner. Gude the green-eyed brown tabby sits playfully beside a short stack of blank colorful books and a small toy ball, one front paw waving. Soft rounded shapes, sunny window and plant, complete single cat visible, storybook warmth. Saturated but gentle sage-green colored background, never plain white.",
+    "style": {
+      "text_style": "colorful",
+      "text_palette": [
+        "#EA7E44",
+        "#427EBE",
+        "#83AC5C",
+        "#C18763",
+        "#4B85B9",
+        "#DC7993",
+        "#B18BCC",
+        "#E98B4A"
+      ],
+      "text_stroke_color": "#49352B",
+      "text_fill_expand": 2,
+      "text_stroke_radius": 5,
+      "text_outline_radius": 10
+    },
+    "version_dir": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张",
+    "requests": [
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "01",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/01.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "早呀",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Cheerful morning stretch: chest low, front paws extended, rump raised, one tail curling upward, happy closed-eye smile. A small doodled yellow sun to one side.\nIntended Chinese caption (do NOT draw any text): 早呀"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "02",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/02.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "收到",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Attentive seated kitten holding a tiny blank cream envelope securely between its two front paws, bright interested eyes, tail wrapped along the side. One small blue acknowledgement sparkle.\nIntended Chinese caption (do NOT draw any text): 收到"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "03",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/03.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "安排上",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Kitten seated in a confident three-quarter view, one front paw making a friendly OK-like paw gesture near the cheek, other front paw rests on the ground, warm smile. Two golden sparkles.\nIntended Chinese caption (do NOT draw any text): 安排上"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "04",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/04.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "谢谢啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: A grateful kitten making a little polite bow with both front paws neatly together, eyes softened, head lowered slightly; one small peach heart above its shoulder.\nIntended Chinese caption (do NOT draw any text): 谢谢啦"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "05",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/05.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "没问题",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Friendly kitten tilting its head with one front paw touching its chest and the other resting on the ground, smiling reassuringly, one tail loosely curved at the side. One tiny blue sparkle.\nIntended Chinese caption (do NOT draw any text): 没问题"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "06",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/06.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "贴一个",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Affectionate kitten rubbing its cheek gently against a small peach heart-shaped cushion, eyes blissfully closed, both front paws around the cushion, one curved tail behind. Two tiny pink hearts.\nIntended Chinese caption (do NOT draw any text): 贴一个"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "07",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/07.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "想你了",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Dreamy kitten seated with both front paws below its chin, gazing upward with sparkling eyes, ears softly relaxed, one tail curled beside it. Two small rose-pink hearts over one shoulder.\nIntended Chinese caption (do NOT draw any text): 想你了"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "08",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/08.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "抱一个",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Kitten leaning forward with both front legs stretched out inviting an air hug, open gentle eyes, tiny warm smile; one fluffy/striped tail behind and both hind paws naturally supporting its body. A small coral heart.\nIntended Chinese caption (do NOT draw any text): 抱一个"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "09",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/09.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "笑哈哈",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Laughing kitten rolling sideways on its back, paws naturally tucked toward its belly, eyes squeezed shut and joyful open mouth, one tail visible along its side. Three small orange doodled joy rays.\nIntended Chinese caption (do NOT draw any text): 笑哈哈"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "10",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/10.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "点赞",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Excited kitten seated upright with two front paws raised in a thumbs-up-like furry paw gesture, happy confident smile, one tail curved along the side. Two yellow star sparkles.\nIntended Chinese caption (do NOT draw any text): 点赞"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "11",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/11.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "冲呀",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Energetic kitten in a little determined forward-running leap, front paws reaching forward and hind paws angled back, bright focused eyes, mouth smiling; one tail trailing backward. Two small orange motion strokes, no ground.\nIntended Chinese caption (do NOT draw any text): 冲呀"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "12",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/12.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "歇会儿",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Caring kitten offering a small plain pale-blue tea cup resting in a saucer, two front paws hold the saucer securely, body seated and tail beside it, tender smile. A tiny warm heart.\nIntended Chinese caption (do NOT draw any text): 歇会儿"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "13",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/13.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "等会儿",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Kitten lifting one front paw palm-forward to ask for a moment, the other front paw planted, wide attentive eyes, mild open mouth, tail resting at its side. Two small blue pause-like doodled rays, no text.\nIntended Chinese caption (do NOT draw any text): 等会儿"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "14",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/14.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "在不在",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Playful kitten peeking over a small narrow wooden ledge, just upper body and both front paws visible resting on it, head slightly tilted, curious open eyes. One tiny pink doodled exclamation-like ray, no lettering.\nIntended Chinese caption (do NOT draw any text): 在不在"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "15",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/15.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "好家伙",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Surprised kitten leaning back with huge round eyes and a small O-shaped open mouth, both front paws held close to chest, one tail arched upward behind. Two golden burst rays.\nIntended Chinese caption (do NOT draw any text): 好家伙"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "16",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/16.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "让我想想",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Puzzled kitten tilted three-quarter with head strongly cocked and one front paw touching its cheek, eyes looking sideways, other front paw on the ground, tail visible. Two curved blue doodled question marks without letters.\nIntended Chinese caption (do NOT draw any text): 让我想想"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "17",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/17.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "委屈",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Sad little kitten sitting low, front paws close together, watery expressive eyes, slightly downturned tiny mouth, ears lowered and one tail curled inward. Two clear pale-blue tear drops at cheeks.\nIntended Chinese caption (do NOT draw any text): 委屈"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "18",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/18.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "生气了",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Grumpy kitten crouched low with both front paws pressed forward, brows lowered, ears tilted outward, pouty mouth, single tail curled tensely at its side. A small red hand-drawn anger mark above one ear.\nIntended Chinese caption (do NOT draw any text): 生气了"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "19",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/19.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "对不起",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Apologetic kitten seated with head lowered, one front paw rubbing the back of its head and the other resting in front, bashful eyes and tiny sheepish smile, tail tucked close. One small pale-blue sweat drop.\nIntended Chinese caption (do NOT draw any text): 对不起"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "20",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/20.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "干饭啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Hungry happy kitten eagerly eating from a small round pale-colored cat-food bowl, both front paws naturally holding the bowl sides, eyes happily closed and tiny pink tongue. One little orange heart, one tail behind. No logo or lettering on bowl.\nIntended Chinese caption (do NOT draw any text): 干饭啦"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "21",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/21.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "困了",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Very sleepy kitten curled tightly into a small compact ball, face resting on both front paws, eyes peacefully closed, one tail curled around the body; a tiny pale-purple sleepy cloud, no Z letters.\nIntended Chinese caption (do NOT draw any text): 困了"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "22",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/22.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "晚安啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Kitten resting snugly under a soft blue quilt with simple pale stars, both front paws and head on a small pillow, closed peaceful eyes, body and single tail naturally hidden by quilt. Small golden crescent moon and one tiny star.\nIntended Chinese caption (do NOT draw any text): 晚安啦"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "23",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/23.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "拜拜",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Kitten waving goodbye with one front paw, other front paw resting naturally, body turned slightly away but head looking back warmly, one tail curves behind it. Two small peach motion strokes.\nIntended Chinese caption (do NOT draw any text): 拜拜"
+      },
+      {
+        "cat": "古德",
+        "kind": "sticker",
+        "number": "24",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/24.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "caption": "明天再聊",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: Happy kitten walking away in three-quarter rear view while looking back with a friendly smile, all visible limbs naturally arranged, one tail raised in a loose curve. A small golden sparkle by the head.\nIntended Chinese caption (do NOT draw any text): 明天再聊"
+      },
+      {
+        "cat": "古德",
+        "kind": "cover",
+        "number": "cover",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/cover.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: A friendly seated three-quarter full-body portrait, all paws naturally arranged, one visible tail curled at the side, bright open eyes and a small soft smile. No decorative marks, no text, no white outline."
+      },
+      {
+        "cat": "古德",
+        "kind": "chat_icon",
+        "number": "chat_icon",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/chat_icon.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": true,
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nUnique scene: A centered FRONT-VIEW close-up portrait of the kitten HEAD, with only a tiny hint of neck fur. Both ears and full whiskers visible, eye color clearly readable, sweet neutral smile. No paws, no full body, no props, no decoration, no white outline. This icon must remain recognizable at 50 pixels."
+      },
+      {
+        "cat": "古德",
+        "kind": "banner",
+        "number": "banner",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/古德/古德有话说/版本/v001_20261002_静态24张/02_原画/banner.png",
+        "reference": "/Users/saymagic/workspace/表情包/古德/棕色虎斑猫可爱贴纸合集.png",
+        "transparent": false,
+        "prompt": "Create one independent polished wide LANDSCAPE 1500x800 or larger watercolor storybook banner for a WeChat cat sticker album. Match the supplied original character sheet's delicate colored-pencil and watercolor fur and chibi face. A warm brown-and-dark-coffee striped tabby SHORTHAIR kitten, compact round face, enormous vivid GREEN eyes, creamy muzzle and paws, pink-brown nose, detailed soft short fur. Preserve the exact brown tabby character from the reference; never gray tabby, blue eyes or long hair.\nScene: Cheerful mint-and-apricot living-room reading corner. Gude the green-eyed brown tabby sits playfully beside a short stack of blank colorful books and a small toy ball, one front paw waving. Soft rounded shapes, sunny window and plant, complete single cat visible, storybook warmth. Saturated but gentle sage-green colored background, never plain white.\nNo lettering, Chinese or English, no numbers, no logo, no watermark, no white sticker contour. OPAQUE colored background filling the whole canvas. Single cat only; harmonious wide storybook scene. Keep the whole cat and important props in the middle 75 percent safe area so a 750x400 crop preserves all key details."
+      }
+    ]
+  },
+  {
+    "cat": "范恩",
+    "id": "fanen",
+    "title": "范恩软萌日常",
+    "reference": "范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+    "identity": "A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.",
+    "captions": [
+      "早安",
+      "来啦",
+      "好呀",
+      "谢谢",
+      "没关系",
+      "贴贴",
+      "想你",
+      "抱抱你",
+      "笑死啦",
+      "好开心",
+      "你最棒",
+      "陪着你",
+      "等等我",
+      "求关注",
+      "真的吗",
+      "听不懂",
+      "好委屈",
+      "哼哼",
+      "原谅我",
+      "饿饿",
+      "好困哦",
+      "晚安呀",
+      "回头见",
+      "明天见"
+    ],
+    "description": "蓝眼长毛猫范恩送来轻轻的问候、甜甜的贴贴和暖暖的陪伴，软萌回应每一句话。",
+    "banner_scene": "Gentle lavender-and-pink cushion corner by a rounded window with tiny twinkling stars. Fanen the fluffy cream-white blue-eyed kitten cuddles a pale pink heart cushion, with a small blue quilt and soft toy nearby. Complete single cat visible, soft watercolor storybook room, colored periwinkle-lavender background, never plain white.",
+    "style": {
+      "text_style": "colorful",
+      "text_palette": [
+        "#DC9975",
+        "#6F91C8",
+        "#B296D0",
+        "#DD86A5",
+        "#90B7C8",
+        "#E58D9E",
+        "#AB91CF",
+        "#69A7BF"
+      ],
+      "text_stroke_color": "#48332E",
+      "text_fill_expand": 2,
+      "text_stroke_radius": 5,
+      "text_outline_radius": 10
+    },
+    "version_dir": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张",
+    "requests": [
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "01",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/01.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "早安",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Cheerful morning stretch: chest low, front paws extended, rump raised, one tail curling upward, happy closed-eye smile. A small doodled yellow sun to one side.\nIntended Chinese caption (do NOT draw any text): 早安"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "02",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/02.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "来啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Attentive seated kitten holding a tiny blank cream envelope securely between its two front paws, bright interested eyes, tail wrapped along the side. One small blue acknowledgement sparkle.\nIntended Chinese caption (do NOT draw any text): 来啦"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "03",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/03.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "好呀",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Kitten seated in a confident three-quarter view, one front paw making a friendly OK-like paw gesture near the cheek, other front paw rests on the ground, warm smile. Two golden sparkles.\nIntended Chinese caption (do NOT draw any text): 好呀"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "04",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/04.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "谢谢",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: A grateful kitten making a little polite bow with both front paws neatly together, eyes softened, head lowered slightly; one small peach heart above its shoulder.\nIntended Chinese caption (do NOT draw any text): 谢谢"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "05",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/05.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "没关系",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Friendly kitten tilting its head with one front paw touching its chest and the other resting on the ground, smiling reassuringly, one tail loosely curved at the side. One tiny blue sparkle.\nIntended Chinese caption (do NOT draw any text): 没关系"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "06",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/06.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "贴贴",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Affectionate kitten rubbing its cheek gently against a small peach heart-shaped cushion, eyes blissfully closed, both front paws around the cushion, one curved tail behind. Two tiny pink hearts.\nIntended Chinese caption (do NOT draw any text): 贴贴"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "07",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/07.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "想你",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Dreamy kitten seated with both front paws below its chin, gazing upward with sparkling eyes, ears softly relaxed, one tail curled beside it. Two small rose-pink hearts over one shoulder.\nIntended Chinese caption (do NOT draw any text): 想你"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "08",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/08.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "抱抱你",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Kitten leaning forward with both front legs stretched out inviting an air hug, open gentle eyes, tiny warm smile; one fluffy/striped tail behind and both hind paws naturally supporting its body. A small coral heart.\nIntended Chinese caption (do NOT draw any text): 抱抱你"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "09",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/09.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "笑死啦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Laughing kitten rolling sideways on its back, paws naturally tucked toward its belly, eyes squeezed shut and joyful open mouth, one tail visible along its side. Three small orange doodled joy rays.\nIntended Chinese caption (do NOT draw any text): 笑死啦"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "10",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/10.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "好开心",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Excited kitten seated upright with two front paws raised in a thumbs-up-like furry paw gesture, happy confident smile, one tail curved along the side. Two yellow star sparkles.\nIntended Chinese caption (do NOT draw any text): 好开心"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "11",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/11.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "你最棒",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Energetic kitten in a little determined forward-running leap, front paws reaching forward and hind paws angled back, bright focused eyes, mouth smiling; one tail trailing backward. Two small orange motion strokes, no ground.\nIntended Chinese caption (do NOT draw any text): 你最棒"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "12",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/12.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "陪着你",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Caring kitten offering a small plain pale-blue tea cup resting in a saucer, two front paws hold the saucer securely, body seated and tail beside it, tender smile. A tiny warm heart.\nIntended Chinese caption (do NOT draw any text): 陪着你"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "13",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/13.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "等等我",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Kitten lifting one front paw palm-forward to ask for a moment, the other front paw planted, wide attentive eyes, mild open mouth, tail resting at its side. Two small blue pause-like doodled rays, no text.\nIntended Chinese caption (do NOT draw any text): 等等我"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "14",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/14.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "求关注",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Playful kitten peeking over a small narrow wooden ledge, just upper body and both front paws visible resting on it, head slightly tilted, curious open eyes. One tiny pink doodled exclamation-like ray, no lettering.\nIntended Chinese caption (do NOT draw any text): 求关注"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "15",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/15.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "真的吗",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Surprised kitten leaning back with huge round eyes and a small O-shaped open mouth, both front paws held close to chest, one tail arched upward behind. Two golden burst rays.\nIntended Chinese caption (do NOT draw any text): 真的吗"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "16",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/16.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "听不懂",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Puzzled kitten tilted three-quarter with head strongly cocked and one front paw touching its cheek, eyes looking sideways, other front paw on the ground, tail visible. Two curved blue doodled question marks without letters.\nIntended Chinese caption (do NOT draw any text): 听不懂"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "17",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/17.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "好委屈",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Sad little kitten sitting low, front paws close together, watery expressive eyes, slightly downturned tiny mouth, ears lowered and one tail curled inward. Two clear pale-blue tear drops at cheeks.\nIntended Chinese caption (do NOT draw any text): 好委屈"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "18",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/18.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "哼哼",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Grumpy kitten crouched low with both front paws pressed forward, brows lowered, ears tilted outward, pouty mouth, single tail curled tensely at its side. A small red hand-drawn anger mark above one ear.\nIntended Chinese caption (do NOT draw any text): 哼哼"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "19",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/19.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "原谅我",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Apologetic kitten seated with head lowered, one front paw rubbing the back of its head and the other resting in front, bashful eyes and tiny sheepish smile, tail tucked close. One small pale-blue sweat drop.\nIntended Chinese caption (do NOT draw any text): 原谅我"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "20",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/20.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "饿饿",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Hungry happy kitten eagerly eating from a small round pale-colored cat-food bowl, both front paws naturally holding the bowl sides, eyes happily closed and tiny pink tongue. One little orange heart, one tail behind. No logo or lettering on bowl.\nIntended Chinese caption (do NOT draw any text): 饿饿"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "21",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/21.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "好困哦",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Very sleepy kitten curled tightly into a small compact ball, face resting on both front paws, eyes peacefully closed, one tail curled around the body; a tiny pale-purple sleepy cloud, no Z letters.\nIntended Chinese caption (do NOT draw any text): 好困哦"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "22",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/22.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "晚安呀",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Kitten resting snugly under a soft blue quilt with simple pale stars, both front paws and head on a small pillow, closed peaceful eyes, body and single tail naturally hidden by quilt. Small golden crescent moon and one tiny star.\nIntended Chinese caption (do NOT draw any text): 晚安呀"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "23",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/23.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "回头见",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Kitten waving goodbye with one front paw, other front paw resting naturally, body turned slightly away but head looking back warmly, one tail curves behind it. Two small peach motion strokes.\nIntended Chinese caption (do NOT draw any text): 回头见"
+      },
+      {
+        "cat": "范恩",
+        "kind": "sticker",
+        "number": "24",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/24.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "caption": "明天见",
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: Happy kitten walking away in three-quarter rear view while looking back with a friendly smile, all visible limbs naturally arranged, one tail raised in a loose curve. A small golden sparkle by the head.\nIntended Chinese caption (do NOT draw any text): 明天见"
+      },
+      {
+        "cat": "范恩",
+        "kind": "cover",
+        "number": "cover",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/cover.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: A friendly seated three-quarter full-body portrait, all paws naturally arranged, one visible tail curled at the side, bright open eyes and a small soft smile. No decorative marks, no text, no white outline."
+      },
+      {
+        "cat": "范恩",
+        "kind": "chat_icon",
+        "number": "chat_icon",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/chat_icon.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": true,
+        "prompt": "Create ONE standalone high-resolution square 1280x1280 (or larger) sticker art layer based faithfully on the supplied ORIGINAL character reference sheet. Match its exact finely detailed hand-drawn watercolor and colored-pencil fur, cute chibi proportions, broad round face, huge expressive eyes and warm playful spirit. This is an individual original, never a grid, sprite sheet or montage. No photorealism, flat vector art or 3D. There is ONE cat only, anatomically coherent paws with no duplicate limbs and exactly ONE tail; logically hidden limbs and tail are fine. Full subject, props and decorative marks visible with about 5 percent clear safety padding; cat fills most of canvas. Draw NO text, NO letters, NO numbers, NO watermark, NO white sticker outline, NO cast shadow and NO floor. Typography and a smooth white sticker contour will be added separately in final export. Use truly TRANSPARENT background if possible; otherwise perfectly flat solid #00FF00 chroma-key background with no shadows, texture or gradient. Never green background-colored light or fringe in the cat. \nCharacter identity: A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nUnique scene: A centered FRONT-VIEW close-up portrait of the kitten HEAD, with only a tiny hint of neck fur. Both ears and full whiskers visible, eye color clearly readable, sweet neutral smile. No paws, no full body, no props, no decoration, no white outline. This icon must remain recognizable at 50 pixels."
+      },
+      {
+        "cat": "范恩",
+        "kind": "banner",
+        "number": "banner",
+        "target": "/Users/saymagic/workspace/表情包/01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/02_原画/banner.png",
+        "reference": "/Users/saymagic/workspace/表情包/范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+        "transparent": false,
+        "prompt": "Create one independent polished wide LANDSCAPE 1500x800 or larger watercolor storybook banner for a WeChat cat sticker album. Match the supplied original character sheet's delicate colored-pencil and watercolor fur and chibi face. A fluffy cream-white LONGHAIR ragdoll kitten with enormous clear BLUE eyes, very pale warm-gray point markings on ears and forehead, white muzzle chest and paws, tiny pink nose, fluffy taupe-gray tail. Preserve the exact very light longhaired kitten from the reference; never tabby stripes, black patches, dark Siamese mask or green eyes.\nScene: Gentle lavender-and-pink cushion corner by a rounded window with tiny twinkling stars. Fanen the fluffy cream-white blue-eyed kitten cuddles a pale pink heart cushion, with a small blue quilt and soft toy nearby. Complete single cat visible, soft watercolor storybook room, colored periwinkle-lavender background, never plain white.\nNo lettering, Chinese or English, no numbers, no logo, no watermark, no white sticker contour. OPAQUE colored background filling the whole canvas. Single cat only; harmonious wide storybook scene. Keep the whole cat and important props in the middle 75 percent safe area so a 750x400 crop preserves all key details."
+      }
+    ]
+  }
+]

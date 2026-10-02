@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "fresh_service_boot": "PASS",
+  "loopback": "127.0.0.1",
+  "reused_primary_service": "8769已通过脚本核对库ID",
+  "scope": "只测试启动与库数据返回，--open由用户双击执行，未通过shell操作浏览器"
+}

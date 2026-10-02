@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "versions": 3,
+  "checks": [
+    {
+      "id": "pack-ca58ed5f4c50",
+      "state": "有效",
+      "issues": [],
+      "checked": 249,
+      "mode": "完整哈希与ZIP"
+    },
+    {
+      "id": "pack-764d7b786fd9",
+      "state": "有效",
+      "issues": [],
+      "checked": 249,
+      "mode": "完整哈希与ZIP"
+    },
+    {
+      "id": "pack-67ff6aa24bdb",
+      "state": "有效",
+      "issues": [],
+      "checked": 250,
+      "mode": "完整哈希与ZIP"
+    }
+  ],
+  "mode": "完整哈希与ZIP"
+}

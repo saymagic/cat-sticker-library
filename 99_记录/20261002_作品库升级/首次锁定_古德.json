@@ -1,0 +1,1508 @@
+{
+  "version_id": "pack-764d7b786fd9",
+  "completed_at": "2026-10-02T18:06:04.756503+08:00",
+  "scope": "已交付的资料、原画、工程和成品；生成的导航及后续平台凭据另行维护",
+  "gate": {
+    "technical_checks": 1129,
+    "visual_items": 24,
+    "assets": 76,
+    "packages": 3,
+    "profile_date": "2026-10-02"
+  },
+  "files": [
+    {
+      "file": "01_资料/input.json",
+      "sha256": "aac12a251edb0d3819dba4ddf06a74e6b70dc32336686da5ecb49ded2acd1a08",
+      "bytes": 647,
+      "mtime_ns": 1790926715031142455
+    },
+    {
+      "file": "01_资料/上传填写文案.md",
+      "sha256": "ea874aadbd2504bd1953fd8a02d1d0a30c8db2323ee8df26c0bdfc4d6f01e991",
+      "bytes": 1978,
+      "mtime_ns": 1790927656096139300
+    },
+    {
+      "file": "02_原画/01.png",
+      "sha256": "fd5be3cf05de6d7d659864a2a9a6a2ee590c98ddbb52afb73134b61cc3a580ee",
+      "bytes": 2086550,
+      "mtime_ns": 1790926617175892074
+    },
+    {
+      "file": "02_原画/02.png",
+      "sha256": "6ba7d651571836f3bb5e43ce04e75261e93b6927015a9fec3e51f356c57435d7",
+      "bytes": 2035266,
+      "mtime_ns": 1790928081937513601
+    },
+    {
+      "file": "02_原画/03.png",
+      "sha256": "98390ab09c3d1a22f4e9b6ee467cc02d68010ecb0f8b131e029e6c94a2c03f81",
+      "bytes": 2201581,
+      "mtime_ns": 1790928146359466883
+    },
+    {
+      "file": "02_原画/04.png",
+      "sha256": "f47e102ec527c8b1d9b40561833f9bbfad5b8017e983a7d55e6ff2bdf4ea9d37",
+      "bytes": 2125924,
+      "mtime_ns": 1790928215094751699
+    },
+    {
+      "file": "02_原画/05.png",
+      "sha256": "c15a943e23882b44de3db84ea9ce31600fcfc7e547d49cb285d7e0823e83d0d2",
+      "bytes": 2074049,
+      "mtime_ns": 1790928205880346212
+    },
+    {
+      "file": "02_原画/06.png",
+      "sha256": "11fb23f8ca635353b14a8dc1924f88243294f9607708dfc4ba51e7d79c54d0f1",
+      "bytes": 2552257,
+      "mtime_ns": 1790928272224662234
+    },
+    {
+      "file": "02_原画/07.png",
+      "sha256": "69661192f5d5c418da4dee517be7c8024b8288751697d4a88bfec38fcbc586d6",
+      "bytes": 2368947,
+      "mtime_ns": 1790928347064236376
+    },
+    {
+      "file": "02_原画/08.png",
+      "sha256": "2c698462ccfa76419cbc8062622f231bdee85d4cfc27e19f8bf0d6a321efbd1e",
+      "bytes": 2073355,
+      "mtime_ns": 1790929391536380688
+    },
+    {
+      "file": "02_原画/09.png",
+      "sha256": "774543c01e43f5076609af56062c989251f1162da3cdeb03909de9ca917284d5",
+      "bytes": 2234066,
+      "mtime_ns": 1790929038190117302
+    },
+    {
+      "file": "02_原画/10.png",
+      "sha256": "3f94e5bdfb0248286aa58ba114e17cf9a7f4797fd916f214cbc306ebe6262c57",
+      "bytes": 2268611,
+      "mtime_ns": 1790929108070571735
+    },
+    {
+      "file": "02_原画/11.png",
+      "sha256": "af376f18165f7c54e152076cfee5d161f832a2e320f46b6368c5da655ceeb904",
+      "bytes": 2235558,
+      "mtime_ns": 1790928534550293751
+    },
+    {
+      "file": "02_原画/12.png",
+      "sha256": "3b8e1e1b504772f6b38b8be605f5d894495afb180d3a4451572ee9449343c174",
+      "bytes": 2045875,
+      "mtime_ns": 1790928588327740599
+    },
+    {
+      "file": "02_原画/13.png",
+      "sha256": "3d73c8464bdf8483eeac2df9b1dab4572b738343074f32bcadd1941cb4fc88aa",
+      "bytes": 2268578,
+      "mtime_ns": 1790928660337848987
+    },
+    {
+      "file": "02_原画/14.png",
+      "sha256": "e382d0c7fa8ea235653b0b3386ec58885f7dae40fb6a9776785e47fc2012bfe0",
+      "bytes": 2369173,
+      "mtime_ns": 1790928601056395571
+    },
+    {
+      "file": "02_原画/15.png",
+      "sha256": "a02ab051834480c6433be8438ae5056ee8c93bfe28ad2256be3a3b1b95bdd879",
+      "bytes": 2176779,
+      "mtime_ns": 1790928670863841896
+    },
+    {
+      "file": "02_原画/16.png",
+      "sha256": "24b1a54128a18b9d2d289d3930020f674f584cf3667c788486ea797f295ff276",
+      "bytes": 2141825,
+      "mtime_ns": 1790928669236593837
+    },
+    {
+      "file": "02_原画/17.png",
+      "sha256": "801957d1f2522c1e68e07b32b89fa6ebc7724905fda6ce0433bf009cd6de0018",
+      "bytes": 2060130,
+      "mtime_ns": 1790928724066680747
+    },
+    {
+      "file": "02_原画/18.png",
+      "sha256": "aa5cd131968d98ed7f73dd4057547c57b55faa5df03168212c78ace76772a46d",
+      "bytes": 2288891,
+      "mtime_ns": 1790928806554901686
+    },
+    {
+      "file": "02_原画/19.png",
+      "sha256": "3014c72728ec849203b6c81e90fc9a55cfa93bb16a014f8fd952040b449f763c",
+      "bytes": 2072520,
+      "mtime_ns": 1790928880702285270
+    },
+    {
+      "file": "02_原画/20.png",
+      "sha256": "8bd0a1a57cb5482083f1c4f9a3f33e192017ae97fd9026951df980468618c15d",
+      "bytes": 2488178,
+      "mtime_ns": 1790928943230134306
+    },
+    {
+      "file": "02_原画/21.png",
+      "sha256": "c25f013ee3ecc319ddbd888b03343be06d73bf7a434eb1daddc4c3f0a8cf2205",
+      "bytes": 1935070,
+      "mtime_ns": 1790928884703558327
+    },
+    {
+      "file": "02_原画/22.png",
+      "sha256": "d67cc0d3b24a4dad05027bcfa2e3fd073a8cdb72deafcdd521b02da8cb5b0ff6",
+      "bytes": 2185814,
+      "mtime_ns": 1790929395504049116
+    },
+    {
+      "file": "02_原画/23.png",
+      "sha256": "50666a62deae9ed2dc2e2a5452daadd0daeb41f1c272e4884458b6842ee57e9f",
+      "bytes": 2223341,
+      "mtime_ns": 1790929108336505414
+    },
+    {
+      "file": "02_原画/24.png",
+      "sha256": "49692d71787548a348c254b88bb0ab25624d3648c0b976e8078a3714dee3af5a",
+      "bytes": 2016929,
+      "mtime_ns": 1790929205855901043
+    },
+    {
+      "file": "02_原画/banner.png",
+      "sha256": "a6068c2d670f55421b0c15e076fb89a72f33ba313e1f38708b851a9eff4894f7",
+      "bytes": 2776133,
+      "mtime_ns": 1790929223892123111
+    },
+    {
+      "file": "02_原画/chat_icon.png",
+      "sha256": "1ce755ce8b333cbf915cde5a098cec79379436e943e5235298e0efe83db6af7c",
+      "bytes": 2751453,
+      "mtime_ns": 1790929177111608726
+    },
+    {
+      "file": "02_原画/cover.png",
+      "sha256": "7898b371cb348cfdc0b31d289f039691c3eac66db870961edcd3b8e9be7cc735",
+      "bytes": 2084739,
+      "mtime_ns": 1790929263982313683
+    },
+    {
+      "file": "02_原画/低Alpha清理前/08.png",
+      "sha256": "c8e1b79a1b2eff19b3f7f80b9e731b757f86ca94f66a18bc87d44d7ee5e8f672",
+      "bytes": 2129976,
+      "mtime_ns": 1790928361440643611
+    },
+    {
+      "file": "02_原画/低Alpha清理前/22.png",
+      "sha256": "20ae29be8e1c3b661a9e373e3625ba1d1d5eda53834c895c3ee23e80a1a56fea",
+      "bytes": 2228298,
+      "mtime_ns": 1790928961106758176
+    },
+    {
+      "file": "03_工程/generation_log.jsonl",
+      "sha256": "b6ba59ba45f56762f1c1eab37ecf103a7944d03e05498a0f3ea0cef09a180e81",
+      "bytes": 10332,
+      "mtime_ns": 1790930868666177383
+    },
+    {
+      "file": "03_工程/generation_requests.json",
+      "sha256": "3726deb4bf6716dc5b3b9c91112f3483b6eed7c5b39a8a7271780d79117fcb6c",
+      "bytes": 54445,
+      "mtime_ns": 1790926715032512102
+    },
+    {
+      "file": "03_工程/job.json",
+      "sha256": "133fdad93df879ccc66b5952dd79e1b0d701616eaaf47e0378d9efa7cf545ec0",
+      "bytes": 10573,
+      "mtime_ns": 1790926715031497669
+    },
+    {
+      "file": "03_工程/source_preflight.json",
+      "sha256": "c528026b0205031247dd856d8096d9a9efa9c4e8c714cfaf859a624aeda9cdaa",
+      "bytes": 4054,
+      "mtime_ns": 1790929395854809857
+    },
+    {
+      "file": "03_工程/原画动作核对.jpg",
+      "sha256": "7717b22d6beaedcf21e1374cac685932b6e3b50785023872a848972a9fcc2a0a",
+      "bytes": 37644,
+      "mtime_ns": 1790927515174868464
+    },
+    {
+      "file": "03_工程/计划/01_古德_古德有话说/character_references.json",
+      "sha256": "7bec497f7f2a04ee3372681351d635365d203cebc8f0dbfd98b8d1c213d323c6",
+      "bytes": 298,
+      "mtime_ns": 1790926794293294630
+    },
+    {
+      "file": "03_工程/计划/01_古德_古德有话说/job-plan.json",
+      "sha256": "0979db72b0fdd9c01d3ec5d98666917292d062b01dfaf7770f08949a77ef5abb",
+      "bytes": 8249,
+      "mtime_ns": 1790926794293661677
+    },
+    {
+      "file": "03_工程/计划/01_古德_古德有话说/references/gude_01.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1790925852563215469
+    },
+    {
+      "file": "03_工程/计划/batch.json",
+      "sha256": "d6b46ea11fa7e99d4eb40da7c5762f617dfa1e4463b949f0d9e35b0a5c4fb37d",
+      "bytes": 129,
+      "mtime_ns": 1790926794293802388
+    },
+    {
+      "file": "03_工程/计划/input.json",
+      "sha256": "aac12a251edb0d3819dba4ddf06a74e6b70dc32336686da5ecb49ded2acd1a08",
+      "bytes": 647,
+      "mtime_ns": 1790926794291380974
+    },
+    {
+      "file": "03_工程/首张排版样图.png",
+      "sha256": "d475efcc0082dc5a3e9f4e24d69520398c6a8d8d26f68b3b585ad7be4458cc6b",
+      "bytes": 71350,
+      "mtime_ns": 1790927406510268156
+    },
+    {
+      "file": "04_成品/SHA256SUMS.txt",
+      "sha256": "8ab1d5e491266b4c7fcc05118051dbc0061e52ceca543a582aa945879b123e11",
+      "bytes": 258,
+      "mtime_ns": 1790931710575580408
+    },
+    {
+      "file": "04_成品/captions.csv",
+      "sha256": "fd6dc68fef7b456b72897fd3b3bf07e4b924244db87e567cfd02575a8cd65f6e",
+      "bytes": 1956,
+      "mtime_ns": 1790929790284898188
+    },
+    {
+      "file": "04_成品/complete_delivery.zip",
+      "sha256": "a59f42c40196fbd81d3efc99a17ad0d29b755321287003473cce0e7800b83e59",
+      "bytes": 118351429,
+      "mtime_ns": 1790931710311106697
+    },
+    {
+      "file": "04_成品/delivery_notes.md",
+      "sha256": "b6051704aadbb2f4709448f248cf00cfc9cd676a6ca76d71516f17e38533fc5b",
+      "bytes": 961,
+      "mtime_ns": 1790929791424386584
+    },
+    {
+      "file": "04_成品/extras/banner_750x400.jpg",
+      "sha256": "69aebd60a9a28d275a984dde81cbfefaccaebd669c4c2c974cc5131ab54a8482",
+      "bytes": 79233,
+      "mtime_ns": 1790929790232547494
+    },
+    {
+      "file": "04_成品/extras/chat_icon_240_备用.png",
+      "sha256": "e1b1d18ee72243e6c3d87cb223b864eba513c8f5efea0a43eefb5bf42d338186",
+      "bytes": 93608,
+      "mtime_ns": 1790930759399178361
+    },
+    {
+      "file": "04_成品/extras/chat_icon_50.png",
+      "sha256": "5f9acdf1673902da9b36e2156965eebebfc5f523f8cf581b524af57be664852f",
+      "bytes": 6019,
+      "mtime_ns": 1790930759328632051
+    },
+    {
+      "file": "04_成品/extras/cover_240.png",
+      "sha256": "611afd2ea767d2057b4486785765e17fe8032faabf627885f0d96d6b97922d83",
+      "bytes": 74685,
+      "mtime_ns": 1790930759304175797
+    },
+    {
+      "file": "04_成品/job.json",
+      "sha256": "15632936a761fbcf06f4f0d3aed40087197c4471927a989a2ece01f6af0eaf96",
+      "bytes": 11182,
+      "mtime_ns": 1790929790233480920
+    },
+    {
+      "file": "04_成品/layers/01_art.png",
+      "sha256": "3915c1953e42e7f00430a98ba3a09306da9f067c46021054f3ffc3e38d2dc13b",
+      "bytes": 927104,
+      "mtime_ns": 1790929765928469919
+    },
+    {
+      "file": "04_成品/layers/01_text.png",
+      "sha256": "c32b80e0b96c3bd6f724b186be1c8185f078e30e95e280172b18e688703981d6",
+      "bytes": 21916,
+      "mtime_ns": 1790929765958671681
+    },
+    {
+      "file": "04_成品/layers/02_art.png",
+      "sha256": "991cf54489fde97af4ed93f3ba77a247f8b8cb8ac546b014c21c07e2c1060d4f",
+      "bytes": 886851,
+      "mtime_ns": 1790929766877545604
+    },
+    {
+      "file": "04_成品/layers/02_text.png",
+      "sha256": "0897f791a3d325e6d43a531c8314091ccf3a95a020505a99070fd7b357917b90",
+      "bytes": 28462,
+      "mtime_ns": 1790929766916764874
+    },
+    {
+      "file": "04_成品/layers/03_art.png",
+      "sha256": "57d03f9ca047a6985b042b1bcfe795c4cb1930165c642c1cb6d61ca7f944f170",
+      "bytes": 888766,
+      "mtime_ns": 1790929767863937665
+    },
+    {
+      "file": "04_成品/layers/03_text.png",
+      "sha256": "649589d082569c50ad987b1ca7c71f672c33c761a2c8e2d8d90b02fa87861976",
+      "bytes": 32250,
+      "mtime_ns": 1790929767905502584
+    },
+    {
+      "file": "04_成品/layers/04_art.png",
+      "sha256": "3fa57c0ea2b08ce6657247e05dbb3c06a117cc24f81177719b349b5843fb88d0",
+      "bytes": 894303,
+      "mtime_ns": 1790929768842891569
+    },
+    {
+      "file": "04_成品/layers/04_text.png",
+      "sha256": "20f040827465d947ffc60e4153d80b0ee8fd08807b3304d97692fb7975e4eb39",
+      "bytes": 29847,
+      "mtime_ns": 1790929768880011984
+    },
+    {
+      "file": "04_成品/layers/05_art.png",
+      "sha256": "e1796f6b4f0986e108d3f9beb2962518f26ed47ed978d8508974b3aa21a82108",
+      "bytes": 836118,
+      "mtime_ns": 1790929769791645627
+    },
+    {
+      "file": "04_成品/layers/05_text.png",
+      "sha256": "cbc7919c0313d8376104584fc74fb960d0e0ee8313aef185cdef85b122e2d02f",
+      "bytes": 39435,
+      "mtime_ns": 1790929769839290481
+    },
+    {
+      "file": "04_成品/layers/06_art.png",
+      "sha256": "d25c388e7cfc0e4e49d84a2915071f15e89cf7200a9a6addeddf35c20c72ad93",
+      "bytes": 1011435,
+      "mtime_ns": 1790929770857675531
+    },
+    {
+      "file": "04_成品/layers/06_text.png",
+      "sha256": "867a7c73a331f5a221a3574603eb5527f1b4e9038af4cdf9f3c75654e6c9e16e",
+      "bytes": 28609,
+      "mtime_ns": 1790929770895346077
+    },
+    {
+      "file": "04_成品/layers/07_art.png",
+      "sha256": "687b722c0acaaab94e939962afc337bc87ed5a1d116085d925b43f07fe74cb9c",
+      "bytes": 984626,
+      "mtime_ns": 1790929771891337485
+    },
+    {
+      "file": "04_成品/layers/07_text.png",
+      "sha256": "4af135a4e601afe754b99201433cd923ef45d58cdd38ed2c038700e874749195",
+      "bytes": 38433,
+      "mtime_ns": 1790929771942983006
+    },
+    {
+      "file": "04_成品/layers/08_art.png",
+      "sha256": "5379af677c055036e2e4a23d1ab38ff761d2e803197f0b7d4ed763762368369b",
+      "bytes": 847449,
+      "mtime_ns": 1790929772909967580
+    },
+    {
+      "file": "04_成品/layers/08_text.png",
+      "sha256": "a7f0644081af5af9037b84afdf7d948340dc7089c2a092e3fdc644dfd37483e4",
+      "bytes": 28637,
+      "mtime_ns": 1790929772946333238
+    },
+    {
+      "file": "04_成品/layers/09_art.png",
+      "sha256": "83ebe6e6fe8b6d51999a9366915171e8b140d5f1b0821e290a7901703c342a3f",
+      "bytes": 969888,
+      "mtime_ns": 1790929773941962184
+    },
+    {
+      "file": "04_成品/layers/09_text.png",
+      "sha256": "a6b02512ec21ccd7f75991b26ba00c2ec2f55338505d035dd251ea8dadae22a5",
+      "bytes": 30556,
+      "mtime_ns": 1790929773977582751
+    },
+    {
+      "file": "04_成品/layers/10_art.png",
+      "sha256": "e2423843388c9c719c3665e10d3a204206e8d538d7d902de98669203f5a6564d",
+      "bytes": 936018,
+      "mtime_ns": 1790929774980734356
+    },
+    {
+      "file": "04_成品/layers/10_text.png",
+      "sha256": "ad8c2505ca0e7619c15471edbc3df6ce01ae2934f1cc95e76b4dfbafcd06e71a",
+      "bytes": 30072,
+      "mtime_ns": 1790929775018405861
+    },
+    {
+      "file": "04_成品/layers/11_art.png",
+      "sha256": "58e7729baace1fc5b5ec225069280ae7700bca67b47f1d8fc861539411b9ad5f",
+      "bytes": 1079618,
+      "mtime_ns": 1790929776005233718
+    },
+    {
+      "file": "04_成品/layers/11_text.png",
+      "sha256": "786e64a7cbc20065994d1061f9fd3a0f4862e088dd0375e59c3aea230576639a",
+      "bytes": 22860,
+      "mtime_ns": 1790929776037616711
+    },
+    {
+      "file": "04_成品/layers/12_art.png",
+      "sha256": "caa1ef88c02970e01b531f26d99bb55432c7980062f340219a3905c7bbb4932c",
+      "bytes": 865146,
+      "mtime_ns": 1790929776988648208
+    },
+    {
+      "file": "04_成品/layers/12_text.png",
+      "sha256": "f22c2b87d8eddaa347dce287e7fbed4e051e5e2c77de35d596e10862a9911b6d",
+      "bytes": 38817,
+      "mtime_ns": 1790929777033084280
+    },
+    {
+      "file": "04_成品/layers/13_art.png",
+      "sha256": "2143aeefeea18b9eaae969486dfb11b5c39b1c0550fd5559c7f8f21e48f0d9f3",
+      "bytes": 924335,
+      "mtime_ns": 1790929777995495892
+    },
+    {
+      "file": "04_成品/layers/13_text.png",
+      "sha256": "0cfda0f625ed2b00a5fd3763cb4b428d0fc38d6e9de7d623a3cf7bb448be488c",
+      "bytes": 35500,
+      "mtime_ns": 1790929778042136903
+    },
+    {
+      "file": "04_成品/layers/14_art.png",
+      "sha256": "6cc25a4225e79f08b0e46038c303cca71880b2f721de31ff5519a3a06797831e",
+      "bytes": 969048,
+      "mtime_ns": 1790929779029734394
+    },
+    {
+      "file": "04_成品/layers/14_text.png",
+      "sha256": "de4db241aff3a1ac97b4d79b0efe815c13401cffb8e7febd91184ae96d95de1d",
+      "bytes": 26221,
+      "mtime_ns": 1790929779068318865
+    },
+    {
+      "file": "04_成品/layers/15_art.png",
+      "sha256": "72333c9592bb54cde7ed55dbea78c52f69ff1ec3a302bf8e86c59d7583d1495d",
+      "bytes": 855468,
+      "mtime_ns": 1790929780009867308
+    },
+    {
+      "file": "04_成品/layers/15_text.png",
+      "sha256": "f4dd9e2297c1e9ea16b7e97f6d6ce9f3b22f10c154be67ad27274068477fff98",
+      "bytes": 44167,
+      "mtime_ns": 1790929780063435098
+    },
+    {
+      "file": "04_成品/layers/16_art.png",
+      "sha256": "3e229ef8766552540f032060bdcb8560fece71de93bd6bde4a1a6861db65124b",
+      "bytes": 857649,
+      "mtime_ns": 1790929781019608397
+    },
+    {
+      "file": "04_成品/layers/16_text.png",
+      "sha256": "95b5e59d55be30e87a1d172d3f99cda8de252bf53f5042b6cb18abea19bc51b7",
+      "bytes": 40860,
+      "mtime_ns": 1790929781064121928
+    },
+    {
+      "file": "04_成品/layers/17_art.png",
+      "sha256": "5b857f7beaf99a9bcc8c6f5c443e5cabc4c78b09c9607b35b1ef32023803dd35",
+      "bytes": 1101033,
+      "mtime_ns": 1790929781979081562
+    },
+    {
+      "file": "04_成品/layers/17_text.png",
+      "sha256": "44ef7f1232da9a01198914be9635976ef32853feb347e668c540f025386ee211",
+      "bytes": 27423,
+      "mtime_ns": 1790929782013419241
+    },
+    {
+      "file": "04_成品/layers/18_art.png",
+      "sha256": "190b77bedece7f3a133973b809f3ca9da5a33136852a8fe65c8c65396b5c3745",
+      "bytes": 1404971,
+      "mtime_ns": 1790929782968005857
+    },
+    {
+      "file": "04_成品/layers/18_text.png",
+      "sha256": "7a8cfb35f7ab95100571b404de18642a150415c48ac8757cc875f60973b693ad",
+      "bytes": 26920,
+      "mtime_ns": 1790929783006999416
+    },
+    {
+      "file": "04_成品/layers/19_art.png",
+      "sha256": "b623a41f12aabb55f4dbc73e774aa5bee86e21db6fb302ba5e1264b0a324b7ec",
+      "bytes": 879256,
+      "mtime_ns": 1790929783993716898
+    },
+    {
+      "file": "04_成品/layers/19_text.png",
+      "sha256": "88bb1618eab569840e50253fdf9f06d59ecba478731dfadcdf714a28d232a93b",
+      "bytes": 37843,
+      "mtime_ns": 1790929784041913425
+    },
+    {
+      "file": "04_成品/layers/20_art.png",
+      "sha256": "17f26a90a5eb560e00165852bc56235c0163cb356c67c578b932b6ba3a308718",
+      "bytes": 1138496,
+      "mtime_ns": 1790929785097525184
+    },
+    {
+      "file": "04_成品/layers/20_text.png",
+      "sha256": "fa5a132884c34a3cac0606f51c7fb10abebc945f8119a5886442ffea00c19540",
+      "bytes": 35280,
+      "mtime_ns": 1790929785140049904
+    },
+    {
+      "file": "04_成品/layers/21_art.png",
+      "sha256": "4e7743d1b55412446fc3c2bfab05802498681ce22df66acb7cd821506412279d",
+      "bytes": 1268941,
+      "mtime_ns": 1790929786081310635
+    },
+    {
+      "file": "04_成品/layers/21_text.png",
+      "sha256": "62cfdcd7473c1917b57b7024421c11d88ae3a39cefc9513132aebe8dee14b6ba",
+      "bytes": 20628,
+      "mtime_ns": 1790929786112812578
+    },
+    {
+      "file": "04_成品/layers/22_art.png",
+      "sha256": "bf6f12431e733d4fe50ff403e4193caa7bd14b4642cbeaaefc34c5c2211876a4",
+      "bytes": 1220041,
+      "mtime_ns": 1790929787141117853
+    },
+    {
+      "file": "04_成品/layers/22_text.png",
+      "sha256": "7afa4e22049829e0f6aee686fbeadda5cdb258e546c517c6fb63c84624366843",
+      "bytes": 39300,
+      "mtime_ns": 1790929787188449496
+    },
+    {
+      "file": "04_成品/layers/23_art.png",
+      "sha256": "7f43e48c505d8d8f753dbcdc96e6c828aab3abc8289a458e3045b2748be4bccc",
+      "bytes": 901621,
+      "mtime_ns": 1790929788153189298
+    },
+    {
+      "file": "04_成品/layers/23_text.png",
+      "sha256": "9b82982acf214a3a6521551ec720a8380b3602f2c751e3800652c83d55a1820e",
+      "bytes": 18344,
+      "mtime_ns": 1790929788180765701
+    },
+    {
+      "file": "04_成品/layers/24_art.png",
+      "sha256": "3041bf38ad973dfd6397dccec0817747e6db11a476ab4377e5b5dd2d4c2492cc",
+      "bytes": 904462,
+      "mtime_ns": 1790929789087487168
+    },
+    {
+      "file": "04_成品/layers/24_text.png",
+      "sha256": "bc9f3666a8ac9ac77c585fb0b925d7927aeae8f5073b3638fe51e81e6e653c83",
+      "bytes": 41466,
+      "mtime_ns": 1790929789132934209
+    },
+    {
+      "file": "04_成品/main_gif/01.gif",
+      "sha256": "f0c8e7fd1b1b5344647424899fcf1dd6b4d6fb17a8751a7b36aa264e05fda89b",
+      "bytes": 27080,
+      "mtime_ns": 1790929766418645815
+    },
+    {
+      "file": "04_成品/main_gif/02.gif",
+      "sha256": "71691554ece8e4bb07a67ae8edee38da66ad4fc279201a80f68b5738d1ecc3fc",
+      "bytes": 26196,
+      "mtime_ns": 1790929767358269072
+    },
+    {
+      "file": "04_成品/main_gif/03.gif",
+      "sha256": "115b7c5bf8989eb871c96cd57c0e09c753ce48fe7063118503ef987505b2302e",
+      "bytes": 27500,
+      "mtime_ns": 1790929768370124057
+    },
+    {
+      "file": "04_成品/main_gif/04.gif",
+      "sha256": "2f99cfe9496612c704f2b7a8e3a75347791fe24a038580b6d82cc83043f31a02",
+      "bytes": 27785,
+      "mtime_ns": 1790929769317874854
+    },
+    {
+      "file": "04_成品/main_gif/05.gif",
+      "sha256": "156a495b8123700604d218c9279b509adcc020d46f78c44513b21139e7bf9ea5",
+      "bytes": 26557,
+      "mtime_ns": 1790929770291366868
+    },
+    {
+      "file": "04_成品/main_gif/06.gif",
+      "sha256": "19457ce1ad0e488ea3d47999f08a1f757029fca597399e7ddc006d204b106db3",
+      "bytes": 28859,
+      "mtime_ns": 1790929771366404240
+    },
+    {
+      "file": "04_成品/main_gif/07.gif",
+      "sha256": "72cca1666cc91ca7fbd3f2b8099d04735752ea369addabdeaefe0a0f6fd131f7",
+      "bytes": 28719,
+      "mtime_ns": 1790929772409912126
+    },
+    {
+      "file": "04_成品/main_gif/08.gif",
+      "sha256": "07bf80bca8085704044c160a3eaa88119ed31ae758ea14d958ce4210aecfddbd",
+      "bytes": 25794,
+      "mtime_ns": 1790929773437347893
+    },
+    {
+      "file": "04_成品/main_gif/09.gif",
+      "sha256": "9f78889ab31178a86ed80c2a0b1a793a8a3338a35a54f9995cae0c286386041f",
+      "bytes": 29191,
+      "mtime_ns": 1790929774433850347
+    },
+    {
+      "file": "04_成品/main_gif/10.gif",
+      "sha256": "502f9fff019df31307e751eceb7b2e7f4a141fb658c3f88e6881fd880a2b9271",
+      "bytes": 27670,
+      "mtime_ns": 1790929775481123480
+    },
+    {
+      "file": "04_成品/main_gif/11.gif",
+      "sha256": "5f71397ad63a870da560cbf961f92804ddcb6bc24c4236bf2e5d3f0903e609c0",
+      "bytes": 30933,
+      "mtime_ns": 1790929776513639298
+    },
+    {
+      "file": "04_成品/main_gif/12.gif",
+      "sha256": "85c3f7e39ba653cf028088ec0145e09a57ae5e13cb843e5c93f92cd6ec471140",
+      "bytes": 26442,
+      "mtime_ns": 1790929777484965166
+    },
+    {
+      "file": "04_成品/main_gif/13.gif",
+      "sha256": "18ba5b19dca8701b9a0aa0fda3bce482c46d6f0135d8bae155825c466b1be89f",
+      "bytes": 28175,
+      "mtime_ns": 1790929778504721730
+    },
+    {
+      "file": "04_成品/main_gif/14.gif",
+      "sha256": "57b0883ce85ec65ab471550e7b13bfdea6a380906e3eff9bb5c3fb050725dbbe",
+      "bytes": 27929,
+      "mtime_ns": 1790929779525495138
+    },
+    {
+      "file": "04_成品/main_gif/15.gif",
+      "sha256": "790825db3d9af1f976181aa2332c0f5fb2b8db61fb9d963d0ece406a400af9f4",
+      "bytes": 26074,
+      "mtime_ns": 1790929780525826465
+    },
+    {
+      "file": "04_成品/main_gif/16.gif",
+      "sha256": "39e4716143bef33eb0dffa1173092610567f754272245a4bc8418de954fa9b90",
+      "bytes": 28591,
+      "mtime_ns": 1790929781518876968
+    },
+    {
+      "file": "04_成品/main_gif/17.gif",
+      "sha256": "ee886ad7d23ca5acdd0d248f839d71b0dcb3f6f92953c7983a77eabf22725d06",
+      "bytes": 31770,
+      "mtime_ns": 1790929782470504346
+    },
+    {
+      "file": "04_成品/main_gif/18.gif",
+      "sha256": "54e8f6148b1d373ff3ec779551fd2a17cf382fa938da38db2ce84f5a957115ad",
+      "bytes": 39162,
+      "mtime_ns": 1790929783521158180
+    },
+    {
+      "file": "04_成品/main_gif/19.gif",
+      "sha256": "8323691ff014757ca63051463618cc8a99e1fb64130c98dc8f04656bcebcdb74",
+      "bytes": 27114,
+      "mtime_ns": 1790929784500793048
+    },
+    {
+      "file": "04_成品/main_gif/20.gif",
+      "sha256": "7f7dd728f7dae6cf3f26df02c0d12abf33c8a23b08fd4c35a80e2556f994c14e",
+      "bytes": 33240,
+      "mtime_ns": 1790929785624399533
+    },
+    {
+      "file": "04_成品/main_gif/21.gif",
+      "sha256": "a567847d2e34f0c5e090184ffa856aa7753ba7bf837aadbbdd9636279af3d6ca",
+      "bytes": 34931,
+      "mtime_ns": 1790929786576827294
+    },
+    {
+      "file": "04_成品/main_gif/22.gif",
+      "sha256": "32f06eb447036ed475d643edf736bd6a58a4c38b9ae5edc95ada0a31485bc20f",
+      "bytes": 34652,
+      "mtime_ns": 1790929787687413440
+    },
+    {
+      "file": "04_成品/main_gif/23.gif",
+      "sha256": "f55b436ad8dd81cc1cbe3d1514bc8deaed415ca5f9d485945c0b9c9a5d665539",
+      "bytes": 25728,
+      "mtime_ns": 1790929788619077283
+    },
+    {
+      "file": "04_成品/main_gif/24.gif",
+      "sha256": "9e9b7ede45a1137107b414fb5c943a656c93faa78db71fec2933633b908cd6f0",
+      "bytes": 29698,
+      "mtime_ns": 1790929789591627205
+    },
+    {
+      "file": "04_成品/main_png/01.png",
+      "sha256": "aaf231cdbdfb038f141ea08d1cff1b960aed3c241087d7dd4fe28fcf420826ac",
+      "bytes": 70776,
+      "mtime_ns": 1790929766393200434
+    },
+    {
+      "file": "04_成品/main_png/02.png",
+      "sha256": "667b4824171ed18668bc5d8526632558a121d406e8636301fc14e475c07a4a14",
+      "bytes": 66710,
+      "mtime_ns": 1790929767334332039
+    },
+    {
+      "file": "04_成品/main_png/03.png",
+      "sha256": "cd6b5912a1f2a9aa41acbb0c26f682bd3aeab2ad582981e3d1f3a89417607cbf",
+      "bytes": 71678,
+      "mtime_ns": 1790929768344646175
+    },
+    {
+      "file": "04_成品/main_png/04.png",
+      "sha256": "ab3f74accf933a9f4999b137050f488e4c606b3755a18a37780e093e1c045cbd",
+      "bytes": 70954,
+      "mtime_ns": 1790929769291810258
+    },
+    {
+      "file": "04_成品/main_png/05.png",
+      "sha256": "72125e208e1eee3aa8dbf303a5741a6863e5a016212081486d4d9f4c69db7d94",
+      "bytes": 69078,
+      "mtime_ns": 1790929770267346085
+    },
+    {
+      "file": "04_成品/main_png/06.png",
+      "sha256": "083bc02d0d1bc3e4e56dd4603d6a3855c440c09ce5d8a439dd4c50e898165ee1",
+      "bytes": 74700,
+      "mtime_ns": 1790929771339826347
+    },
+    {
+      "file": "04_成品/main_png/07.png",
+      "sha256": "7831a4811931d62008a1c242df4c525ce304abb95bc8ef2b090456aa5fa281f3",
+      "bytes": 76058,
+      "mtime_ns": 1790929772384581454
+    },
+    {
+      "file": "04_成品/main_png/08.png",
+      "sha256": "c9a4f147ef0ea1660eb4702514badb008331140765da9a9285dd9d331abc31fc",
+      "bytes": 67399,
+      "mtime_ns": 1790929773412959355
+    },
+    {
+      "file": "04_成品/main_png/09.png",
+      "sha256": "adbf2fde3eb7306cb021ff988dcc3fbba5e4eaa71d527fdf3befc462ff32875e",
+      "bytes": 76256,
+      "mtime_ns": 1790929774408411758
+    },
+    {
+      "file": "04_成品/main_png/10.png",
+      "sha256": "77223d8952ea74e9e8d3cdb26f1074e9792dfbb1fe449d0f92e3c4ac77dfce7f",
+      "bytes": 71697,
+      "mtime_ns": 1790929775453145032
+    },
+    {
+      "file": "04_成品/main_png/11.png",
+      "sha256": "679cfb44289019e2c5fe07aa8b4644f151bdcc27e3f1a56154ba560361f56e7e",
+      "bytes": 81069,
+      "mtime_ns": 1790929776485900227
+    },
+    {
+      "file": "04_成品/main_png/12.png",
+      "sha256": "fae6a467da5e03a322176bd125c8aa8b2ced7beb258d31a0099ad17701961660",
+      "bytes": 69274,
+      "mtime_ns": 1790929777460130457
+    },
+    {
+      "file": "04_成品/main_png/13.png",
+      "sha256": "326be489b4885e60d4fb5cf4fede51a32f518e6d8f9e2d06c9d73455c9c64aca",
+      "bytes": 73594,
+      "mtime_ns": 1790929778478789219
+    },
+    {
+      "file": "04_成品/main_png/14.png",
+      "sha256": "3b701f6e8028c7f6e03b3af57e8ead19fe725c3c94a9d65cefa9c91c932621df",
+      "bytes": 74323,
+      "mtime_ns": 1790929779498244863
+    },
+    {
+      "file": "04_成品/main_png/15.png",
+      "sha256": "df08c5a60de6755bd7ee9fedf4fd99b3df0854d6c80e37ac86b9e0ffb2486839",
+      "bytes": 71903,
+      "mtime_ns": 1790929780501227050
+    },
+    {
+      "file": "04_成品/main_png/16.png",
+      "sha256": "c839dc16c51f7836ca676063a51bf1b676b085310d67e17987f157283478cc6b",
+      "bytes": 75988,
+      "mtime_ns": 1790929781493506171
+    },
+    {
+      "file": "04_成品/main_png/17.png",
+      "sha256": "d30f9420d7d61f5bbb60db9eb64e9a9dc21c69678a80887d87958e85d009da6c",
+      "bytes": 79753,
+      "mtime_ns": 1790929782443802494
+    },
+    {
+      "file": "04_成品/main_png/18.png",
+      "sha256": "422a230837d28cddbfc2464736343eec7c457f8fa47d05956ce4dac253bcb075",
+      "bytes": 72005,
+      "mtime_ns": 1790929783489315775
+    },
+    {
+      "file": "04_成品/main_png/19.png",
+      "sha256": "031394b7a9c53be2e35e61147eb3258a114af14a2e4130dd1101552911e39cc4",
+      "bytes": 70116,
+      "mtime_ns": 1790929784474754327
+    },
+    {
+      "file": "04_成品/main_png/20.png",
+      "sha256": "3338162575ac8524db390a25f36f551176a94224c0bd2c584e751391aa8e3f6f",
+      "bytes": 85535,
+      "mtime_ns": 1790929785596741130
+    },
+    {
+      "file": "04_成品/main_png/21.png",
+      "sha256": "7d449f08654a5bd8d054e39c5292356fe23a4f7b4f2326089c55a5de16bbcbe4",
+      "bytes": 89002,
+      "mtime_ns": 1790929786548531384
+    },
+    {
+      "file": "04_成品/main_png/22.png",
+      "sha256": "37153b2134b9f722c9f3e904755c719f6fbd6a7f7fec995878944a026b721c4c",
+      "bytes": 92752,
+      "mtime_ns": 1790929787655415951
+    },
+    {
+      "file": "04_成品/main_png/23.png",
+      "sha256": "d49c109afba45cb4f7773b5ea4b4f6d9377353c517213a14bf6134d64e11a614",
+      "bytes": 67969,
+      "mtime_ns": 1790929788593449400
+    },
+    {
+      "file": "04_成品/main_png/24.png",
+      "sha256": "387d07cdf8dfd7ccf84a472323b63cc8e47eae82aa5012afad3b410ce8deba0a",
+      "bytes": 76543,
+      "mtime_ns": 1790929789566589286
+    },
+    {
+      "file": "04_成品/manifest.json",
+      "sha256": "fa4ebb58ccc985342bf96781b546155c26c1d8b5a89236cb5f53ff4d406bd466",
+      "bytes": 18045,
+      "mtime_ns": 1790929790233897508
+    },
+    {
+      "file": "04_成品/masters/01.png",
+      "sha256": "09304d3d1fce8d368d6271045c3fc4527e04c78f1426605d5ac1d19bd4608c0a",
+      "bytes": 941179,
+      "mtime_ns": 1790929766372418725
+    },
+    {
+      "file": "04_成品/masters/02.png",
+      "sha256": "84700734a29fa01ca1f4a2042cdb51aca6fef9b97769a1f36057ac9a0639176e",
+      "bytes": 907186,
+      "mtime_ns": 1790929767314687800
+    },
+    {
+      "file": "04_成品/masters/03.png",
+      "sha256": "d55781963f9b13f5e93af6f0aacc27d7828ae9c153de7a38fe755d69a9324ed2",
+      "bytes": 921601,
+      "mtime_ns": 1790929768323599921
+    },
+    {
+      "file": "04_成品/masters/04.png",
+      "sha256": "70cf6cb7bde44e4e0b0e985a1961a57f2c64f4d18c03dd3c74ab0cafae248b13",
+      "bytes": 914105,
+      "mtime_ns": 1790929769271407552
+    },
+    {
+      "file": "04_成品/masters/05.png",
+      "sha256": "a082162658be5baa15c9f0193cb1738c4d759a46e31d557126867a861dc755e5",
+      "bytes": 879741,
+      "mtime_ns": 1790929770246587042
+    },
+    {
+      "file": "04_成品/masters/06.png",
+      "sha256": "41e1f2fff79b2c67c6dd5cafe61791be36b17cf8f4684be9347f2b8a1b193416",
+      "bytes": 1028946,
+      "mtime_ns": 1790929771318110295
+    },
+    {
+      "file": "04_成品/masters/07.png",
+      "sha256": "8c6dbcab0973985950dfef05e089827de690339a278eb16a921713fd53941fd5",
+      "bytes": 1017652,
+      "mtime_ns": 1790929772362849319
+    },
+    {
+      "file": "04_成品/masters/08.png",
+      "sha256": "afd15554d5591889f19e02f3d623821d68137ea591bc4d2e4b50a9ee8ad585c1",
+      "bytes": 875494,
+      "mtime_ns": 1790929773391980727
+    },
+    {
+      "file": "04_成品/masters/09.png",
+      "sha256": "c36ef411309e6f8b1ec6dde9024c45d862d76cf09a24c97d77a1b0e0e3f34df1",
+      "bytes": 992767,
+      "mtime_ns": 1790929774386727623
+    },
+    {
+      "file": "04_成品/masters/10.png",
+      "sha256": "24cffd0f63fa8ed7c51589214ad6464e3bf98e81407c3c6f1c44abacce8cdb66",
+      "bytes": 958614,
+      "mtime_ns": 1790929775431779775
+    },
+    {
+      "file": "04_成品/masters/11.png",
+      "sha256": "be651fcdc400247a93ceee7893094c135f86323a36b42016661629e26fbc9b6a",
+      "bytes": 1091544,
+      "mtime_ns": 1790929776464093882
+    },
+    {
+      "file": "04_成品/masters/12.png",
+      "sha256": "fee47b19175b4a7e83a676f9e9378317c641ca80d485fe569de75ab2bc3bab59",
+      "bytes": 901472,
+      "mtime_ns": 1790929777438564657
+    },
+    {
+      "file": "04_成品/masters/13.png",
+      "sha256": "1a7c355d8cba24516a40b0eefd17b728db53f87c739d6334348ef7a67779c4fa",
+      "bytes": 957157,
+      "mtime_ns": 1790929778454458557
+    },
+    {
+      "file": "04_成品/masters/14.png",
+      "sha256": "276c053080b9dcb61b04bc986cfb77a030db61cc73e4b4ce86430b25ed2e8c95",
+      "bytes": 984144,
+      "mtime_ns": 1790929779476868523
+    },
+    {
+      "file": "04_成品/masters/15.png",
+      "sha256": "1d6dfca947b54c48f4210889f98050f6d5d96cfc361f13f1a130e4f576ca60ce",
+      "bytes": 904970,
+      "mtime_ns": 1790929780479875460
+    },
+    {
+      "file": "04_成品/masters/16.png",
+      "sha256": "96086be478e3c6c826518dd0a54e503180c09f058d7de2f84e853e472bf12ac7",
+      "bytes": 902543,
+      "mtime_ns": 1790929781471551616
+    },
+    {
+      "file": "04_成品/masters/17.png",
+      "sha256": "b857a1aecb213e86f5083bce4f431b99050ffbe7ed264390a0371e1f41f9b833",
+      "bytes": 1108587,
+      "mtime_ns": 1790929782422857574
+    },
+    {
+      "file": "04_成品/masters/18.png",
+      "sha256": "11fc85e4aecfacc2782e826cc810b77d92df33c982b08b05622851c463142589",
+      "bytes": 1408491,
+      "mtime_ns": 1790929783450155256
+    },
+    {
+      "file": "04_成品/masters/19.png",
+      "sha256": "ead55f306f98418634e1fc90a698eb91595a318c8788f227564dce4b370010ef",
+      "bytes": 914223,
+      "mtime_ns": 1790929784454191662
+    },
+    {
+      "file": "04_成品/masters/20.png",
+      "sha256": "1adf37648218c079f6f3bf1b44bbccf26ee97d25ca3f50e79a7f9fc07e57d0cd",
+      "bytes": 1155669,
+      "mtime_ns": 1790929785574677741
+    },
+    {
+      "file": "04_成品/masters/21.png",
+      "sha256": "f868a785b5a55f428bac9cf9029006890100e4471e1cea55773fbf2ea1b78e36",
+      "bytes": 1264418,
+      "mtime_ns": 1790929786527474463
+    },
+    {
+      "file": "04_成品/masters/22.png",
+      "sha256": "e8a4336e07946504ca939f0a2ddb52d8e175ff91281a78aaa69f5087ab67ec4f",
+      "bytes": 1244603,
+      "mtime_ns": 1790929787632690722
+    },
+    {
+      "file": "04_成品/masters/23.png",
+      "sha256": "1ab9a6704f6d3ef5c9fac28cd93d1dff27f956aa3f92f912de4433aa91296867",
+      "bytes": 910126,
+      "mtime_ns": 1790929788571558429
+    },
+    {
+      "file": "04_成品/masters/24.png",
+      "sha256": "e9ec1dda05d21d02ad7d5d80773bd10f4a1247c0ec3f172947f835c1fb92bcd2",
+      "bytes": 943639,
+      "mtime_ns": 1790929789544465522
+    },
+    {
+      "file": "04_成品/masters/chat_icon.png",
+      "sha256": "649e1c23baa98110c5416fe94f5d0268ad77b21ac68d0dfb32cf776204e3cb80",
+      "bytes": 1615763,
+      "mtime_ns": 1790929790103969366
+    },
+    {
+      "file": "04_成品/masters/cover.png",
+      "sha256": "f9262cc38ad6c7995ced2f212a5612464684c99f98521e2cf82a67364eef2202",
+      "bytes": 1267776,
+      "mtime_ns": 1790929789809100521
+    },
+    {
+      "file": "04_成品/platform-profile.json",
+      "sha256": "2fcb0c7586af7afab51aac4a2aafd9c71ae0d5e74e2da89e516ca6786d5fa7eb",
+      "bytes": 2223,
+      "mtime_ns": 1790929765440942508
+    },
+    {
+      "file": "04_成品/preview.html",
+      "sha256": "623d1ec592baf800aa7b2b1ba57e8e8cba1b0402adab6716dd6dacd3de533fde",
+      "bytes": 6481,
+      "mtime_ns": 1790929791424196623
+    },
+    {
+      "file": "04_成品/previews/overview_dark.jpg",
+      "sha256": "49a098d68e2503693c5071ec7bac27c95a3aefff994f39017fdd60073e69f672",
+      "bytes": 657905,
+      "mtime_ns": 1790929791423276948
+    },
+    {
+      "file": "04_成品/previews/overview_light.jpg",
+      "sha256": "bf060ec990f4c65fffbf3c69396065cda94632036b94756f613d867e1b1f9d63",
+      "bytes": 600703,
+      "mtime_ns": 1790929790859314599
+    },
+    {
+      "file": "04_成品/previews/qa_checker_120_01.jpg",
+      "sha256": "f20a62ce042cfcf7f5cb2356fcc4c8341f046067b0692036ac567fb3c3aab18c",
+      "bytes": 274102,
+      "mtime_ns": 1790930762513183975
+    },
+    {
+      "file": "04_成品/previews/qa_dark_120_01.jpg",
+      "sha256": "d14cd983cbd6b14bd406a14415244826aae07b6da157bdc70c5afe4969afb648",
+      "bytes": 239164,
+      "mtime_ns": 1790930762478115677
+    },
+    {
+      "file": "04_成品/previews/qa_extras.jpg",
+      "sha256": "95ccdd974fd6d6cb9a4def8789910cb1b0811d0be801f25f090ebcc023e20286",
+      "bytes": 303175,
+      "mtime_ns": 1790930762524437195
+    },
+    {
+      "file": "04_成品/previews/qa_light_240_01.jpg",
+      "sha256": "6dfe595156f2c48ec1217da7ee3d4b6100f10f6195c2ddded65f25d0ceb2feec",
+      "bytes": 300982,
+      "mtime_ns": 1790930762417848699
+    },
+    {
+      "file": "04_成品/previews/qa_light_240_13.jpg",
+      "sha256": "10c105ae30a3e396c552b986dc7632440a985a49665d911abb567f9a2f7ec0d7",
+      "bytes": 328084,
+      "mtime_ns": 1790930762447822186
+    },
+    {
+      "file": "04_成品/production/generation_log.jsonl",
+      "sha256": "b6ba59ba45f56762f1c1eab37ecf103a7944d03e05498a0f3ea0cef09a180e81",
+      "bytes": 10332,
+      "mtime_ns": 1790930868666177383
+    },
+    {
+      "file": "04_成品/production/generation_requests.json",
+      "sha256": "3726deb4bf6716dc5b3b9c91112f3483b6eed7c5b39a8a7271780d79117fcb6c",
+      "bytes": 54445,
+      "mtime_ns": 1790926715032512102
+    },
+    {
+      "file": "04_成品/production/input.json",
+      "sha256": "aac12a251edb0d3819dba4ddf06a74e6b70dc32336686da5ecb49ded2acd1a08",
+      "bytes": 647,
+      "mtime_ns": 1790926715031142455
+    },
+    {
+      "file": "04_成品/production/source_preflight.json",
+      "sha256": "c528026b0205031247dd856d8096d9a9efa9c4e8c714cfaf859a624aeda9cdaa",
+      "bytes": 4054,
+      "mtime_ns": 1790929395854809857
+    },
+    {
+      "file": "04_成品/production/用户原始卡通参考.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1790925852563215469
+    },
+    {
+      "file": "04_成品/provenance.json",
+      "sha256": "f8d3204fa194ff3979cb165d5425e8f476ae0180b2d8df5114253977d78100ec",
+      "bytes": 12843,
+      "mtime_ns": 1790929790284604685
+    },
+    {
+      "file": "04_成品/scripts/build_pack.py",
+      "sha256": "f60311f79121080edcac382139c559997d02284e82785ed95d924811e5cbffd5",
+      "bytes": 15648,
+      "mtime_ns": 1790929765441234511
+    },
+    {
+      "file": "04_成品/scripts/pack_utils.py",
+      "sha256": "83a3fa400f213f493e8d78aace0c01759d587afaf235b15411cb66912eeb0bc2",
+      "bytes": 11847,
+      "mtime_ns": 1790930757138545597
+    },
+    {
+      "file": "04_成品/scripts/validate_pack.py",
+      "sha256": "a85719b642a8ba91125c66db8d626d793bad47714c563fc85453cd8729830d45",
+      "bytes": 17443,
+      "mtime_ns": 1790930757139177771
+    },
+    {
+      "file": "04_成品/sources/01.png",
+      "sha256": "b51544f7937f5d4cf49f7d4f9ec48f8c7f67d6dc7991e32990e8e072e012d007",
+      "bytes": 2033453,
+      "mtime_ns": 1790929765764749520
+    },
+    {
+      "file": "04_成品/sources/02.png",
+      "sha256": "9c82645d7dffe422cd85dcc06455ab17a666d8710f0ec2171c8a1606b9de84d2",
+      "bytes": 1983958,
+      "mtime_ns": 1790929766720979278
+    },
+    {
+      "file": "04_成品/sources/03.png",
+      "sha256": "e249a5c27af9daa3625a2933f87d04fab006c652361f91f3565ab05e56947d9d",
+      "bytes": 2143824,
+      "mtime_ns": 1790929767694782379
+    },
+    {
+      "file": "04_成品/sources/04.png",
+      "sha256": "406a2e0bbaf499789a2931dbef4b0e060ed1027b2f6ba3e9b1fc5f70b292d68e",
+      "bytes": 2082512,
+      "mtime_ns": 1790929768671189923
+    },
+    {
+      "file": "04_成品/sources/05.png",
+      "sha256": "0213df02c3c288efc5f21e40745945ff207d05e43f65f205cfbdee526af5226f",
+      "bytes": 2031951,
+      "mtime_ns": 1790929769626744549
+    },
+    {
+      "file": "04_成品/sources/06.png",
+      "sha256": "0f1756aef92e2505e895fc10852957c930c2fb65f52efd1d4c76c65d60a9c789",
+      "bytes": 2505739,
+      "mtime_ns": 1790929770676522790
+    },
+    {
+      "file": "04_成品/sources/07.png",
+      "sha256": "003775b37e6c1e30d70a575804f21a3205f0ba5011b9211b0a7d490e777629ef",
+      "bytes": 2316246,
+      "mtime_ns": 1790929771710206495
+    },
+    {
+      "file": "04_成品/sources/08.png",
+      "sha256": "7cfd97451b33fec7f87c52eff7ef72ea8a9dc500672c2a9092bb4ea0df41b130",
+      "bytes": 2035664,
+      "mtime_ns": 1790929772752614120
+    },
+    {
+      "file": "04_成品/sources/09.png",
+      "sha256": "d4db473642f103e56045b69b26e58ef098fd96f4d8681a30471ade6dea746851",
+      "bytes": 2174526,
+      "mtime_ns": 1790929773763393136
+    },
+    {
+      "file": "04_成品/sources/10.png",
+      "sha256": "7ae4a8359468356484f503769f1a46f5b79711badb523c12058aed6c9b6337d8",
+      "bytes": 2223959,
+      "mtime_ns": 1790929774796281124
+    },
+    {
+      "file": "04_成品/sources/11.png",
+      "sha256": "51ef443c06fa45c151090557aadf89c434ae0e1548811116e28de319f29fbaf3",
+      "bytes": 2192073,
+      "mtime_ns": 1790929775823105925
+    },
+    {
+      "file": "04_成品/sources/12.png",
+      "sha256": "c4f927eb85129780eda3ebebe9ab1a931f8a5f49361b15d3108e8e054eb926b6",
+      "bytes": 2001458,
+      "mtime_ns": 1790929776825056518
+    },
+    {
+      "file": "04_成品/sources/13.png",
+      "sha256": "27c76162949797acebc2050a2cd616b7b955dd0537e89a888f5007a99fdf6dfa",
+      "bytes": 2209395,
+      "mtime_ns": 1790929777823719286
+    },
+    {
+      "file": "04_成品/sources/14.png",
+      "sha256": "8f92d84e2e0e0af27577cc4255922129f94ed3106671736df1d4f0c88984ac7d",
+      "bytes": 2317850,
+      "mtime_ns": 1790929778851440514
+    },
+    {
+      "file": "04_成品/sources/15.png",
+      "sha256": "6cc8a5a775cc11142797550f5006612e34c1c223b8abcae1af5c830b28c030e3",
+      "bytes": 2124354,
+      "mtime_ns": 1790929779844533476
+    },
+    {
+      "file": "04_成品/sources/16.png",
+      "sha256": "4ce2df283963c94e6d4b028eb0ee63c33185fae01e8b1e9564ff1764563242bf",
+      "bytes": 2099517,
+      "mtime_ns": 1790929780842523613
+    },
+    {
+      "file": "04_成品/sources/17.png",
+      "sha256": "6ebc69fa3427746b46805e91e328578fb6dc4eaafd6951b7af550dafe0b7658c",
+      "bytes": 2012156,
+      "mtime_ns": 1790929781805898151
+    },
+    {
+      "file": "04_成品/sources/18.png",
+      "sha256": "84a2c58ce8d068cd66213f7dff49f6626174a478e2e728038570451a4cbdc767",
+      "bytes": 2250139,
+      "mtime_ns": 1790929782766261534
+    },
+    {
+      "file": "04_成品/sources/19.png",
+      "sha256": "56e249b665d8f907576da6abafa3a2b17fb57329387e8c647201488f0d711c3c",
+      "bytes": 2030342,
+      "mtime_ns": 1790929783828543484
+    },
+    {
+      "file": "04_成品/sources/20.png",
+      "sha256": "25c81d81cbd3b353c37a7cef27770db15ad13a97bd64a18b51667100c1806876",
+      "bytes": 2441246,
+      "mtime_ns": 1790929784888189533
+    },
+    {
+      "file": "04_成品/sources/21.png",
+      "sha256": "6cbdcae33b50b1e021c5172803675ad9879c5d99670835e7395e67af2a2e837b",
+      "bytes": 1899248,
+      "mtime_ns": 1790929785893290408
+    },
+    {
+      "file": "04_成品/sources/22.png",
+      "sha256": "30f43be7fe318a412ebea180cf3447b8e3a408ac775364b6577914474039dbbf",
+      "bytes": 2122860,
+      "mtime_ns": 1790929786916164628
+    },
+    {
+      "file": "04_成品/sources/23.png",
+      "sha256": "502dea3441547c08221564d2ebab3b5f75d0df63b7aba3348166f108552377d2",
+      "bytes": 2182455,
+      "mtime_ns": 1790929787992007966
+    },
+    {
+      "file": "04_成品/sources/24.png",
+      "sha256": "cdf16031fb78e47aa42a946f542d9ccf92bd6120aec852a0dc9c72e5056efcc4",
+      "bytes": 1975524,
+      "mtime_ns": 1790929788914266631
+    },
+    {
+      "file": "04_成品/sources/banner.png",
+      "sha256": "a6068c2d670f55421b0c15e076fb89a72f33ba313e1f38708b851a9eff4894f7",
+      "bytes": 2776133,
+      "mtime_ns": 1790929790141349867
+    },
+    {
+      "file": "04_成品/sources/chat_icon.png",
+      "sha256": "1ce755ce8b333cbf915cde5a098cec79379436e943e5235298e0efe83db6af7c",
+      "bytes": 2751453,
+      "mtime_ns": 1790929789842498356
+    },
+    {
+      "file": "04_成品/sources/cover.png",
+      "sha256": "7898b371cb348cfdc0b31d289f039691c3eac66db870961edcd3b8e9be7cc735",
+      "bytes": 2084739,
+      "mtime_ns": 1790929789593166054
+    },
+    {
+      "file": "04_成品/submission_GIF.zip",
+      "sha256": "17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268",
+      "bytes": 1501360,
+      "mtime_ns": 1790931707666606679
+    },
+    {
+      "file": "04_成品/submission_PNG.zip",
+      "sha256": "18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69",
+      "bytes": 2614567,
+      "mtime_ns": 1790931707630641136
+    },
+    {
+      "file": "04_成品/thumbnail/01.png",
+      "sha256": "e2bb11b8da4ebcfb269f61e2b371920c3ce64d88869e2c2b9a4267b117521c6f",
+      "bytes": 21276,
+      "mtime_ns": 1790929766401373891
+    },
+    {
+      "file": "04_成品/thumbnail/02.png",
+      "sha256": "73f9b8cf6a55dcf3299806ea018c72a2d17517b6c6e1904c28298be23edf449c",
+      "bytes": 19841,
+      "mtime_ns": 1790929767342225244
+    },
+    {
+      "file": "04_成品/thumbnail/03.png",
+      "sha256": "47aa3f01b51fdcea37ebbabc514a7ec6b0289c1774f1da0bbfd69867e1faa595",
+      "bytes": 21691,
+      "mtime_ns": 1790929768353251470
+    },
+    {
+      "file": "04_成品/thumbnail/04.png",
+      "sha256": "f6f3b4121555f33703bd7fa3d282b8b9bb06731e8f86eeeaa3f744e0aad26c68",
+      "bytes": 21193,
+      "mtime_ns": 1790929769299930840
+    },
+    {
+      "file": "04_成品/thumbnail/05.png",
+      "sha256": "6953b047570019aee11b50381187b2903dbf9c747081673992e26409542eba57",
+      "bytes": 20742,
+      "mtime_ns": 1790929770275285956
+    },
+    {
+      "file": "04_成品/thumbnail/06.png",
+      "sha256": "ca198d0be210b7b3dfec6ec342736bb6a026b5502afe70c505e5b69d6e676496",
+      "bytes": 22209,
+      "mtime_ns": 1790929771348787187
+    },
+    {
+      "file": "04_成品/thumbnail/07.png",
+      "sha256": "56e97cc5d49a63dc990999925cfcec1b342a55450fee2fbc409cba2e377eab4b",
+      "bytes": 22495,
+      "mtime_ns": 1790929772392773454
+    },
+    {
+      "file": "04_成品/thumbnail/08.png",
+      "sha256": "eb71003767cc22ad066a227b8b088ae9013426870ab515b2baf882c0f495121f",
+      "bytes": 20283,
+      "mtime_ns": 1790929773421011061
+    },
+    {
+      "file": "04_成品/thumbnail/09.png",
+      "sha256": "64d5b1ec05c01a70fca893650fc7191f24df0e5190c1a9bccb443aa4ca16e469",
+      "bytes": 22824,
+      "mtime_ns": 1790929774416938886
+    },
+    {
+      "file": "04_成品/thumbnail/10.png",
+      "sha256": "02fa62824071a75662d9e4edd3b70921c1ac060c107e41fa5c09f32a2976bb77",
+      "bytes": 21259,
+      "mtime_ns": 1790929775461434365
+    },
+    {
+      "file": "04_成品/thumbnail/11.png",
+      "sha256": "9e52ac20e05d56c938631f07156b03778fbb7a9a62dbd5853f52309ad92ddb0c",
+      "bytes": 24367,
+      "mtime_ns": 1790929776494069393
+    },
+    {
+      "file": "04_成品/thumbnail/12.png",
+      "sha256": "5b9eb44806619cb9d7d0b79e87f6c98192d4a5d53b9f31b8ff5fb6ac6da0426f",
+      "bytes": 20574,
+      "mtime_ns": 1790929777468796420
+    },
+    {
+      "file": "04_成品/thumbnail/13.png",
+      "sha256": "f62ba9bf5e4f2b53d55bd62e93eae626041198d4cd0d3daef2002391247f7907",
+      "bytes": 21976,
+      "mtime_ns": 1790929778487082844
+    },
+    {
+      "file": "04_成品/thumbnail/14.png",
+      "sha256": "920e7424b0cf68306b8248aaf4f720f357aa1cfd14fb3b5fe3914b37e85c75d8",
+      "bytes": 22284,
+      "mtime_ns": 1790929779506807700
+    },
+    {
+      "file": "04_成品/thumbnail/15.png",
+      "sha256": "f374cc1a26df6f37f905584408c7728c9be9b05b70d331cb4c22550e51df8cc4",
+      "bytes": 21677,
+      "mtime_ns": 1790929780509677219
+    },
+    {
+      "file": "04_成品/thumbnail/16.png",
+      "sha256": "f24bfda0c9f05d0170e2b887ec0de542e1560e0601d98754050a077b183d1c43",
+      "bytes": 23191,
+      "mtime_ns": 1790929781501692045
+    },
+    {
+      "file": "04_成品/thumbnail/17.png",
+      "sha256": "dfe82a74d71b596ff6b52a9000ae3a988de7fad7456ba4b3c72ae62b841b9341",
+      "bytes": 22875,
+      "mtime_ns": 1790929782451509321
+    },
+    {
+      "file": "04_成品/thumbnail/18.png",
+      "sha256": "d5a6b3dc41e0b09c0594a2619f4e473d5066507f94493c643c1d4070d1addafe",
+      "bytes": 28625,
+      "mtime_ns": 1790929783497727443
+    },
+    {
+      "file": "04_成品/thumbnail/19.png",
+      "sha256": "80af6dcf70de05fad85fae93dad1b0b60aae20e352f53035f6abc57e662712af",
+      "bytes": 20783,
+      "mtime_ns": 1790929784482972327
+    },
+    {
+      "file": "04_成品/thumbnail/20.png",
+      "sha256": "c13de42bac8aacbe512215bb32c306d3e9328c43f52926bbcd3532b98cb68bb4",
+      "bytes": 25020,
+      "mtime_ns": 1790929785605453717
+    },
+    {
+      "file": "04_成品/thumbnail/21.png",
+      "sha256": "a8850c9cae5737d5e9da5ad8bbb6fb2e3dcfa48ba6c70fe611cc35c5d91121df",
+      "bytes": 25455,
+      "mtime_ns": 1790929786557015303
+    },
+    {
+      "file": "04_成品/thumbnail/22.png",
+      "sha256": "d63f53f139f596d4eb81e548b36ed5c018b16ac6ba593f8547afc3fe1d968692",
+      "bytes": 27795,
+      "mtime_ns": 1790929787664106288
+    },
+    {
+      "file": "04_成品/thumbnail/23.png",
+      "sha256": "df66837c286240719d60aa8da35a5e0f9eb07fb530055f7c0cfe6d0dd1fa5d93",
+      "bytes": 20277,
+      "mtime_ns": 1790929788601558732
+    },
+    {
+      "file": "04_成品/thumbnail/24.png",
+      "sha256": "becfb5538533ecd8606d71c1c7dac47b852afcafaa33d6c33b865a6b2bd98a56",
+      "bytes": 23243,
+      "mtime_ns": 1790929789575210290
+    },
+    {
+      "file": "04_成品/validation_report.json",
+      "sha256": "d087e6aef566f7dfd9c12f6d6bf63e9ce2172b1a69bfe6b616fd355c8e1cf7d0",
+      "bytes": 131674,
+      "mtime_ns": 1790931707562052719
+    },
+    {
+      "file": "04_成品/visual_review.json",
+      "sha256": "127540d7cbef87a20a3f71f82a110b530cdd1cb489efa202d8499c9f6e089ffb",
+      "bytes": 16202,
+      "mtime_ns": 1790931704973912295
+    },
+    {
+      "file": "04_成品/zip_validation.json",
+      "sha256": "435fbde312a0aec994f1675c0cef2bce3b4bb4b45d6f8ea5add937c86a158364",
+      "bytes": 655,
+      "mtime_ns": 1790931710575455531
+    },
+    {
+      "file": "04_成品/上传填写文案.md",
+      "sha256": "ea874aadbd2504bd1953fd8a02d1d0a30c8db2323ee8df26c0bdfc4d6f01e991",
+      "bytes": 1978,
+      "mtime_ns": 1790927656096139300
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-02",
+  "status": "PASS",
+  "scope": "本地 HTTP 作品库；手机宽度使用 375px 模拟视口，未作为真机验收；版本切换使用隔离样例，不计入正式作品目录。",
+  "checks": [
+    {
+      "cards": 3,
+      "check": "initial",
+      "documentWidth": 988,
+      "loadedCovers": true,
+      "result": "3 套作品 · 常用版本优先",
+      "title": "猫咪表情作品库",
+      "viewport": [
+        988,
+        898
+      ]
+    },
+    {
+      "cards": 1,
+      "check": "role_filter",
+      "result": "1 套作品 · 常用版本优先",
+      "title": "奶思日常回应"
+    },
+    {
+      "captions": [
+        "谢谢",
+        "谢谢啦",
+        "谢谢你"
+      ],
+      "cards": 3,
+      "check": "caption_search",
+      "images": [
+        {
+          "alt": "范恩：谢谢",
+          "loaded": true
+        },
+        {
+          "alt": "古德：谢谢啦",
+          "loaded": true
+        },
+        {
+          "alt": "奶思：谢谢你",
+          "loaded": true
+        }
+      ],
+      "result": "3 张表情 · 每个主题一个匹配版本",
+      "url": "http://127.0.0.1:8769/%E8%A1%A8%E6%83%85%E5%8C%85%E4%BD%9C%E5%93%81%E5%BA%93.html?q=%E8%B0%A2%E8%B0%A2&view=stickers"
+    },
+    {
+      "caption": "谢谢",
+      "cards": 1,
+      "check": "single_favorite",
+      "star": "true"
+    },
+    {
+      "caption": "谢谢",
+      "cards": 1,
+      "check": "favorite_after_reload",
+      "star": "true",
+      "url": "http://127.0.0.1:8769/%E8%A1%A8%E6%83%85%E5%8C%85%E4%BD%9C%E5%93%81%E5%BA%93.html?q=%E8%B0%A2%E8%B0%A2&view=stickers&favorites=1"
+    },
+    {
+      "allNaisi": true,
+      "cards": 24,
+      "check": "alias_search",
+      "result": "24 张表情 · 每个主题一个匹配版本"
+    },
+    {
+      "cards": 0,
+      "check": "empty_search",
+      "emptyVisible": true
+    },
+    {
+      "cards": 48,
+      "check": "single_first_page",
+      "pagination": "上一页1 / 2下一页",
+      "result": "72 张表情 · 每个主题一个匹配版本"
+    },
+    {
+      "cards": 24,
+      "check": "single_second_page",
+      "pagination": "上一页2 / 2下一页"
+    },
+    {
+      "cards": 0,
+      "check": "platform_filter",
+      "emptyVisible": true
+    },
+    {
+      "allSize240": true,
+      "cards": 24,
+      "check": "pack_detail",
+      "downloadLinks": 3,
+      "loaded": 24,
+      "title": "奶思日常回应",
+      "versionOptions": 1
+    },
+    {
+      "check": "detail_dark",
+      "color": "rgb(44, 48, 46)"
+    },
+    {
+      "check": "detail_checker",
+      "pattern": "conic-gradient(rgb(214, 217, 208) 25%, rgb(241, 241, 233) 0deg, rgb(241, 241, 233) 50%, rgb(214, 217, 208) 0deg, rgb(214, 217, 208) 75%, rgb(241, 241, 233) 0deg)"
+    },
+    {
+      "check": "library_download",
+      "path": "/Users/saymagic/Downloads/submission_PNG.zip"
+    },
+    {
+      "check": "mobile_detail_375",
+      "dialogClientWidth": 337,
+      "dialogScrollWidth": 337,
+      "dialogWidth": 339,
+      "documentWidth": 375,
+      "headerSticky": "sticky",
+      "mainSizes": [
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ],
+        [
+          240,
+          240
+        ]
+      ],
+      "viewport": [
+        375,
+        812
+      ]
+    },
+    {
+      "check": "mobile_extras_375",
+      "dialogClientWidth": 337,
+      "dialogScrollWidth": 337,
+      "expanded": true,
+      "images": [
+        {
+          "alt": "奶思无白边封面",
+          "height": 240,
+          "width": 240
+        },
+        {
+          "alt": "奶思50px聊天图标",
+          "height": 50,
+          "width": 50
+        },
+        {
+          "alt": "奶思有色无字横幅",
+          "height": 146.6640625,
+          "width": 275
+        }
+      ]
+    },
+    {
+      "cards": 3,
+      "check": "mobile_library_375",
+      "columns": "343px",
+      "dialogClosed": true,
+      "documentWidth": 375,
+      "viewport": [
+        375,
+        812
+      ]
+    },
+    {
+      "cards": 3,
+      "check": "mobile_search",
+      "query": "晚安",
+      "result": "3 套作品 · 已检索全部未归档版本"
+    },
+    {
+      "check": "version_switch_draft_fixture",
+      "downloads": 0,
+      "images": 0,
+      "notice": "这一版还在制作，当前显示已有文案和图片。完成实际验收后再提供上传包。",
+      "scope": "隔离HTML样例，未新增真实作品",
+      "sub": "v002 · 静态24张 · 制作中 · 微信未投稿",
+      "version": "pack-000000000002"
+    },
+    {
+      "check": "version_switch_ready_fixture",
+      "downloads": 3,
+      "images": 24,
+      "scope": "隔离HTML样例，未新增真实作品",
+      "sub": "v001 · 静态24张 · 常用 · 本地成品 · 微信未投稿"
+    },
+    {
+      "cards": 4,
+      "check": "history_fixture",
+      "result": "4 套作品 · 含历史与归档版本",
+      "scope": "隔离HTML样例，未新增真实作品"
+    },
+    {
+      "cards": 3,
+      "check": "desktop_1280",
+      "columns": "322px 322px 322px",
+      "documentWidth": 1280,
+      "loadedCovers": true,
+      "viewport": [
+        1280,
+        900
+      ]
+    },
+    {
+      "check": "creation_guide",
+      "open": true,
+      "steps": 5,
+      "title": "从创作到入库"
+    }
+  ],
+  "console": [],
+  "limitations": [
+    {
+      "capability": "file 协议直开",
+      "status": "NOT_VERIFIED",
+      "reason": "应用内浏览器只允许 HTTP/HTTPS；交付采用已验收的一键本地 HTTP 入口。"
+    }
+  ],
+  "screenshots": [
+    "作品库桌面预览.jpg",
+    "手机详情预览.jpg"
+  ],
+  "download_integrity": {
+    "status": "PASS",
+    "source": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
+    "download": "/Users/saymagic/Downloads/submission_PNG.zip",
+    "sha256": "7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936",
+    "bytes": 2507024
+  }
+}

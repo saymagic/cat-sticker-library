@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-02",
+  "characters": [
+    "奶思",
+    "古德",
+    "范恩"
+  ],
+  "works": [
+    {
+      "character": "奶思",
+      "theme": "奶思日常回应",
+      "version": "v001_20261002_静态24张",
+      "count": 24,
+      "type": "静态",
+      "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张",
+      "status": "本地成品",
+      "original_reference": "奶思/f916344e-49d3-4259-a768-20059517a107.png",
+      "technical_checks": 1033,
+      "platform_approval": "not_submitted"
+    },
+    {
+      "character": "古德",
+      "theme": "古德有话说",
+      "version": "v001_20261002_静态24张",
+      "count": 24,
+      "type": "静态",
+      "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张",
+      "status": "本地成品",
+      "original_reference": "古德/棕色虎斑猫可爱贴纸合集.png",
+      "technical_checks": 1129,
+      "platform_approval": "not_submitted"
+    },
+    {
+      "character": "范恩",
+      "theme": "范恩软萌日常",
+      "version": "v001_20261002_静态24张",
+      "count": 24,
+      "type": "静态",
+      "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张",
+      "status": "本地成品",
+      "original_reference": "范恩/0d707089-ec57-4d75-8cd2-251fc5da7006.png",
+      "technical_checks": 1129,
+      "platform_approval": "not_submitted"
+    }
+  ]
+}

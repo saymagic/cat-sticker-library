@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fanen",
+    "name": "范恩",
+    "aliases": [],
+    "references": [
+      {
+        "path": "references/fanen_01.png",
+        "role": "current_user_original_cartoon",
+        "bundled_source": "/Users/saymagic/workspace/表情包/03_工程/references/fanen.png"
+      }
+    ]
+  }
+]

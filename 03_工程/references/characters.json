@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {
+      "id": "naisi",
+      "name": "奶思",
+      "aliases": [],
+      "references": [
+        {
+          "path": "references/naisi.png",
+          "role": "current_user_original_cartoon"
+        }
+      ]
+    },
+    {
+      "id": "gude",
+      "name": "古德",
+      "aliases": [],
+      "references": [
+        {
+          "path": "references/gude.png",
+          "role": "current_user_original_cartoon"
+        }
+      ]
+    },
+    {
+      "id": "fanen",
+      "name": "范恩",
+      "aliases": [],
+      "references": [
+        {
+          "path": "references/fanen.png",
+          "role": "current_user_original_cartoon"
+        }
+      ]
+    }
+  ]
+}

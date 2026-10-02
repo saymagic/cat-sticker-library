@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:45:31.375031+08:00",
+  "updated_at": "2026-10-02T21:07:53.766065+08:00",
   "characters": [
     "奶思",
     "古德",
@@ -201,14 +201,14 @@
       ],
       "packages": [
         {
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936.zip",
+          "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
           "label": "PNG上传包",
           "bytes": 2507024,
           "download": "奶思_奶思日常回应_v001_submission_PNG.zip",
           "sha256": "7d166ed4ab21eba1036efb6d2bcb93209d2bb8dbc3460a41ee20baab2de64936"
         },
         {
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-96045df646ee04c3c44c8f3c0b19bb2171c548bbcefefd60407de2fa0ebe85f6.zip",
+          "path": "01_作品/奶思/奶思日常回应/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
           "label": "GIF静态备用",
           "bytes": 1458407,
           "download": "奶思_奶思日常回应_v001_submission_GIF.zip",
@@ -454,14 +454,14 @@
       ],
       "packages": [
         {
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69.zip",
+          "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
           "label": "PNG上传包",
           "bytes": 2614567,
           "download": "古德_古德有话说_v001_submission_PNG.zip",
           "sha256": "18f2de98d5f8b37fd61e0f89d9a26a4e6980d7c7f33c846552ae008c8622ad69"
         },
         {
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-17c394f8be5d01f8137d63203c73ff1e5dc1070fff48e3b825bcbd40c8118268.zip",
+          "path": "01_作品/古德/古德有话说/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
           "label": "GIF静态备用",
           "bytes": 1501360,
           "download": "古德_古德有话说_v001_submission_GIF.zip",
@@ -706,14 +706,14 @@
       ],
       "packages": [
         {
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d.zip",
+          "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
           "label": "PNG上传包",
           "bytes": 2279959,
           "download": "范恩_范恩软萌日常_v001_submission_PNG.zip",
           "sha256": "1e7b556c42a33cc0afac12a69d9055ca2c2f32c4a99ba29b0869a0b9de11229d"
         },
         {
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-v1/archive-12feb9ec72f474e35cd3090b1e038b52826bd2b85f9d7af3391519b6f817290a.zip",
+          "path": "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/submission_GIF.zip",
           "label": "GIF静态备用",
           "bytes": 1403484,
           "download": "范恩_范恩软萌日常_v001_submission_GIF.zip",

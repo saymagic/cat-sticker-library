@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "versions": 3,
+  "stickers": 72,
+  "files": 114,
+  "bytes": 6594928,
+  "release_downloads": 9,
+  "local_links_checked": 115,
+  "output": "/Users/saymagic/workspace/表情包/_site",
+  "source_commit": "9d96e3c0484f672628f9929afbbc726a79f22a29",
+  "built_at": "2026-10-02T20:45:31.412225+08:00",
+  "public_url": "https://stickers.saymagic.cn/",
+  "workflow_run": null
+}

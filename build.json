@@ -7,9 +7,9 @@
   "release_downloads": 3,
   "site_downloads": 6,
   "local_links_checked": 121,
-  "output": "/Users/saymagic/workspace/表情包/_site",
+  "output": "/home/runner/work/cat-sticker-library/cat-sticker-library/_site",
   "source_commit": "55ad5ba8077efd4429f099147a370faf910d4e26",
-  "built_at": "2026-10-02T21:33:36.170664+08:00",
+  "built_at": "2026-10-03T16:07:13.519292+08:00",
   "public_url": "https://stickers.saymagic.cn/",
-  "workflow_run": null
+  "workflow_run": "https://github.com/saymagic/cat-sticker-library/actions/runs/37013698696"
 }

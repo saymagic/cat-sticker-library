@@ -205,8 +205,10 @@ def _build(root, output):
         for e in versions:e['default'] = preferred is e
     copied = set()
     def copy_file(relative):
-        if not relative or relative in copied or urlsplit(relative).scheme:
+        if not relative or urlsplit(relative).scheme:
             return relative
+        if relative in copied:
+            return Path(relative).with_suffix('.html').as_posix() if Path(relative).suffix == '.md' else relative
         source = lib.inside(root, relative)
         if not source.is_file():
             raise ValueError('Missing public file: ' + relative)

@@ -97,7 +97,7 @@ class LibraryTests(unittest.TestCase):
     def complete(self, e):
         gate=lib.acceptance(self.root,e);lib.seal_version(self.root,e,gate);e['status']='本地成品';lib.set_current(self.data,e)
 
-    def material_fixture(self):
+    def material_fixture(self, preview_copy_link=False):
         """Synthetic role material, including explicit test-only visual evidence."""
         relative = '04_角色素材/范恩/赞赏配套/v001_20261004'
         version = self.root / relative
@@ -109,7 +109,7 @@ class LibraryTests(unittest.TestCase):
         lib.save(out / 'manifest.json', [{'file': 'guide.png', 'label': '测试引导图', 'spec': {'size': [30, 20], 'format': 'PNG', 'alpha': False, 'limit': 500000}}])
         lib.save(out / 'validation_report.json', {'technical_pass': True, 'checks': [{'pass': True}], 'assets': [{'file': 'guide.png', 'sha256': digest}]})
         lib.save(out / 'visual_review.json', {'status': 'passed', 'reviewer': 'test fixture only', 'issues': [], 'asset_sha256': {'guide.png': digest}, 'items': {'guide.png': True}})
-        lib.save(out / 'preview.html', '<img src="guide.png" alt="隔离测试">')
+        lib.save(out / 'preview.html', '<img src="guide.png" alt="隔离测试">' + ('<a href="赞赏引导语.md">查看文案</a>' if preview_copy_link else ''))
         lib.save(out / '赞赏引导语.md', '仅用于隔离测试。')
         with zipfile.ZipFile(out / 'submission_角色配套.zip', 'w') as archive:
             archive.write(out / 'guide.png', 'guide.png')

@@ -29,7 +29,7 @@ class PublishTests(unittest.TestCase):
         self.fixture.tearDown()
 
     def test_character_materials_publish_images_and_same_domain_zip(self):
-        material = self.fixture.material_fixture()
+        material = self.fixture.material_fixture(preview_copy_link=True)
         lib.refresh(self.root, self.fixture.data, self.fixture.config)
         pub.prepare(self.root)
         site = self.root / '_site'; pub.build(self.root, site)

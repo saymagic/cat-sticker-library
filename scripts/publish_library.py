@@ -35,24 +35,44 @@ def config(root):
 
 def prepare(root):
     settings = config(root)
+    data = lib.load(root / lib.CATALOG)
+    characters = lib.configuration(root)
+    approved = {}
+    for raw in data['entries']:
+        entry = lib.hydrate(root, raw, characters)
+        if entry['status'] == '本地成品' and not entry['can_download']:
+            raise ValueError('Completed version has invalid evidence: ' + entry['id'])
+        if entry['can_download']:
+            for package in entry['packages']:
+                file = lib.inside(root, package['path'])
+                approved[file] = lib.sha(file)
+    approved_hashes = set(approved.values())
+    old = root / 'deployment/archives.json'
+    known = {x['sha256']: x for x in lib.load(old)['assets']} if old.is_file() else {}
+    legacy_paths = {path for asset in known.values() for path in asset['paths']}
     archives = {}
     for file in sorted(root.rglob('*.zip')):
         relative = file.relative_to(root)
         if relative.parts[0] in ('.git', '_site', 'deployment'):
             continue
-        digest = lib.sha(file)
+        if file not in approved:
+            # Draft files stay local even when identical to a completed package.
+            if relative.parts[0] == '01_作品':
+                continue
+            if relative.parts[0] != '02_上传包' and relative.as_posix() not in legacy_paths:
+                continue
+        digest = approved.get(file) or lib.sha(file)
+        if digest not in approved_hashes:
+            continue
         asset = archives.setdefault(digest, {'sha256': digest, 'bytes': file.stat().st_size,
             'name': 'archive-' + digest + '.zip', 'tag': settings['release_tag'], 'paths': []})
         asset['paths'].append(relative.as_posix())
     if not archives:
         raise ValueError('No completed ZIP materials found')
     records = {'schema_version': 1, 'repository': settings['repository'], 'assets': list(archives.values())}
-    old = root / 'deployment/archives.json'
-    if old.is_file():
-        known = {x['sha256']: x for x in lib.load(old)['assets']}
-        for asset in records['assets']:
-            if asset['sha256'] in known:
-                asset['tag'] = known[asset['sha256']]['tag']
+    for asset in records['assets']:
+        if asset['sha256'] in known:
+            asset['tag'] = known[asset['sha256']]['tag']
     lib.save(old, records)
     staging = root / 'deployment/staging' / settings['release_tag']
     staging.mkdir(parents=True, exist_ok=True)
@@ -171,6 +191,9 @@ def _build(root, output):
     for entry in entries:
         if entry['status'] == '本地成品' and not entry['can_download']:
             raise ValueError('Completed version has invalid evidence: ' + entry['id'])
+        if not entry['can_download']:
+            entry['packages'] = []
+            entry['preview'] = None
     for group in {(e['character'], e['theme'], e['media']) for e in entries}:
         versions = [e for e in entries if (e['character'], e['theme'], e['media']) == group and not e['archived']]
         usable = [e for e in versions if e['can_download']]

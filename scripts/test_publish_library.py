@@ -56,6 +56,30 @@ class PublishTests(unittest.TestCase):
         pub.build(self.root, self.root / '_site')
         self.assertEqual(originals, {str(p): (lib.sha(p), p.stat().st_mtime_ns) for p in lib.protected_files(self.root / entry['path'])})
 
+    def test_draft_packages_and_preview_are_not_published(self):
+        draft = self.fixture.fixture()
+        out = self.root / draft['path'] / '04_成品'
+        (out / 'preview.html').write_text('<a href="submission_PNG.zip">未验收包</a>')
+        unrelated = self.root / '未登记.zip'
+        shutil.copy2(out / 'submission_PNG.zip', unrelated)
+        before = {p.name: lib.sha(p) for p in out.glob('*.zip')}
+        lib.refresh(self.root, self.fixture.data, self.fixture.config)
+        pub.prepare(self.root)
+        records = lib.load(self.root / 'deployment/archives.json')
+        paths = [p for asset in records['assets'] for p in asset['paths']]
+        self.assertFalse(any(p.startswith(draft['path'] + '/') for p in paths))
+        self.assertNotIn(unrelated.name, paths)
+        site = self.root / '_site'; result = pub.build(self.root, site)
+        self.assertEqual(result['versions'], 2)
+        public = next(e for e in lib.load(site / 'catalog.json')['entries'] if e['id'] == draft['id'])
+        self.assertFalse(public['can_download'])
+        self.assertEqual(public['status'], '制作中')
+        self.assertEqual(public['packages'], [])
+        self.assertIsNone(public['preview'])
+        self.assertFalse((site / draft['path'] / '04_成品/preview.html').exists())
+        self.assertFalse(list((site / draft['path']).rglob('*.zip')))
+        self.assertEqual(before, {p.name: lib.sha(p) for p in out.glob('*.zip')})
+
     def test_restore_missing_alias_and_preserve_changed_existing_zip(self):
         entry = self.fixture.data['entries'][0]
         original = self.root / entry['path'] / '04_成品/submission_PNG.zip'

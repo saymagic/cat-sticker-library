@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 .sticker-library.lock
+.sticker-publish.lock
 *.zip
 _site/
 deployment/staging/

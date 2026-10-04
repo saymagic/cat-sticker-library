@@ -1,0 +1,12 @@
+{
+  "number": "chat_icon",
+  "revision": "",
+  "prompt": "Use case: illustration-story. Create one independent SQUARE high-resolution transparent chatting panel ICON original of 奶思, matching attached locked cartoon master. Front-facing head plus a tiny visible upper chest only, very simple recognizable gray-black short-haired tabby kitten face, gold-brown round eyes, cream muzzle, pink nose, pink inner ears, warm tiny closed smile. Both ears intact, natural face shape and fine soft hand-painted fur strokes matching reference. Center within 10% clean transparent padding all around. No paws, no accessories, no tail necessary in bust crop, no text, no letters, no watermark, no white sticker outline. Clean solid opaque character with alpha zero around contour, no glow, no haze, no floor or backdrop. Designed to remain recognizable at 50x50 pixels. Do not crop the reference grid, create new independent artwork.",
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png"
+    ],
+    "transparent_background": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "number": "02",
+  "revision": "r2",
+  "prompt": "Edit the attached image only to REMOVE completely all dark brown background, haze, glow, vignette, ground shadow and semitransparent brown surroundings. Preserve exactly the kitten's gold-brown eyes, cream muzzle, pink nose, gray-black tabby coat, peek-around-door pose, one front paw holding doorframe, visible hind paws, single striped tail and pale wooden doorframe. Make the kitten and doorframe solid opaque with clean softly antialiased edges on TRUE TRANSPARENT background, not a color backing. Clear all space outside kitten, whiskers and doorframe to alpha 0. No white outline, no new objects, no text or letters. Keep high-resolution independent artwork and generous transparent padding.",
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/02_原画/02.png"
+    ],
+    "transparent_background": true
+  }
+}

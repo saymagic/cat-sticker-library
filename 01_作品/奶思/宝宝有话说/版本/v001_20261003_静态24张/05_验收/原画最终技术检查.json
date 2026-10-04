@@ -1,0 +1,245 @@
+[
+  {
+    "file": "01.png",
+    "status": "PASS",
+    "native_size": [
+      1214,
+      1295
+    ],
+    "sha256": "9ee0474f1e5e84bccdb5b138f3cc86840503fff7cb4d65d8ca6212ecfbc83575"
+  },
+  {
+    "file": "02.png",
+    "status": "PASS",
+    "native_size": [
+      1254,
+      1254
+    ],
+    "sha256": "a68ad805ad0bb25b9d596672df1ec91afcda5daae3a44ec02d68ea9566bc4693"
+  },
+  {
+    "file": "03.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "abdde417df6792e5a2db9565e8f98138fdf2892f10d94aa6b35bcec94d1f4f68"
+  },
+  {
+    "file": "04.png",
+    "status": "PASS",
+    "native_size": [
+      1185,
+      1327
+    ],
+    "sha256": "1ed7f5fce30799b1df1a3b5f5aa55939789865d9b474b8011fce5833efe64625"
+  },
+  {
+    "file": "05.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "ca171f656bd86008c59a64edbb359df407726c5b9a7a017765c0b4214be28111"
+  },
+  {
+    "file": "06.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "a9f0068fc773b96396e1cc47079f82a17ee0e94074fa3040f880fda560e20cb6"
+  },
+  {
+    "file": "07.png",
+    "status": "PASS",
+    "native_size": [
+      1206,
+      1305
+    ],
+    "sha256": "50cbaed537fd4f6feca0060e8dcabb9ead0054245da3838f22dc63c42dbeebd2"
+  },
+  {
+    "file": "08.png",
+    "status": "PASS",
+    "native_size": [
+      1374,
+      1145
+    ],
+    "sha256": "1c5b9bcf5977b91cd4063a7b66cfa274e09b01140b8b7b0ac13a23f650c832a1"
+  },
+  {
+    "file": "09.png",
+    "status": "PASS",
+    "native_size": [
+      1161,
+      1355
+    ],
+    "sha256": "68e0cae268ddf3ec4d8293d4d13f159b4e84a06bbfd15e1869b1e8302b778c41"
+  },
+  {
+    "file": "10.png",
+    "status": "PASS",
+    "native_size": [
+      1167,
+      1347
+    ],
+    "sha256": "7d55d70f5258ca702975d04151c54970fad54d5f8f32b7670bf337a7864115db"
+  },
+  {
+    "file": "11.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "db074835ade308f08f74bc982da434e4c34aff420d58bf8eb65740dac3d5e380"
+  },
+  {
+    "file": "12.png",
+    "status": "PASS",
+    "native_size": [
+      1146,
+      1373
+    ],
+    "sha256": "dc5807e4ac3190ea185146ea410e4d3876f530473c21181d5c35685f2cbea93d"
+  },
+  {
+    "file": "13.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "8e91a5f649b83e01fce6d38661a3968ad76d6e2868ae02c243fc5449eea3a310"
+  },
+  {
+    "file": "14.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "993847a140ff7583bc8829a65281b88a744d9dbafc8437ae82bfc001aa990736"
+  },
+  {
+    "file": "15.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "7da1f41d329e4bad5ec87698af00f0257441fbcc5746588d209a5b3645a4ecce"
+  },
+  {
+    "file": "16.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "c3f9e1cdf0e2b524653be8a4fc61a7e0fd27b461fa70ae6de3ba92119896f745"
+  },
+  {
+    "file": "17.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "bd3de4524366858c6970281f1d4e5c7ffdef53ee71299f9d18c8e685f0244d8a"
+  },
+  {
+    "file": "18.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1373
+    ],
+    "sha256": "8a096311dc93096c7db6080d139a7f31c054532bd1c792d212127c706d4e447e"
+  },
+  {
+    "file": "19.png",
+    "status": "PASS",
+    "native_size": [
+      1204,
+      1306
+    ],
+    "sha256": "6a51c6ef7368644535e4fe23e085973dba152565e83b8d080f667c6ffd8cdc49"
+  },
+  {
+    "file": "20.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ],
+    "sha256": "9be2cdf68dde63b1485886c2d97764dd1c8613ab4d547763327b5427cc876437"
+  },
+  {
+    "file": "21.png",
+    "status": "PASS",
+    "native_size": [
+      1254,
+      1254
+    ],
+    "sha256": "e3b7a22cf82e8ad96fd94bd8af190b4c95bb6259a1a471f625b7913571949a28"
+  },
+  {
+    "file": "22.png",
+    "status": "PASS",
+    "native_size": [
+      1214,
+      1295
+    ],
+    "sha256": "e2cd70de00771333a8b4340065a378e6ada24d0a7c98edebe7f6d0166332d740"
+  },
+  {
+    "file": "23.png",
+    "status": "PASS",
+    "native_size": [
+      1122,
+      1402
+    ],
+    "sha256": "ac536a89c821f409e4249f43dcf31bcd1b4d42414066c51a887ae63d4988aad9"
+  },
+  {
+    "file": "24.png",
+    "status": "PASS",
+    "native_size": [
+      1254,
+      1254
+    ],
+    "sha256": "16a6df8a68f2ab628bfc89b5ba8c4d1741e01664d762e5e9a756d450b9f5bb04"
+  },
+  {
+    "file": "banner.png",
+    "status": "PASS",
+    "native_size": [
+      1717,
+      916
+    ],
+    "sha256": "d2fb1bbddaf564f78952eecf2ddc0902a59b16522b953c914402a89eaf0b015d"
+  },
+  {
+    "file": "chat_icon.png",
+    "status": "PASS",
+    "native_size": [
+      1254,
+      1254
+    ],
+    "sha256": "f7b73e2041c9cd396180c4db03c2e3cbf0a0676feac09227f217cc8a4a438de6"
+  },
+  {
+    "file": "cover.png",
+    "status": "PASS",
+    "native_size": [
+      1167,
+      1348
+    ],
+    "sha256": "228c5ae3d82f7a1d6d178efdbabf45c59cf2ce4288c1d32005694fdfbd7223fa"
+  }
+]

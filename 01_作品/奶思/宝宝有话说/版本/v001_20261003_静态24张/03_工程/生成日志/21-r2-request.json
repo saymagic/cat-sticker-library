@@ -1,0 +1,12 @@
+{
+  "number": "21",
+  "revision": "r2",
+  "prompt": "Use case: illustration-story. Asset type: one independent high-resolution no-text WeChat sticker original. The attached locked cartoon master is the ONLY character identity and brushwork reference, not a sheet to crop. Create a completely NEW drawing and NEW pose. Exactly one cute gray-black mackerel tabby shorthaired kitten 奶思 with large gold-brown eyes, cream muzzle, pink nose, naturally round face, compact kitten proportions, fine soft hand-painted fur strokes and warm softly shaded hand-drawn sticker aesthetic matching reference. Never turn it into brown-tabby green-eye cat or white long-haired blue-eye cat. Single cat, anatomically reasonable four limbs with plausible occlusion, exactly one striped tail. Complete intact body and props within generous clean transparent padding, top 18% empty for later Chinese typesetting. No letters, no text, no English, no watermark, no numbers, no white sticker outline, no cast shadow, no fake checkerboard, no floor/room. True transparent background and clean alpha around fine fur, not flat vector, not photographic, not overly huge chibi head. New complete independent square character cutout for caption 宝服了 (no text). FULL BODY kitten lies on its side facepalming: one front cat paw pressed over its forehead, other front cat paw stretched forward limply, two hind paws bent naturally and clearly separate, one striped tail lies curled beside hip. Half-lidded gold-brown eyes, helpless exasperated expression. No puff or cloud or additional props. Absolutely NO brown aura, background, shadow, haze, glow or vignette. Transparent RGBA canvas with completely empty alpha zero around isolated solid kitten. Clean character asset illustration, no scene.",
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png"
+    ],
+    "transparent_background": true
+  }
+}

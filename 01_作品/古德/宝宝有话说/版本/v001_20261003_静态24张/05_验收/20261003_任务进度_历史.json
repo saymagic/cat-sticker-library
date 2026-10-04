@@ -1,0 +1,31 @@
+{
+  "local_ready": false,
+  "version_id": "pack-a4e39c770a56",
+  "stage": "本地原画、素材、实际目检、ZIP与页面验收完成；当前官方规范核对及finish锁定受阻",
+  "updated_at": "2026-10-03T21:27:29.708414+08:00",
+  "originals_completed": 24,
+  "extras_completed": [
+    "cover",
+    "chat_icon_r2",
+    "banner"
+  ],
+  "generation_calls": 28,
+  "technical_pass": true,
+  "technical_checks": 1129,
+  "visual_complete": true,
+  "browser_page_checks": "PASS",
+  "package_checks": "PASS",
+  "browser_download_checks": "PASS：通过本套页面下载三包，字节与SHA256全部匹配",
+  "official_rules_verified": false,
+  "finish": "BLOCKED",
+  "blocking_condition": "本次微信官方规范页因浏览器安全策略被阻止，finish真实拒绝缺少本次核对的官方规则快照",
+  "production_writes_stopped": false,
+  "publication": "NOT_RUN：由范恩任务负责整批发布；本套尚未满足真实本地锁定条件",
+  "wechat_submission": "NOT_RUN",
+  "wechat_approval": "NOT_RUN",
+  "package_sha256": {
+    "submission_PNG.zip": "e9b19c15282f9bb74017f4cc1c0167e8bf4e0595cb75f2a46627f35dd683b21b",
+    "submission_GIF.zip": "d63495f7910d67b67cdc9502e8f2295014275c107c018ca12562825ab0e132ea",
+    "complete_delivery.zip": "c52bf08520862d970a2933e973c88cc71edcf94db523e7fcfbad9b8f215e0b3e"
+  }
+}

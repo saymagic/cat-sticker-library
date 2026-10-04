@@ -1,0 +1,802 @@
+{
+  "source_observed_date": "2026-10-03",
+  "source_observed_at": "2026-10-03T12:34:23.620Z",
+  "reviewed_at": "2026-10-04T09:18:42.543522+08:00",
+  "reviewer": "古德制作任务Codex",
+  "method": "逐项复核同批既有官方首次可见AX原始工具输出，并对照本版实测素材和实际视觉记录；没有将旧2026-10-02快照改日期冒充访问",
+  "source_thread_id": "01a101c0-333c-72d3-aed1-e2bcbbd13153",
+  "source_tool_call_id": "call_gOjrZ7hdYcSJ6q7C4CydQy2l",
+  "source_url": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+  "evidence": [
+    {
+      "file": "同批官方可见证据_范恩_20261003.json",
+      "sha256": "f743fb3d483b6272ddcd789325aa798217b397f0732c82e6f49d763b5934de8d"
+    },
+    {
+      "file": "同批官方首次可见素材字段.json",
+      "sha256": "b73a95b8cf42d7ff538b601c656bdb3976d750fe510fa45336eb8171a2eb0c02"
+    }
+  ],
+  "checks": [
+    {
+      "field": "album_count",
+      "official": "8至24",
+      "actual": 24,
+      "pass": true
+    },
+    {
+      "field": "title",
+      "official": "最多8汉字、无标点空格",
+      "actual": "古德宝宝有话说",
+      "pass": true
+    },
+    {
+      "field": "description",
+      "official": "最多80汉字",
+      "actual": 34,
+      "pass": true
+    },
+    {
+      "field": "meanings",
+      "official": "最多4汉字、同套不重复",
+      "actual": [
+        "晨安",
+        "找哥哥",
+        "到啦",
+        "盼归",
+        "慢开",
+        "肚饿",
+        "问饭",
+        "馋糕",
+        "买好",
+        "搞定",
+        "赞同",
+        "没有",
+        "听你",
+        "琢磨",
+        "偷乐",
+        "爱你",
+        "小哼",
+        "惊问",
+        "怀疑",
+        "警告",
+        "服气",
+        "冒火",
+        "放空",
+        "累趴"
+      ],
+      "pass": true
+    },
+    {
+      "field": "main_png/01.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 57667,
+      "pass": true
+    },
+    {
+      "field": "main_gif/01.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 16548,
+      "pass": true
+    },
+    {
+      "field": "main_png/02.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 64808,
+      "pass": true
+    },
+    {
+      "field": "main_gif/02.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 19562,
+      "pass": true
+    },
+    {
+      "field": "main_png/03.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 62581,
+      "pass": true
+    },
+    {
+      "field": "main_gif/03.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 18462,
+      "pass": true
+    },
+    {
+      "field": "main_png/04.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 69914,
+      "pass": true
+    },
+    {
+      "field": "main_gif/04.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 19519,
+      "pass": true
+    },
+    {
+      "field": "main_png/05.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 66601,
+      "pass": true
+    },
+    {
+      "field": "main_gif/05.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 19956,
+      "pass": true
+    },
+    {
+      "field": "main_png/06.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 62592,
+      "pass": true
+    },
+    {
+      "field": "main_gif/06.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 18024,
+      "pass": true
+    },
+    {
+      "field": "main_png/07.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 62353,
+      "pass": true
+    },
+    {
+      "field": "main_gif/07.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 18681,
+      "pass": true
+    },
+    {
+      "field": "main_png/08.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 81878,
+      "pass": true
+    },
+    {
+      "field": "main_gif/08.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 25996,
+      "pass": true
+    },
+    {
+      "field": "main_png/09.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 63256,
+      "pass": true
+    },
+    {
+      "field": "main_gif/09.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 18753,
+      "pass": true
+    },
+    {
+      "field": "main_png/10.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 60448,
+      "pass": true
+    },
+    {
+      "field": "main_gif/10.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 17264,
+      "pass": true
+    },
+    {
+      "field": "main_png/11.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 68328,
+      "pass": true
+    },
+    {
+      "field": "main_gif/11.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 18348,
+      "pass": true
+    },
+    {
+      "field": "main_png/12.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 65709,
+      "pass": true
+    },
+    {
+      "field": "main_gif/12.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 19225,
+      "pass": true
+    },
+    {
+      "field": "main_png/13.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 58527,
+      "pass": true
+    },
+    {
+      "field": "main_gif/13.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 17087,
+      "pass": true
+    },
+    {
+      "field": "main_png/14.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 74115,
+      "pass": true
+    },
+    {
+      "field": "main_gif/14.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 20676,
+      "pass": true
+    },
+    {
+      "field": "main_png/15.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 61461,
+      "pass": true
+    },
+    {
+      "field": "main_gif/15.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 19477,
+      "pass": true
+    },
+    {
+      "field": "main_png/16.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 55625,
+      "pass": true
+    },
+    {
+      "field": "main_gif/16.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 15641,
+      "pass": true
+    },
+    {
+      "field": "main_png/17.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 51786,
+      "pass": true
+    },
+    {
+      "field": "main_gif/17.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 15367,
+      "pass": true
+    },
+    {
+      "field": "main_png/18.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 60596,
+      "pass": true
+    },
+    {
+      "field": "main_gif/18.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 17397,
+      "pass": true
+    },
+    {
+      "field": "main_png/19.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 75250,
+      "pass": true
+    },
+    {
+      "field": "main_gif/19.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 21142,
+      "pass": true
+    },
+    {
+      "field": "main_png/20.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 66600,
+      "pass": true
+    },
+    {
+      "field": "main_gif/20.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 19582,
+      "pass": true
+    },
+    {
+      "field": "main_png/21.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 72494,
+      "pass": true
+    },
+    {
+      "field": "main_gif/21.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 21901,
+      "pass": true
+    },
+    {
+      "field": "main_png/22.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 91840,
+      "pass": true
+    },
+    {
+      "field": "main_gif/22.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 24487,
+      "pass": true
+    },
+    {
+      "field": "main_png/23.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 61390,
+      "pass": true
+    },
+    {
+      "field": "main_gif/23.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 17940,
+      "pass": true
+    },
+    {
+      "field": "main_png/24.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 77176,
+      "pass": true
+    },
+    {
+      "field": "main_gif/24.gif",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "GIF",
+      "actual_bytes": 22693,
+      "pass": true
+    },
+    {
+      "field": "extras/cover_240.png",
+      "official_size": [
+        240,
+        240
+      ],
+      "actual_size": [
+        240,
+        240
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 72928,
+      "pass": true
+    },
+    {
+      "field": "extras/chat_icon_50.png",
+      "official_size": [
+        50,
+        50
+      ],
+      "actual_size": [
+        50,
+        50
+      ],
+      "actual_format": "PNG",
+      "actual_bytes": 5562,
+      "pass": true
+    },
+    {
+      "field": "extras/banner_750x400.jpg",
+      "official_size": [
+        750,
+        400
+      ],
+      "actual_size": [
+        750,
+        400
+      ],
+      "actual_format": "JPEG",
+      "actual_bytes": 78977,
+      "pass": true
+    },
+    {
+      "field": "透明、封面图标无白沿及横幅有色无字",
+      "official": "AX154-175及141-146",
+      "actual": "既有逐张实际目检与无白沿像素验证记录；素材字节未改",
+      "pass": true,
+      "evidence": "04_成品/visual_review.json及validation_report.json"
+    }
+  ],
+  "unverified_fields": [
+    "120px缩略图作为本库兼容素材",
+    "240px图标作为备用素材",
+    "登录后本账号投稿字段",
+    "艺术家与版权资料",
+    "正式审核结果",
+    "赞赏材料与功能"
+  ],
+  "own_browser_access": "仍受安全策略限制；本次未访问被拦截地址",
+  "result": "PASS for public static material requirements"
+}

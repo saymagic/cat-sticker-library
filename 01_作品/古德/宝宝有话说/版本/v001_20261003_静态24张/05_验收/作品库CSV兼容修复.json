@@ -1,0 +1,21 @@
+{
+  "issue": "草稿CSV使用编号/中文文案/含义词列名时，统一库refresh报错number",
+  "repair": "仅对文案CSV草稿回退读取兼容中文与原英文列名；成品manifest读取及入库门槛保持原逻辑",
+  "changed_files": [
+    "scripts/sticker_library.py",
+    "scripts/test_sticker_library.py"
+  ],
+  "tests": {
+    "command": "python3 -m unittest discover -s scripts -p 'test_*library.py' -v",
+    "interpreter": "/Users/saymagic/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "count": 22,
+    "result": "PASS",
+    "exit_code": 0,
+    "duration_seconds": 2.746
+  },
+  "checked_at": "2026-10-03T21:23:53.092616+08:00",
+  "source_sha256": {
+    "scripts/sticker_library.py": "23cdffba88f2e3e943225b36f3390f0e5a237dbdd0a963b71996c11fb85934d8",
+    "scripts/test_sticker_library.py": "fbd2858108f4503f9bbcb26d008535c7d08699a162bad8d5b94561e80e480d3d"
+  }
+}

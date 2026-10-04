@@ -1,0 +1,43 @@
+{
+  "source": "根目录作品目录.json，由维护工具生成，请勿手工修改",
+  "id": "pack-a4e39c770a56",
+  "character": "古德",
+  "theme": "宝宝有话说",
+  "title": "古德宝宝有话说",
+  "media": "静态",
+  "count": 24,
+  "sequence": 1,
+  "date": "20261003",
+  "status": "本地成品",
+  "current": true,
+  "archived": false,
+  "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张",
+  "reference": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png",
+  "tags": [
+    "猫咪",
+    "宝宝",
+    "日常",
+    "撒娇",
+    "小情绪"
+  ],
+  "description": "古德把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+  "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+  "copy_exception": "",
+  "created_at": "2026-10-03T20:29:05.007277+08:00",
+  "platform": {
+    "state": "未投稿",
+    "evidence": null
+  },
+  "completion": {
+    "seal": "05_验收/完成锁定.json",
+    "sha256": "dd252b7a84eb5ad65369b7b3a8d6d95e15c0669a3d42a3f920c56b35833d8b92",
+    "completed_at": "2026-10-04T09:21:05.436545+08:00",
+    "gate": {
+      "technical_checks": 1129,
+      "visual_items": 24,
+      "assets": 76,
+      "packages": 3,
+      "profile_date": "2026-10-03"
+    }
+  }
+}

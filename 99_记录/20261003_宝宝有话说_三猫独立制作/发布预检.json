@@ -1,0 +1,40 @@
+{
+  "observed_at": "2026-10-03T22:06:08.979412+08:00",
+  "publishing_status": "WAITING_GUDE_VALID_READY_LOCK",
+  "next_release_tag_candidate": "materials-20261003-baby-v1",
+  "release_mutations_performed": false,
+  "main_push_performed": false,
+  "gh_pages_push_performed": false,
+  "github_session": "已通过IAB实际看到saymagic账号的仓库发布页与Draft a new release入口；gh CLI尚未登录",
+  "modified_tracked": 8,
+  "new_allowed_files": 1856,
+  "unexpected_changes": [],
+  "files_at_least_100MiB_to_exclude": [],
+  "private_filename_candidates": [],
+  "local_states": [
+    {
+      "character": "古德",
+      "local_ready": false,
+      "completion_lock": false
+    },
+    {
+      "character": "奶思",
+      "local_ready": true,
+      "completion_lock": true
+    },
+    {
+      "character": "范恩",
+      "local_ready": true,
+      "completion_lock": true
+    }
+  ],
+  "next_steps": [
+    "等待人授权给古德聊天发送本批当前官方核对证据，由古德任务核对并完成自己的锁定",
+    "三套真实local_ready与有效完成锁定齐后取得.sticker-publish.lock",
+    "保持materials-v1全部SHA与tag映射，准备新的Release清单和9份新增ZIP资产",
+    "上传并实际校验Release资产，明确暂存仅本批路径和相关生成文件，提交并正常push main",
+    "查看本次Actions实际状态，必要时执行本地publish_pages.sh，再验公网TLS文件哈希、搜索、详情、版本、空结果、375px及下载"
+  ],
+  "git_diff_check": "PASS",
+  "remote_tag_candidate": "未发现 materials-20261003-baby-v1；尚未创建"
+}

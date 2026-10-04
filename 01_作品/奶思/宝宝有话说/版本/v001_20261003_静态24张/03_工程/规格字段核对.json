@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-10-03T20:48:05.681029+08:00",
+  "fields": {
+    "main_count": {
+      "expected_text": "8～24",
+      "present_in_live_official_bundle": true
+    },
+    "main_size": {
+      "expected_text": "240*240",
+      "present_in_live_official_bundle": true
+    },
+    "static_formats": {
+      "expected_text": "静态表情：PNG、JPG或GIF",
+      "present_in_live_official_bundle": true
+    },
+    "main_file_limit": {
+      "expected_text": "不大于500KB",
+      "present_in_live_official_bundle": true
+    },
+    "banner_size": {
+      "expected_text": "750*400",
+      "present_in_live_official_bundle": true
+    },
+    "cover_size": {
+      "expected_text": "240*240",
+      "present_in_live_official_bundle": true
+    },
+    "chat_icon_size": {
+      "expected_text": "50*50",
+      "present_in_live_official_bundle": true
+    },
+    "icon_file_limit": {
+      "expected_text": "不大于100KB",
+      "present_in_live_official_bundle": true
+    },
+    "cover_no_white_outline": {
+      "expected_text": "图片中形象不应有白色描边",
+      "present_in_live_official_bundle": true
+    },
+    "banner_no_text": {
+      "expected_text": "图片中避免出现任何文字信息",
+      "present_in_live_official_bundle": true
+    },
+    "banner_opaque": {
+      "expected_text": "避免使用透明背景",
+      "present_in_live_official_bundle": true
+    }
+  },
+  "result": "PASS_PUBLIC_STATIC_SPEC",
+  "browser": "BLOCKED",
+  "logged_in_form": "NOT_RUN"
+}

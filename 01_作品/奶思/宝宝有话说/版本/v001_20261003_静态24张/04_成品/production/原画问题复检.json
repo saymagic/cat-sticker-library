@@ -1,0 +1,27 @@
+{
+  "reviewer": "Codex实际图像目检",
+  "reviewed_at": "2026-10-03T21:21:37.003455+08:00",
+  "resolved": [
+    {
+      "number": "02",
+      "selected_revision": "r3",
+      "result": "PASS",
+      "finding": "重新绘制眉上找人姿态，最终Alpha通过，三底色240/120px无光晕",
+      "failed_originals_kept": true
+    },
+    {
+      "number": "21",
+      "selected_revision": "r2",
+      "result": "PASS",
+      "finding": "独立重画侧躺扶额，最终Alpha通过且无光晕",
+      "failed_originals_kept": true
+    },
+    {
+      "number": "24",
+      "selected_revision": "r2",
+      "result": "PASS",
+      "finding": "独立方形原画趴垫，最终Alpha通过且无光晕",
+      "failed_originals_kept": true
+    }
+  ]
+}

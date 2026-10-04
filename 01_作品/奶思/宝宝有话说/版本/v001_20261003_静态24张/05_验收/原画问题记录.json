@@ -1,0 +1,11 @@
+{
+  "reviewer": "Codex实际图像查看",
+  "issues": [
+    {
+      "number": "02",
+      "stage": "original generation",
+      "status": "OPEN",
+      "finding": "生成版含浅褐光晕且Alpha最大254，须用实际图像工具重新生成干净透明原画"
+    }
+  ]
+}

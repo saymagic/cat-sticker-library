@@ -1,0 +1,38 @@
+[
+  {
+    "file": "01.png",
+    "status": "PASS"
+  },
+  {
+    "file": "02.png",
+    "status": "PASS"
+  },
+  {
+    "file": "03.png",
+    "status": "PASS"
+  },
+  {
+    "file": "04.png",
+    "status": "PASS"
+  },
+  {
+    "file": "05.png",
+    "status": "PASS"
+  },
+  {
+    "file": "06.png",
+    "status": "PASS"
+  },
+  {
+    "file": "07.png",
+    "status": "PASS"
+  },
+  {
+    "file": "08.png",
+    "status": "PASS"
+  },
+  {
+    "file": "09.png",
+    "status": "PASS"
+  }
+]

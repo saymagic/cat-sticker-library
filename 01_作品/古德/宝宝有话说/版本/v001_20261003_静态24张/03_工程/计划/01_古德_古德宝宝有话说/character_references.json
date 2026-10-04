@@ -1,0 +1,30 @@
+[
+  {
+    "id": "gude",
+    "name": "古德",
+    "aliases": [
+      "古德猫",
+      "棕虎斑",
+      "棕虎斑猫"
+    ],
+    "identity": [
+      "棕虎斑短毛、绿眼、粉鼻",
+      "浅奶油口鼻、腹部，深棕额头M纹、颊纹、四肢环纹、单条环纹尾巴",
+      "圆润脸型、自然小口鼻、圆而大的眼睛，头身比例依本版卡通基准，细腻水彩铅笔手绘笔触"
+    ],
+    "avoid": [
+      "禁止换成灰虎斑、白色蓝眼长毛猫或棕白面罩猫",
+      "不复制参考英语、不直接复用参考动作、不加人类手指或多尾巴"
+    ],
+    "reference_basis": "本版卡通基准已通过view_image实际查看；与library_config古德身份一致",
+    "references": [
+      {
+        "path": "references/gude_01.png",
+        "kind": "locked_cartoon_master",
+        "role": "本版角色身份和手绘笔触",
+        "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+        "bundled_source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png"
+      }
+    ]
+  }
+]

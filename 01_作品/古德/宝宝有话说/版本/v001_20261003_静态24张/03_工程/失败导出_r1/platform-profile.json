@@ -1,0 +1,117 @@
+{
+  "name": "wechat-official-20261002-static-conservative",
+  "basis_date": "2026-10-02",
+  "official_rules_verified": false,
+  "note": "继承的规格参考，须为本次创作重新核对官方公开规范后更新日期与确认标记。",
+  "count": 24,
+  "main_png": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "PNG",
+    "limit": 100000,
+    "alpha": true
+  },
+  "main_gif": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "GIF",
+    "limit": 100000,
+    "alpha": true
+  },
+  "thumbnail": {
+    "size": [
+      120,
+      120
+    ],
+    "format": "PNG",
+    "limit": 50000,
+    "alpha": true
+  },
+  "extras": {
+    "cover": {
+      "file": "cover_240.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 80000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon": {
+      "file": "chat_icon_50.png",
+      "size": [
+        50,
+        50
+      ],
+      "format": "PNG",
+      "limit": 30000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon_compat": {
+      "file": "chat_icon_240_备用.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": true,
+      "outline": false
+    },
+    "banner": {
+      "file": "banner_750x400.jpg",
+      "size": [
+        750,
+        400
+      ],
+      "format": "JPEG",
+      "limit": 80000,
+      "alpha": false
+    },
+    "appreciation_guide": {
+      "file": "optional_appreciation_guide_750x560.png",
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": false,
+      "optional": true
+    },
+    "appreciation_thanks": {
+      "file": "optional_appreciation_thanks_750x750.png",
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "limit": 200000,
+      "alpha": false,
+      "optional": true
+    }
+  },
+  "official_source": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+  "current_check_attempt": {
+    "date": "2026-10-03",
+    "result": "BLOCKED",
+    "reason": "web.open 返回 non-retryable error；CUA明确返回site-safety policy blocks，不允许绕过该浏览器操作",
+    "verified_fields": [],
+    "unverified_fields": [
+      "主图尺寸、格式、透明、体积、套装张数",
+      "封面尺寸、透明、无白边",
+      "图标尺寸、透明、无白边",
+      "横幅尺寸、格式、体积、有色无字",
+      "投稿页当前要求"
+    ],
+    "inherited_basis_date": "2026-10-02",
+    "scope": "继续按既有保守目标制作；未伪称当前官方已核对"
+  }
+}

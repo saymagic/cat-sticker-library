@@ -1,0 +1,433 @@
+{
+  "sources": [
+    {
+      "number": "01",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/01.png",
+      "source_sha256": "0087e8e146f4f50c1581c1f1417b9a28e2b381f000d339b3303229d48edd4516",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "02",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/02.png",
+      "source_sha256": "d389034306e0a2127dcbd94378e811300f99b0059c5acd47a16ef1657a7533ad",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "03",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/03.png",
+      "source_sha256": "97d271447a180be96ae6bdf649ab330a383be1893d4def52e29a6e5a9dc0dafa",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "04",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/04.png",
+      "source_sha256": "a23609a80d227b4242997253b59418862400c566ec00d1a364caed8ed26ff275",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "05",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/05.png",
+      "source_sha256": "46ea141936ffa062ffd2581ed87296a394678de633ec93203e77d6ed0da226a4",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "06",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/06.png",
+      "source_sha256": "fa293aa9f3f88c1d0e857d913b0e2f8abd58d3dac7e610025875966c4d0a8495",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "07",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/07.png",
+      "source_sha256": "946306e3c6e41bd31511145a1f33d5dac45039e82c78ce8f5855981e4673f3e7",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "08",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/08.png",
+      "source_sha256": "ccda11898b064db5a60dd143a2df1f8142d2b628e3849a564b0e1dfb68ed3723",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "09",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/09.png",
+      "source_sha256": "4237059907bcca75d291972639e69a77065983eb84ae4a3990d4ae7a40c2b20d",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "10",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/10.png",
+      "source_sha256": "27cbaefee0de05e84b2c93c22941b185fed91046e43db8f01a2b3793162d92fe",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "11",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/11.png",
+      "source_sha256": "1425d8d70515af1cc26598a70dab29907bda9b33bacf4a3c22c86c54dbfdfac2",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "12",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/12.png",
+      "source_sha256": "6d814deb38cc8eae304dc0a9d5d35598463ee0776f7794adf47ed53f9d4c4a71",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "13",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/13.png",
+      "source_sha256": "f66c0f79ecc4f7c3342b68b7731ebe9d450a677adedee0b154cd07a6482946b9",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "14",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/14.png",
+      "source_sha256": "52990f8d1c69dcb4bf50c493cd96a8990498c4b176676925b01d5c9a2221e093",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "15",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/15.png",
+      "source_sha256": "5fa76f89417d1be2a36d40cf6aec0e6a10fa147167a1a45f1251983598cab342",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "16",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/16.png",
+      "source_sha256": "642bc7732abef146264b06272832ef688bab1ee9cb389a30aa56dd3110f64e1b",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "17",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/17.png",
+      "source_sha256": "f364ce5aa11eab62722e0924aec88b72a10c6560ac0568ad127bced9f533189c",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "18",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/18.png",
+      "source_sha256": "d9fddd45298d3d2f2681eea8f23ae0f0f930b0d0a819aadb1903c41b9287cc57",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "19",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/19.png",
+      "source_sha256": "237994899c71e8c0729b1342156f4b8cd7312c8238bcd1c367e7bc3cc14ac05d",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "20",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/20.png",
+      "source_sha256": "a25361ecae230d44a4659900f36264cc8e24149c7b5ce7611e02e1e48770ea54",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "21",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/21.png",
+      "source_sha256": "96f47c155903c140928d761f1cd3bcf96ea9b8be0c201c88834eb94193e416e0",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "22",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/22.png",
+      "source_sha256": "61a6c96884a4c36be2fa50fe0ed27c0acf2ed7f722955453dfd73b21a900e995",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "23",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/23.png",
+      "source_sha256": "b7a4fca5093c5825c89c92c8fbd3c977fdddee83538d89189ff61a1f24d8d00d",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "24",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/24.png",
+      "source_sha256": "74aa5aae1375978b1a99870cbff41dd006101e0020a570e9f719aa00d9ddff15",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "extra": "cover",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/cover.png",
+      "source_sha256": "edace10f570e3e94995ce7987c761b839f3060ed67dcb2cc34218145fe047aa5"
+    },
+    {
+      "extra": "chat_icon",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/chat_icon_r2.png",
+      "source_sha256": "c5201d4e4e287e36685c0c59453279b0c112fe3cbf6eb16165b94c73994dea25"
+    },
+    {
+      "extra": "banner",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/02_原画/banner.png",
+      "source_sha256": "23269e70bb80271e85f0dd42897e1a17f00b3ad8fa33baa62ba01478c4a385f5"
+    }
+  ],
+  "font": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/03_工程/字体/ZCOOLKuaiLe-Regular.ttf",
+  "font_sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+  "font_index": 0,
+  "typography": [
+    {
+      "mode": "colorful",
+      "fill": "#F2C454",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#81A9DC",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#A6C867",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#E58070",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#75BCB7",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#EEA160",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#F2C454",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#EA92AD",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#A6C867",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#75BCB7",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#A6C867",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#81A9DC",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#75BCB7",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#AE98D4",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#EA92AD",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#EA92AD",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#AE98D4",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#81A9DC",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#AE98D4",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#E58070",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#75BCB7",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#E58070",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#81A9DC",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#AE98D4",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    }
+  ],
+  "gif": "single-frame static"
+}

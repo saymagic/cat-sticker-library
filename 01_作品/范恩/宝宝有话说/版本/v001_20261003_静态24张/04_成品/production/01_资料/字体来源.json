@@ -1,0 +1,11 @@
+{
+  "font": "ZCOOL KuaiLe Regular / 站酷快乐体",
+  "path_local_only": "/Users/saymagic/.cache/sticker-fonts/ZCOOLKuaiLe-Regular.ttf",
+  "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+  "license": "SIL OFL 1.1",
+  "checked_date": "2026-10-03",
+  "source": "https://github.com/google/fonts/tree/main/ofl/zcoolkuaile",
+  "license_url": "https://github.com/google/fonts/blob/main/ofl/zcoolkuaile/OFL.txt",
+  "font_bundled": false,
+  "usage": "仅生成文字像素；字体文件不进入作品或备份"
+}

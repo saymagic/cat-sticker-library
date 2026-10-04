@@ -1,0 +1,100 @@
+[
+  {
+    "file": "01.png",
+    "status": "PASS"
+  },
+  {
+    "file": "02.png",
+    "status": "PASS"
+  },
+  {
+    "file": "03.png",
+    "status": "PASS"
+  },
+  {
+    "file": "04.png",
+    "status": "PASS"
+  },
+  {
+    "file": "05.png",
+    "status": "PASS"
+  },
+  {
+    "file": "06.png",
+    "status": "PASS"
+  },
+  {
+    "file": "07.png",
+    "status": "PASS"
+  },
+  {
+    "file": "08.png",
+    "status": "PASS"
+  },
+  {
+    "file": "09.png",
+    "status": "PASS"
+  },
+  {
+    "file": "10.png",
+    "status": "PASS"
+  },
+  {
+    "file": "11.png",
+    "status": "PASS"
+  },
+  {
+    "file": "12.png",
+    "status": "PASS"
+  },
+  {
+    "file": "13.png",
+    "status": "PASS"
+  },
+  {
+    "file": "14.png",
+    "status": "PASS"
+  },
+  {
+    "file": "15.png",
+    "status": "PASS"
+  },
+  {
+    "file": "16.png",
+    "status": "PASS"
+  },
+  {
+    "file": "17.png",
+    "status": "PASS"
+  },
+  {
+    "file": "18.png",
+    "status": "PASS"
+  },
+  {
+    "file": "19.png",
+    "status": "PASS"
+  },
+  {
+    "file": "20.png",
+    "status": "FAIL",
+    "error": "原画四角须透明：/Users/saymagic/workspace/表情包/01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/02_原画/20.png"
+  },
+  {
+    "file": "21.png",
+    "status": "PASS"
+  },
+  {
+    "file": "22.png",
+    "status": "PASS"
+  },
+  {
+    "file": "23.png",
+    "status": "FAIL",
+    "error": "原画四角须透明：/Users/saymagic/workspace/表情包/01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/02_原画/23.png"
+  },
+  {
+    "file": "24.png",
+    "status": "PASS"
+  }
+]

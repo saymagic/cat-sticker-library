@@ -1,0 +1,15 @@
+{
+  "first_source": "02_原画/生成原件/chat_icon.png",
+  "first_result": "FAIL",
+  "issue": "胸部轮廓触底，不能作为最终图标源",
+  "repair_source": "02_原画/chat_icon_r2.png",
+  "repair_result": "已实际查看生成结果，胸部圆润结束于画布内，原生Alpha预检和50px成品复检随后执行",
+  "reviewer": "Codex图像目检",
+  "time": "2026-10-03T20:55:57.182704+08:00",
+  "final_result": "PASS：已实际查看50px三底及240px备用，无触边、无额外白描边、角色可辨。",
+  "final_reviewed_at": "2026-10-03T21:11:52.769216+08:00",
+  "final_asset_sha256": {
+    "extras/chat_icon_50.png": "ffc5290a3ac9d989130692c7ebfda3763bf4afb9133fe2321d810e2fabe7af0b",
+    "extras/chat_icon_240_备用.png": "8eb124f45b8850972f11b742373a03ff69b0d25eaedb216ac4acb4d740ae5f48"
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "asset": "cover",
+    "passed": true,
+    "size": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "asset": "chat_icon",
+    "passed": false,
+    "error": "原画四角须透明：/Users/saymagic/workspace/表情包/01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/02_原画/chat_icon.png"
+  },
+  {
+    "asset": "banner",
+    "passed": true,
+    "mode": "RGB",
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  {
+    "asset": "chat_icon",
+    "passed": false,
+    "error": "透明边缘修复版主体Alpha最高254，继续图像工具修复"
+  },
+  {
+    "asset": "chat_icon",
+    "passed": false,
+    "error": "主体不透明修复仍Alpha最高254，改用角色基准重新生成"
+  }
+]

@@ -1,0 +1,530 @@
+{
+  "title": "古德宝宝有话说",
+  "description": "古德把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+  "characters": [
+    "古德"
+  ],
+  "media": "静态",
+  "count": 24,
+  "version_id": "pack-a4e39c770a56",
+  "items": [
+    {
+      "number": "01",
+      "caption": "早上好",
+      "meaning": "晨安",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#F2C454",
+      "scene": {
+        "emotion": "明亮活力",
+        "pose": "坐姿伸长上身，一只前爪高举招呼，另一爪轻放胸前，微笑睁眼",
+        "props": [
+          "小太阳"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/01.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: a cheerful upright morning stretch, one forepaw raised in greeting and the other against chest, bright green eyes and a smile; a tiny warm yellow sun accent. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "02",
+      "caption": "哥哥呢",
+      "meaning": "找哥哥",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "好奇惦念",
+        "pose": "侧身探头，一只爪在眼前遮挡做寻找状，另一爪落地，双耳竖起",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/02.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: leaning sideways and peeking as if looking for someone, one forepaw shading eyes and other paw on ground, alert ears and searching green eyes. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "03",
+      "caption": "宝宝到咯",
+      "meaning": "到啦",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#A6C867",
+      "scene": {
+        "emotion": "雀跃",
+        "pose": "迈一条前腿踏来，轻轻跳起，斜挎小挎包，嘴角笑",
+        "props": [
+          "小挎包"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/03.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: a happy little arrival hop stepping toward the viewer, one front paw forward, opposite rear foot lifted, a tiny soft peach crossbody satchel, smiling face. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "04",
+      "caption": "胖胖快回来",
+      "meaning": "盼归",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#E58070",
+      "scene": {
+        "emotion": "着急撒娇",
+        "pose": "身子前倾，两前爪向前伸，水汪汪眼，嘴巴嘟起",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/04.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: leaning forward with two forepaws reaching out in a pleading come-back gesture, glossy longing green eyes with tiny clear tears, a tiny pout. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "05",
+      "caption": "慢点开车",
+      "meaning": "慢开",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "关心叮嘱",
+        "pose": "坐进小玩具车，安全带在胸前，两爪扶圆方向盘，认真绿眼",
+        "props": [
+          "玩具车",
+          "安全带"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/05.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: sitting safely inside a tiny muted peach toy car with a visible seatbelt and two forepaws on a circular steering wheel, caring cautious expression; wheels clearly attached to toy car. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "06",
+      "caption": "饿饿！",
+      "meaning": "肚饿",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EEA160",
+      "scene": {
+        "emotion": "饥饿委屈",
+        "pose": "坐着低肩，两前爪扶空碗，张小嘴期待",
+        "props": [
+          "空碗"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/06.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: sitting with slumped hungry shoulders and both forepaws holding a visibly empty cream ceramic bowl, small open mouth and pleading green eyes. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "07",
+      "caption": "吃啥呀",
+      "meaning": "问饭",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#F2C454",
+      "scene": {
+        "emotion": "好奇期待",
+        "pose": "端坐头歪，左爪小勺右爪小叉，肚子圆圆",
+        "props": [
+          "小勺",
+          "小叉"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/07.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: sitting upright with a puzzled tilted head, one forepaw holding a small spoon and the other holding a small fork, inquisitive green eyes, rounded tummy. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "08",
+      "caption": "想吃小蛋糕",
+      "meaning": "馋糕",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "scene": {
+        "emotion": "甜甜期待",
+        "pose": "趴低鼻子靠近小粉色蛋糕，双爪落在盘边，眼里有光",
+        "props": [
+          "粉色小蛋糕"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/08.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: lying low with nose close to a small strawberry pink cake slice on a plain plate, both front paws resting beside plate, delighted sparkling green eyes and tiny anticipatory smile. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "09",
+      "caption": "已买",
+      "meaning": "买好",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#A6C867",
+      "scene": {
+        "emotion": "轻松得意",
+        "pose": "坐着抱牛皮纸袋，袋里露出食品，单爪拍袋子",
+        "props": [
+          "牛皮纸袋"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/09.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: sitting contentedly and hugging a small kraft paper shopping bag with a simple baguette tip visible, one forepaw resting on bag, confident little smile, no writing on bag. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "10",
+      "caption": "欧了",
+      "meaning": "搞定",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "俏皮爽快",
+        "pose": "一爪举起露粉色肉垫，另一爪腰侧，眨眼点头",
+        "props": [
+          "小星星"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/10.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: a jaunty confident wink and small head nod, one forepaw raised showing a pink paw pad in a done gesture, other paw at side, tiny golden sparkles, no human fingers. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "11",
+      "caption": "这个可以",
+      "meaning": "赞同",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#A6C867",
+      "scene": {
+        "emotion": "欣然认可",
+        "pose": "抱着圆润金色小星星，开心点头，身体微向前",
+        "props": [
+          "金星"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/11.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: nodding happily while cuddling a small rounded golden star close to chest with two front paws, bright approving green eyes, body leaning forward. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "12",
+      "caption": "我木有诶",
+      "meaning": "没有",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "坦然无奈",
+        "pose": "双爪摊开露空掌，肩微抬，歪头噘嘴",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/12.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: shrugging with both empty forepaws open to the sides, shoulders lifted, head tilted and a helpless tiny pout, green eyes questioning gently, no extra limbs. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "13",
+      "caption": "你说",
+      "meaning": "听你",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "专注倾听",
+        "pose": "坐身前倾，头偏一边，一爪贴耳侧，另一爪落地",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/13.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: leaning in to listen, head angled to one side with one front paw cupped near an ear and the other planted on ground, attentive calm green eyes. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "14",
+      "caption": "还在思考中",
+      "meaning": "琢磨",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "认真思考",
+        "pose": "侧坐一爪托下巴，眼看上方，一小团空白思考云",
+        "props": [
+          "空白思考云"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/14.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: sitting angled three quarters, one forepaw under chin, looking upward thoughtfully with focused green eyes, a small blank cream thought puff near head with no letters or marks. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "15",
+      "caption": "嘻嘻",
+      "meaning": "偷乐",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "scene": {
+        "emotion": "小得意",
+        "pose": "低头憋笑，一爪挡嘴，眼笑成弯线，身体缩小",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/15.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: a shy mischievous giggle with one forepaw covering mouth, eyes squeezed into smiling crescents, body tucked inward, slight rosy cheeks. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "16",
+      "caption": "比心",
+      "meaning": "爱你",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "scene": {
+        "emotion": "甜甜爱意",
+        "pose": "两爪在胸前向内靠近，比出圆润爱心，头微歪",
+        "props": [
+          "小爱心"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/16.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: two rounded cat forepaws brought inward at chest in a heart gesture, a small coral heart between paws, head softly tilted and warm affectionate green eyes, no human fingers. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "17",
+      "caption": "哼",
+      "meaning": "小哼",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "傲娇不满",
+        "pose": "侧身背一点，头转回，前爪交叠，耳侧倾",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/17.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: turned partly away with head glancing back in a sulky huff, forepaws folded lightly against chest, ears gently angled sideways and narrowed green eyes. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "18",
+      "caption": "啊？？",
+      "meaning": "惊问",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "突然惊讶",
+        "pose": "双爪贴脸颊，眼睛睁大，嘴圆张，耳朵高立",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/18.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: both forepaws pressed lightly to cheeks, very wide green eyes, a round small open mouth, ears upright in sudden astonishment, no question marks. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "19",
+      "caption": "你认真的？",
+      "meaning": "怀疑",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "认真质疑",
+        "pose": "身体前倾，头略低，一眼微眯另一眼大，单爪悬起",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/19.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: leaning forward with head slightly lowered, one green eye narrowed and the other wide in skeptical disbelief, one front paw lifted halfway, other paw planted. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "20",
+      "caption": "你最好是",
+      "meaning": "警告",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#E58070",
+      "scene": {
+        "emotion": "小小警告",
+        "pose": "坐得笔直，一爪向前伸指向，眉眼认真，嘴紧闭",
+        "props": [],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/20.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: sitting upright with one rounded forepaw extended toward viewer in a stern little warning, determined green eyes and closed mouth, no human index finger. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "21",
+      "caption": "宝服了",
+      "meaning": "服气",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "无语瘫软",
+        "pose": "靠在小软垫上，双爪垂下，眼半睁，嘴无奈",
+        "props": [
+          "软垫"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/21.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: slumping backward against a tiny oatmeal cushion, both front paws dangling loosely, half-lidded green eyes and a resigned small mouth, feet naturally forward. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "22",
+      "caption": "火都来了",
+      "meaning": "冒火",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#E58070",
+      "scene": {
+        "emotion": "生气上头",
+        "pose": "四爪稳蹲，毛小炸开，脸气鼓鼓，头顶小橙色火苗",
+        "props": [
+          "小火苗"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/22.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: a compact firm crouch with all paws naturally grounded, cheeks puffed in anger, mildly bristled short fur and narrowed green eyes; a tiny orange flame accent floating above head, not burning the cat. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "23",
+      "caption": "脑袋空空",
+      "meaning": "放空",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "茫然",
+        "pose": "端坐两爪平放，眼神空空，头顶空白小云漂过",
+        "props": [
+          "小空云"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/23.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: sitting still with both forepaws flat on ground and a blank spaced-out wide green-eyed stare, small blank cream cloud drifting above head, tiny mouth, no text or symbols. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    },
+    {
+      "number": "24",
+      "caption": "宝宝累了",
+      "meaning": "累趴",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "疲惫",
+        "pose": "横趴软枕，前爪向前伸，眼半闭，后腿收拢",
+        "props": [
+          "浅青色小枕头"
+        ],
+        "interaction": "单猫表达本句含义",
+        "tail": "一条完整棕色环纹尾，随动作自然弯曲且与身体相连",
+        "composition": "顶部中文预留；猫在下部，所有耳爪尾与道具完整"
+      },
+      "art": "sources/24.png",
+      "generation_prompt": "Use case: illustration-story. Create ONE new independent high-resolution original artwork, square 1024x1024 or larger. The attached locked cartoon master is only the identity and hand-drawn brushwork reference; do not copy any panel, pose, typography, grid, border or English. Subject is exactly ONE Gude kitten: short warm brown tabby fur, rich dark brown forehead M and cheek stripes, striped legs and one ringed tail, cream muzzle and chest, big clear GREEN eyes, small dusty PINK nose, soft round cheek shape, natural kitten proportions matching reference. Fine watercolor-and-colored-pencil storybook fur rendering with warm dark hand-drawn contours. New specific action: lying flat lengthwise with chin resting on a tiny muted teal pillow, front paws extended lazily, hind legs tucked naturally and half-closed sleepy eyes, tail relaxed alongside body. Anatomy: two forepaws and two hind legs with plausible occlusion, one and only one tail, no human hands. Composition: full requested pose centred, all ears/paws/tail/props intact, generous 12 percent edge padding. This is raw art before typesetting: NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO white sticker border. Background: perfectly flat solid #ff00ff MAGENTA chroma key for local background removal, uniform color with no shadow, no floor plane, no gradient, no texture. Do not use magenta in subject; use muted peach for blush. Crisp opaque painted subject edge, no cast/contact shadows. Do not output a contact sheet or multiple cats."
+    }
+  ],
+  "extras": {
+    "cover": "sources/cover.png",
+    "chat_icon": "sources/chat_icon.png",
+    "banner": "sources/banner.png"
+  },
+  "style": {
+    "text_style": "colorful",
+    "text_palette": [
+      "#EA92AD",
+      "#F2C454",
+      "#81A9DC",
+      "#A6C867",
+      "#AE98D4",
+      "#75BCB7",
+      "#EEA160",
+      "#E58070"
+    ],
+    "text_stroke_color": "#433535",
+    "text_stroke_radius": 6,
+    "text_fill_expand": 2,
+    "outline_radius": 12,
+    "text_outline_radius": 10,
+    "caption_position": "top",
+    "font": "/Users/saymagic/workspace/表情包/01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/03_工程/字体/ZCOOLKuaiLe-Regular.ttf"
+  },
+  "extra_source_selection": {
+    "chat_icon": "r2留白修复，r1胸部触边保留为失败原件",
+    "cover": "独立生成",
+    "banner": "独立有色无字横幅"
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际图像目检",
+  "review_method": "逐张查看已导出的实际240px PNG、120px缩略图在浅色、深色、棋盘底上的1:1检查图；另看240px单帧GIF、封面、50px聊天图标、240px兼容图标及750x400横幅。不是脚本语义判断，也不是用户确认。",
+  "issues": [],
+  "background_modes": [
+    "light",
+    "dark",
+    "checker"
+  ],
+  "actual_size_px": [
+    240,
+    120,
+    50
+  ],
+  "items": [
+    {
+      "number": "01",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "早上好逐字正确；举一前爪，另一前爪着地，双后爪与单尾合理；小太阳对应早安，黄字在三底色与120px可读。"
+    },
+    {
+      "number": "02",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "哥哥呢原文保留；采用r3独立重画，眉上找人的前爪、靠胸前爪、双后爪、单尾清楚；原始与r2光晕失败稿留档，最终图无光晕。"
+    },
+    {
+      "number": "03",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "宝宝到咯原文保留；带粉挎包小跑招呼，举起前爪与前伸爪不同，后腿合理遮挡，一条翘尾；240/120px清楚。"
+    },
+    {
+      "number": "04",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "胖胖快回来原文保留；双前爪捧脸望向小窗，坐姿后腿有合理遮挡，条纹尾绕脚；五字珊瑚色字清楚，窗沿完整。"
+    },
+    {
+      "number": "05",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "慢点开车原文保留；车内奶思扣安全带并抬爪提醒，另一爪靠车门，下肢和尾巴被车身合理遮挡；没有第二只猫，车轮无截断。"
+    },
+    {
+      "number": "06",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "饿饿！保留全角感叹号；双前爪抱空碗、双后爪露粉垫、一条尾巴，眼色与口鼻正确；橙字三底色及120px可读。"
+    },
+    {
+      "number": "07",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "吃啥呀逐字正确；一前爪托下巴、另一前爪握木勺，双后爪在桌下，一尾在侧；桌腿与猫爪不混淆，边缘连续。"
+    },
+    {
+      "number": "08",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "想吃小蛋糕六字完整；两前爪伸向蛋糕，后腿有合理遮挡，一根上翘尾；草莓杯蛋糕和盘子完整，最长文案在120px仍可辨。"
+    },
+    {
+      "number": "09",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "已买逐字正确；双前爪扶购物袋，双后爪在袋两侧露粉垫，单尾；青色字和淡青袋在深浅/棋盘都区分。"
+    },
+    {
+      "number": "10",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "欧了原文保留，没有改为其他同义词；一爪举绿勾，另一爪靠腰，双后脚落地，一尾；动作和搞定对应。"
+    },
+    {
+      "number": "11",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "这个可以原文保留；站立呈金色小星牌，一爪靠胸，双后脚及单尾清楚；与10的坐姿绿勾不同，绿字可读。"
+    },
+    {
+      "number": "12",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "我木有诶保持原字；双前空爪摊开、双后爪露粉垫，一条左侧尾巴，无多肢；眉眼无辜，蓝字在120px可读。"
+    },
+    {
+      "number": "13",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "你说逐字正确；一前爪靠耳认真听，另一前爪落地，双后腿坐姿自然，单尾；倾听与14思考轮廓不同。"
+    },
+    {
+      "number": "14",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "还在思考中六字完整；一爪摸下巴一爪抱胸，双后脚、单尾，小空思考云无文字；三底色和120px字腔可辨。"
+    },
+    {
+      "number": "15",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "嘻嘻两字正确；两前爪捂嘴、双后爪粉垫、单尾，闭眼偷笑；口鼻无异常，粉字和外沿连续。"
+    },
+    {
+      "number": "16",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "比心原文保留；双猫爪拢着粉心，没有人手或多指；双后爪、一条尾巴完整，金棕眼和粉鼻清楚。"
+    },
+    {
+      "number": "17",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "哼单字正确；侧身抱臂、斜睨、双后脚和左侧单尾，傲娇情绪对应；短字大字号和边距合理。"
+    },
+    {
+      "number": "18",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "啊？？保留两个全角问号，没有替换或减号；双前爪张开，双后爪伸出，一根尾巴；张嘴惊讶与蓝色惊讶滴对应。"
+    },
+    {
+      "number": "19",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "你认真的？保留全角问号；一前爪托脸另一前爪垂桌沿，后腿被桌沿合理遮挡，一尾；挑眉半眯眼表达质疑，长句120px仍可辨。"
+    },
+    {
+      "number": "20",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "你最好是原文保留；双前爪直落，双后脚小粉垫，一尾紧绕右侧；侧眼盯住的强度与17抱臂、22蹲怒有区别。"
+    },
+    {
+      "number": "21",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "宝服了原文保留；r2重画侧躺扶额，另一前爪前伸，双后爪自然弯曲，一尾侧绕；最终无原始光晕，240/120px无奈动作清楚。"
+    },
+    {
+      "number": "22",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "火都来了原文保留；两前爪压身前、双后脚在侧，单尾；小橙火是情绪图案，猫没被烧，珊瑚字对应生气且边缘完整。"
+    },
+    {
+      "number": "23",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "脑袋空空逐字正确；双前爪垂在双后爪中间，单尾，小空泡无字，呆萌放空与思考图区分；蓝字120px可读。"
+    },
+    {
+      "number": "24",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "宝宝累了原文保留；r2重画趴在紫软垫、双前爪摊平，后腿合理遮挡露一后爪，一条尾巴垂侧；最终图无光晕，疲惫神态清楚。"
+    }
+  ],
+  "extras": {
+    "cover": true,
+    "chat_icon": true,
+    "banner": true
+  },
+  "extras_notes": {
+    "cover": "实际240px在三底色查看完整无字单猫，双前爪与双后脚、单尾清楚；无白描边。",
+    "chat_icon": "实际50px在三底色查看，奶思脸、耳、金棕眼、粉鼻和略露胸部可辨，无白描边；另看240px备用图。",
+    "banner": "实际750x400查看有色不透明居家构图，单猫与蛋糕、小车对应主题；无文案、耳脸脚尾未被裁切。"
+  },
+  "user_confirmation": "NOT_RUN",
+  "wechat_submission": "NOT_SUBMITTED",
+  "recorded_at": "2026-10-03T21:21:37.003455+08:00",
+  "asset_sha256": {
+    "main_png/01.png": "3186a0344bfc91cca7e77936261122a5a4845591a4bdfa864eefd5ab03cc54ea",
+    "main_gif/01.gif": "a48d697f2bfe3e674b79dc4ecddcf2778ade1f31731cb31e5977c9ac0ddcaaab",
+    "thumbnail/01.png": "b79d4a479beebcc1d343ff4e4c6561be9e836beaab41c8ae4c58b41dda2b7222",
+    "main_png/02.png": "1dbef80e4f028f4ea0e46377647aef892d167ae1932e75ce10361bd8f2f3020c",
+    "main_gif/02.gif": "efff2f503a1d63ad9509e0b82bfdd832d94a2367ae63f48777b9aab094b7ac92",
+    "thumbnail/02.png": "08a0d4771b4b34e3e6f8639b04c0fbc338d5630d4325f99f88eb8fb527d4e4d7",
+    "main_png/03.png": "e8e8298b2cad837bb7f25ebda0a8368ad7d87dbae76316520120210870d9abe0",
+    "main_gif/03.gif": "082530c193a9d99d9f4a90513c8cd02b4710a68fb64faa875a801f3643ff9a39",
+    "thumbnail/03.png": "2ee2dac0908155ff103303bd7f380f0211f205b40f895daa2df1eab88062c9f9",
+    "main_png/04.png": "16e154cfcc5c051abd8332c37bb2694f3467c9cd815e55a30c04e705da1d891e",
+    "main_gif/04.gif": "b7780fd029d97009a00feebb53713073a6fd21fc71ed1c41e4f69db5ae329851",
+    "thumbnail/04.png": "bf13119568c317da4efe2958b61252412c48ce72604b3b81e212bb4f1bc9b6b3",
+    "main_png/05.png": "3ab1e736b123dee8a90ddb1c393bff309c3afcaee4472bf78741776f531886f1",
+    "main_gif/05.gif": "347e79f3ca55026d14c7ec2bc47ef9021b388aefa1e39571bf1d1d143bf333af",
+    "thumbnail/05.png": "a80dfd804e3b10ecb9425c46ef2d55dfaaa8cfd04b5a91e1c9f22521e303b0f9",
+    "main_png/06.png": "07984bec83f8fe1c0fb97d25038cdf96a606ffec73b89273ed79c2210dbd1dfe",
+    "main_gif/06.gif": "05cc52d9db8ee5ceb78fd8988cf4fce616e1c266c4a8e0e2475e5a2eee25a39e",
+    "thumbnail/06.png": "4160c6ecc96f3e05c0769d095ea887b12c2580284c5606cae1323774a958f6cd",
+    "main_png/07.png": "43c56e6e13d3c2ad3bde844b30ae65e198d55de5eaf10d404392fcd948397d73",
+    "main_gif/07.gif": "de0b56c3777e4736fae0a560f373a1285b00afd21a82e47a46c0e41d66ca5d77",
+    "thumbnail/07.png": "8c72b50b544448624429cfb69a0a2562b4304f5fdfef2e2e6ec4a380070e478f",
+    "main_png/08.png": "7d884d533009a346cf464ac6598c648648f8c0c9b81bfdabd46d54f5e80a1bb9",
+    "main_gif/08.gif": "6316f3c2675b1eb59eac6eee22ecaeba719174d3f5e5411a4cdb6cfa7ad41879",
+    "thumbnail/08.png": "c13b2f2619bb2b09db406ace91dab517ccda5d851f8a4d827eb3c2e990ed531f",
+    "main_png/09.png": "8005e05de209cd30c4884ac17f915b48ce43d7fc930aaeac02c34859ecf5337f",
+    "main_gif/09.gif": "ced50ddab1f598dd343207f5d1c3763c47a1eab597e62a2d32a7229b855f6ac6",
+    "thumbnail/09.png": "70e95b70eb76e63ef64ad33e37d35769b6fa6a527b56c46b12486cfe69c152d6",
+    "main_png/10.png": "08a081b97b1b091268a1e64eddd84bc2b75fc2da8a5eac3f3dd6bd1e15b3a7e2",
+    "main_gif/10.gif": "77ad85605a23046ead6683cea09912846725371ce1e8b2800ad9f6b39f518da4",
+    "thumbnail/10.png": "999c5e8614a93506388bbc1b820571a590e33d19901b13ff694f76a05ae59bb5",
+    "main_png/11.png": "7a99af9cc2064126ceed9e9c70f322c1ab854b3332b9492d78e768af07f7ac46",
+    "main_gif/11.gif": "ea9136e4a1b0f04c6e0c403d6f5db21ac8e93064a0051694fefbf9b3b2b4f466",
+    "thumbnail/11.png": "14b9e81678bc43baa9dee34c707cf39a14c2789e81377a9c862a46e2834bbb45",
+    "main_png/12.png": "1c9f185eb5a56e749973dd6501aa25a6475a6bb74b788c9023ca9d61c52f7971",
+    "main_gif/12.gif": "ea8bcd2bd7acddae2df3cc8b8195464ed9a8e815c32b7fb2f5bc8d6367f2fc1b",
+    "thumbnail/12.png": "267adf988f195988ce15f4906d46030efbe22e0173e1474eb8bc24829035d262",
+    "main_png/13.png": "cc5a1771ffefba5a893ac05e5facbe76e4f448346cd7c393069b710b924c2ed9",
+    "main_gif/13.gif": "c25cea99340b08edd0b13081a91b0f71bd6f54aac98388e93729cce94aa97769",
+    "thumbnail/13.png": "f6b132da62ea5aeda7245ec7db27e145875f91f87ae61c7d30b47e076eeef609",
+    "main_png/14.png": "5c24afab98009d595274af74f5a374126f73995d9593d6a04f0a728c98a8070c",
+    "main_gif/14.gif": "aba5e114d7ef7bb86b149ad7bdbf2f7ddf6e8b79b6bd10883f1e13d28ad49aea",
+    "thumbnail/14.png": "626d56a13f67afcdabc59015717eb028ab7908b8d5a50c0f09fabaae442218c0",
+    "main_png/15.png": "e62014775b8895827706244043507967ddb5514c5a1aa306f5fcbd525465b67f",
+    "main_gif/15.gif": "c5e7f5cb22279888543402454de70bcfd6e5fabf76ec5c040e1fd78e5507f150",
+    "thumbnail/15.png": "a985b083284c8721cd69fbd47c69b1e5ca0c9c172d3b7e8b702438d6d805e466",
+    "main_png/16.png": "22cbe604111f6e8788c2462769494135c9e4e5bc22dff54ce78afe91b12efc80",
+    "main_gif/16.gif": "037f9b57220f743e0d6b7882ac2168dcd0b7e5c7d6323266adcd0acb421e0eb1",
+    "thumbnail/16.png": "b1f27ee7f8387f1792b810b16baf6702d7fe054559174e59055e98006c28e884",
+    "main_png/17.png": "af58cf7b25f3efffb699e09aecd82139469469ddd7c8660cae6fce86d9709fec",
+    "main_gif/17.gif": "6ae837abd6df3a431547397bfab579c9af5f09386f445dead939047477dde420",
+    "thumbnail/17.png": "031705edc4a59b3747f9f604d422b0ea1d6bbcc624782034c49ca4c9a189e06e",
+    "main_png/18.png": "0145a2bba0a392fdbb281574dc719bd977c5db8b0ddc4f611727a7b4250c3132",
+    "main_gif/18.gif": "221ca161ace2cc4002f698a34f28ac9ffc3ad405c474a2991326fa4929d7136e",
+    "thumbnail/18.png": "4e9800588b70ae55d7084a73f43a6a4a7dfe52fb55a0fd634d674cda53dbf61c",
+    "main_png/19.png": "2fbce6e18e0c6f9c1206d855a6a575f06eee872f2fd09afa7c05dd52855cff43",
+    "main_gif/19.gif": "b521b0401492492bdad01c8b35799c367f9bd5d327020d2b360642086a748d72",
+    "thumbnail/19.png": "399d3f69d7c3c347f0bb960174f6a0cc850b14d5952f723260ef45306dbee682",
+    "main_png/20.png": "3acca5327a570d7d1658e668e5ac4331ae8bc890fdd63b604b535a915dfc87ee",
+    "main_gif/20.gif": "9c82aa6150160cbf1d6f74574c0dc8061d4d8551214ac05329521f4079bf9cbc",
+    "thumbnail/20.png": "e7bd5bed7a831f919605948bcb510036c9a1d3a446c5db18c2768946fc069b31",
+    "main_png/21.png": "1bcae204a68443506ce69437d644640a953fc08e9bb122cd275b3a067f08a46c",
+    "main_gif/21.gif": "4ef876abd92d6e0be061e9069acfcd07b0905d12c29810e67ae3929c3f76f9a9",
+    "thumbnail/21.png": "e070083d0446d5c140b0c53a89274045515f763b26f47915202cb6c835ecc34b",
+    "main_png/22.png": "c5ff2015b93222c540cfccd013b6184a4d697c9ba7d8280044b935fc3bc19905",
+    "main_gif/22.gif": "61f380c352d7317349b225444dfa9afd3c11d4bc855ed4f8c6999a64eb91f312",
+    "thumbnail/22.png": "eaa4a257c1662f6b664de697aba6584c65fbb5145e8181dba98324655c0b8154",
+    "main_png/23.png": "e081b8c5a0ffdab60eefa1ab3fda41b37e79af6862c797eb98aa0c295193c9c2",
+    "main_gif/23.gif": "e11ccac2e505474caf8ad0b91bcd74c61cba46a82cd3c04668c1149bf646ff13",
+    "thumbnail/23.png": "037ae29bcbd6bfaaf5395aac09b862f361d2f27edf751ad1821e2b99882c34d6",
+    "main_png/24.png": "435ef33f5ac613eab9fe03e5acdd02a71c2dd839802ae97cf9e918e1ca2673e2",
+    "main_gif/24.gif": "5d75fe03c0a5839651cc2224ce8d191f49fc79270b14e43e97764d2b6abfa299",
+    "thumbnail/24.png": "25aac192c494ef2a3b004cf8161abc825f938b236b17b8c8e01802e84a83d3da",
+    "extras/cover_240.png": "cb951002cca17b5a68f8ca261e8991595b1673515464a6e977127e150527aea2",
+    "extras/chat_icon_50.png": "f321881758edbbaf73000c17f266f715bcd0015bd714b68a482fafd2e7697039",
+    "extras/chat_icon_240_备用.png": "8de71b824c08364cb7b4e065e50eca2b121e73e3c842a7cbd691c7ffd2ad2865",
+    "extras/banner_750x400.jpg": "903a8bfa7825d50ddc527c8aba839e9771c1432f329984529d1adee1e4e4b3af"
+  },
+  "evidence": [
+    {
+      "file": "production/视觉证据/checker_120_01.png",
+      "sha256": "983f488b78fa4666d2d38be82f7a4aa68b9def8ef19272b36f5c84a879ad420f",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/checker_240_01.png",
+      "sha256": "573b34dba3c0154db51c4dff388d3119f28279e829da8686597254297a1855e2",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/checker_240_13.png",
+      "sha256": "1c9c32a6aa468977f1651e8704385b5ca3710640de08d02c846a91eb1b433732",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/dark_120_01.png",
+      "sha256": "141a285a2277348044262e1a633cc8f44e2f34aa9302ec55187b786b5354e40f",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/dark_240_01.png",
+      "sha256": "e54000e5f427608e6372d062e827f49c5b95e3c3c00f4e01d977989f2468e5b6",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/dark_240_13.png",
+      "sha256": "14a9c63cf7d6fbff3b19a0cc0f66f66df1e3fabc4489b768a269674138ecdd01",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/extras_actual.png",
+      "sha256": "27b8e3ba6f6bfdb33eb9abcdda18c26e5be528fb306eb5df6086397cbe759035",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/gif_240_01.png",
+      "sha256": "915479b85534e310f2517866e336f7c4772a0b1c0a6f7b771b07553a3547ae26",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/gif_240_13.png",
+      "sha256": "3e8cfc102c854bd2519ab1b261d234c595e0e42487602f62c10f594130d39aef",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/light_120_01.png",
+      "sha256": "6bbb016a8d5c48a8ba80de75b9ea5d72765cb30088781d8864e31a00c9e8925a",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/light_240_01.png",
+      "sha256": "43c510ba0ced979c6a2d12699cc78d328144672d9c148de8fed2cf19a754d5f0",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    },
+    {
+      "file": "production/视觉证据/light_240_13.png",
+      "sha256": "efcb2a0cb52c6a709dfb551c955788d4d7d844612027b320c4eb4719fca53bac",
+      "size_px": null,
+      "note": "实际1:1检查图，已通过view_image实际查看"
+    }
+  ],
+  "manual_decision_source": {
+    "file": "05_验收/人工逐张目检记录.json",
+    "sha256": "a22b34ee93a3db5bbc31b15aa67380bb0c7429651121d0e07c9048fcd0dbc0eb"
+  }
+}

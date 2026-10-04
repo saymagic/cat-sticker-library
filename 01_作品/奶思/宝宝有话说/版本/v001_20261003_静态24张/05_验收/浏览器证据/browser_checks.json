@@ -1,0 +1,290 @@
+{
+  "preview": {
+    "dark": {
+      "bodyClass": "",
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "light": {
+      "bodyClass": "light",
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 640,
+      "width": 640
+    },
+    "checker": {
+      "bodyClass": "light checker",
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 640,
+      "width": 640
+    },
+    "mobile": {
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 375,
+      "width": 375
+    }
+  },
+  "downloads": [
+    {
+      "source": "preview",
+      "file": "submission_PNG.zip",
+      "path": "/Users/saymagic/Downloads/submission_PNG (1).zip",
+      "method": "actual_click_download"
+    },
+    {
+      "source": "preview",
+      "file": "submission_GIF.zip",
+      "path": "/Users/saymagic/Downloads/submission_GIF (1).zip",
+      "method": "actual_click_download"
+    },
+    {
+      "source": "preview",
+      "file": "complete_delivery.zip",
+      "path": "/Users/saymagic/Downloads/complete_delivery (1).zip",
+      "method": "actual_click_download"
+    },
+    {
+      "source": "unified_library",
+      "file": "submission_PNG.zip",
+      "path": "/Users/saymagic/Downloads/奶思_宝宝有话说_v001_submission_PNG.zip",
+      "method": "actual_click_download"
+    },
+    {
+      "source": "unified_library",
+      "file": "complete_delivery.zip",
+      "path": "/Users/saymagic/Downloads/奶思_宝宝有话说_v001_complete_delivery.zip",
+      "method": "actual_click_download"
+    }
+  ],
+  "library": {
+    "caption_search": {
+      "query": "胖胖快回来",
+      "role": "奶思",
+      "visibleText": "猫\n表情作品库\n每一套，都收在这里\n\n按角色浏览\n\n全\n全部角色\n6\n奶\n奶思\n2\n古\n古德\n2\n范\n范恩\n2\n完成一套，登记一套。\n草稿与历史也能找到。\n作品库设计与规则 ↗\n微信制作规范 ↗\n我的创作 / 表情包\n创作与归档流程 ↗\n让每一套，随时找得到。\n\n按主题看整套，用中文找单张。预览、历史版本和上传物料，在一个地方。\n\n6\n主题\n6\n版本\n120\n张表情\n×\n复制当前筛选链接 ↗\n全部本地状态\n本地成品\n制作中\n设计草稿\n需复检\n全部类型\n静态\n动态\n全部微信状态\n未投稿\n已提交\n审核通过\n需修改\n最新创作优先\n按主题名称\n按角色\n显示历史与归档\n只看收藏\n按套查看\n找单张\n\n1 套作品 · 已检索全部未归档版本\n\n# 猫咪\n# 可爱\n# 日常\n# 问候\n# 情绪\n# 宝宝\n# 撒娇\n# 小情绪\n☆\n奶思 · 24张 · 未投稿\n本地成品\n奶思宝宝有话说\n\n奶思把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。\n\n猫咪\n宝宝\n日常\n撒娇\n查看24张\n上传包 ↓\nv001 · 1个版本\n4个本地成品 · 更新于 10/03 21:29\n本地成品与微信审核分别记录。收藏保存在当前浏览器。 查看规则"
+    },
+    "version": {
+      "options": [
+        {
+          "selected": true,
+          "text": "v001 · 静态24张 · 常用 · 本地成品",
+          "value": "pack-b8d226d1bc49"
+        }
+      ],
+      "value": "pack-b8d226d1bc49"
+    },
+    "detail": {
+      "images": [
+        {
+          "alt": "奶思：早上好",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：哥哥呢",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：宝宝到咯",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：胖胖快回来",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：慢点开车",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：饿饿！",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：吃啥呀",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：想吃小蛋糕",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：已买",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：欧了",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：这个可以",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：我木有诶",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：你说",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：还在思考中",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：嘻嘻",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：比心",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：哼",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：啊？？",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：你认真的？",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：你最好是",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：宝服了",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：火都来了",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：脑袋空空",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思：宝宝累了",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思无白边封面",
+          "h": 240,
+          "loaded": true,
+          "w": 240
+        },
+        {
+          "alt": "奶思50px聊天图标",
+          "h": 50,
+          "loaded": true,
+          "w": 50
+        },
+        {
+          "alt": "奶思有色无字横幅",
+          "h": 400,
+          "loaded": true,
+          "w": 750
+        }
+      ],
+      "scrollWidth": 1280,
+      "text": "奶思 / 宝宝有话说\n\n奶思宝宝有话说\n\nv001 · 静态24张 · 常用 · 本地成品 · 微信未投稿\n\n×\nv001 · 静态24张 · 常用 · 本地成品\n浅色\n深色\n透明棋盘\nPNG上传包 ↓\n2.3MB\nGIF静态备用 ↓\n1.4MB\n完整制作备份 ↓\n146.5MB\n上传填写文案 ↗\n单套预览 ↗\n制作资料入口 ↗\n规则核对：2026-10-03\n☆\n01\n早上好\n复制\n含义词 · 早安\nPNG ↓\n☆\n02\n哥哥呢\n复制\n含义词 · 寻人\nPNG ↓\n☆\n03\n宝宝到咯\n复制\n含义词 · 到啦\nPNG ↓\n☆\n04\n胖胖快回来\n复制\n含义词 · 快回\nPNG ↓\n☆\n05\n慢点开车\n复制\n含义词 · 慢行\nPNG ↓\n☆\n06\n饿饿！\n复制\n含义词 · 饿啦\nPNG ↓\n☆\n07\n吃啥呀\n复制\n含义词 · 饭点\nPNG ↓\n☆\n08\n想吃小蛋糕\n复制\n含义词 · 蛋糕\nPNG ↓\n☆\n09\n已买\n复制\n含义词 · 买好\nPNG ↓\n☆\n10\n欧了\n复制\n含义词 · 搞定\nPNG ↓\n☆\n11\n这个可以\n复制\n含义词 · 认可\nPNG ↓\n☆\n12\n我木有诶\n复制\n含义词 · 没有\nPNG ↓\n☆\n13\n你说\n复制\n含义词 · 倾听\nPNG ↓\n☆\n14\n还在思考中\n复制\n含义词 · 思考\nPNG ↓\n☆\n15\n嘻嘻\n复制\n含义词 · 偷笑\nPNG ↓\n☆\n16\n比心\n复制\n含义词 · 爱你\nPNG ↓\n☆\n17\n哼\n复制\n含义词 · 小哼\nPNG ↓\n☆\n18\n啊？？\n复制\n含义词 · 震惊\nPNG ↓\n☆\n19\n你认真的？\n复制\n含义词 · 质疑\nPNG ↓\n☆\n20\n你最好是\n复制\n含义词 · 盯住\nPNG ↓\n☆\n21\n宝服了\n复制\n含义词 · 服气\nPNG ↓\n☆\n22\n火都来了\n复制\n含义词 · 冒火\nPNG ↓\n☆\n23\n脑袋空空\n复制\n含义词 · 放空\nPNG ↓\n☆\n24\n宝宝累了\n复制\n含义词 · 累啦\nPNG ↓\n封面、聊天图标与横幅\n技术检查 ↗\n逐张目检 ↗\nZIP检查 ↗\n完成锁定 ↗\n\n1个版本均保留。常用入口仅指向验收有效的本地成品；平台状态另凭真实记录登记。",
+      "width": 1280
+    },
+    "backgrounds": [
+      {
+        "name": "深色",
+        "pressed": "true"
+      },
+      {
+        "name": "透明棋盘",
+        "pressed": "true"
+      },
+      {
+        "name": "浅色",
+        "pressed": "true"
+      }
+    ],
+    "mobile_detail": {
+      "dialogClientWidth": 337,
+      "dialogScrollWidth": 337,
+      "imagesLoaded": true,
+      "pageScrollWidth": 375,
+      "width": 375
+    },
+    "empty_search": {
+      "query": "奶思验收不存在的文案",
+      "visibleText": "猫\n表情作品库\n每一套，都收在这里\n全部角色\n6\n奶思\n2\n古德\n2\n范恩\n2\n我的创作 / 表情包\n创作与归档流程 ↗\n让每一套，随时找得到。\n\n按主题看整套，用中文找单张。预览、历史版本和上传物料，在一个地方。\n\n6\n主题\n6\n版本\n120\n张表情\n×\n复制当前筛选链接 ↗\n全部本地状态\n本地成品\n制作中\n设计草稿\n需复检\n全部类型\n静态\n动态\n全部微信状态\n未投稿\n已提交\n审核通过\n需修改\n最新创作优先\n按主题名称\n按角色\n显示历史与归档\n只看收藏\n按套查看\n找单张\n\n0 套作品 · 已检索全部未归档版本\n\n# 猫咪\n# 可爱\n# 日常\n# 问候\n# 情绪\n# 宝宝\n# 撒娇\n# 小情绪\n没有找到对应的表情\n试试更短的文案，或清除角色与状态筛选。\n清除全部筛选\n4个本地成品 · 更新于 10/03 21:29\n本地成品与微信审核分别记录。收藏保存在当前浏览器。 查看规则"
+    },
+    "single_view": {
+      "visibleText": "猫\n表情作品库\n每一套，都收在这里\n全部角色\n6\n奶思\n2\n古德\n2\n范恩\n2\n我的创作 / 表情包\n创作与归档流程 ↗\n让每一套，随时找得到。\n\n按主题看整套，用中文找单张。预览、历史版本和上传物料，在一个地方。\n\n6\n主题\n6\n版本\n120\n张表情\n×\n复制当前筛选链接 ↗\n全部本地状态\n本地成品\n制作中\n设计草稿\n需复检\n全部类型\n静态\n动态\n全部微信状态\n未投稿\n已提交\n审核通过\n需修改\n最新创作优先\n按主题名称\n按角色\n显示历史与归档\n只看收藏\n按套查看\n找单张\n\n1 张表情 · 每个主题一个匹配版本\n\n# 猫咪\n# 可爱\n# 日常\n# 问候\n# 情绪\n# 宝宝\n# 撒娇\n# 小情绪\n☆\n04\n胖胖快回来\n复制\n奶思 · 奶思宝宝有话说 · v001\nPNG ↓\n4个本地成品 · 更新于 10/03 21:29\n本地成品与微信审核分别记录。收藏保存在当前浏览器。 查看规则",
+      "width": 375,
+      "scrollWidth": 375,
+      "image": {
+        "height": 240,
+        "loaded": true,
+        "width": 240
+      }
+    },
+    "theme_history": {
+      "visibleText": "猫\n表情作品库\n每一套，都收在这里\n全部角色\n6\n奶思\n2\n古德\n2\n范恩\n2\n我的创作 / 表情包\n创作与归档流程 ↗\n让每一套，随时找得到。\n\n按主题看整套，用中文找单张。预览、历史版本和上传物料，在一个地方。\n\n6\n主题\n6\n版本\n120\n张表情\n×\n复制当前筛选链接 ↗\n全部本地状态\n本地成品\n制作中\n设计草稿\n需复检\n全部类型\n静态\n动态\n全部微信状态\n未投稿\n已提交\n审核通过\n需修改\n最新创作优先\n按主题名称\n按角色\n显示历史与归档\n只看收藏\n按套查看\n找单张\n\n1 套作品 · 含历史与归档版本\n\n# 猫咪\n# 可爱\n# 日常\n# 问候\n# 情绪\n# 宝宝\n# 撒娇\n# 小情绪\n☆\n奶思 · 24张 · 未投稿\n本地成品\n奶思宝宝有话说\n\n奶思把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。\n\n猫咪\n宝宝\n日常\n撒娇\n查看24张\n上传包 ↓\nv001 · 1个版本\n4个本地成品 · 更新于 10/03 21:29\n本地成品与微信审核分别记录。收藏保存在当前浏览器。 查看规则",
+      "historyChecked": true,
+      "width": 375,
+      "scrollWidth": 375
+    }
+  }
+}

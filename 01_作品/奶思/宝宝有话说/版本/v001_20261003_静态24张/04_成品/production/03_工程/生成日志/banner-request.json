@@ -1,0 +1,12 @@
+{
+  "number": "banner",
+  "revision": "",
+  "prompt": "Use case: illustration-story. Create one independent WIDE horizontal 1.875:1 no-text banner illustration for 奶思宝宝有话说, matching attached locked cartoon master character and fine hand-painted fur brushwork. Exactly one gray-black shorthaired mackerel tabby kitten 奶思, large gold-brown eyes, cream muzzle, pink nose. Kitten sits comfortably in the center of a cheerful cozy peach-and-turquoise home nook, front paws resting on a small lavender cushion, a little strawberry cupcake on a cream plate to one side and a tiny mint toy car to the other side, soft yellow rug under kitten. Warm window light, pastel aqua curtains, simple colorful toy and breakfast setting with gentle hand-drawn textures. Fully opaque colorful background across whole canvas, no white blank field and no transparent area. Kitten full body, four limbs anatomically natural or plausibly occluded, exactly one striped tail curled beside cushion. Keep face, ears, feet, tail and important props fully inside central safe area for final 750x400 export; ample space around all edges. No letters, no text of any language, no watermark, no logos, no numbers, no sticker outlines, no second cat, no collage or grid. New composition, never crop the reference.",
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png"
+    ],
+    "transparent_background": false
+  }
+}

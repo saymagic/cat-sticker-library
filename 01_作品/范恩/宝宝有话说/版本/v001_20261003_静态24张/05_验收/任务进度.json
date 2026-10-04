@@ -1,0 +1,31 @@
+{
+  "version_id": "pack-41c15d18e196",
+  "character": "范恩",
+  "stage": "本地验收及锁定完成，等待整批发布",
+  "local_ready": true,
+  "updated_at": "2026-10-03T21:59:00.735742+08:00",
+  "completion_lock_sha256": "5f5760313203766390c1f8f4c01efe46c869a5ee9836f07cbcd3b914fbbbd8bd",
+  "checks": {
+    "independent_originals": 24,
+    "technical_checks_passed": 1129,
+    "individual_visual_review": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "checker"
+    ],
+    "native_sizes_px": [
+      240,
+      120,
+      50
+    ],
+    "zip_count": 3,
+    "zip_hashes_match_browser_downloads": true,
+    "preview_browser": true,
+    "library_search_role_detail_version_empty_mobile": true,
+    "library_check_deep": "PASS; own465个锁定文件有效"
+  },
+  "publication": "IN_PROGRESS：用户已授权推送部署，三套均已真实锁定，由本任务持有发布锁串行发布",
+  "platform": "未投稿",
+  "production_writes_stopped": true
+}

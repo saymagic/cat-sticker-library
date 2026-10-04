@@ -1,0 +1,222 @@
+{
+  "passed": true,
+  "items": [
+    {
+      "asset": "01",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "02",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "03",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "04",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "05",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "06",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "07",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "08",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "09",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "10",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "11",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "12",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "13",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "14",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "15",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "16",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "17",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "18",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "19",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "20",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "21",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "22",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "23",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "24",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "cover",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "chat_icon",
+      "passed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset": "banner",
+      "passed": true,
+      "mode": "RGB",
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "checks": [
+    {
+      "command": [
+        "scripts/library.sh",
+        "check"
+      ],
+      "checked_at": "2026-10-03T21:22:12.223023+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"versions\": 6, \"checks\": [{\"id\": \"pack-ca58ed5f4c50\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"文件大小与修改时间\"}, {\"id\": \"pack-764d7b786fd9\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"文件大小与修改时间\"}, {\"id\": \"pack-67ff6aa24bdb\", \"state\": \"有效\", \"issues\": [], \"checked\": 250, \"mode\": \"文件大小与修改时间\"}, {\"id\": \"pack-a4e39c770a56\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-b8d226d1bc49\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-41c15d18e196\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}], \"mode\": \"快速\"}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/library.sh",
+        "check",
+        "--deep"
+      ],
+      "checked_at": "2026-10-03T21:22:13.890766+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"versions\": 6, \"checks\": [{\"id\": \"pack-ca58ed5f4c50\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-764d7b786fd9\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-67ff6aa24bdb\", \"state\": \"有效\", \"issues\": [], \"checked\": 250, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-a4e39c770a56\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-b8d226d1bc49\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-41c15d18e196\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}], \"mode\": \"完整哈希与ZIP\"}\n",
+      "stderr": ""
+    }
+  ]
+}

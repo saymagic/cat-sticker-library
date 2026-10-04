@@ -1,0 +1,170 @@
+[
+  {
+    "number": "01",
+    "caption": "早上好",
+    "font_size_master": 192,
+    "font_size_240": 45.0,
+    "font_size_120": 22.5
+  },
+  {
+    "number": "02",
+    "caption": "哥哥呢",
+    "font_size_master": 188,
+    "font_size_240": 44.06,
+    "font_size_120": 22.03
+  },
+  {
+    "number": "03",
+    "caption": "宝宝到咯",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "04",
+    "caption": "胖胖快回来",
+    "font_size_master": 188,
+    "font_size_240": 44.06,
+    "font_size_120": 22.03
+  },
+  {
+    "number": "05",
+    "caption": "慢点开车",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "06",
+    "caption": "饿饿！",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "07",
+    "caption": "吃啥呀",
+    "font_size_master": 186,
+    "font_size_240": 43.59,
+    "font_size_120": 21.8
+  },
+  {
+    "number": "08",
+    "caption": "想吃小蛋糕",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "09",
+    "caption": "已买",
+    "font_size_master": 188,
+    "font_size_240": 44.06,
+    "font_size_120": 22.03
+  },
+  {
+    "number": "10",
+    "caption": "欧了",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "11",
+    "caption": "这个可以",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "12",
+    "caption": "我木有诶",
+    "font_size_master": 182,
+    "font_size_240": 42.66,
+    "font_size_120": 21.33
+  },
+  {
+    "number": "13",
+    "caption": "你说",
+    "font_size_master": 180,
+    "font_size_240": 42.19,
+    "font_size_120": 21.09
+  },
+  {
+    "number": "14",
+    "caption": "还在思考中",
+    "font_size_master": 180,
+    "font_size_240": 42.19,
+    "font_size_120": 21.09
+  },
+  {
+    "number": "15",
+    "caption": "嘻嘻",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "16",
+    "caption": "比心",
+    "font_size_master": 196,
+    "font_size_240": 45.94,
+    "font_size_120": 22.97
+  },
+  {
+    "number": "17",
+    "caption": "哼",
+    "font_size_master": 190,
+    "font_size_240": 44.53,
+    "font_size_120": 22.27
+  },
+  {
+    "number": "18",
+    "caption": "啊？？",
+    "font_size_master": 192,
+    "font_size_240": 45.0,
+    "font_size_120": 22.5
+  },
+  {
+    "number": "19",
+    "caption": "你认真的？",
+    "font_size_master": 182,
+    "font_size_240": 42.66,
+    "font_size_120": 21.33
+  },
+  {
+    "number": "20",
+    "caption": "你最好是",
+    "font_size_master": 178,
+    "font_size_240": 41.72,
+    "font_size_120": 20.86
+  },
+  {
+    "number": "21",
+    "caption": "宝服了",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "22",
+    "caption": "火都来了",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "23",
+    "caption": "脑袋空空",
+    "font_size_master": 184,
+    "font_size_240": 43.12,
+    "font_size_120": 21.56
+  },
+  {
+    "number": "24",
+    "caption": "宝宝累了",
+    "font_size_master": 180,
+    "font_size_240": 42.19,
+    "font_size_120": 21.09
+  }
+]

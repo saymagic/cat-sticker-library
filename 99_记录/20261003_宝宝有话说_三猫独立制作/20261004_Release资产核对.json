@@ -1,0 +1,89 @@
+{
+  "public_release_url": "https://github.com/saymagic/cat-sticker-library/releases/tag/materials-20261004-baby-v1",
+  "draft": false,
+  "tag": "materials-20261004-baby-v1",
+  "status": "PASS",
+  "server_asset_checks": [
+    {
+      "name": "archive-f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b.zip",
+      "bytes": 162681584,
+      "sha256": "sha256:f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e.zip",
+      "bytes": 1227081,
+      "sha256": "sha256:b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649.zip",
+      "bytes": 2359614,
+      "sha256": "sha256:6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4.zip",
+      "bytes": 153569582,
+      "sha256": "sha256:0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e.zip",
+      "bytes": 1415697,
+      "sha256": "sha256:8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d.zip",
+      "bytes": 2414140,
+      "sha256": "sha256:360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869.zip",
+      "bytes": 140749139,
+      "sha256": "sha256:7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa.zip",
+      "bytes": 1243980,
+      "sha256": "sha256:794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa.zip",
+      "pass": true
+    },
+    {
+      "name": "archive-647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a.zip",
+      "bytes": 2164049,
+      "sha256": "sha256:647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a.zip",
+      "pass": true
+    },
+    {
+      "name": "archives.json",
+      "bytes": 7537,
+      "sha256": "sha256:31f3f9a2304843fbc4f6a3ab8dc5c5fa4d872cd0f889af19c65bdf1167821d31",
+      "state": "uploaded",
+      "url": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archives.json",
+      "pass": true
+    }
+  ],
+  "full_backup_downloads": "NOT_RUN: upload integrity checked with server SHA256; actual public website downloads follow"
+}

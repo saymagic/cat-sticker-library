@@ -1,0 +1,173 @@
+{
+  "name": "wechat-official-20261003-fanen-static-conservative",
+  "basis_date": "2026-10-03",
+  "official_rules_verified": true,
+  "note": "2026-10-03通过Codex应用内浏览器首次打开微信官方公开制作规范；可见无登录页面实际显示静态主图240px、8至24张、封面240px、聊天图标50px、横幅750x400及大小、透明、无字、封面图标无白边等要求。本版采用更小导出体积上限。120px缩略图、240px图标和单帧GIF仅为兼容备用，未伪称当前官方必交。后续页面内容导出被浏览器站点安全策略阻断，保留首次可见AX证据。登录投稿页、权利资料、赞赏功能与审核均未运行。",
+  "count": 24,
+  "main_png": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "PNG",
+    "limit": 100000,
+    "alpha": true
+  },
+  "main_gif": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "GIF",
+    "limit": 100000,
+    "alpha": true
+  },
+  "thumbnail": {
+    "size": [
+      120,
+      120
+    ],
+    "format": "PNG",
+    "limit": 50000,
+    "alpha": true
+  },
+  "extras": {
+    "cover": {
+      "file": "cover_240.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 80000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon": {
+      "file": "chat_icon_50.png",
+      "size": [
+        50,
+        50
+      ],
+      "format": "PNG",
+      "limit": 30000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon_compat": {
+      "file": "chat_icon_240_备用.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": true,
+      "outline": false
+    },
+    "banner": {
+      "file": "banner_750x400.jpg",
+      "size": [
+        750,
+        400
+      ],
+      "format": "JPEG",
+      "limit": 80000,
+      "alpha": false
+    },
+    "appreciation_guide": {
+      "file": "optional_appreciation_guide_750x560.png",
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": false,
+      "optional": true
+    },
+    "appreciation_thanks": {
+      "file": "optional_appreciation_thanks_750x750.png",
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "limit": 200000,
+      "alpha": false,
+      "optional": true
+    }
+  },
+  "official_source": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+  "verification": {
+    "date": "2026-10-03",
+    "observer": "Codex",
+    "method": "CUA首次创建官方IAB页返回的实时AX可见信息",
+    "url": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+    "checked_fields": {
+      "album_count": "8至24任意数量",
+      "main_static": {
+        "format": [
+          "PNG",
+          "JPG",
+          "GIF"
+        ],
+        "size": [
+          240,
+          240
+        ],
+        "max_kb": 500,
+        "uniform_static_album": true
+      },
+      "cover": {
+        "size": [
+          240,
+          240
+        ],
+        "format": "PNG",
+        "max_kb": 500,
+        "alpha": true,
+        "white_outline": false,
+        "no_text": true
+      },
+      "chat_icon": {
+        "size": [
+          50,
+          50
+        ],
+        "format": "PNG",
+        "max_kb": 100,
+        "alpha": true,
+        "white_outline": false
+      },
+      "banner": {
+        "size": [
+          750,
+          400
+        ],
+        "format": [
+          "PNG",
+          "JPG"
+        ],
+        "max_kb": 500,
+        "alpha": false,
+        "no_text": true,
+        "avoid_white_background": true
+      },
+      "title_max_chinese_characters": 8,
+      "description_max_chinese_characters": 80,
+      "meaning_max_chinese_characters": 4,
+      "meaning_unique": true
+    },
+    "unverified_fields": [
+      "120px缩略图作为本库兼容素材",
+      "240px图标作为备用素材",
+      "登录后本账号投稿字段",
+      "艺术家与版权资料",
+      "正式审核结果",
+      "赞赏材料与功能"
+    ],
+    "visible_evidence": "官方规范可见证据.json",
+    "followup_export": "BLOCKED: Browser site-safety policy; did not attempt workaround."
+  }
+}

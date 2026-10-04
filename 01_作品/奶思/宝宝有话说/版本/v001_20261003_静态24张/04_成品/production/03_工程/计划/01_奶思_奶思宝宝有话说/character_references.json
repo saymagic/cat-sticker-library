@@ -1,0 +1,30 @@
+[
+  {
+    "id": "naisi",
+    "name": "奶思",
+    "aliases": [
+      "奶思猫",
+      "乃斯",
+      "灰虎斑猫"
+    ],
+    "identity": [
+      "灰黑虎斑短毛，金棕眼，奶油口鼻与粉鼻",
+      "圆润幼猫脸，耳内粉色，细软手绘毛纹，紧凑幼猫身形，以锁定卡通图为准"
+    ],
+    "avoid": [
+      "禁止变成棕虎斑绿眼古德或蓝眼长毛范恩",
+      "不复制参考英文，不从总览裁切原画",
+      "四肢合理且仅一条尾巴，不套用内置照片"
+    ],
+    "reference_basis": "本库锁定卡通基准，已由Codex实际查看原图",
+    "references": [
+      {
+        "path": "references/naisi_01.png",
+        "kind": "locked_cartoon_master",
+        "role": "本版角色身份与画风基准",
+        "sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec",
+        "bundled_source": "/Users/saymagic/workspace/表情包/01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png"
+      }
+    ]
+  }
+]

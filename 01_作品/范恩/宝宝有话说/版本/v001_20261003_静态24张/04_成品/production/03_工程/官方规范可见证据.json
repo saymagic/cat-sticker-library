@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-03",
+  "url": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+  "source": "CUA createBrowserTab returned initial live AX state",
+  "page_title": "微信表情开放平台",
+  "AX_visible_ranges": {
+    "77-88": "表情图 8～24；动态GIF／静态PNG、JPG或GIF；240*240；不大于500KB",
+    "89-110": "横幅750*400，PNG或JPG，不大于500KB；封面240*240，PNG，不大于500KB",
+    "111-121": "聊天面板图标50*50，PNG，不大于100KB",
+    "123-175": "可见静态统一、风格统一、动作有差异；横幅无字有色不透明；封面与图标真实透明且不应有白描边",
+    "176-203": "名称8汉字以内；介绍80以内；含义词4以内，同套避免重复"
+  },
+  "followup_read_status": "BLOCKED by browser site-safety policy; no additional page read or screenshot exported",
+  "not_checked": [
+    "120px缩略图作为本库兼容素材",
+    "240px图标作为备用素材",
+    "登录后本账号投稿字段",
+    "艺术家与版权资料",
+    "正式审核结果",
+    "赞赏材料与功能"
+  ]
+}

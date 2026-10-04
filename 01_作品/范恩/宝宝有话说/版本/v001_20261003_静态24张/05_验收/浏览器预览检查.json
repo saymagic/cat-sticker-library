@@ -1,0 +1,550 @@
+{
+  "url": "http://127.0.0.1:8768/01_%E4%BD%9C%E5%93%81/%E8%8C%83%E6%81%A9/%E5%AE%9D%E5%AE%9D%E6%9C%89%E8%AF%9D%E8%AF%B4/%E7%89%88%E6%9C%AC/v001_20261003_%E9%9D%99%E6%80%8124%E5%BC%A0/04_%E6%88%90%E5%93%81/preview.html",
+  "checks": {
+    "dark": {
+      "class": "",
+      "images": [
+        {
+          "alt": "早上好",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "哥哥呢",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "宝宝到咯",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "胖胖快回来",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "慢点开车",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "饿饿！",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "吃啥呀",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "想吃小蛋糕",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "已买",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "欧了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "这个可以",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "我木有诶",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "你说",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "还在思考中",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "嘻嘻",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "比心",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "哼",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "啊？？",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "你认真的？",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "你最好是",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "宝服了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "火都来了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "脑袋空空",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "宝宝累了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "banner_750x400.jpg",
+          "display": [
+            431,
+            230
+          ],
+          "loaded": true,
+          "natural": [
+            750,
+            400
+          ]
+        },
+        {
+          "alt": "chat_icon_240_备用.png",
+          "display": [
+            230,
+            230
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "chat_icon_50.png",
+          "display": [
+            50,
+            50
+          ],
+          "loaded": true,
+          "natural": [
+            50,
+            50
+          ]
+        },
+        {
+          "alt": "cover_240.png",
+          "display": [
+            230,
+            230
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        }
+      ],
+      "viewport": [
+        1280,
+        720
+      ]
+    },
+    "light": {
+      "class": "light",
+      "loaded": true
+    },
+    "checker": {
+      "class": "light checker",
+      "loaded": true
+    },
+    "mobile": {
+      "images": [
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        },
+        {
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true
+        }
+      ],
+      "overflow": false,
+      "scrollWidth": 375,
+      "viewport": [
+        375,
+        812
+      ]
+    }
+  },
+  "downloads": [
+    {
+      "label": "PNG 投稿素材",
+      "path": "/Users/saymagic/Downloads/submission_PNG (2).zip"
+    },
+    {
+      "label": "单帧 GIF 投稿素材",
+      "path": "/Users/saymagic/Downloads/submission_GIF (2).zip"
+    },
+    {
+      "label": "完整制作文件",
+      "path": "/Users/saymagic/Downloads/complete_delivery (2).zip"
+    }
+  ]
+}

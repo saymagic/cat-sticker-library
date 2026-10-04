@@ -1,0 +1,152 @@
+{
+  "name": "wechat-official-20261003-static-conservative",
+  "basis_date": "2026-10-03",
+  "official_rules_verified": true,
+  "note": "2026-10-03经默认TLS重新读取官方帮助中心HTML及其公开静态JS，实际检查制作规范文字与字段；主图240px、8至24张、封面240px、聊天图标50px、横幅750x400有当日证据。导出采用更小体积上限；120px缩略图、240px聊天图标和单帧GIF明确为兼容备用。官方帮助中心浏览器访问被站点安全策略阻止，未绕过；无登录上传页或微信审核验证。",
+  "count": 24,
+  "main_png": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "PNG",
+    "limit": 100000,
+    "alpha": true
+  },
+  "main_gif": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "GIF",
+    "limit": 100000,
+    "alpha": true
+  },
+  "thumbnail": {
+    "size": [
+      120,
+      120
+    ],
+    "format": "PNG",
+    "limit": 50000,
+    "alpha": true
+  },
+  "extras": {
+    "cover": {
+      "file": "cover_240.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 80000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon": {
+      "file": "chat_icon_50.png",
+      "size": [
+        50,
+        50
+      ],
+      "format": "PNG",
+      "limit": 30000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon_compat": {
+      "file": "chat_icon_240_备用.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": true,
+      "outline": false
+    },
+    "banner": {
+      "file": "banner_750x400.jpg",
+      "size": [
+        750,
+        400
+      ],
+      "format": "JPEG",
+      "limit": 80000,
+      "alpha": false
+    },
+    "appreciation_guide": {
+      "file": "optional_appreciation_guide_750x560.png",
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": false,
+      "optional": true
+    },
+    "appreciation_thanks": {
+      "file": "optional_appreciation_thanks_750x750.png",
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "limit": 200000,
+      "alpha": false,
+      "optional": true
+    }
+  },
+  "official_source": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+  "verification": {
+    "checked_at": "2026-10-03T20:48:05.681029+08:00",
+    "method": "read-only official public HTML and static JS over verified TLS",
+    "browser_status": "BLOCKED_SITE_SAFETY_POLICY",
+    "logged_in_upload_page_verified": false,
+    "verified_fields": [
+      "main_count",
+      "main_size",
+      "main_formats",
+      "main_max_500KB",
+      "cover_size",
+      "cover_no_white_outline",
+      "chat_icon_size",
+      "chat_icon_max_100KB",
+      "banner_size",
+      "banner_opaque",
+      "banner_no_text",
+      "cover_transparency",
+      "chat_icon_transparency"
+    ],
+    "unverified_fields": [
+      "logged-in upload form",
+      "current thumbnail requirement",
+      "optional appreciation",
+      "artist identity",
+      "copyright authorization",
+      "WeChat approval"
+    ],
+    "evidence_files": [
+      {
+        "file": "官方帮助中心-20261003.html",
+        "bytes": 1394,
+        "sha256": "5af1be0e2ec932875eae133810e06b4bb3da397325d9ab15b18a027535203fd3"
+      },
+      {
+        "file": "官方公开制作规范-20261003.js",
+        "bytes": 792674,
+        "sha256": "9d16725d109eb65349369ceeda6212015d70af4f8121c34be92396bfe754cd78"
+      },
+      {
+        "file": "官方规范-当日读取文本.txt",
+        "bytes": 8615,
+        "sha256": "a271756fa90e1b95e6b14d2a575a37c6a514b046f5154759060f89ee86006009"
+      }
+    ],
+    "source_urls": [
+      "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+      "https://res.wxqcloud.qq.com.cn/t/wx_fed/base/sticker_platform/26052800/static/js/pages/guide/index.f84d77217115a9c8a0ed.js?1ba308c511fe82c68e48"
+    ]
+  }
+}

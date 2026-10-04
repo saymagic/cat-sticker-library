@@ -1,0 +1,473 @@
+{
+  "title": "范恩宝宝有话说",
+  "description": "范恩把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+  "characters": [
+    "范恩"
+  ],
+  "media": "静态",
+  "count": 24,
+  "items": [
+    {
+      "number": "01",
+      "caption": "早上好",
+      "meaning": "早安",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#F2C454",
+      "scene": {
+        "emotion": "喜悦",
+        "pose": "小猫站在后腿上，两只前爪高举伸懒腰，眼睛半睁轻笑，旁边一颗小金色太阳",
+        "props": [
+          "sun"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "直立全身；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/01.png"
+    },
+    {
+      "number": "02",
+      "caption": "哥哥呢",
+      "meaning": "找哥哥",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "惦念",
+        "pose": "小猫左前爪搭在额头遮光远望，身体侧向右边，右前爪放胸口，蓝眼睛寻找",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "侧身全身；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/02.png"
+    },
+    {
+      "number": "03",
+      "caption": "宝宝到咯",
+      "meaning": "到场",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#EA92AD",
+      "scene": {
+        "emotion": "兴奋",
+        "pose": "小猫正面跃起扑向观看者，两只前爪张开，后腿蜷起，露出粉爪垫，尾巴弯成弧形",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "正面腾空；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/03.png"
+    },
+    {
+      "number": "04",
+      "caption": "胖胖快回来",
+      "meaning": "盼归",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#E58070",
+      "scene": {
+        "emotion": "急切",
+        "pose": "小猫扶着一个小窗框，另一前爪朝外招手，脑袋探出窗边，急切眼神，尾巴在窗内清楚可见",
+        "props": [
+          "small window frame"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "探窗半身；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/04.png"
+    },
+    {
+      "number": "05",
+      "caption": "慢点开车",
+      "meaning": "慢行",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "关心",
+        "pose": "小猫坐在一辆小薄荷色玩具车内，双前爪搭在方向盘上，头转向观者，神情温柔认真，尾巴在座椅旁",
+        "props": [
+          "mint toy car"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "三分之四坐姿；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/05.png"
+    },
+    {
+      "number": "06",
+      "caption": "饿饿！",
+      "meaning": "饥饿",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#EEA160",
+      "scene": {
+        "emotion": "委屈",
+        "pose": "小猫瘫坐着两前爪捂住自己的肚子，耳朵垂下，蓝眼湿润，身旁有空小饭碗",
+        "props": [
+          "empty bowl"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "瘫坐；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/06.png"
+    },
+    {
+      "number": "07",
+      "caption": "吃啥呀",
+      "meaning": "选餐",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#A6C867",
+      "scene": {
+        "emotion": "好奇",
+        "pose": "小猫在两个小餐盘之间歪头，一爪拿汤匙贴在下巴，另一爪摊开作选择，眼睛看向上方",
+        "props": [
+          "two simple food dishes and spoon"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "歪头坐姿；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/07.png"
+    },
+    {
+      "number": "08",
+      "caption": "想吃小蛋糕",
+      "meaning": "蛋糕",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#EA92AD",
+      "scene": {
+        "emotion": "期待",
+        "pose": "小猫跪坐着两前爪轻轻托起一个草莓小蛋糕，眼睛闪亮，小嘴轻轻张开，蛋糕清楚可见",
+        "props": [
+          "strawberry cake"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "捧蛋糕；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/08.png"
+    },
+    {
+      "number": "09",
+      "caption": "已买",
+      "meaning": "买好",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#A6C867",
+      "scene": {
+        "emotion": "满足",
+        "pose": "小猫一前爪提着牛皮纸购物袋，另一爪按胸口点头，侧身走路，袋上无字无标志",
+        "props": [
+          "plain paper shopping bag"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "侧身迈步；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/09.png"
+    },
+    {
+      "number": "10",
+      "caption": "欧了",
+      "meaning": "搞定",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#F2C454",
+      "scene": {
+        "emotion": "爽快",
+        "pose": "小猫坐着一只前爪向上露出粉肉垫，另一前爪放腰侧，轻松眨眼微笑，旁边一颗小金色闪光",
+        "props": [
+          "small gold sparkle"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "眨眼举爪；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/10.png"
+    },
+    {
+      "number": "11",
+      "caption": "这个可以",
+      "meaning": "认可",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "肯定",
+        "pose": "小猫用两只前爪举着一个圆形薄荷绿勾号牌，蓝眼认真且含笑，身子微微前倾",
+        "props": [
+          "round check-mark card, geometric mark only"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "举牌前倾；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/11.png"
+    },
+    {
+      "number": "12",
+      "caption": "我木有诶",
+      "meaning": "没有",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "无奈",
+        "pose": "小猫两只前爪摊向两侧，肩膀轻轻耸起，眼睛向一侧看，小嘴无奈，单尾环在右边",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "摊爪坐姿；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/12.png"
+    },
+    {
+      "number": "13",
+      "caption": "你说",
+      "meaning": "倾听",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "认真",
+        "pose": "小猫身体微侧，一爪贴在耳旁专心听，另一前爪在地上支撑，身体向前倾，蓝眼看观者",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "侧耳倾听；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/13.png"
+    },
+    {
+      "number": "14",
+      "caption": "还在思考中",
+      "meaning": "思考",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "犹豫",
+        "pose": "小猫盘坐在淡紫小软垫上，一爪托下巴，另一爪扶住膝部，眼神看上方，耳朵略向内收",
+        "props": [
+          "lavender cushion"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "盘坐托腮；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/14.png"
+    },
+    {
+      "number": "15",
+      "caption": "嘻嘻",
+      "meaning": "偷笑",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#EA92AD",
+      "scene": {
+        "emotion": "调皮",
+        "pose": "小猫两只前爪捂住嘴偷偷笑，蓝眼弯弯仍有蓝色虹膜可见，身子微蜷，肩膀抬起",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "捂嘴偷笑；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/15.png"
+    },
+    {
+      "number": "16",
+      "caption": "比心",
+      "meaning": "爱你",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#EA92AD",
+      "scene": {
+        "emotion": "甜蜜",
+        "pose": "小猫两前爪在胸前围住一枚柔粉爱心，身体正面坐起，眼神柔软含笑，尾巴向旁边翘起",
+        "props": [
+          "pink heart"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "胸前爱心；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/16.png"
+    },
+    {
+      "number": "17",
+      "caption": "哼",
+      "meaning": "傲娇",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "不满",
+        "pose": "小猫背身坐着回头侧看，双前爪抱在胸前，脸颊鼓起，鼻尖微抬，尾巴朝外甩成一条弧形",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "背身回头；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/17.png"
+    },
+    {
+      "number": "18",
+      "caption": "啊？？",
+      "meaning": "惊讶",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "震惊",
+        "pose": "小猫蹲坐着身体后仰，两只前爪贴脸，眼睛睁圆，嘴巴小圆张开，两耳竖起，尾巴竖起来",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "抱脸后仰；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/18.png"
+    },
+    {
+      "number": "19",
+      "caption": "你认真的？",
+      "meaning": "质疑",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "怀疑",
+        "pose": "小猫趴在低矮小桌上，一爪伸向观者像在确认，另一爪放桌面，蓝眼一边眯起，嘴角稍低",
+        "props": [
+          "small low table"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "趴桌质疑；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/19.png"
+    },
+    {
+      "number": "20",
+      "caption": "你最好是",
+      "meaning": "警告",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#E58070",
+      "scene": {
+        "emotion": "怀疑",
+        "pose": "小猫稳稳坐着，前爪之一向前抬起轻轻指示，另一前爪扶在身侧，眼神眯起严肃，尾巴直立弯钩",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "抬爪提醒；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/20.png"
+    },
+    {
+      "number": "21",
+      "caption": "宝服了",
+      "meaning": "佩服",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#75BCB7",
+      "scene": {
+        "emotion": "无语",
+        "pose": "小猫坐得歪歪的，一前爪搭在额头遮住一只眼，另一爪垂在胸前，半闭蓝眼和微微叹气嘴",
+        "props": [],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "扶额歪坐；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/21.png"
+    },
+    {
+      "number": "22",
+      "caption": "火都来了",
+      "meaning": "生气",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#E58070",
+      "scene": {
+        "emotion": "恼火",
+        "pose": "小猫低身趴伏，两前爪用力按地，蓝眼眉头收紧，毛蓬起来，单尾高翘，身后有两朵小珊瑚橙火苗",
+        "props": [
+          "two small stylized flame shapes behind body"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "低伏炸毛；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/22.png"
+    },
+    {
+      "number": "23",
+      "caption": "脑袋空空",
+      "meaning": "放空",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#81A9DC",
+      "scene": {
+        "emotion": "呆萌",
+        "pose": "小猫直直地坐着，两只前爪软软垂在身侧，蓝眼略失焦，嘴小小张开，头顶一小片淡蓝空云",
+        "props": [
+          "small pale blue cloud"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "垂爪呆坐；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/23.png"
+    },
+    {
+      "number": "24",
+      "caption": "宝宝累了",
+      "meaning": "疲惫",
+      "characters": [
+        "范恩"
+      ],
+      "text_color": "#AE98D4",
+      "scene": {
+        "emotion": "疲倦",
+        "pose": "小猫半躺在一只薰衣草色枕头边，前爪无力地垂在枕头前，后腿自然伸出，蓝眼半闭，尾巴软软放在身边",
+        "props": [
+          "lavender pillow"
+        ],
+        "tail": "一条浅灰棕蓬松尾巴，完整可辨，可自然局部遮挡",
+        "composition": "倚枕半躺；中文排版时置上方，猫置下方"
+      },
+      "art": "sources/24.png"
+    }
+  ],
+  "extras": {
+    "cover": "sources/cover.png",
+    "chat_icon": "sources/chat_icon.png",
+    "banner": "sources/banner.png"
+  },
+  "style": {
+    "text_style": "colorful",
+    "text_stroke_color": "#433535",
+    "text_stroke_radius": 6,
+    "text_fill_expand": 2,
+    "outline_radius": 12,
+    "text_outline_radius": 10,
+    "caption_position": "top",
+    "font": "/Users/saymagic/.cache/sticker-fonts/ZCOOLKuaiLe-Regular.ttf"
+  },
+  "review": {
+    "status": "pending",
+    "reviewer": "",
+    "items": [],
+    "extras": {},
+    "issues": [],
+    "background_modes": [],
+    "actual_size_px": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-03",
+  "result": "BLOCKED",
+  "reason": "web.open 返回 non-retryable error；CUA明确返回site-safety policy blocks，不允许绕过该浏览器操作",
+  "verified_fields": [],
+  "unverified_fields": [
+    "主图尺寸、格式、透明、体积、套装张数",
+    "封面尺寸、透明、无白边",
+    "图标尺寸、透明、无白边",
+    "横幅尺寸、格式、体积、有色无字",
+    "投稿页当前要求"
+  ],
+  "inherited_basis_date": "2026-10-02",
+  "scope": "继续按既有保守目标制作；未伪称当前官方已核对"
+}

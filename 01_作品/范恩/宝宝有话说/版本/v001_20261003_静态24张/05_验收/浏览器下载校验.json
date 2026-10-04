@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "downloads": [
+    {
+      "asset": "submission_PNG.zip",
+      "download": "/Users/saymagic/Downloads/submission_PNG (2).zip",
+      "bytes": 2164049,
+      "sha256": "647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a",
+      "source_sha256": "647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a",
+      "match": true,
+      "testzip": true,
+      "files": 59
+    },
+    {
+      "asset": "submission_GIF.zip",
+      "download": "/Users/saymagic/Downloads/submission_GIF (2).zip",
+      "bytes": 1243980,
+      "sha256": "794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa",
+      "source_sha256": "794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa",
+      "match": true,
+      "testzip": true,
+      "files": 59
+    },
+    {
+      "asset": "complete_delivery.zip",
+      "download": "/Users/saymagic/Downloads/complete_delivery (2).zip",
+      "bytes": 140749139,
+      "sha256": "7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869",
+      "source_sha256": "7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869",
+      "match": true,
+      "testzip": true,
+      "files": 338
+    }
+  ]
+}

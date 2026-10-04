@@ -1,0 +1,338 @@
+{
+  "title": "奶思宝宝有话说",
+  "description": "奶思把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+  "characters": [
+    "奶思"
+  ],
+  "media": "静态",
+  "version_id": "pack-b8d226d1bc49",
+  "items": [
+    {
+      "number": "01",
+      "caption": "早上好",
+      "meaning": "早安",
+      "emotion": "开心",
+      "pose": "坐直举一只前爪招手，后爪着地，尾巴侧弯，小太阳",
+      "action_en": "sits upright, one rounded front paw lifted in a cheerful morning wave, other front paw relaxed, two hind paws planted, one striped tail curling aside, a small golden sunrise disk",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#F2C454",
+      "art": "../02_原画/01.png"
+    },
+    {
+      "number": "02",
+      "caption": "哥哥呢",
+      "meaning": "寻人",
+      "emotion": "期待",
+      "pose": "双后爪站立，一前爪横放眉上找人，另一前爪靠胸，尾巴侧弯",
+      "action_en": "stands on hind paws in three-quarter view, one front paw shading brow and scanning for an absent loved one, other front paw against chest, one striped tail",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#81A9DC",
+      "art": "../02_原画/02.png"
+    },
+    {
+      "number": "03",
+      "caption": "宝宝到咯",
+      "meaning": "到啦",
+      "emotion": "雀跃",
+      "pose": "小跑前冲，一爪举起打招呼，尾巴翘起，背小挎包",
+      "action_en": "trots toward the viewer in three-quarter view with a tiny pale pink crossbody bag, lifts one front paw to greet, remaining legs clear in a light running step, one upright striped tail, delighted open-mouth smile",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#EA92AD",
+      "art": "../02_原画/03.png"
+    },
+    {
+      "number": "04",
+      "caption": "胖胖快回来",
+      "meaning": "快回",
+      "emotion": "思念",
+      "pose": "坐在小窗边两前爪捧脸，扭头望向外，尾巴绕脚",
+      "action_en": "sits beside a small low windowsill, two front paws cupping cheeks, longing gaze turned to the side, two hind feet tucked naturally, exactly one tail curled around feet, one little coral heart floating",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#E58070",
+      "art": "../02_原画/04.png"
+    },
+    {
+      "number": "05",
+      "caption": "慢点开车",
+      "meaning": "慢行",
+      "emotion": "关心",
+      "pose": "坐在小车乘客位扣好安全带，一爪做慢一点手势",
+      "action_en": "sits upright in the passenger seat of a tiny mint toy car, diagonal seatbelt clearly visible, one rounded front paw lifted in a gentle slow-down gesture, other front paw rests on seat, hind legs plausibly hidden by car, one tail only and plausibly hidden, caring expression; no driver and no other animal",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#A6C867",
+      "art": "../02_原画/05.png"
+    },
+    {
+      "number": "06",
+      "caption": "饿饿！",
+      "meaning": "饿啦",
+      "emotion": "饥饿",
+      "pose": "抱着空碗坐下，两前爪扶碗，嘴巴微张，尾巴垂侧",
+      "action_en": "sits with both front paws holding one empty cream bowl, hungry pleading gold-brown eyes and slightly open mouth, both hind feet visible, exactly one striped tail resting sideways, three tiny warm orange hunger marks near belly",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#EEA160",
+      "art": "../02_原画/06.png"
+    },
+    {
+      "number": "07",
+      "caption": "吃啥呀",
+      "meaning": "饭点",
+      "emotion": "好奇",
+      "pose": "趴桌前一爪托下巴一爪拿小勺，抬眼想菜单",
+      "action_en": "leans at a low simple table, one front paw supports chin, other rounded front paw holds a small spoon, eyes looking upward curiously, hind legs plausibly occluded, a single tail curls beside table, no food text or menu letters",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#EEA160",
+      "art": "../02_原画/07.png"
+    },
+    {
+      "number": "08",
+      "caption": "想吃小蛋糕",
+      "meaning": "蛋糕",
+      "emotion": "撒娇",
+      "pose": "趴着两前爪伸向小蛋糕，亮眼嘴馋，尾巴弯起",
+      "action_en": "lies on belly with both front paws reaching toward one small strawberry cream cupcake on a saucer, wide hopeful gold-brown eyes, tiny tongue peeks out, both hind legs tucked in a natural prone pose, exactly one striped tail curves upward",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#EA92AD",
+      "art": "../02_原画/08.png"
+    },
+    {
+      "number": "09",
+      "caption": "已买",
+      "meaning": "买好",
+      "emotion": "满足",
+      "pose": "坐立两爪抱住小购物袋，满足微笑，尾巴侧弯",
+      "action_en": "sits upright hugging a small pastel teal shopping bag with both rounded front paws, satisfied smile, two hind feet visible, exactly one tail curves to side, one small gold sparkle, bag is blank without logo or text",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#75BCB7",
+      "art": "../02_原画/09.png"
+    },
+    {
+      "number": "10",
+      "caption": "欧了",
+      "meaning": "搞定",
+      "emotion": "自信",
+      "pose": "侧身坐下一爪高举小绿勾牌，一爪叉腰",
+      "action_en": "sits in a jaunty three-quarter pose, one rounded front paw proudly holds a small green check-mark-shaped token, other front paw rests at waist, hind feet grounded, exactly one curled striped tail, confident relaxed smile, no letters",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#A6C867",
+      "art": "../02_原画/10.png"
+    },
+    {
+      "number": "11",
+      "caption": "这个可以",
+      "meaning": "认可",
+      "emotion": "肯定",
+      "pose": "站立一爪指向旁边的小物件，另一爪按胸点头",
+      "action_en": "stands in three-quarter view, one rounded front paw extends to present a tiny blank golden star token beside kitten, other paw rests against chest, two hind paws planted, single curved tail, approving warm smile and clear nodding attitude",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#A6C867",
+      "art": "../02_原画/11.png"
+    },
+    {
+      "number": "12",
+      "caption": "我木有诶",
+      "meaning": "没有",
+      "emotion": "无辜",
+      "pose": "坐直两爪摊开空掌，眉眼无辜，尾巴低垂",
+      "action_en": "sits upright, both rounded front paws lifted and opened outward showing empty pink paw pads in an innocent shrug, hind paws visible, one tail low to side, slightly raised brows and gentle apologetic eyes",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#81A9DC",
+      "art": "../02_原画/12.png"
+    },
+    {
+      "number": "13",
+      "caption": "你说",
+      "meaning": "倾听",
+      "emotion": "耐心",
+      "pose": "身子侧倾一爪靠耳认真听，一爪放膝，尾巴卷脚边",
+      "action_en": "sits with body leaning slightly to one side, one front paw beside ear in a listening gesture, other front paw on knee, two hind feet grounded, exactly one striped tail curled by feet, attentive gold-brown eyes and soft closed smile",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#75BCB7",
+      "art": "../02_原画/13.png"
+    },
+    {
+      "number": "14",
+      "caption": "还在思考中",
+      "meaning": "思考",
+      "emotion": "沉思",
+      "pose": "坐着一爪摸下巴一爪抱胸，眼睛望上，小思考云",
+      "action_en": "sits thoughtfully with one rounded front paw touching chin, other front paw tucked across chest, hind feet visible, exactly one striped tail curling into a loose loop beside body, gaze upward, one small empty pale lavender thought cloud without marks",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#AE98D4",
+      "art": "../02_原画/14.png"
+    },
+    {
+      "number": "15",
+      "caption": "嘻嘻",
+      "meaning": "偷笑",
+      "emotion": "顽皮",
+      "pose": "两后爪坐地两前爪捂嘴，眯眼偷笑，尾尖轻翘",
+      "action_en": "sits on hindquarters, both front paws covering lower mouth while eyes squint with a mischievous giggle, two hind feet visible, one striped tail with tip lifted, tiny pink cheeks, no laughter letters",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#EA92AD",
+      "art": "../02_原画/15.png"
+    },
+    {
+      "number": "16",
+      "caption": "比心",
+      "meaning": "爱你",
+      "emotion": "甜蜜",
+      "pose": "两前爪在胸前合成小爱心，粉心贴近爪间",
+      "action_en": "sits upright with both rounded front paws touching gently around one small pink heart at chest level, loving gold-brown eyes and shy smile, two hind feet visible, exactly one tail curled behind; paws remain cat paws not human fingers",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#EA92AD",
+      "art": "../02_原画/16.png"
+    },
+    {
+      "number": "17",
+      "caption": "哼",
+      "meaning": "小哼",
+      "emotion": "傲娇",
+      "pose": "背半转脸侧看，双前爪交抱胸，尾巴甩向另一侧",
+      "action_en": "sits with body half turned away, face glancing sideways with a pout, two front paws crossed against chest, two hind feet grounded, exactly one tail sweeps to opposite side, slightly narrowed gold-brown eyes, playful sulky attitude",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#AE98D4",
+      "art": "../02_原画/17.png"
+    },
+    {
+      "number": "18",
+      "caption": "啊？？",
+      "meaning": "震惊",
+      "emotion": "惊讶",
+      "pose": "后坐身子微后仰，两爪张开，圆眼张嘴，尾巴僵直",
+      "action_en": "sits leaning backward slightly in surprise, both front paws lifted apart, two hind feet splayed naturally, exactly one tail extending stiffly to side, wide round gold-brown eyes and small open round mouth, tiny blue surprise droplets but no question marks or text",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#81A9DC",
+      "art": "../02_原画/18.png"
+    },
+    {
+      "number": "19",
+      "caption": "你认真的？",
+      "meaning": "质疑",
+      "emotion": "怀疑",
+      "pose": "趴在桌沿一爪托脸，一边眉挑高，另一爪垂着",
+      "action_en": "leans one cheek on one front paw at a low plain tabletop, other front paw hangs lazily over edge, skeptical uneven brows and one slightly narrowed eye, body in three-quarter view, hind legs occluded reasonably, one striped tail visible beside body, no words",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#AE98D4",
+      "art": "../02_原画/19.png"
+    },
+    {
+      "number": "20",
+      "caption": "你最好是",
+      "meaning": "盯住",
+      "emotion": "警惕",
+      "pose": "坐立前倾双爪搭膝，眼神斜睨，尾巴紧绕身",
+      "action_en": "sits upright leaning forward, both front paws firmly planted on knees, hind feet visible, exactly one tail wrapped tightly beside body, watchful side-eye and stern but cute expression, one small coral emphasis ray",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#E58070",
+      "art": "../02_原画/20.png"
+    },
+    {
+      "number": "21",
+      "caption": "宝服了",
+      "meaning": "服气",
+      "emotion": "无奈",
+      "pose": "侧躺一前爪扶额，另一前爪无力前伸，双后爪自然弯曲，一条尾巴靠臀侧弯",
+      "action_en": "reclines on one side in an exasperated pose, one front paw draped over forehead, other front paw rests loosely downward, two hind legs bent naturally, exactly one striped tail resting flat behind, half-lidded tired gold-brown eyes, small curved sigh puff",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#75BCB7",
+      "art": "../02_原画/21.png"
+    },
+    {
+      "number": "22",
+      "caption": "火都来了",
+      "meaning": "冒火",
+      "emotion": "生气",
+      "pose": "蹲坐两爪握紧贴身，眉压低，小橙火在旁但不烧猫",
+      "action_en": "crouches in a compact annoyed sitting pose, both front paws tucked tightly beside chest, hind feet grounded, one striped tail curled rigidly beside body, lowered brows and puffed cheeks, a small harmless stylized orange flame icon beside head, no real burning or text",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#E58070",
+      "art": "../02_原画/22.png"
+    },
+    {
+      "number": "23",
+      "caption": "脑袋空空",
+      "meaning": "放空",
+      "emotion": "呆萌",
+      "pose": "坐着前爪垂下，眼神放空，头顶小空泡，尾巴成松弯",
+      "action_en": "sits slackly with front paws dangling between knees, hind feet visible, exactly one striped tail in a relaxed curve, blank but cute gold-brown gaze and tiny open mouth, one empty pale blue bubble above head, no writing inside bubble",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#81A9DC",
+      "art": "../02_原画/23.png"
+    },
+    {
+      "number": "24",
+      "caption": "宝宝累了",
+      "meaning": "累啦",
+      "emotion": "疲惫",
+      "pose": "趴在小软垫上前爪摊平，下巴压垫，眼半闭，尾巴垂侧",
+      "action_en": "lies flattened on a tiny pale lavender cushion, both front paws stretched flat in front, chin sunk onto cushion, half-closed sleepy eyes, hind legs tucked naturally, exactly one striped tail droops sideways, no sleep letters",
+      "characters": [
+        "奶思"
+      ],
+      "text_color": "#AE98D4",
+      "art": "../02_原画/24.png"
+    }
+  ],
+  "extras": {
+    "cover": "../02_原画/cover.png",
+    "chat_icon": "../02_原画/chat_icon.png",
+    "banner": "../02_原画/banner.png"
+  },
+  "style": {
+    "font": "/Users/saymagic/Library/Fonts/ZCOOLKuaiLe-Regular.ttf",
+    "text_style": "colorful",
+    "text_stroke_color": "#433535",
+    "text_stroke_radius": 6,
+    "text_fill_expand": 2,
+    "outline_radius": 12,
+    "text_outline_radius": 10,
+    "caption_position": "top"
+  }
+}

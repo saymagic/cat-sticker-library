@@ -1,0 +1,52 @@
+[
+  {
+    "source": "preview",
+    "file": "submission_PNG.zip",
+    "path": "/Users/saymagic/Downloads/submission_PNG (1).zip",
+    "method": "actual_click_download",
+    "expected_sha256": "360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d",
+    "download_sha256": "360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d",
+    "bytes": 2414140,
+    "pass": true
+  },
+  {
+    "source": "preview",
+    "file": "submission_GIF.zip",
+    "path": "/Users/saymagic/Downloads/submission_GIF (1).zip",
+    "method": "actual_click_download",
+    "expected_sha256": "8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e",
+    "download_sha256": "8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e",
+    "bytes": 1415697,
+    "pass": true
+  },
+  {
+    "source": "preview",
+    "file": "complete_delivery.zip",
+    "path": "/Users/saymagic/Downloads/complete_delivery (1).zip",
+    "method": "actual_click_download",
+    "expected_sha256": "0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4",
+    "download_sha256": "0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4",
+    "bytes": 153569582,
+    "pass": true
+  },
+  {
+    "source": "unified_library",
+    "file": "submission_PNG.zip",
+    "path": "/Users/saymagic/Downloads/奶思_宝宝有话说_v001_submission_PNG.zip",
+    "method": "actual_click_download",
+    "expected_sha256": "360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d",
+    "download_sha256": "360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d",
+    "bytes": 2414140,
+    "pass": true
+  },
+  {
+    "source": "unified_library",
+    "file": "complete_delivery.zip",
+    "path": "/Users/saymagic/Downloads/奶思_宝宝有话说_v001_complete_delivery.zip",
+    "method": "actual_click_download",
+    "expected_sha256": "0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4",
+    "download_sha256": "0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4",
+    "bytes": 153569582,
+    "pass": true
+  }
+]

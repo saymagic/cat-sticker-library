@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际图像目检",
+  "review_method": "逐张查看已导出的实际240px PNG、120px缩略图在浅色、深色、棋盘底上的1:1检查图；另看240px单帧GIF、封面、50px聊天图标、240px兼容图标及750x400横幅。不是脚本语义判断，也不是用户确认。",
+  "issues": [],
+  "background_modes": ["light", "dark", "checker"],
+  "actual_size_px": [240, 120, 50],
+  "items": [
+    {"number":"01","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"早上好逐字正确；举一前爪，另一前爪着地，双后爪与单尾合理；小太阳对应早安，黄字在三底色与120px可读。"},
+    {"number":"02","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"哥哥呢原文保留；采用r3独立重画，眉上找人的前爪、靠胸前爪、双后爪、单尾清楚；原始与r2光晕失败稿留档，最终图无光晕。"},
+    {"number":"03","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"宝宝到咯原文保留；带粉挎包小跑招呼，举起前爪与前伸爪不同，后腿合理遮挡，一条翘尾；240/120px清楚。"},
+    {"number":"04","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"胖胖快回来原文保留；双前爪捧脸望向小窗，坐姿后腿有合理遮挡，条纹尾绕脚；五字珊瑚色字清楚，窗沿完整。"},
+    {"number":"05","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"慢点开车原文保留；车内奶思扣安全带并抬爪提醒，另一爪靠车门，下肢和尾巴被车身合理遮挡；没有第二只猫，车轮无截断。"},
+    {"number":"06","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"饿饿！保留全角感叹号；双前爪抱空碗、双后爪露粉垫、一条尾巴，眼色与口鼻正确；橙字三底色及120px可读。"},
+    {"number":"07","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"吃啥呀逐字正确；一前爪托下巴、另一前爪握木勺，双后爪在桌下，一尾在侧；桌腿与猫爪不混淆，边缘连续。"},
+    {"number":"08","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"想吃小蛋糕六字完整；两前爪伸向蛋糕，后腿有合理遮挡，一根上翘尾；草莓杯蛋糕和盘子完整，最长文案在120px仍可辨。"},
+    {"number":"09","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"已买逐字正确；双前爪扶购物袋，双后爪在袋两侧露粉垫，单尾；青色字和淡青袋在深浅/棋盘都区分。"},
+    {"number":"10","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"欧了原文保留，没有改为其他同义词；一爪举绿勾，另一爪靠腰，双后脚落地，一尾；动作和搞定对应。"},
+    {"number":"11","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"这个可以原文保留；站立呈金色小星牌，一爪靠胸，双后脚及单尾清楚；与10的坐姿绿勾不同，绿字可读。"},
+    {"number":"12","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"我木有诶保持原字；双前空爪摊开、双后爪露粉垫，一条左侧尾巴，无多肢；眉眼无辜，蓝字在120px可读。"},
+    {"number":"13","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"你说逐字正确；一前爪靠耳认真听，另一前爪落地，双后腿坐姿自然，单尾；倾听与14思考轮廓不同。"},
+    {"number":"14","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"还在思考中六字完整；一爪摸下巴一爪抱胸，双后脚、单尾，小空思考云无文字；三底色和120px字腔可辨。"},
+    {"number":"15","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"嘻嘻两字正确；两前爪捂嘴、双后爪粉垫、单尾，闭眼偷笑；口鼻无异常，粉字和外沿连续。"},
+    {"number":"16","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"比心原文保留；双猫爪拢着粉心，没有人手或多指；双后爪、一条尾巴完整，金棕眼和粉鼻清楚。"},
+    {"number":"17","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"哼单字正确；侧身抱臂、斜睨、双后脚和左侧单尾，傲娇情绪对应；短字大字号和边距合理。"},
+    {"number":"18","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"啊？？保留两个全角问号，没有替换或减号；双前爪张开，双后爪伸出，一根尾巴；张嘴惊讶与蓝色惊讶滴对应。"},
+    {"number":"19","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"你认真的？保留全角问号；一前爪托脸另一前爪垂桌沿，后腿被桌沿合理遮挡，一尾；挑眉半眯眼表达质疑，长句120px仍可辨。"},
+    {"number":"20","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"你最好是原文保留；双前爪直落，双后脚小粉垫，一尾紧绕右侧；侧眼盯住的强度与17抱臂、22蹲怒有区别。"},
+    {"number":"21","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"宝服了原文保留；r2重画侧躺扶额，另一前爪前伸，双后爪自然弯曲，一尾侧绕；最终无原始光晕，240/120px无奈动作清楚。"},
+    {"number":"22","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"火都来了原文保留；两前爪压身前、双后脚在侧，单尾；小橙火是情绪图案，猫没被烧，珊瑚字对应生气且边缘完整。"},
+    {"number":"23","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"脑袋空空逐字正确；双前爪垂在双后爪中间，单尾，小空泡无字，呆萌放空与思考图区分；蓝字120px可读。"},
+    {"number":"24","identity":true,"anatomy":true,"caption":true,"outline":true,"pose":true,"readability":true,"notes":"宝宝累了原文保留；r2重画趴在紫软垫、双前爪摊平，后腿合理遮挡露一后爪，一条尾巴垂侧；最终图无光晕，疲惫神态清楚。"}
+  ],
+  "extras": {"cover":true,"chat_icon":true,"banner":true},
+  "extras_notes": {
+    "cover":"实际240px在三底色查看完整无字单猫，双前爪与双后脚、单尾清楚；无白描边。",
+    "chat_icon":"实际50px在三底色查看，奶思脸、耳、金棕眼、粉鼻和略露胸部可辨，无白描边；另看240px备用图。",
+    "banner":"实际750x400查看有色不透明居家构图，单猫与蛋糕、小车对应主题；无文案、耳脸脚尾未被裁切。"
+  },
+  "user_confirmation":"NOT_RUN",
+  "wechat_submission":"NOT_SUBMITTED"
+}

@@ -1,0 +1,60 @@
+{
+  "version_id": "pack-b8d226d1bc49",
+  "title": "奶思宝宝有话说",
+  "checked_at": "2026-10-03T21:34:03+08:00",
+  "local_status": "PASS",
+  "technical": {
+    "status": "PASS",
+    "checks": 1129,
+    "assets": 76
+  },
+  "visual": {
+    "status": "PASS",
+    "items": 24,
+    "actual_sizes": [
+      240,
+      120,
+      50
+    ],
+    "backgrounds": [
+      "light",
+      "dark",
+      "checker"
+    ],
+    "extras": [
+      "cover",
+      "chat_icon",
+      "banner"
+    ],
+    "record": "../04_成品/visual_review.json"
+  },
+  "archives": {
+    "status": "PASS",
+    "count": 3,
+    "browser_downloads": 5,
+    "all_download_hashes_match": true
+  },
+  "library": {
+    "finish_current": "PASS",
+    "refresh": "PASS",
+    "check": "PASS",
+    "check_deep": "PASS",
+    "protected_files_checked": 488,
+    "browser_role_search_detail_version_empty_mobile_download": "PASS",
+    "evidence": "浏览器证据/browser_checks.json"
+  },
+  "historical_failures": {
+    "02": "最初及r2带光晕，r3重画已复检",
+    "21": "首稿带光晕，r2重画已复检",
+    "24": "首稿带光晕，r2重画已复检",
+    "records_preserved": true
+  },
+  "not_run": {
+    "public_release": "由范恩任务统一执行，本任务未操作Release、Git或部署",
+    "wechat_submission": "未投稿",
+    "wechat_approval": "未审核",
+    "user_visual_confirmation": "未记录用户确认",
+    "identity_and_rights_verification": "未提供平台身份或授权凭据"
+  },
+  "production_writes_stopped": true
+}

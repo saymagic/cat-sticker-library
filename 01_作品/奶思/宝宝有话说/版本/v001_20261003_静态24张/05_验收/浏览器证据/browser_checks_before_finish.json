@@ -1,0 +1,52 @@
+{
+  "preview": {
+    "dark": {
+      "bodyClass": "",
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "light": {
+      "bodyClass": "light",
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 640,
+      "width": 640
+    },
+    "checker": {
+      "bodyClass": "light checker",
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 640,
+      "width": 640
+    },
+    "mobile": {
+      "imageCount": 28,
+      "imagesLoaded": true,
+      "scrollWidth": 375,
+      "width": 375
+    }
+  },
+  "downloads": [
+    {
+      "source": "preview",
+      "file": "submission_PNG.zip",
+      "path": "/Users/saymagic/Downloads/submission_PNG (1).zip",
+      "method": "actual_click_download"
+    },
+    {
+      "source": "preview",
+      "file": "submission_GIF.zip",
+      "path": "/Users/saymagic/Downloads/submission_GIF (1).zip",
+      "method": "actual_click_download"
+    },
+    {
+      "source": "preview",
+      "file": "complete_delivery.zip",
+      "path": "/Users/saymagic/Downloads/complete_delivery (1).zip",
+      "method": "actual_click_download"
+    }
+  ],
+  "library": {}
+}

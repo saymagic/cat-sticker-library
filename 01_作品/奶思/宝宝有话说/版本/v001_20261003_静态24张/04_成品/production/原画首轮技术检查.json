@@ -1,0 +1,127 @@
+[
+  {
+    "file": "01.png",
+    "status": "PASS",
+    "native_size": [
+      1214,
+      1295
+    ]
+  },
+  {
+    "file": "02.png",
+    "status": "FAIL",
+    "error": "原画需要透明背景和实心主体：01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/02_原画/02.png"
+  },
+  {
+    "file": "03.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  },
+  {
+    "file": "04.png",
+    "status": "PASS",
+    "native_size": [
+      1185,
+      1327
+    ]
+  },
+  {
+    "file": "05.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  },
+  {
+    "file": "06.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  },
+  {
+    "file": "07.png",
+    "status": "PASS",
+    "native_size": [
+      1206,
+      1305
+    ]
+  },
+  {
+    "file": "08.png",
+    "status": "PASS",
+    "native_size": [
+      1374,
+      1145
+    ]
+  },
+  {
+    "file": "09.png",
+    "status": "PASS",
+    "native_size": [
+      1161,
+      1355
+    ]
+  },
+  {
+    "file": "10.png",
+    "status": "PASS",
+    "native_size": [
+      1167,
+      1347
+    ]
+  },
+  {
+    "file": "11.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  },
+  {
+    "file": "12.png",
+    "status": "PASS",
+    "native_size": [
+      1146,
+      1373
+    ]
+  },
+  {
+    "file": "13.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  },
+  {
+    "file": "14.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  },
+  {
+    "file": "15.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  },
+  {
+    "file": "16.png",
+    "status": "PASS",
+    "native_size": [
+      1145,
+      1374
+    ]
+  }
+]

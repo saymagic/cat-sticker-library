@@ -1,0 +1,34 @@
+{
+  "attempts": [
+    {
+      "command": [
+        "bash",
+        "scripts/library.sh",
+        "finish",
+        "--path",
+        "pack-a4e39c770a56",
+        "--current"
+      ],
+      "attempted_at": "2026-10-03T21:12:34.346850+08:00",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "scripts/library.sh: line 3: A: unbound variable\n",
+      "result": "BLOCKED"
+    },
+    {
+      "command": [
+        "scripts/library.sh",
+        "finish",
+        "--path",
+        "pack-a4e39c770a56",
+        "--current"
+      ],
+      "attempted_at": "2026-10-03T21:12:56.553484+08:00",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "错误：缺少本次核对的官方规则快照\n",
+      "result": "BLOCKED"
+    }
+  ],
+  "final_result": "BLOCKED"
+}

@@ -1,0 +1,12 @@
+{
+  "number": "24",
+  "revision": "r2",
+  "prompt": "Use case: illustration-story. Asset type: one independent high-resolution no-text WeChat sticker original. The attached locked cartoon master is the ONLY character identity and brushwork reference, not a sheet to crop. Create a completely NEW drawing and NEW pose. Exactly one cute gray-black mackerel tabby shorthaired kitten 奶思 with large gold-brown eyes, cream muzzle, pink nose, naturally round face, compact kitten proportions, fine soft hand-painted fur strokes and warm softly shaded hand-drawn sticker aesthetic matching reference. Never turn it into brown-tabby green-eye cat or white long-haired blue-eye cat. Single cat, anatomically reasonable four limbs with plausible occlusion, exactly one striped tail. Complete intact body and props within generous clean transparent padding, top 18% empty for later Chinese typesetting. No letters, no text, no English, no watermark, no numbers, no white sticker outline, no cast shadow, no fake checkerboard, no floor/room. True transparent background and clean alpha around fine fur, not flat vector, not photographic, not overly huge chibi head. Create an independent SQUARE 1:1 transparent character cutout for 宝宝累了 (no text). Fit the FULL BODY kitten and tiny lavender cushion within the central 75% of square canvas with complete empty transparent padding on all four sides. Kitten lies flat on its belly upon one small opaque lavender cushion, both front cat paws limp and extended forward, two hind legs naturally tucked with one rear foot partly visible, exactly one striped tail hanging beside cushion. Sleepy half-closed gold-brown eyes, exhausted cute expression, chin resting down. All objects solid opaque; outside contour is alpha zero. Absolutely no aura, haze, colored glow, vignette, scene, backdrop, grounding, floor or shadow. Square isolated illustration asset, not cinematic rendering.",
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png"
+    ],
+    "transparent_background": true
+  }
+}

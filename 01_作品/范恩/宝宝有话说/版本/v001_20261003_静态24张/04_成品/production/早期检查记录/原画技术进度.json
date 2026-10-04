@@ -1,0 +1,79 @@
+[
+  {
+    "file": "01.png",
+    "status": "PASS",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "file": "02.png",
+    "status": "PASS",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "file": "03.png",
+    "status": "PASS",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "file": "04.png",
+    "status": "FAIL",
+    "error": "原画四角须透明：/Users/saymagic/workspace/表情包/01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/02_原画/04.png"
+  },
+  {
+    "file": "05.png",
+    "status": "PASS",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "file": "06.png",
+    "status": "PASS",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "file": "07.png",
+    "status": "PASS",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha": [
+      0,
+      255
+    ]
+  }
+]

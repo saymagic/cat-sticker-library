@@ -1,0 +1,33 @@
+{
+  "local_ready": true,
+  "version_id": "pack-a4e39c770a56",
+  "stage": "本地成品已锁定，重新打包后的三份ZIP已实际下载核验",
+  "updated_at": "2026-10-04T09:25:41.984703+08:00",
+  "originals_completed": 24,
+  "extras_completed": [
+    "cover",
+    "chat_icon_r2",
+    "banner"
+  ],
+  "generation_calls": 28,
+  "technical_pass": true,
+  "technical_checks": 1129,
+  "visual_complete": true,
+  "browser_page_checks": "PASS",
+  "package_checks": "PASS",
+  "browser_download_checks": "PASS：锁定后重新下载三包，字节、SHA256与ZIP完整性全部匹配",
+  "official_rules_verified": true,
+  "finish": "PASS",
+  "blocking_condition": null,
+  "production_writes_stopped": true,
+  "publication": "READY：三猫统一发布负责人范恩正在接续公开部署",
+  "wechat_submission": "NOT_RUN",
+  "wechat_approval": "NOT_RUN",
+  "package_sha256": {
+    "submission_PNG.zip": "6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649",
+    "submission_GIF.zip": "b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e",
+    "complete_delivery.zip": "f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b"
+  },
+  "completion_lock_sha256": "dd252b7a84eb5ad65369b7b3a8d6d95e15c0669a3d42a3f920c56b35833d8b92",
+  "public_deployment_authorized": "用户2026-10-04明确要求推送云端并部署"
+}

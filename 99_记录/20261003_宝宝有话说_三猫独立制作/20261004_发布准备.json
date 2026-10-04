@@ -1,0 +1,162 @@
+{
+  "prepared_at": "2026-10-04T09:29:20.540396+08:00",
+  "user_instruction": "你推送到云端，部署上去吧",
+  "release_tag": "materials-20261004-baby-v1",
+  "public_url": "https://stickers.saymagic.cn/",
+  "production_integrity": "PASS：6个真实锁定版本均通过完整哈希与ZIP检查",
+  "tests": {
+    "library": 17,
+    "publishing": 6,
+    "status": "PASS"
+  },
+  "new_packs": [
+    {
+      "version_id": "pack-a4e39c770a56",
+      "title": "古德宝宝有话说",
+      "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张",
+      "status": "本地成品",
+      "local_ready": true,
+      "seal_sha256": "dd252b7a84eb5ad65369b7b3a8d6d95e15c0669a3d42a3f920c56b35833d8b92",
+      "gate": {
+        "technical_checks": 1129,
+        "visual_items": 24,
+        "assets": 76,
+        "packages": 3,
+        "profile_date": "2026-10-03"
+      }
+    },
+    {
+      "version_id": "pack-b8d226d1bc49",
+      "title": "奶思宝宝有话说",
+      "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张",
+      "status": "本地成品",
+      "local_ready": true,
+      "seal_sha256": "fabf03a8144638dfefb16a8c4227da0d9f3223db22b422f8b6882654fcb1789f",
+      "gate": {
+        "technical_checks": 1129,
+        "visual_items": 24,
+        "assets": 76,
+        "packages": 3,
+        "profile_date": "2026-10-03"
+      }
+    },
+    {
+      "version_id": "pack-41c15d18e196",
+      "title": "范恩宝宝有话说",
+      "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张",
+      "status": "本地成品",
+      "local_ready": true,
+      "seal_sha256": "5f5760313203766390c1f8f4c01efe46c869a5ee9836f07cbcd3b914fbbbd8bd",
+      "gate": {
+        "technical_checks": 1129,
+        "visual_items": 24,
+        "assets": 76,
+        "packages": 3,
+        "profile_date": "2026-10-03"
+      }
+    }
+  ],
+  "release_assets": [
+    {
+      "sha256": "f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b",
+      "bytes": 162681584,
+      "name": "archive-f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/complete_delivery.zip"
+      ]
+    },
+    {
+      "sha256": "b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e",
+      "bytes": 1227081,
+      "name": "archive-b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_GIF.zip"
+      ]
+    },
+    {
+      "sha256": "6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649",
+      "bytes": 2359614,
+      "name": "archive-6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_PNG.zip"
+      ]
+    },
+    {
+      "sha256": "0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4",
+      "bytes": 153569582,
+      "name": "archive-0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/complete_delivery.zip"
+      ]
+    },
+    {
+      "sha256": "8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e",
+      "bytes": 1415697,
+      "name": "archive-8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_GIF.zip"
+      ]
+    },
+    {
+      "sha256": "360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d",
+      "bytes": 2414140,
+      "name": "archive-360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_PNG.zip"
+      ]
+    },
+    {
+      "sha256": "7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869",
+      "bytes": 140749139,
+      "name": "archive-7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/complete_delivery.zip"
+      ]
+    },
+    {
+      "sha256": "794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa",
+      "bytes": 1243980,
+      "name": "archive-794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_GIF.zip"
+      ]
+    },
+    {
+      "sha256": "647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a",
+      "bytes": 2164049,
+      "name": "archive-647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a.zip",
+      "tag": "materials-20261004-baby-v1",
+      "paths": [
+        "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_PNG.zip"
+      ]
+    }
+  ],
+  "historical_assets_unchanged": 9,
+  "local_public_build": {
+    "status": "PASS",
+    "versions": 6,
+    "stickers": 144,
+    "files": 231,
+    "bytes": 35531351,
+    "release_downloads": 6,
+    "site_downloads": 12,
+    "local_links_checked": 226,
+    "output": "/Users/saymagic/workspace/表情包/_site",
+    "source_commit": "55ad5ba8077efd4429f099147a370faf910d4e26",
+    "built_at": "2026-10-04T09:28:26.159986+08:00",
+    "public_url": "https://stickers.saymagic.cn/",
+    "workflow_run": null
+  },
+  "publication": "Release已公开且10个附件大小与服务端SHA256全部匹配；main与网站部署待执行",
+  "wechat_submission": "NOT_RUN",
+  "wechat_approval": "NOT_RUN",
+  "public_release_url": "https://github.com/saymagic/cat-sticker-library/releases/tag/materials-20261004-baby-v1"
+}

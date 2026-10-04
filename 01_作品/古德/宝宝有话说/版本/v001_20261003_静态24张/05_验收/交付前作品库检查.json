@@ -1,0 +1,36 @@
+{
+  "checks": [
+    {
+      "command": [
+        "scripts/library.sh",
+        "refresh"
+      ],
+      "checked_at": "2026-10-03T21:28:46.502098+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"themes\": 6, \"versions\": 6, \"stickers\": 120, \"issues\": [], \"page\": \"/Users/saymagic/workspace/表情包/表情包作品库.html\"}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/library.sh",
+        "check"
+      ],
+      "checked_at": "2026-10-03T21:28:46.666327+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"versions\": 6, \"checks\": [{\"id\": \"pack-ca58ed5f4c50\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"文件大小与修改时间\"}, {\"id\": \"pack-764d7b786fd9\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"文件大小与修改时间\"}, {\"id\": \"pack-67ff6aa24bdb\", \"state\": \"有效\", \"issues\": [], \"checked\": 250, \"mode\": \"文件大小与修改时间\"}, {\"id\": \"pack-a4e39c770a56\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-b8d226d1bc49\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-41c15d18e196\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}], \"mode\": \"快速\"}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/library.sh",
+        "check",
+        "--deep"
+      ],
+      "checked_at": "2026-10-03T21:28:48.340025+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"versions\": 6, \"checks\": [{\"id\": \"pack-ca58ed5f4c50\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-764d7b786fd9\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-67ff6aa24bdb\", \"state\": \"有效\", \"issues\": [], \"checked\": 250, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-a4e39c770a56\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-b8d226d1bc49\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}, {\"id\": \"pack-41c15d18e196\", \"state\": \"未完成\", \"issues\": [], \"checked\": 0}], \"mode\": \"完整哈希与ZIP\"}\n",
+      "stderr": ""
+    }
+  ],
+  "scope_note": "库结构及历史锁定有效；当前古德版仍为未完成，库check通过不等于本版finish通过"
+}

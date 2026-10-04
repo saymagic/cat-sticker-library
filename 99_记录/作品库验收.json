@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "versions": 3,
+  "versions": 6,
   "checks": [
     {
       "id": "pack-ca58ed5f4c50",
@@ -21,6 +21,27 @@
       "state": "有效",
       "issues": [],
       "checked": 250,
+      "mode": "完整哈希与ZIP"
+    },
+    {
+      "id": "pack-a4e39c770a56",
+      "state": "有效",
+      "issues": [],
+      "checked": 794,
+      "mode": "完整哈希与ZIP"
+    },
+    {
+      "id": "pack-b8d226d1bc49",
+      "state": "有效",
+      "issues": [],
+      "checked": 488,
+      "mode": "完整哈希与ZIP"
+    },
+    {
+      "id": "pack-41c15d18e196",
+      "state": "有效",
+      "issues": [],
+      "checked": 465,
       "mode": "完整哈希与ZIP"
     }
   ],

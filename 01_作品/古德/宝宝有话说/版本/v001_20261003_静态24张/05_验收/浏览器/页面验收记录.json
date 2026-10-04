@@ -1,0 +1,926 @@
+{
+  "testedAt": "2026-10-03T13:22:54.692Z",
+  "checks": [
+    {
+      "scenario": "本套28幅预览图实际加载",
+      "result": "PASS",
+      "images": [
+        {
+          "alt": "早上好",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "哥哥呢",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "宝宝到咯",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "胖胖快回来",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "慢点开车",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "饿饿！",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "吃啥呀",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "想吃小蛋糕",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "已买",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "欧了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "这个可以",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "我木有诶",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "你说",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "还在思考中",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "嘻嘻",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "比心",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "哼",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "啊？？",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "你认真的？",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "你最好是",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "宝服了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "火都来了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "脑袋空空",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "宝宝累了",
+          "display": [
+            240,
+            240
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "banner_750x400.jpg",
+          "display": [
+            431.25,
+            230
+          ],
+          "loaded": true,
+          "natural": [
+            750,
+            400
+          ]
+        },
+        {
+          "alt": "chat_icon_240_备用.png",
+          "display": [
+            230,
+            230
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        },
+        {
+          "alt": "chat_icon_50.png",
+          "display": [
+            50,
+            50
+          ],
+          "loaded": true,
+          "natural": [
+            50,
+            50
+          ]
+        },
+        {
+          "alt": "cover_240.png",
+          "display": [
+            230,
+            230
+          ],
+          "loaded": true,
+          "natural": [
+            240,
+            240
+          ]
+        }
+      ]
+    },
+    {
+      "scenario": "预览浅底按钮",
+      "result": "PASS",
+      "observed": {
+        "bodyClass": "light",
+        "mainImages": [
+          {
+            "loaded": true,
+            "width": 240
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "预览棋盘按钮",
+      "result": "PASS",
+      "observed": {
+        "bodyClass": "light checker",
+        "mainImages": [
+          {
+            "loaded": true,
+            "parentClass": "image",
+            "width": 240
+          }
+        ]
+      }
+    },
+    {
+      "scenario": "预览深色按钮",
+      "result": "PASS",
+      "observed": {
+        "bodyClass": ""
+      }
+    },
+    {
+      "scenario": "统一库主题检索与古德角色筛选",
+      "result": "PASS",
+      "snapshot": "- complementary:\n  - generic: 猫\n  - text: 表情作品库\n  - generic: 每一套，都收在这里\n  - paragraph: 按角色浏览\n  - navigation \"角色筛选\":\n    - button \"全 全部角色 6\":\n      - generic: 全\n      - text: 全部角色\n      - generic: \"6\"\n    - button \"奶 奶思 2\":\n      - generic: 奶\n      - text: 奶思\n      - generic: \"2\"\n    - button \"古 古德 2\" [active] [pressed]:\n      - generic: 古\n      - text: 古德\n      - generic: \"2\"\n    - button \"范 范恩 2\":\n      - generic: 范\n      - text: 范恩\n      - generic: \"2\"\n  - text: 完成一套，登记一套。\n  - text: 草稿与历史也能找到。\n  - link \"作品库设计与规则 ↗\":\n    - /url: 作品库设计与规则.md\n  - link \"微信制作规范 ↗\":\n    - /url: 00_官方调研/微信表情制作与投稿调研.md\n- generic: 我的创作 / 表情包\n- button \"创作与归档流程 ↗\"\n- banner:\n  - heading \"让每一套，随时找得到。\" [level=1]\n  - paragraph: 按主题看整套，用中文找单张。预览、历史版本和上传物料，在一个地方。\n  - generic: \"6\"\n  - text: 主题\n  - generic: \"6\"\n  - text: 版本\n  - generic: \"120\"\n  - text: 张表情\n- searchbox \"检索主题、中文文案或标签\": 宝宝有话说\n- button \"清除搜索\": ×\n- button \"复制当前筛选链接 ↗\"\n- combobox \"本地状态\":\n  - option \"全部本地状态\" [selected]\n  - option \"本地成品\"\n  - option \"制作中\"\n  - option \"设计草稿\"\n  - option \"需复检\"\n- combobox \"表情类型\":\n  - option \"全部类型\" [selected]\n  - option \"静态\"\n  - option \"动态\"\n- combobox \"微信审核状态\":\n  - option \"全部微信状态\" [selected]\n  - option \"未投稿\"\n  - option \"已提交\"\n  - option \"审核通过\"\n  - option \"需修改\"\n- combobox \"排序\":\n  - option \"最新创作优先\" [selected]\n  - option \"按主题名称\"\n  - option \"按角色\"\n- checkbox \"显示历史与归档\"\n- text: 显示历史与归档\n- checkbox \"只看收藏\"\n- text: 只看收藏\n- generic \"浏览方式\":\n  - button \"按套查看\" [pressed]\n  - button \"找单张\"\n- paragraph: 1 套作品 · 已检索全部未归档版本\n- generic \"常用检索标签\":\n  - button \"# 猫咪\"\n  - button \"# 可爱\"\n  - button \"# 日常\"\n  - button \"# 问候\"\n  - button \"# 情绪\"\n  - button \"# 宝宝\"\n  - button \"# 撒娇\"\n  - button \"# 小情绪\"\n- main:\n  - article:\n    - button \"收藏古德宝宝有话说\": ☆\n    - button \"查看古德宝宝有话说整套表情\":\n      - img \"古德古德宝宝有话说封面\"\n    - generic: 古德 · 24张 · 未投稿\n    - generic: 制作中\n    - heading \"古德宝宝有话说\" [level=2]\n    - paragraph: 古德把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。\n    - generic: 猫咪\n    - generic: 宝宝\n    - generic: 日常\n    - generic: 撒娇\n    - button \"查看24张\"\n    - generic: v001 · 1个版本\n  - navigation \"分页\"\n- contentinfo:\n  - generic: 3个本地成品 · 更新于 10/03 21:15\n  - text: 本地成品与微信审核分别记录。收藏保存在当前浏览器。\n  - link \"查看规则\":\n    - /url: 作品库设计与规则.md"
+    },
+    {
+      "scenario": "古德详情24张与v001版本选择",
+      "result": "PASS",
+      "observed": {
+        "downloadLinks": [],
+        "images": [
+          {
+            "alt": "古德：早上好",
+            "loaded": true
+          },
+          {
+            "alt": "古德：哥哥呢",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝宝到咯",
+            "loaded": true
+          },
+          {
+            "alt": "古德：胖胖快回来",
+            "loaded": true
+          },
+          {
+            "alt": "古德：慢点开车",
+            "loaded": true
+          },
+          {
+            "alt": "古德：饿饿！",
+            "loaded": true
+          },
+          {
+            "alt": "古德：吃啥呀",
+            "loaded": true
+          },
+          {
+            "alt": "古德：想吃小蛋糕",
+            "loaded": true
+          },
+          {
+            "alt": "古德：已买",
+            "loaded": true
+          },
+          {
+            "alt": "古德：欧了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：这个可以",
+            "loaded": true
+          },
+          {
+            "alt": "古德：我木有诶",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你说",
+            "loaded": true
+          },
+          {
+            "alt": "古德：还在思考中",
+            "loaded": true
+          },
+          {
+            "alt": "古德：嘻嘻",
+            "loaded": true
+          },
+          {
+            "alt": "古德：比心",
+            "loaded": true
+          },
+          {
+            "alt": "古德：哼",
+            "loaded": true
+          },
+          {
+            "alt": "古德：啊？？",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你认真的？",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你最好是",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝服了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：火都来了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：脑袋空空",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝宝累了",
+            "loaded": true
+          },
+          {
+            "alt": "古德无白边封面",
+            "loaded": true
+          },
+          {
+            "alt": "古德50px聊天图标",
+            "loaded": true
+          },
+          {
+            "alt": "古德有色无字横幅",
+            "loaded": true
+          }
+        ],
+        "text": "古德 / 宝宝有话说\n\n古德宝宝有话说\n\nv001 · 静态24张 · 制作中 · 微信未投稿\n\n×\nv001 · 静态24张 · 制作中\n浅色\n深色\n透明棋盘\n这一版还在制作，当前显示已有文案和图片。完成实际验收后再提供上传包。\n上传填写文案 ↗\n单套预览 ↗\n制作资料入口 ↗\n规则核对：待核对\n☆\n01\n早上好\n复制\n含义词 · 晨安\n☆\n02\n哥哥呢\n复制\n含义词 · 找哥哥\n☆\n03\n宝宝到咯\n复制\n含义词 · 到啦\n☆\n04\n胖胖快回来\n复制\n含义词 · 盼归\n☆\n05\n慢点开车\n复制\n含义词 · 慢开\n☆\n06\n饿饿！\n复制\n含义词 · 肚饿\n☆\n07\n吃啥呀\n复制\n含义词 · 问饭\n☆\n08\n想吃小蛋糕\n复制\n含义词 · 馋糕\n☆\n09\n已买\n复制\n含义词 · 买好\n☆\n10\n欧了\n复制\n含义词 · 搞定\n☆\n11\n这个可以\n复制\n含义词 · 赞同\n☆\n12\n我木有诶\n复制\n含义词 · 没有\n☆\n13\n你说\n复制\n含义词 · 听你\n☆\n14\n还在思考中\n复制\n含义词 · 琢磨\n☆\n15\n嘻嘻\n复制\n含义词 · 偷乐\n☆\n16\n比心\n复制\n含义词 · 爱你\n☆\n17\n哼\n复制\n含义词 · 小哼\n☆\n18\n啊？？\n复制\n含义词 · 惊问\n☆\n19\n你认真的？\n复制\n含义词 · 怀疑\n☆\n20\n你最好是\n复制\n含义词 · 警告\n☆\n21\n宝服了\n复制\n含义词 · 服气\n☆\n22\n火都来了\n复制\n含义词 · 冒火\n☆\n23\n脑袋空空\n复制\n含义词 · 放空\n☆\n24\n宝宝累了\n复制\n含义词 · 累趴\n封面、聊天图标与横幅\n技术检查 ↗\n逐张目检 ↗\nZIP检查 ↗\n\n1个版本均保留。常用入口仅指向验收有效的本地成品；平台状态另凭真实记录登记。"
+      }
+    },
+    {
+      "scenario": "单张中文检索小蛋糕",
+      "result": "PASS",
+      "snapshot": "- complementary:\n  - generic: 猫\n  - text: 表情作品库\n  - generic: 每一套，都收在这里\n  - paragraph: 按角色浏览\n  - navigation \"角色筛选\":\n    - button \"全 全部角色 6\":\n      - generic: 全\n      - text: 全部角色\n      - generic: \"6\"\n    - button \"奶 奶思 2\":\n      - generic: 奶\n      - text: 奶思\n      - generic: \"2\"\n    - button \"古 古德 2\" [pressed]:\n      - generic: 古\n      - text: 古德\n      - generic: \"2\"\n    - button \"范 范恩 2\":\n      - generic: 范\n      - text: 范恩\n      - generic: \"2\"\n  - text: 完成一套，登记一套。\n  - text: 草稿与历史也能找到。\n  - link \"作品库设计与规则 ↗\":\n    - /url: 作品库设计与规则.md\n  - link \"微信制作规范 ↗\":\n    - /url: 00_官方调研/微信表情制作与投稿调研.md\n- generic: 我的创作 / 表情包\n- button \"创作与归档流程 ↗\"\n- banner:\n  - heading \"让每一套，随时找得到。\" [level=1]\n  - paragraph: 按主题看整套，用中文找单张。预览、历史版本和上传物料，在一个地方。\n  - generic: \"6\"\n  - text: 主题\n  - generic: \"6\"\n  - text: 版本\n  - generic: \"120\"\n  - text: 张表情\n- searchbox \"检索主题、中文文案或标签\" [active]: 小蛋糕\n- button \"清除搜索\": ×\n- button \"复制当前筛选链接 ↗\"\n- combobox \"本地状态\":\n  - option \"全部本地状态\" [selected]\n  - option \"本地成品\"\n  - option \"制作中\"\n  - option \"设计草稿\"\n  - option \"需复检\"\n- combobox \"表情类型\":\n  - option \"全部类型\" [selected]\n  - option \"静态\"\n  - option \"动态\"\n- combobox \"微信审核状态\":\n  - option \"全部微信状态\" [selected]\n  - option \"未投稿\"\n  - option \"已提交\"\n  - option \"审核通过\"\n  - option \"需修改\"\n- combobox \"排序\":\n  - option \"最新创作优先\" [selected]\n  - option \"按主题名称\"\n  - option \"按角色\"\n- checkbox \"显示历史与归档\"\n- text: 显示历史与归档\n- checkbox \"只看收藏\"\n- text: 只看收藏\n- generic \"浏览方式\":\n  - button \"按套查看\"\n  - button \"找单张\" [pressed]\n- paragraph: 1 张表情 · 每个主题一个匹配版本\n- generic \"常用检索标签\":\n  - button \"# 猫咪\"\n  - button \"# 可爱\"\n  - button \"# 日常\"\n  - button \"# 问候\"\n  - button \"# 情绪\"\n  - button \"# 宝宝\"\n  - button \"# 撒娇\"\n  - button \"# 小情绪\"\n- main:\n  - article:\n    - img \"古德：想吃小蛋糕\"\n    - button \"收藏想吃小蛋糕\": ☆\n    - generic: \"08\"\n    - generic: 想吃小蛋糕\n    - button \"复制文案想吃小蛋糕\": 复制\n    - button \"古德 · 古德宝宝有话说 · v001\"\n  - navigation \"分页\"\n- contentinfo:\n  - generic: 3个本地成品 · 更新于 10/03 21:15\n  - text: 本地成品与微信审核分别记录。收藏保存在当前浏览器。\n  - link \"查看规则\":\n    - /url: 作品库设计与规则.md"
+    },
+    {
+      "scenario": "空结果提示",
+      "result": "PASS",
+      "snapshot": "- complementary:\n  - generic: 猫\n  - text: 表情作品库\n  - generic: 每一套，都收在这里\n  - paragraph: 按角色浏览\n  - navigation \"角色筛选\":\n    - button \"全 全部角色 6\":\n      - generic: 全\n      - text: 全部角色\n      - generic: \"6\"\n    - button \"奶 奶思 2\":\n      - generic: 奶\n      - text: 奶思\n      - generic: \"2\"\n    - button \"古 古德 2\" [pressed]:\n      - generic: 古\n      - text: 古德\n      - generic: \"2\"\n    - button \"范 范恩 2\":\n      - generic: 范\n      - text: 范恩\n      - generic: \"2\"\n  - text: 完成一套，登记一套。\n  - text: 草稿与历史也能找到。\n  - link \"作品库设计与规则 ↗\":\n    - /url: 作品库设计与规则.md\n  - link \"微信制作规范 ↗\":\n    - /url: 00_官方调研/微信表情制作与投稿调研.md\n- generic: 我的创作 / 表情包\n- button \"创作与归档流程 ↗\"\n- banner:\n  - heading \"让每一套，随时找得到。\" [level=1]\n  - paragraph: 按主题看整套，用中文找单张。预览、历史版本和上传物料，在一个地方。\n  - generic: \"6\"\n  - text: 主题\n  - generic: \"6\"\n  - text: 版本\n  - generic: \"120\"\n  - text: 张表情\n- searchbox \"检索主题、中文文案或标签\" [active]: 不存在的古德文案x20261003\n- button \"清除搜索\": ×\n- button \"复制当前筛选链接 ↗\"\n- combobox \"本地状态\":\n  - option \"全部本地状态\" [selected]\n  - option \"本地成品\"\n  - option \"制作中\"\n  - option \"设计草稿\"\n  - option \"需复检\"\n- combobox \"表情类型\":\n  - option \"全部类型\" [selected]\n  - option \"静态\"\n  - option \"动态\"\n- combobox \"微信审核状态\":\n  - option \"全部微信状态\" [selected]\n  - option \"未投稿\"\n  - option \"已提交\"\n  - option \"审核通过\"\n  - option \"需修改\"\n- combobox \"排序\":\n  - option \"最新创作优先\" [selected]\n  - option \"按主题名称\"\n  - option \"按角色\"\n- checkbox \"显示历史与归档\"\n- text: 显示历史与归档\n- checkbox \"只看收藏\"\n- text: 只看收藏\n- generic \"浏览方式\":\n  - button \"按套查看\"\n  - button \"找单张\" [pressed]\n- paragraph: 0 张表情 · 每个主题一个匹配版本\n- generic \"常用检索标签\":\n  - button \"# 猫咪\"\n  - button \"# 可爱\"\n  - button \"# 日常\"\n  - button \"# 问候\"\n  - button \"# 情绪\"\n  - button \"# 宝宝\"\n  - button \"# 撒娇\"\n  - button \"# 小情绪\"\n- main:\n  - generic: 没有找到对应的表情\n  - text: 试试更短的文案，或清除角色与状态筛选。\n  - button \"清除全部筛选\"\n  - navigation \"分页\"\n- contentinfo:\n  - generic: 3个本地成品 · 更新于 10/03 21:15\n  - text: 本地成品与微信审核分别记录。收藏保存在当前浏览器。\n  - link \"查看规则\":\n    - /url: 作品库设计与规则.md"
+    },
+    {
+      "scenario": "统一库375px手机宽度",
+      "result": "PASS",
+      "observed": {
+        "bodyWidth": 375,
+        "height": 812,
+        "scrollWidth": 375,
+        "viewport": 375
+      }
+    },
+    {
+      "scenario": "古德详情375px手机宽度",
+      "result": "PASS",
+      "observed": {
+        "dialogRect": {
+          "left": 18,
+          "right": 357,
+          "width": 339
+        },
+        "documentWidth": 375,
+        "mainImages": [
+          {
+            "alt": "古德：早上好",
+            "loaded": true
+          },
+          {
+            "alt": "古德：哥哥呢",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝宝到咯",
+            "loaded": true
+          },
+          {
+            "alt": "古德：胖胖快回来",
+            "loaded": true
+          },
+          {
+            "alt": "古德：慢点开车",
+            "loaded": true
+          },
+          {
+            "alt": "古德：饿饿！",
+            "loaded": true
+          },
+          {
+            "alt": "古德：吃啥呀",
+            "loaded": true
+          },
+          {
+            "alt": "古德：想吃小蛋糕",
+            "loaded": true
+          },
+          {
+            "alt": "古德：已买",
+            "loaded": true
+          },
+          {
+            "alt": "古德：欧了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：这个可以",
+            "loaded": true
+          },
+          {
+            "alt": "古德：我木有诶",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你说",
+            "loaded": true
+          },
+          {
+            "alt": "古德：还在思考中",
+            "loaded": true
+          },
+          {
+            "alt": "古德：嘻嘻",
+            "loaded": true
+          },
+          {
+            "alt": "古德：比心",
+            "loaded": true
+          },
+          {
+            "alt": "古德：哼",
+            "loaded": true
+          },
+          {
+            "alt": "古德：啊？？",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你认真的？",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你最好是",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝服了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：火都来了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：脑袋空空",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝宝累了",
+            "loaded": true
+          }
+        ],
+        "text": "古德 / 宝宝有话说\n\n古德宝宝有话说\n\nv001 · 静态24张 · 制作中 · 微信未投稿\n\n×\nv001 · 静态24张 · 制作中\n浅色\n深色\n透明棋盘\n这一版还在制作，当前显示已有文案和图片。完成实际验收后再提供上传包。\n上传填写文案 ↗\n单套预览 ↗\n制作资料入口 ↗\n规则核对：待核对\n☆\n01\n早上好\n复制\n含义词 · 晨安\n☆\n02\n哥哥呢\n复制\n含义词 · 找哥哥\n☆\n03\n宝宝到咯\n复制\n含义词 · 到啦\n☆\n04\n胖胖快回来\n复制\n含义词 · 盼归\n☆\n05\n慢点开车\n复制\n含义词 · 慢开\n☆\n06\n饿饿！\n复制\n含义词 · 肚饿\n☆\n07\n吃啥呀\n复制\n含义词 · 问饭\n☆\n08\n想吃小蛋糕\n复制\n含义词 · 馋糕\n☆\n09\n已买\n复制\n含义词 · 买好\n☆\n10\n欧了\n复制\n含义词 · 搞定\n☆\n11\n这个可以\n复制\n含义词 · 赞同\n☆\n12\n我木有诶\n复制\n含义词 · 没有\n☆\n13\n你说\n复制\n",
+        "viewport": 375
+      }
+    },
+    {
+      "scenario": "本套预览375px手机宽度",
+      "result": "PASS",
+      "observed": {
+        "images": [
+          {
+            "alt": "早上好",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "哥哥呢",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "宝宝到咯",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "胖胖快回来",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "慢点开车",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "饿饿！",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "吃啥呀",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "想吃小蛋糕",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "已买",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "欧了",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "这个可以",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "我木有诶",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "你说",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "还在思考中",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "嘻嘻",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "比心",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "哼",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "啊？？",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "你认真的？",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "你最好是",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "宝服了",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "火都来了",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "脑袋空空",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "宝宝累了",
+            "loaded": true,
+            "width": 240
+          },
+          {
+            "alt": "banner_750x400.jpg",
+            "loaded": true,
+            "width": 326.9921875
+          },
+          {
+            "alt": "chat_icon_240_备用.png",
+            "loaded": true,
+            "width": 230
+          },
+          {
+            "alt": "chat_icon_50.png",
+            "loaded": true,
+            "width": 50
+          },
+          {
+            "alt": "cover_240.png",
+            "loaded": true,
+            "width": 230
+          }
+        ],
+        "scrollWidth": 375,
+        "viewport": 375
+      }
+    }
+  ],
+  "resolvedViewportAttempts": [
+    {
+      "scenario": "统一库375px手机宽度",
+      "result": "NOT_RUN",
+      "observed": {
+        "bodyWidth": 1280,
+        "images": [
+          {
+            "alt": "古德古德宝宝有话说封面",
+            "loaded": true
+          },
+          {
+            "alt": "古德：早上好",
+            "loaded": true
+          },
+          {
+            "alt": "古德：哥哥呢",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝宝到咯",
+            "loaded": true
+          },
+          {
+            "alt": "古德：胖胖快回来",
+            "loaded": true
+          },
+          {
+            "alt": "古德：慢点开车",
+            "loaded": true
+          },
+          {
+            "alt": "古德：饿饿！",
+            "loaded": true
+          },
+          {
+            "alt": "古德：吃啥呀",
+            "loaded": true
+          },
+          {
+            "alt": "古德：想吃小蛋糕",
+            "loaded": true
+          },
+          {
+            "alt": "古德：已买",
+            "loaded": true
+          },
+          {
+            "alt": "古德：欧了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：这个可以",
+            "loaded": true
+          },
+          {
+            "alt": "古德：我木有诶",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你说",
+            "loaded": true
+          },
+          {
+            "alt": "古德：还在思考中",
+            "loaded": true
+          },
+          {
+            "alt": "古德：嘻嘻",
+            "loaded": true
+          },
+          {
+            "alt": "古德：比心",
+            "loaded": true
+          },
+          {
+            "alt": "古德：哼",
+            "loaded": true
+          },
+          {
+            "alt": "古德：啊？？",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你认真的？",
+            "loaded": true
+          },
+          {
+            "alt": "古德：你最好是",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝服了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：火都来了",
+            "loaded": true
+          },
+          {
+            "alt": "古德：脑袋空空",
+            "loaded": true
+          },
+          {
+            "alt": "古德：宝宝累了",
+            "loaded": true
+          },
+          {
+            "alt": "古德无白边封面",
+            "loaded": true
+          },
+          {
+            "alt": "古德50px聊天图标",
+            "loaded": true
+          },
+          {
+            "alt": "古德有色无字横幅",
+            "loaded": true
+          }
+        ],
+        "scrollWidth": 1280,
+        "viewport": 1280
+      },
+      "note": "初次viewport覆盖仅对预览标签生效，未把1280px误记为375px通过"
+    },
+    {
+      "scenario": "统一库375px手机宽度_实际生效后",
+      "result": "NOT_RUN",
+      "observed": {
+        "bodyWidth": 1280,
+        "height": 720,
+        "scrollWidth": 1280,
+        "viewport": 1280
+      }
+    }
+  ],
+  "limits": [
+    "手机宽度为浏览器响应式检查，没有宣称实体手机验收",
+    "微信官方规格仍未核对，本套制作中，统一库未开放上传包入口"
+  ]
+}

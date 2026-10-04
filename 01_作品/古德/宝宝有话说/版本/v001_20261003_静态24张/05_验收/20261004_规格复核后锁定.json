@@ -1,0 +1,39 @@
+{
+  "checks": [
+    {
+      "command": [
+        "scripts/library.sh",
+        "finish",
+        "--path",
+        "pack-a4e39c770a56",
+        "--current"
+      ],
+      "attempted_at": "2026-10-04T09:21:05.881919+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"themes\": 6, \"versions\": 6, \"stickers\": 144, \"issues\": [], \"page\": \"/Users/saymagic/workspace/表情包/表情包作品库.html\"}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/library.sh",
+        "refresh"
+      ],
+      "attempted_at": "2026-10-04T09:21:06.364207+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"themes\": 6, \"versions\": 6, \"stickers\": 144, \"issues\": [], \"page\": \"/Users/saymagic/workspace/表情包/表情包作品库.html\"}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "scripts/library.sh",
+        "check",
+        "--deep"
+      ],
+      "attempted_at": "2026-10-04T09:21:10.444732+08:00",
+      "exit_code": 0,
+      "stdout": "{\"status\": \"PASS\", \"versions\": 6, \"checks\": [{\"id\": \"pack-ca58ed5f4c50\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-764d7b786fd9\", \"state\": \"有效\", \"issues\": [], \"checked\": 249, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-67ff6aa24bdb\", \"state\": \"有效\", \"issues\": [], \"checked\": 250, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-a4e39c770a56\", \"state\": \"有效\", \"issues\": [], \"checked\": 794, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-b8d226d1bc49\", \"state\": \"有效\", \"issues\": [], \"checked\": 488, \"mode\": \"完整哈希与ZIP\"}, {\"id\": \"pack-41c15d18e196\", \"state\": \"有效\", \"issues\": [], \"checked\": 465, \"mode\": \"完整哈希与ZIP\"}], \"mode\": \"完整哈希与ZIP\"}\n",
+      "stderr": ""
+    }
+  ],
+  "same_pixel_assets": true
+}

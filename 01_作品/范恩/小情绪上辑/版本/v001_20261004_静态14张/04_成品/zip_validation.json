@@ -1,0 +1,26 @@
+[
+  {
+    "file": "submission_PNG.zip",
+    "files": 39,
+    "bytes": 1263089,
+    "sha256": "b67d4badf5762ed8d182f6a82ef543c9f85c72e544837413777c651cf9f72627",
+    "testzip": "pass",
+    "html_links_checked": 0
+  },
+  {
+    "file": "submission_GIF.zip",
+    "files": 39,
+    "bytes": 690427,
+    "sha256": "95883ba5df8b255034f0bec18fd0a6a2b37db08198590944de5663b9942cbd16",
+    "testzip": "pass",
+    "html_links_checked": 0
+  },
+  {
+    "file": "complete_delivery.zip",
+    "files": 189,
+    "bytes": 74268207,
+    "sha256": "dfa42640791ce81c8186cd7d082b759cceaefab976841dcc35e9ab370010f216",
+    "testzip": "pass",
+    "html_links_checked": 20
+  }
+]

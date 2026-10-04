@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T10:06:49.326705+08:00",
+  "updated_at": "2026-10-04T11:42:32.941388+08:00",
   "characters": [
     "奶思",
     "古德",
@@ -1527,8 +1527,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张",
       "tags": [
@@ -1544,109 +1544,160 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null,
-      "health": {
-        "state": "未完成",
-        "issues": [],
-        "checked": 0
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "acbbf0a52e5c8c53f9b6b0783fb05d0d21932f4888503ed8739b6f593b4095b6",
+        "completed_at": "2026-10-04T10:02:22.174703+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
       },
-      "display_status": "制作中",
+      "health": {
+        "state": "有效",
+        "issues": [],
+        "checked": 289,
+        "mode": "文件大小与修改时间"
+      },
+      "display_status": "本地成品",
       "items": [
         {
           "number": "01",
           "caption": "坏",
           "meaning": "调皮",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/01.png"
         },
         {
           "number": "02",
           "caption": "嘿嘿嘿",
           "meaning": "坏笑",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/02.png"
         },
         {
           "number": "03",
           "caption": "看扁我？",
           "meaning": "不服",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/03.png"
         },
         {
           "number": "04",
           "caption": "被看扁了",
           "meaning": "委屈",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/04.png"
         },
         {
           "number": "05",
           "caption": "稍等",
           "meaning": "等待",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/05.png"
         },
         {
           "number": "06",
           "caption": "跳舞",
           "meaning": "起舞",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/06.png"
         },
         {
           "number": "07",
           "caption": "跳",
           "meaning": "跳跃",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/07.png"
         },
         {
           "number": "08",
           "caption": "冷",
           "meaning": "怕冷",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/08.png"
         },
         {
           "number": "09",
           "caption": "发抖",
           "meaning": "颤抖",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/09.png"
         },
         {
           "number": "10",
           "caption": "热",
           "meaning": "怕热",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/10.png"
         },
         {
           "number": "11",
           "caption": "淋雨",
           "meaning": "落汤猫",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/11.png"
         },
         {
           "number": "12",
           "caption": "摸摸头",
           "meaning": "安慰",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/12.png"
         },
         {
           "number": "13",
           "caption": "吐血",
           "meaning": "扎心",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/13.png"
         },
         {
           "number": "14",
           "caption": "呆住",
           "meaning": "愣住",
-          "image": null
+          "image": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/14.png"
         }
       ],
-      "packages": [],
-      "reports": [],
-      "cover": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
-      "preview": null,
-      "copy": null,
+      "packages": [
+        {
+          "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip",
+          "label": "PNG上传包",
+          "bytes": 1424376,
+          "download": "古德_小情绪上辑_v001_submission_PNG.zip",
+          "sha256": "6bb755ffd014b451d9b4cd7a7e76347bab89d05851c69c5d8af6705715b70ec5"
+        },
+        {
+          "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip",
+          "label": "GIF静态备用",
+          "bytes": 781261,
+          "download": "古德_小情绪上辑_v001_submission_GIF.zip",
+          "sha256": "53ad97a7c3673eee9120209608821ee9fe01f0ab46c7be283d2674b339ebbbb4"
+        },
+        {
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-moods-v1/archive-c45909f5a2ac0eb4abf7c0d7f8f9cd84077181432d0e5b9ec17c9b9b5a566639.zip",
+          "label": "完整制作备份",
+          "bytes": 89380446,
+          "download": "古德_小情绪上辑_v001_complete_delivery.zip",
+          "sha256": "c45909f5a2ac0eb4abf7c0d7f8f9cd84077181432d0e5b9ec17c9b9b5a566639"
+        }
+      ],
+      "reports": [
+        {
+          "label": "技术检查",
+          "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/validation_report.json"
+        },
+        {
+          "label": "逐张目检",
+          "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/visual_review.json"
+        },
+        {
+          "label": "ZIP检查",
+          "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/zip_validation.json"
+        },
+        {
+          "label": "完成锁定",
+          "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/05_验收/完成锁定.json"
+        }
+      ],
+      "cover": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+      "preview": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/preview.html",
+      "copy": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/上传填写文案.html",
       "readme": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/README.html",
       "extras": {
-        "cover": null,
-        "chat_icon": null,
-        "banner": null
+        "cover": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+        "chat_icon": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/chat_icon_50.png",
+        "banner": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/banner_750x400.jpg"
       },
       "aliases": [
         "古德猫",
@@ -1654,7 +1705,7 @@
         "棕虎斑猫"
       ],
       "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
-      "can_download": false,
+      "can_download": true,
       "default": true
     },
     {
@@ -1666,8 +1717,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张",
       "tags": [
@@ -1683,109 +1734,160 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null,
-      "health": {
-        "state": "未完成",
-        "issues": [],
-        "checked": 0
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "1f641604f9b448590ddbb228ab1cc440e0bfdc8343170d7636be373fe94b24bd",
+        "completed_at": "2026-10-04T10:23:23.367220+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
       },
-      "display_status": "制作中",
+      "health": {
+        "state": "有效",
+        "issues": [],
+        "checked": 480,
+        "mode": "文件大小与修改时间"
+      },
+      "display_status": "本地成品",
       "items": [
         {
           "number": "01",
           "caption": "勃然小怒",
           "meaning": "微怒",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/01.png"
         },
         {
           "number": "02",
           "caption": "小发雷霆",
           "meaning": "发怒",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/02.png"
         },
         {
           "number": "03",
           "caption": "捶你",
           "meaning": "轻捶",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/03.png"
         },
         {
           "number": "04",
           "caption": "困了",
           "meaning": "困倦",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/04.png"
         },
         {
           "number": "05",
           "caption": "哦。",
           "meaning": "平淡",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/05.png"
         },
         {
           "number": "06",
           "caption": "OK",
           "meaning": "答应",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/06.png"
         },
         {
           "number": "07",
           "caption": "笑",
           "meaning": "开心",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/07.png"
         },
         {
           "number": "08",
           "caption": "kiss",
           "meaning": "亲亲",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/08.png"
         },
         {
           "number": "09",
           "caption": "撅嘴",
           "meaning": "嘟嘴",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/09.png"
         },
         {
           "number": "10",
           "caption": "三分冷漠",
           "meaning": "冷漠",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/10.png"
         },
         {
           "number": "11",
           "caption": "炸弹",
           "meaning": "炸弹",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/11.png"
         },
         {
           "number": "12",
           "caption": "心虚",
           "meaning": "心虚",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/12.png"
         },
         {
           "number": "13",
           "caption": "流汗",
           "meaning": "尴尬",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/13.png"
         },
         {
           "number": "14",
           "caption": "咪",
           "meaning": "卖萌",
-          "image": null
+          "image": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/14.png"
         }
       ],
-      "packages": [],
-      "reports": [],
-      "cover": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
-      "preview": null,
-      "copy": null,
+      "packages": [
+        {
+          "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip",
+          "label": "PNG上传包",
+          "bytes": 1431315,
+          "download": "古德_小情绪下辑_v001_submission_PNG.zip",
+          "sha256": "736b8ac6adab18e93087d07108b06850571e14dc916d3f79661d7d61e93c6767"
+        },
+        {
+          "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip",
+          "label": "GIF静态备用",
+          "bytes": 785935,
+          "download": "古德_小情绪下辑_v001_submission_GIF.zip",
+          "sha256": "01a39188a0ffd39fe16c268f792eb16ba8ba3e798d96057963cf23a9807c6536"
+        },
+        {
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-moods-v1/archive-a1c4a89d7e710ef39758b464379e467703ac3f7f9163831d4c162f749c452334.zip",
+          "label": "完整制作备份",
+          "bytes": 91000653,
+          "download": "古德_小情绪下辑_v001_complete_delivery.zip",
+          "sha256": "a1c4a89d7e710ef39758b464379e467703ac3f7f9163831d4c162f749c452334"
+        }
+      ],
+      "reports": [
+        {
+          "label": "技术检查",
+          "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/validation_report.json"
+        },
+        {
+          "label": "逐张目检",
+          "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/visual_review.json"
+        },
+        {
+          "label": "ZIP检查",
+          "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/zip_validation.json"
+        },
+        {
+          "label": "完成锁定",
+          "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/05_验收/完成锁定.json"
+        }
+      ],
+      "cover": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+      "preview": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/preview.html",
+      "copy": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/上传填写文案.html",
       "readme": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/README.html",
       "extras": {
-        "cover": null,
-        "chat_icon": null,
-        "banner": null
+        "cover": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+        "chat_icon": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/chat_icon_50.png",
+        "banner": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/banner_750x400.jpg"
       },
       "aliases": [
         "古德猫",
@@ -1793,7 +1895,7 @@
         "棕虎斑猫"
       ],
       "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
-      "can_download": false,
+      "can_download": true,
       "default": true
     },
     {
@@ -1805,8 +1907,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张",
       "tags": [
@@ -1822,116 +1924,167 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null,
-      "health": {
-        "state": "未完成",
-        "issues": [],
-        "checked": 0
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "ac439e115c929e0ad6ad0ba86016216410854ab3a0288ec51eff59430026a3db",
+        "completed_at": "2026-10-04T10:53:35.882772+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
       },
-      "display_status": "制作中",
+      "health": {
+        "state": "有效",
+        "issues": [],
+        "checked": 484,
+        "mode": "文件大小与修改时间"
+      },
+      "display_status": "本地成品",
       "items": [
         {
           "number": "01",
           "caption": "坏",
           "meaning": "调皮",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/01.png"
         },
         {
           "number": "02",
           "caption": "嘿嘿嘿",
           "meaning": "坏笑",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/02.png"
         },
         {
           "number": "03",
           "caption": "看扁我？",
           "meaning": "不服",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/03.png"
         },
         {
           "number": "04",
           "caption": "被看扁了",
           "meaning": "委屈",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/04.png"
         },
         {
           "number": "05",
           "caption": "稍等",
           "meaning": "等待",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/05.png"
         },
         {
           "number": "06",
           "caption": "跳舞",
           "meaning": "起舞",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/06.png"
         },
         {
           "number": "07",
           "caption": "跳",
           "meaning": "跳跃",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/07.png"
         },
         {
           "number": "08",
           "caption": "冷",
           "meaning": "怕冷",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/08.png"
         },
         {
           "number": "09",
           "caption": "发抖",
           "meaning": "颤抖",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/09.png"
         },
         {
           "number": "10",
           "caption": "热",
           "meaning": "怕热",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/10.png"
         },
         {
           "number": "11",
           "caption": "淋雨",
           "meaning": "落汤猫",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/11.png"
         },
         {
           "number": "12",
           "caption": "摸摸头",
           "meaning": "安慰",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/12.png"
         },
         {
           "number": "13",
           "caption": "吐血",
           "meaning": "扎心",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/13.png"
         },
         {
           "number": "14",
           "caption": "呆住",
           "meaning": "愣住",
-          "image": null
+          "image": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/main_png/14.png"
         }
       ],
-      "packages": [],
-      "reports": [],
-      "cover": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
-      "preview": null,
-      "copy": null,
+      "packages": [
+        {
+          "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip",
+          "label": "PNG上传包",
+          "bytes": 1263089,
+          "download": "范恩_小情绪上辑_v001_submission_PNG.zip",
+          "sha256": "b67d4badf5762ed8d182f6a82ef543c9f85c72e544837413777c651cf9f72627"
+        },
+        {
+          "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip",
+          "label": "GIF静态备用",
+          "bytes": 690427,
+          "download": "范恩_小情绪上辑_v001_submission_GIF.zip",
+          "sha256": "95883ba5df8b255034f0bec18fd0a6a2b37db08198590944de5663b9942cbd16"
+        },
+        {
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-moods-v1/archive-dfa42640791ce81c8186cd7d082b759cceaefab976841dcc35e9ab370010f216.zip",
+          "label": "完整制作备份",
+          "bytes": 74268207,
+          "download": "范恩_小情绪上辑_v001_complete_delivery.zip",
+          "sha256": "dfa42640791ce81c8186cd7d082b759cceaefab976841dcc35e9ab370010f216"
+        }
+      ],
+      "reports": [
+        {
+          "label": "技术检查",
+          "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/validation_report.json"
+        },
+        {
+          "label": "逐张目检",
+          "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/visual_review.json"
+        },
+        {
+          "label": "ZIP检查",
+          "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/zip_validation.json"
+        },
+        {
+          "label": "完成锁定",
+          "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/05_验收/完成锁定.json"
+        }
+      ],
+      "cover": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+      "preview": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/preview.html",
+      "copy": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/上传填写文案.html",
       "readme": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/README.html",
       "extras": {
-        "cover": null,
-        "chat_icon": null,
-        "banner": null
+        "cover": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+        "chat_icon": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/chat_icon_50.png",
+        "banner": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/extras/banner_750x400.jpg"
       },
       "aliases": [
         "范恩猫",
         "白色长毛猫"
       ],
       "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
-      "can_download": false,
+      "can_download": true,
       "default": true
     },
     {
@@ -1943,8 +2096,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张",
       "tags": [
@@ -1960,116 +2113,167 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null,
-      "health": {
-        "state": "未完成",
-        "issues": [],
-        "checked": 0
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "d7676669aa0218563e67256616aa596f30ec797264a3af1b9fb4854d32d26c73",
+        "completed_at": "2026-10-04T10:57:21.943282+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
       },
-      "display_status": "制作中",
+      "health": {
+        "state": "有效",
+        "issues": [],
+        "checked": 290,
+        "mode": "文件大小与修改时间"
+      },
+      "display_status": "本地成品",
       "items": [
         {
           "number": "01",
           "caption": "勃然小怒",
           "meaning": "微怒",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/01.png"
         },
         {
           "number": "02",
           "caption": "小发雷霆",
           "meaning": "发怒",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/02.png"
         },
         {
           "number": "03",
           "caption": "捶你",
           "meaning": "轻捶",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/03.png"
         },
         {
           "number": "04",
           "caption": "困了",
           "meaning": "困倦",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/04.png"
         },
         {
           "number": "05",
           "caption": "哦。",
           "meaning": "平淡",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/05.png"
         },
         {
           "number": "06",
           "caption": "OK",
           "meaning": "答应",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/06.png"
         },
         {
           "number": "07",
           "caption": "笑",
           "meaning": "开心",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/07.png"
         },
         {
           "number": "08",
           "caption": "kiss",
           "meaning": "亲亲",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/08.png"
         },
         {
           "number": "09",
           "caption": "撅嘴",
           "meaning": "嘟嘴",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/09.png"
         },
         {
           "number": "10",
           "caption": "三分冷漠",
           "meaning": "冷漠",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/10.png"
         },
         {
           "number": "11",
           "caption": "炸弹",
           "meaning": "炸弹",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/11.png"
         },
         {
           "number": "12",
           "caption": "心虚",
           "meaning": "心虚",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/12.png"
         },
         {
           "number": "13",
           "caption": "流汗",
           "meaning": "尴尬",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/13.png"
         },
         {
           "number": "14",
           "caption": "咪",
           "meaning": "卖萌",
-          "image": null
+          "image": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/main_png/14.png"
         }
       ],
-      "packages": [],
-      "reports": [],
-      "cover": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
-      "preview": null,
-      "copy": null,
+      "packages": [
+        {
+          "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip",
+          "label": "PNG上传包",
+          "bytes": 1263491,
+          "download": "范恩_小情绪下辑_v001_submission_PNG.zip",
+          "sha256": "fd76dd61919836bbc52982764178dcd068d3d3026bd5866ebe0ad7e09a17bfcf"
+        },
+        {
+          "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip",
+          "label": "GIF静态备用",
+          "bytes": 694337,
+          "download": "范恩_小情绪下辑_v001_submission_GIF.zip",
+          "sha256": "06003c463ee8514125b0a5bb6c6ffbf4dcd8eae35e9b1adf37bc1e69db9202da"
+        },
+        {
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-moods-v1/archive-deab7e11987bbcbb81c999e953ccc7778d640754455d12bf164fb78040bd2b26.zip",
+          "label": "完整制作备份",
+          "bytes": 76956644,
+          "download": "范恩_小情绪下辑_v001_complete_delivery.zip",
+          "sha256": "deab7e11987bbcbb81c999e953ccc7778d640754455d12bf164fb78040bd2b26"
+        }
+      ],
+      "reports": [
+        {
+          "label": "技术检查",
+          "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/validation_report.json"
+        },
+        {
+          "label": "逐张目检",
+          "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/visual_review.json"
+        },
+        {
+          "label": "ZIP检查",
+          "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/zip_validation.json"
+        },
+        {
+          "label": "完成锁定",
+          "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/05_验收/完成锁定.json"
+        }
+      ],
+      "cover": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+      "preview": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/preview.html",
+      "copy": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/上传填写文案.html",
       "readme": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/README.html",
       "extras": {
-        "cover": null,
-        "chat_icon": null,
-        "banner": null
+        "cover": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/cover_240.png",
+        "chat_icon": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/chat_icon_50.png",
+        "banner": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/extras/banner_750x400.jpg"
       },
       "aliases": [
         "范恩猫",
         "白色长毛猫"
       ],
       "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
-      "can_download": false,
+      "can_download": true,
       "default": true
     }
   ]

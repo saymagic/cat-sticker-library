@@ -1,0 +1,222 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际逐张图像目检",
+  "reviewed_at": "2026-10-04T10:52:07.960560+08:00",
+  "user_approved": false,
+  "asset_sha256": {
+    "main_png/01.png": "b0dfc34fbf354690f58962b21ab988380cefb45ddf2cd1557bad25018713b6f9",
+    "main_gif/01.gif": "fafe904f43b9d96ec39948134de299f93c3037dd25e8e96209bf6f444dbfc002",
+    "thumbnail/01.png": "772ade1cdfaf1ccc53e14b8a7faa6227fe65510ae553261397e7ef7995e0100a",
+    "main_png/02.png": "eac70b2d11d5bf299a90aeb13599c09c1b8a6dc385cdd5b9e52bf6d6ab1d1a95",
+    "main_gif/02.gif": "257544928c0f68c7eea57bedad2d4c577df8ba725c60392c10312f4afdeceae0",
+    "thumbnail/02.png": "a3b05730592beb7eb01a5e2075177c836d8fdc91eae156d0756f7f809a1a4044",
+    "main_png/03.png": "90245db187f613fb8d3cfab7dd3e863f480459a2e51e59ce8abe919dfb2c5e23",
+    "main_gif/03.gif": "6003b08ed4e8db5e0d3a47d1736ebcd2551894ef0c236af3aeecec45199a0179",
+    "thumbnail/03.png": "a3c1395a64a8e2e1e88f2d481d22b99e962704a5d640ba3610f661a3491d04e6",
+    "main_png/04.png": "8ee71d4d538da3b64af11c7ce4fbdc52602a913aa636e200db9d466d4c7ee17e",
+    "main_gif/04.gif": "65969936174992980fa0b1cbb2539db9f40e1fcb04d5872b062afb57b7ccb35e",
+    "thumbnail/04.png": "63f817f12ed101c9ea92adfd20ec843406be70f899158075d42ac6f8986f8afb",
+    "main_png/05.png": "10b786889bbca30da974aa554d571311b73f2dad1d59d19a434e470fcab13c24",
+    "main_gif/05.gif": "604903a03889b41fc82b2b32aecd4efdc901198928577e14cf1eb30741c1751a",
+    "thumbnail/05.png": "80306ef811f14728d24db7db27f18dfb2d363c8c4e2172a11867165449b13373",
+    "main_png/06.png": "f8a72f828f19d1fc274b96946808d512e5412af7afae2f24161293f68be1844d",
+    "main_gif/06.gif": "bf0414b822d1a0ed08c9560ef2f77c23b5eae807e2e4044b98d8cdef9bb71758",
+    "thumbnail/06.png": "e67a70624a09ab4fe9c862c17a86870f83501644917ec68868e13b72e8d4309c",
+    "main_png/07.png": "0d07d10ef436df9fdb711660c8cd3af41d819910e53738ed2cdb7434e63c6e6d",
+    "main_gif/07.gif": "b4dda552e94fa7a8a72c295aad21852b91b690b1d6131e7ef1a5330dd3da8267",
+    "thumbnail/07.png": "f8f14249cda9f5230e4388d7e0b566223e69f72732accf5bc561116a48652fb0",
+    "main_png/08.png": "4e74583fe981c09b639c735bd8f57e38d436fe10cf81cab18fa94a16e83b07eb",
+    "main_gif/08.gif": "9ed585996f1dbb543bd97410ef4f3d6b728f1f5a79ceb495412d556852944a28",
+    "thumbnail/08.png": "9d77e08da22a1be11fba9529d2687875abb60f6a1371f0c0ba161cd9cc2e444d",
+    "main_png/09.png": "150ee2eb8806b851c1032e475d5be9f908db971ded7a56847077a9d5c40cc5d9",
+    "main_gif/09.gif": "d9b241a0af18554cf875d5a5e3b698a8791c8cfdbd48589d1c8295addc8e6a6e",
+    "thumbnail/09.png": "24ff0202ff61bdcfb10defc39862092b5cc79bcfcce20af1507f4bc568089d62",
+    "main_png/10.png": "247365864ddd7b9040fba0b19cfdd9093b21fd75b828cdf3c033a92d9739441f",
+    "main_gif/10.gif": "09af7b04fe1481a8faaf172ac0c440ca3c666f659edf3e8ac3ad5236f02d9356",
+    "thumbnail/10.png": "71be0a1fc47df4f4b99777b0ee6038fd5843ed67e355ec27e222b114502157ec",
+    "main_png/11.png": "76c5e1ea09de1152d1dd00563d8d5009f44a5f799f867f4d8544cdba64579a31",
+    "main_gif/11.gif": "3b4a4368525b7b51322a43d87a11451dd4cd2b470c7495cc4901e6ab73777017",
+    "thumbnail/11.png": "9b22e18cf2705bc266c5e1f9edf20fa3eb27d50ef8f522681f3b2477b0f52156",
+    "main_png/12.png": "ccbb799bf122e7fc536addee02b3e896b4e724c81b75215ddee172f2b9cd3438",
+    "main_gif/12.gif": "0bfbacf4227bc3293437291583bee90f89561380531132b9db62bbf64e936302",
+    "thumbnail/12.png": "f9f6f6ac60bd62531ee3170e11f30cf2b3f62f9f273d0134f339b126b3d7ec00",
+    "main_png/13.png": "ea4c09edbf51e0da021fef941e145333195cb45844d1d0b019255ba10b005bce",
+    "main_gif/13.gif": "1a039b25f486d281ae99bc6181971b628bbb0286d76374c9a484158a8156b7bf",
+    "thumbnail/13.png": "fe2162573c533fe9b40147b4d82401a451381bbb1bd29c0d7a6e4f00deb52c0d",
+    "main_png/14.png": "cb780b3e9e283ba50a15a21caed8ab3313e6b6d4239b9afada1d035c56e87492",
+    "main_gif/14.gif": "d42c556343490faf78611cc291021930849147669ec71d79476da05922095c11",
+    "thumbnail/14.png": "dfe55ec74f21cd933d16612fd9c087bad3971209a8550af7c99d52afc9a9e664",
+    "extras/cover_240.png": "f5e918b611793bb136b9678ddd6ae63ac69dd656c4ada8d6896c082219eaba7e",
+    "extras/chat_icon_50.png": "f849f65f82b148019482b7d19d2e9a5ab854eee9e5b3f9c32887c220739fb3db",
+    "extras/chat_icon_240_备用.png": "56a8b7e3644ea55f001a32ff25e0adc2dac8a756af73202d370d82ad9e931216",
+    "extras/banner_750x400.jpg": "9f485dc818a1e34c0a1ef14ce8e026dc77f3e48b149c2c7ddc8fab4086266ebe"
+  },
+  "issues": [],
+  "background_modes": [
+    "dark",
+    "light",
+    "checker"
+  ],
+  "actual_size_px": [
+    240,
+    120,
+    50
+  ],
+  "evidence": [
+    "05_验收/目检底图/主图240三底_01-07.png",
+    "05_验收/目检底图/主图240三底_08-14.png",
+    "05_验收/目检底图/缩略及GIF_01-07.png",
+    "05_验收/目检底图/缩略及GIF_08-14.png",
+    "05_验收/目检底图/配套三底.png",
+    "05_验收/目检底图/横幅实际750x400.jpg"
+  ],
+  "items": [
+    {
+      "number": "01",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "歪头托腮轻坏笑；白色长毛蓝眼、灰耳灰尾一致，四爪合理。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "02",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "双前爪合在嘴前嘿嘿笑，两后爪肉垫清楚；单尾。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "03",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "挺胸抬下巴，一前爪指自己另一爪叉腰，不服神态明确。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "04",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "低伏扁扁委屈、单滴泪；前爪和一后爪可见，另后腿合理遮挡。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "05",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "举猫肉垫等一等，另爪扶沙漏；单猫及道具关系清楚。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "06",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "单后脚立、另后脚抬起，双前爪舞动、彩色节奏符号；不与跳跃混淆。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "07",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "四爪离地跳起，蓝眼小嘴与灰色单尾完整。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "08",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "抱蓝围巾、两雪花、缩坐，粉色后爪肉垫齐。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "09",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "无围巾蜷身蓝色震动线；区别冷，白长毛与四肢合理。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "10",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "持扇、张嘴伸舌、一滴汗与暖热气线，四爪单尾。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "11",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "云雨、湿垂长毛与委屈蓝眼；四爪与单尾齐。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "12",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "猫自己的爪摸头，另一前爪在身前，闭眼微笑双后爪；无第二只猫或人手。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "13",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "首次红滴透明处理后变灰，现已重新生成暖朱红符号。托胸后仰张嘴、红滴和红色反应线均可辨，四爪单尾，无伤口或写实血腥。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    },
+    {
+      "number": "14",
+      "identity": true,
+      "anatomy": true,
+      "caption": true,
+      "outline": true,
+      "pose": true,
+      "readability": true,
+      "notes": "正坐瞪大蓝眼、小圆嘴，黄色惊讶线；四爪单尾。已逐字查看主图三底240px及120px缩略图、240px静态GIF；文字颜色/双描边清楚，无色键边污染。"
+    }
+  ],
+  "extras": {
+    "cover": true,
+    "chat_icon": true,
+    "banner": true
+  },
+  "extras_notes": "已查看实际240px封面、50px图标三底及实际750x400横幅；封面猫双耳四肢单尾无额外白边，图标白脸双耳和蓝眼能辨，无额外白边；横幅有色无字，猫完整且与本辑白长毛蓝眼基准一致。",
+  "scope": "当前实际查看的全部本版主图/兼容GIF/缩略图及配套素材；不代表用户确认或微信平台审核。"
+}

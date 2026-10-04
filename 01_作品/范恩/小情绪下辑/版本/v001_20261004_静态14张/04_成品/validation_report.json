@@ -1,0 +1,3869 @@
+{
+  "technical_pass": true,
+  "checks": [
+    {
+      "pass": true,
+      "check": "exactly one cat",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "actual 8-24 count matches job and profile",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "continuous numbering matches actual count",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "verbatim ordered captions",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "cast matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "unique 1-4 character meanings",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png exact files",
+      "detail": "14"
+    },
+    {
+      "pass": true,
+      "check": "main_gif exact files",
+      "detail": "14"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail exact files",
+      "detail": "14"
+    },
+    {
+      "pass": true,
+      "check": "01 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png bytes",
+      "detail": "65640"
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/01.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif bytes",
+      "detail": "18083"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/01.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png bytes",
+      "detail": "20239"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/01.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "01 main/thumbnail shape match",
+      "detail": "0.999688"
+    },
+    {
+      "pass": true,
+      "check": "01 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "01 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 text fill exact color",
+      "detail": "#E58070 pixels=48255"
+    },
+    {
+      "pass": true,
+      "check": "01 text fill visible at 240px",
+      "detail": "2356"
+    },
+    {
+      "pass": true,
+      "check": "01 text stroke exact color",
+      "detail": "#433535 pixels=22684"
+    },
+    {
+      "pass": true,
+      "check": "01 text stroke visible at 240px",
+      "detail": "757"
+    },
+    {
+      "pass": true,
+      "check": "01 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "01 art white outline",
+      "detail": "18678"
+    },
+    {
+      "pass": true,
+      "check": "01 text white outline",
+      "detail": "27632"
+    },
+    {
+      "pass": true,
+      "check": "02 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png bytes",
+      "detail": "60781"
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/02.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif bytes",
+      "detail": "15675"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/02.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png bytes",
+      "detail": "19403"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/02.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "02 main/thumbnail shape match",
+      "detail": "0.999172"
+    },
+    {
+      "pass": true,
+      "check": "02 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "02 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 text fill exact color",
+      "detail": "#EEA160 pixels=54764"
+    },
+    {
+      "pass": true,
+      "check": "02 text fill visible at 240px",
+      "detail": "2687"
+    },
+    {
+      "pass": true,
+      "check": "02 text stroke exact color",
+      "detail": "#433535 pixels=19165"
+    },
+    {
+      "pass": true,
+      "check": "02 text stroke visible at 240px",
+      "detail": "526"
+    },
+    {
+      "pass": true,
+      "check": "02 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "02 art white outline",
+      "detail": "29420"
+    },
+    {
+      "pass": true,
+      "check": "02 text white outline",
+      "detail": "25724"
+    },
+    {
+      "pass": true,
+      "check": "03 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png bytes",
+      "detail": "60850"
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/03.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif bytes",
+      "detail": "17659"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/03.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png bytes",
+      "detail": "18766"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/03.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "03 main/thumbnail shape match",
+      "detail": "0.999193"
+    },
+    {
+      "pass": true,
+      "check": "03 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "03 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 text fill exact color",
+      "detail": "#E58070 pixels=27056"
+    },
+    {
+      "pass": true,
+      "check": "03 text fill visible at 240px",
+      "detail": "1320"
+    },
+    {
+      "pass": true,
+      "check": "03 text stroke exact color",
+      "detail": "#433535 pixels=12110"
+    },
+    {
+      "pass": true,
+      "check": "03 text stroke visible at 240px",
+      "detail": "399"
+    },
+    {
+      "pass": true,
+      "check": "03 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "03 art white outline",
+      "detail": "23833"
+    },
+    {
+      "pass": true,
+      "check": "03 text white outline",
+      "detail": "13823"
+    },
+    {
+      "pass": true,
+      "check": "04 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png bytes",
+      "detail": "56248"
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/04.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif bytes",
+      "detail": "16522"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/04.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png bytes",
+      "detail": "17307"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/04.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "04 main/thumbnail shape match",
+      "detail": "0.999659"
+    },
+    {
+      "pass": true,
+      "check": "04 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "04 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 text fill exact color",
+      "detail": "#AE98D4 pixels=24257"
+    },
+    {
+      "pass": true,
+      "check": "04 text fill visible at 240px",
+      "detail": "1196"
+    },
+    {
+      "pass": true,
+      "check": "04 text stroke exact color",
+      "detail": "#433535 pixels=10243"
+    },
+    {
+      "pass": true,
+      "check": "04 text stroke visible at 240px",
+      "detail": "322"
+    },
+    {
+      "pass": true,
+      "check": "04 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "04 art white outline",
+      "detail": "16671"
+    },
+    {
+      "pass": true,
+      "check": "04 text white outline",
+      "detail": "13818"
+    },
+    {
+      "pass": true,
+      "check": "05 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png bytes",
+      "detail": "55145"
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/05.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif bytes",
+      "detail": "15495"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/05.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png bytes",
+      "detail": "16441"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/05.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "05 main/thumbnail shape match",
+      "detail": "0.999143"
+    },
+    {
+      "pass": true,
+      "check": "05 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "05 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 text fill exact color",
+      "detail": "#81A9DC pixels=17758"
+    },
+    {
+      "pass": true,
+      "check": "05 text fill visible at 240px",
+      "detail": "865"
+    },
+    {
+      "pass": true,
+      "check": "05 text stroke exact color",
+      "detail": "#433535 pixels=7248"
+    },
+    {
+      "pass": true,
+      "check": "05 text stroke visible at 240px",
+      "detail": "230"
+    },
+    {
+      "pass": true,
+      "check": "05 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "05 art white outline",
+      "detail": "16264"
+    },
+    {
+      "pass": true,
+      "check": "05 text white outline",
+      "detail": "8836"
+    },
+    {
+      "pass": true,
+      "check": "06 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png bytes",
+      "detail": "53780"
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/06.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif bytes",
+      "detail": "14241"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/06.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png bytes",
+      "detail": "16557"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/06.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "06 main/thumbnail shape match",
+      "detail": "0.999439"
+    },
+    {
+      "pass": true,
+      "check": "06 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "06 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 text fill exact color",
+      "detail": "#A6C867 pixels=15239"
+    },
+    {
+      "pass": true,
+      "check": "06 text fill visible at 240px",
+      "detail": "748"
+    },
+    {
+      "pass": true,
+      "check": "06 text stroke exact color",
+      "detail": "#433535 pixels=7548"
+    },
+    {
+      "pass": true,
+      "check": "06 text stroke visible at 240px",
+      "detail": "260"
+    },
+    {
+      "pass": true,
+      "check": "06 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "06 art white outline",
+      "detail": "22212"
+    },
+    {
+      "pass": true,
+      "check": "06 text white outline",
+      "detail": "13109"
+    },
+    {
+      "pass": true,
+      "check": "07 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png bytes",
+      "detail": "56728"
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/07.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif bytes",
+      "detail": "16070"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/07.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png bytes",
+      "detail": "17137"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/07.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "07 main/thumbnail shape match",
+      "detail": "0.999482"
+    },
+    {
+      "pass": true,
+      "check": "07 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "07 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 text fill exact color",
+      "detail": "#F2C454 pixels=11622"
+    },
+    {
+      "pass": true,
+      "check": "07 text fill visible at 240px",
+      "detail": "571"
+    },
+    {
+      "pass": true,
+      "check": "07 text stroke exact color",
+      "detail": "#433535 pixels=5535"
+    },
+    {
+      "pass": true,
+      "check": "07 text stroke visible at 240px",
+      "detail": "174"
+    },
+    {
+      "pass": true,
+      "check": "07 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "07 art white outline",
+      "detail": "27006"
+    },
+    {
+      "pass": true,
+      "check": "07 text white outline",
+      "detail": "7480"
+    },
+    {
+      "pass": true,
+      "check": "08 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png bytes",
+      "detail": "55927"
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/08.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif bytes",
+      "detail": "16438"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/08.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png bytes",
+      "detail": "16990"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/08.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "08 main/thumbnail shape match",
+      "detail": "0.999817"
+    },
+    {
+      "pass": true,
+      "check": "08 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "08 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 text fill exact color",
+      "detail": "#EA92AD pixels=19351"
+    },
+    {
+      "pass": true,
+      "check": "08 text fill visible at 240px",
+      "detail": "932"
+    },
+    {
+      "pass": true,
+      "check": "08 text stroke exact color",
+      "detail": "#433535 pixels=10405"
+    },
+    {
+      "pass": true,
+      "check": "08 text stroke visible at 240px",
+      "detail": "358"
+    },
+    {
+      "pass": true,
+      "check": "08 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "08 art white outline",
+      "detail": "21302"
+    },
+    {
+      "pass": true,
+      "check": "08 text white outline",
+      "detail": "15838"
+    },
+    {
+      "pass": true,
+      "check": "09 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png bytes",
+      "detail": "49823"
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/09.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif bytes",
+      "detail": "13860"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/09.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png bytes",
+      "detail": "15341"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/09.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "09 main/thumbnail shape match",
+      "detail": "0.999205"
+    },
+    {
+      "pass": true,
+      "check": "09 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "09 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 text fill exact color",
+      "detail": "#EA92AD pixels=35014"
+    },
+    {
+      "pass": true,
+      "check": "09 text fill visible at 240px",
+      "detail": "1737"
+    },
+    {
+      "pass": true,
+      "check": "09 text stroke exact color",
+      "detail": "#433535 pixels=9841"
+    },
+    {
+      "pass": true,
+      "check": "09 text stroke visible at 240px",
+      "detail": "311"
+    },
+    {
+      "pass": true,
+      "check": "09 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "09 art white outline",
+      "detail": "16228"
+    },
+    {
+      "pass": true,
+      "check": "09 text white outline",
+      "detail": "11870"
+    },
+    {
+      "pass": true,
+      "check": "10 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png bytes",
+      "detail": "56562"
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png safe margin",
+      "detail": "6"
+    },
+    {
+      "pass": true,
+      "check": "main_png/10.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif bytes",
+      "detail": "16176"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif safe margin",
+      "detail": "7"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/10.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png bytes",
+      "detail": "19058"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png safe margin",
+      "detail": "3"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/10.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "10 main/thumbnail shape match",
+      "detail": "0.998876"
+    },
+    {
+      "pass": true,
+      "check": "10 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "10 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 text fill exact color",
+      "detail": "#81A9DC pixels=41764"
+    },
+    {
+      "pass": true,
+      "check": "10 text fill visible at 240px",
+      "detail": "2030"
+    },
+    {
+      "pass": true,
+      "check": "10 text stroke exact color",
+      "detail": "#433535 pixels=20566"
+    },
+    {
+      "pass": true,
+      "check": "10 text stroke visible at 240px",
+      "detail": "656"
+    },
+    {
+      "pass": true,
+      "check": "10 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "10 art white outline",
+      "detail": "28767"
+    },
+    {
+      "pass": true,
+      "check": "10 text white outline",
+      "detail": "30562"
+    },
+    {
+      "pass": true,
+      "check": "11 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png bytes",
+      "detail": "59410"
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/11.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif bytes",
+      "detail": "15278"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/11.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png bytes",
+      "detail": "18138"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/11.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "11 main/thumbnail shape match",
+      "detail": "0.999293"
+    },
+    {
+      "pass": true,
+      "check": "11 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "11 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 text fill exact color",
+      "detail": "#AE98D4 pixels=28678"
+    },
+    {
+      "pass": true,
+      "check": "11 text fill visible at 240px",
+      "detail": "1405"
+    },
+    {
+      "pass": true,
+      "check": "11 text stroke exact color",
+      "detail": "#433535 pixels=12038"
+    },
+    {
+      "pass": true,
+      "check": "11 text stroke visible at 240px",
+      "detail": "404"
+    },
+    {
+      "pass": true,
+      "check": "11 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "11 art white outline",
+      "detail": "21389"
+    },
+    {
+      "pass": true,
+      "check": "11 text white outline",
+      "detail": "13995"
+    },
+    {
+      "pass": true,
+      "check": "12 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png bytes",
+      "detail": "48750"
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/12.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif bytes",
+      "detail": "13768"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/12.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png bytes",
+      "detail": "15076"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/12.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "12 main/thumbnail shape match",
+      "detail": "0.999795"
+    },
+    {
+      "pass": true,
+      "check": "12 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "12 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 text fill exact color",
+      "detail": "#EEA160 pixels=21979"
+    },
+    {
+      "pass": true,
+      "check": "12 text fill visible at 240px",
+      "detail": "1064"
+    },
+    {
+      "pass": true,
+      "check": "12 text stroke exact color",
+      "detail": "#433535 pixels=10088"
+    },
+    {
+      "pass": true,
+      "check": "12 text stroke visible at 240px",
+      "detail": "315"
+    },
+    {
+      "pass": true,
+      "check": "12 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "12 art white outline",
+      "detail": "16883"
+    },
+    {
+      "pass": true,
+      "check": "12 text white outline",
+      "detail": "13498"
+    },
+    {
+      "pass": true,
+      "check": "13 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png bytes",
+      "detail": "58100"
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/13.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif bytes",
+      "detail": "15885"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/13.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png bytes",
+      "detail": "17706"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/13.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "13 main/thumbnail shape match",
+      "detail": "0.999829"
+    },
+    {
+      "pass": true,
+      "check": "13 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "13 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 text fill exact color",
+      "detail": "#75BCB7 pixels=21730"
+    },
+    {
+      "pass": true,
+      "check": "13 text fill visible at 240px",
+      "detail": "1074"
+    },
+    {
+      "pass": true,
+      "check": "13 text stroke exact color",
+      "detail": "#433535 pixels=11705"
+    },
+    {
+      "pass": true,
+      "check": "13 text stroke visible at 240px",
+      "detail": "444"
+    },
+    {
+      "pass": true,
+      "check": "13 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "13 art white outline",
+      "detail": "19188"
+    },
+    {
+      "pass": true,
+      "check": "13 text white outline",
+      "detail": "15334"
+    },
+    {
+      "pass": true,
+      "check": "14 manifest path source",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 manifest path main_png",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 manifest path main_gif",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 manifest path thumbnail",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 manifest path master",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 manifest path art_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 manifest path text_layer",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png bytes",
+      "detail": "49915"
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_png/14.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif format",
+      "detail": "GIF"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif bytes",
+      "detail": "13785"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif safe margin",
+      "detail": "5"
+    },
+    {
+      "pass": true,
+      "check": "main_gif/14.gif nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png dimensions",
+      "detail": "(120, 120)"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png bytes",
+      "detail": "15255"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "thumbnail/14.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 PNG/GIF shape match",
+      "detail": "1.0"
+    },
+    {
+      "pass": true,
+      "check": "14 main/thumbnail shape match",
+      "detail": "0.999594"
+    },
+    {
+      "pass": true,
+      "check": "14 native RGBA source",
+      "detail": "(1254, 1254)"
+    },
+    {
+      "pass": true,
+      "check": "14 typography matches plan",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 text fill exact color",
+      "detail": "#EA92AD pixels=13540"
+    },
+    {
+      "pass": true,
+      "check": "14 text fill visible at 240px",
+      "detail": "668"
+    },
+    {
+      "pass": true,
+      "check": "14 text stroke exact color",
+      "detail": "#433535 pixels=6155"
+    },
+    {
+      "pass": true,
+      "check": "14 text stroke visible at 240px",
+      "detail": "205"
+    },
+    {
+      "pass": true,
+      "check": "14 master 1024 RGBA",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 opaque art and text preserved",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 no alpha lost",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "14 art white outline",
+      "detail": "20757"
+    },
+    {
+      "pass": true,
+      "check": "14 text white outline",
+      "detail": "7328"
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png bytes",
+      "detail": "59276"
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png safe margin",
+      "detail": "12"
+    },
+    {
+      "pass": true,
+      "check": "extras/cover_240.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png dimensions",
+      "detail": "(50, 50)"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png bytes",
+      "detail": "5159"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png safe margin",
+      "detail": "2"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_50.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png dimensions",
+      "detail": "(240, 240)"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png format",
+      "detail": "PNG"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png bytes",
+      "detail": "78731"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png genuine alpha",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png transparent corners",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png safe margin",
+      "detail": "11"
+    },
+    {
+      "pass": true,
+      "check": "extras/chat_icon_240_备用.png nonempty cutout",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/banner_750x400.jpg dimensions",
+      "detail": "(750, 400)"
+    },
+    {
+      "pass": true,
+      "check": "extras/banner_750x400.jpg format",
+      "detail": "JPEG"
+    },
+    {
+      "pass": true,
+      "check": "extras/banner_750x400.jpg bytes",
+      "detail": "72152"
+    },
+    {
+      "pass": true,
+      "check": "extras/banner_750x400.jpg static single frame",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "extras/banner_750x400.jpg opaque designed background",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "cover no added white contour",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "cover alpha preserved through PNG compression",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "chat_icon no added white contour",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "chat_icon alpha preserved through PNG compression",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "chat_icon_compat alpha preserved through PNG compression",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "all main files distinct",
+      "detail": ""
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/01.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/02.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/03.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/04.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/05.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/06.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/07.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/08.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/09.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/10.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/11.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/12.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/13.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "main_png/14.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "extras/banner_750x400.jpg"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "extras/chat_icon_240_备用.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "extras/chat_icon_50.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "extras/cover_240.png"
+    },
+    {
+      "pass": true,
+      "check": "preview local link",
+      "detail": "visual_review.json"
+    }
+  ],
+  "assets": [
+    {
+      "file": "main_png/01.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 65640,
+      "format": "PNG",
+      "sha256": "721c84200dadec28e11142d0bb57cffd20ac124c06899fbfbe85b5974b3d7eaa"
+    },
+    {
+      "file": "main_gif/01.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 18083,
+      "format": "GIF",
+      "sha256": "d44768b511bdaf06e6d16a898552483c0121807d17e098e9e527a2ccf294277f"
+    },
+    {
+      "file": "thumbnail/01.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 20239,
+      "format": "PNG",
+      "sha256": "c453a692699106ceaab904ec9a547136dd439ef3d40b8d757950b902572ca6d9"
+    },
+    {
+      "file": "main_png/02.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 60781,
+      "format": "PNG",
+      "sha256": "fe61054b5fcc8ae7c916eeefeba039f947d2051fc52352a4a79ab024b9ca2dac"
+    },
+    {
+      "file": "main_gif/02.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 15675,
+      "format": "GIF",
+      "sha256": "ad5d54f7348e1e037902a30f3e6988bf41fe11ccb0ec6a711a1fa5a4498ee8d3"
+    },
+    {
+      "file": "thumbnail/02.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 19403,
+      "format": "PNG",
+      "sha256": "03142c40a3b43e195566503f224da202e71902537d2f235bc5bf60b21c3e6705"
+    },
+    {
+      "file": "main_png/03.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 60850,
+      "format": "PNG",
+      "sha256": "adaf6799af8c9473d9ddd2b8ac4ffa12a14f1f7cf336ebf95851a35fc3ebdb2b"
+    },
+    {
+      "file": "main_gif/03.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 17659,
+      "format": "GIF",
+      "sha256": "bb3b613ac5ce4354f8102c036c8dcf1859b97520acf2e1f7dce678b6ae21260b"
+    },
+    {
+      "file": "thumbnail/03.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 18766,
+      "format": "PNG",
+      "sha256": "53bef7a1f6ee51b2da8bf12dd3cda98d8e0da3e550724fac8d973ada866a4e95"
+    },
+    {
+      "file": "main_png/04.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 56248,
+      "format": "PNG",
+      "sha256": "3416c45b6f3caf09968d787a0e129dcb07c175e9609d97245873c3848ac5337f"
+    },
+    {
+      "file": "main_gif/04.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 16522,
+      "format": "GIF",
+      "sha256": "60d881fe340af43935edf640496f531e15c33620a1e2ea58d94eb15c19a3614c"
+    },
+    {
+      "file": "thumbnail/04.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 17307,
+      "format": "PNG",
+      "sha256": "0b49b06f6d37d5cdd59013b489da67c0d59d28a5f9e4fbbf6a2995de67bd8e9e"
+    },
+    {
+      "file": "main_png/05.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 55145,
+      "format": "PNG",
+      "sha256": "b649ba4aa7ebe67958c3ca4d4e8e1328d9acacc046131972e9440c7c069fc0e0"
+    },
+    {
+      "file": "main_gif/05.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 15495,
+      "format": "GIF",
+      "sha256": "d50df3d6ee3bf267cc0f56bd0c24baa1d0f185bc79223e1a3aa016bf8c1331de"
+    },
+    {
+      "file": "thumbnail/05.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 16441,
+      "format": "PNG",
+      "sha256": "c7759d073b098eaf90559036ebe2a26a93078a9803535bb62319ebdd632374aa"
+    },
+    {
+      "file": "main_png/06.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 53780,
+      "format": "PNG",
+      "sha256": "2b591aadb3edc69734be51c848b4f67ba59ca9df140b917e9c133a73818569ac"
+    },
+    {
+      "file": "main_gif/06.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 14241,
+      "format": "GIF",
+      "sha256": "719c5b00b2a4ae3a195695330c3a4edbff359ed25e860afaf3c1bb9659087429"
+    },
+    {
+      "file": "thumbnail/06.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 16557,
+      "format": "PNG",
+      "sha256": "e843278536d1f4ac16bebb5ac829f8276bf2b09a6e3652aaa8d192dad2852450"
+    },
+    {
+      "file": "main_png/07.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 56728,
+      "format": "PNG",
+      "sha256": "c7d5ebe3790481f420c2a449484b72ec03f69dc3f310840190e0fd6f1dd9f756"
+    },
+    {
+      "file": "main_gif/07.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 16070,
+      "format": "GIF",
+      "sha256": "022f87b95c2a2c18cdfcf5182243de6653a190b9fc123e272d2a96dec8cfb0fa"
+    },
+    {
+      "file": "thumbnail/07.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 17137,
+      "format": "PNG",
+      "sha256": "6df9383269c5fa47ca9edb23fb1559d26103ac00b66f86239ac27ad191bcc9a2"
+    },
+    {
+      "file": "main_png/08.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 55927,
+      "format": "PNG",
+      "sha256": "e06b60669dddd801a99e003fd936be16c31eafd7b0715366e68bf2e0db5f2ef3"
+    },
+    {
+      "file": "main_gif/08.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 16438,
+      "format": "GIF",
+      "sha256": "a59983307492fcbd80bb5958a2e285db6e5116a7b0c7ba786a09631e8f0cafa8"
+    },
+    {
+      "file": "thumbnail/08.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 16990,
+      "format": "PNG",
+      "sha256": "8b129bd713c0c4a02e11c7fc69b223b068459ca709c7ffd4a9238c3d2f927241"
+    },
+    {
+      "file": "main_png/09.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 49823,
+      "format": "PNG",
+      "sha256": "af231493df03ad5e12dbf0781a7081a3e4137f68f7af15f32435fa0b7cb150d4"
+    },
+    {
+      "file": "main_gif/09.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 13860,
+      "format": "GIF",
+      "sha256": "4eac408b6af1b08b8ef757091135dbe38084f89c2f2bc8b5e7625a40c5d5b906"
+    },
+    {
+      "file": "thumbnail/09.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 15341,
+      "format": "PNG",
+      "sha256": "a976b02037f7952a625e1f3f7db71cbae974b9dd9e05e74b047d457fd8d95d39"
+    },
+    {
+      "file": "main_png/10.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 56562,
+      "format": "PNG",
+      "sha256": "fa6b610b5a05210b9784e7657bec02a12fdfb01d6ee548ee459b043384878e57"
+    },
+    {
+      "file": "main_gif/10.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 16176,
+      "format": "GIF",
+      "sha256": "acea448eb618dc8b40355b0601c865e6c65e5a4e2cf9ecb791230d68cadfbc1e"
+    },
+    {
+      "file": "thumbnail/10.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 19058,
+      "format": "PNG",
+      "sha256": "2d0caa77745c92b74f67116cfad2939721d9e383d65ff49c90f9003cedccbe1c"
+    },
+    {
+      "file": "main_png/11.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 59410,
+      "format": "PNG",
+      "sha256": "adffec0d6841426a0e00260cf8131581bca104ec9a666fc6be4009506f8cc29e"
+    },
+    {
+      "file": "main_gif/11.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 15278,
+      "format": "GIF",
+      "sha256": "0dbc97273f32fa8fe0d2ccc7f649b33d71e184e29d50c49ce89e81b88d7f5711"
+    },
+    {
+      "file": "thumbnail/11.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 18138,
+      "format": "PNG",
+      "sha256": "84ae19b0e5723b78d140c5df77fd8a5fcd8f9d9f3bc77f6a0059160d3739dbac"
+    },
+    {
+      "file": "main_png/12.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 48750,
+      "format": "PNG",
+      "sha256": "2bd7c096c4f4a710c50cb603a5f8780436956e7f514c330ee2e3d304eabb6602"
+    },
+    {
+      "file": "main_gif/12.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 13768,
+      "format": "GIF",
+      "sha256": "5c5f90d342aa86e38a6baefa10ed6bab211d667f6aeacae71be64874dfa6bd52"
+    },
+    {
+      "file": "thumbnail/12.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 15076,
+      "format": "PNG",
+      "sha256": "c823fa60a64e419cfd652eebfd8a478fb70bb17c93dd24011a632b256150b3a6"
+    },
+    {
+      "file": "main_png/13.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 58100,
+      "format": "PNG",
+      "sha256": "4ca0f288e9d963f45946ef37403204c054a84aaa280754e3668fd34cdcf5a2ec"
+    },
+    {
+      "file": "main_gif/13.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 15885,
+      "format": "GIF",
+      "sha256": "af03c47363e0bb8d280a32053174ee38e045f3230464a57d323b78134a39f910"
+    },
+    {
+      "file": "thumbnail/13.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 17706,
+      "format": "PNG",
+      "sha256": "612a18b0336f675744211566cea6d11be997c3aa8379ae69b60ab4f16c02ffde"
+    },
+    {
+      "file": "main_png/14.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 49915,
+      "format": "PNG",
+      "sha256": "dac12ff7a2037d80eda3b65e71b41c871ca32651882b56ea45272a250496b987"
+    },
+    {
+      "file": "main_gif/14.gif",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 13785,
+      "format": "GIF",
+      "sha256": "815fc5d8e2295d9392405fbbc05400c02760d9c2264069250a045571046964ca"
+    },
+    {
+      "file": "thumbnail/14.png",
+      "size": [
+        120,
+        120
+      ],
+      "bytes": 15255,
+      "format": "PNG",
+      "sha256": "1ad7b7af52cbc542fa079613daf3ef061816724fe5e4b5067653c9ed4e7db64c"
+    },
+    {
+      "file": "extras/cover_240.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 59276,
+      "format": "PNG",
+      "sha256": "57e27af63a53f121767265f756ae7ffa2c71fadf1522754219792b4afb884c70"
+    },
+    {
+      "file": "extras/chat_icon_50.png",
+      "size": [
+        50,
+        50
+      ],
+      "bytes": 5159,
+      "format": "PNG",
+      "sha256": "fd73a77eaf111465d2ccc9c3efeea9af6ddf8113df4ccf6caa7427054a9114ea"
+    },
+    {
+      "file": "extras/chat_icon_240_备用.png",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 78731,
+      "format": "PNG",
+      "sha256": "94476411d80c53beba8d4efab622fc267989b643e2fdb85948c96c5536237fc8"
+    },
+    {
+      "file": "extras/banner_750x400.jpg",
+      "size": [
+        750,
+        400
+      ],
+      "bytes": 72152,
+      "format": "JPEG",
+      "sha256": "ab5432499d00cdd64d6c1e96b75fad2d39336d81968a97a27c211e407e69cbfe"
+    }
+  ],
+  "warnings": [],
+  "visual_review": "passed",
+  "visual_complete": true,
+  "visual_asset_hashes_match": true,
+  "official_rules_verified": true,
+  "platform_approval": "not_submitted",
+  "profile": "wechat-public-guide-20261004-static14-conservative"
+}

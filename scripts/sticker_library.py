@@ -430,7 +430,13 @@ def hydrate(root, entry, config):
     manifest = load(out / 'manifest.json') if (out / 'manifest.json').is_file() else []
     if not manifest and (version / '01_资料/文案.csv').is_file():
         with (version / '01_资料/文案.csv').open(encoding='utf-8-sig', newline='') as stream:
-            manifest = list(csv.DictReader(stream))
+            for row in csv.DictReader(stream):
+                number = row.get('number', row.get('编号'))
+                if not number:
+                    raise ValueError(f'草稿文案CSV缺少编号列：{entry["path"]}/01_资料/文案.csv')
+                manifest.append({'number': str(number).zfill(2),
+                                 'caption': row.get('caption', row.get('中文文案', '')),
+                                 'meaning': row.get('meaning', row.get('含义词', ''))})
     for item in manifest:
         image = item.get('main_png') if entry['media'] == '静态' else item.get('main_gif')
         result['items'].append({'number': item['number'], 'caption': item.get('caption', ''), 'meaning': item.get('meaning', ''), 'image': link(inside(out, image)) if image else None})

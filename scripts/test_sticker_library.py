@@ -114,6 +114,23 @@ class LibraryTests(unittest.TestCase):
         self.assertEqual(output['status'],'PASS');self.assertTrue(ready['current']);self.assertFalse(draft['current'])
         self.assertEqual(lib.hydrate(self.root,ready,self.config)['health']['state'],'有效')
 
+    def test_draft_caption_csv_refresh_preserves_copy_and_disables_downloads(self):
+        e = self.create()
+        copy_path = self.root / e['path'] / '01_资料/文案.csv'
+        captions = ['早上好', '哥哥呢', '宝宝到咯', '饿饿！', '已买', '欧了', '啊？？', '你认真的？']
+        for headers in (['number', 'caption', 'meaning'], ['编号', '中文文案', '含义词']):
+            with self.subTest(headers=headers):
+                with copy_path.open('w', encoding='utf-8-sig', newline='') as stream:
+                    writer = csv.writer(stream); writer.writerow(headers)
+                    writer.writerows((f'{i:02d}', caption, str(i)) for i, caption in enumerate(captions, 1))
+                self.assertEqual(lib.refresh(self.root, self.data, self.config)['status'], 'PASS')
+                view = lib.hydrate(self.root, e, self.config)
+                self.assertEqual([x['caption'] for x in view['items']], captions)
+                self.assertEqual([x['number'] for x in view['items']], [f'{i:02d}' for i in range(1, 9)])
+                self.assertTrue(all(x['image'] is None for x in view['items']))
+                self.assertFalse(view['can_download'])
+                self.assertIn('你认真的？', (self.root / lib.PAGE).read_text())
+
     def test_missing_visual_review_blocks_finish(self):
         e=self.fixture();out=self.root/e['path']/'04_成品';visual=lib.load(out/'visual_review.json');visual['items'][3]['anatomy']=False;lib.save(out/'visual_review.json',visual)
         with self.assertRaisesRegex(ValueError,'视觉复核'):lib.acceptance(self.root,e)

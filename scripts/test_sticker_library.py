@@ -114,6 +114,26 @@ class LibraryTests(unittest.TestCase):
         self.assertEqual(output['status'],'PASS');self.assertTrue(ready['current']);self.assertFalse(draft['current'])
         self.assertEqual(lib.hydrate(self.root,ready,self.config)['health']['state'],'有效')
 
+    def test_unfinished_version_layout_survives_git_checkout(self):
+        e = self.create()
+        lib.refresh(self.root, self.data, self.config)
+        for section in self.config['sections']:
+            self.assertTrue((self.root / e['path'] / section / '.gitkeep').is_file())
+        def git(*args):
+            return subprocess.run(['git', *args], cwd=self.root, check=True,
+                                  stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        git('init', '-q', '-b', 'main')
+        git('config', 'user.name', 'Isolated test')
+        git('config', 'user.email', 'test@example.invalid')
+        git('add', '--', e['path'], lib.CATALOG, 'scripts/library_config.json')
+        git('commit', '-qm', 'Synthetic draft layout only')
+        with tempfile.TemporaryDirectory() as directory:
+            checkout = (Path(directory) / 'checkout').resolve()
+            git('clone', '-q', str(self.root), str(checkout))
+            lib.validate_registry(checkout, lib.load(checkout / lib.CATALOG),
+                                  lib.configuration(checkout))
+            self.assertFalse(lib.hydrate(checkout, e, self.config)['can_download'])
+
     def test_draft_caption_csv_refresh_preserves_copy_and_disables_downloads(self):
         e = self.create()
         copy_path = self.root / e['path'] / '01_资料/文案.csv'

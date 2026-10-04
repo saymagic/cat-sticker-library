@@ -1,0 +1,102 @@
+{
+  "name": "wechat-public-guide-20261004-static14-conservative",
+  "basis_date": "2026-10-04",
+  "official_rules_verified": true,
+  "note": "2026-10-04实际读取官方独立公开帮助文档，复核8至24张、240px静态主图、240px无白边封面、50px无白边聊天图标及750x400有色无字横幅。本版14张，导出上限低于公开规范。动态上传页面被浏览器安全策略阻止；未访问登录后投稿页，未微信投稿或审核。120px缩略图、240px图标与单帧GIF为兼容备用。",
+  "count": 14,
+  "main_png": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "PNG",
+    "limit": 100000,
+    "alpha": true
+  },
+  "main_gif": {
+    "size": [
+      240,
+      240
+    ],
+    "format": "GIF",
+    "limit": 100000,
+    "alpha": true
+  },
+  "thumbnail": {
+    "size": [
+      120,
+      120
+    ],
+    "format": "PNG",
+    "limit": 50000,
+    "alpha": true
+  },
+  "extras": {
+    "cover": {
+      "file": "cover_240.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 80000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon": {
+      "file": "chat_icon_50.png",
+      "size": [
+        50,
+        50
+      ],
+      "format": "PNG",
+      "limit": 30000,
+      "alpha": true,
+      "outline": false
+    },
+    "chat_icon_compat": {
+      "file": "chat_icon_240_备用.png",
+      "size": [
+        240,
+        240
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": true,
+      "outline": false
+    },
+    "banner": {
+      "file": "banner_750x400.jpg",
+      "size": [
+        750,
+        400
+      ],
+      "format": "JPEG",
+      "limit": 80000,
+      "alpha": false
+    },
+    "appreciation_guide": {
+      "file": "optional_appreciation_guide_750x560.png",
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "limit": 100000,
+      "alpha": false,
+      "optional": true
+    },
+    "appreciation_thanks": {
+      "file": "optional_appreciation_thanks_750x750.png",
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "limit": 200000,
+      "alpha": false,
+      "optional": true
+    }
+  },
+  "official_source": "https://res.wxqcloud.qq.com.cn/t/wx_fed/base/sticker_platform/26052800/static/js/pages/guide/index.f84d77217115a9c8a0ed.js?1ba308c511fe82c68e48"
+}

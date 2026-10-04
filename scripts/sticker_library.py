@@ -410,6 +410,12 @@ def audit(root, command, ids):
 
 def mirror(root, entry):
     version = inside(root, entry['path'])
+    if not entry.get('completion'):
+        # Git does not preserve empty directories in unfinished versions.
+        for section in configuration(root)['sections']:
+            marker = version / section / '.gitkeep'
+            if not marker.exists():
+                save(marker, '')
     save(version / '01_资料/作品信息.json', {'source': '根目录作品目录.json，由维护工具生成，请勿手工修改', **entry})
     relative = os.path.relpath(root / PAGE, version)
     save(version / 'README.md', f'# {entry["character"]} · {entry["theme"]} · v{entry["sequence"]:03d}\n\n[回到统一作品库]({href(relative)})\n\n状态以根目录作品目录.json及完成锁定检查为准。\n\n' + '\n'.join(f'- `{section}/`' for section in ('01_资料', '02_原画', '03_工程', '04_成品', '05_验收')) + '\n')

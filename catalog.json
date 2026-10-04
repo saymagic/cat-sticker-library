@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:42:32.941388+08:00",
+  "updated_at": "2026-10-04T15:27:33.785659+08:00",
   "characters": [
     "奶思",
     "古德",
@@ -2275,6 +2275,72 @@
       "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
       "can_download": true,
       "default": true
+    }
+  ],
+  "materials": [
+    {
+      "id": "material-5100fe6cb823",
+      "character": "范恩",
+      "title": "范恩赞赏配套",
+      "path": "04_角色素材/范恩/赞赏配套/v001_20261004",
+      "preview": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/preview.html",
+      "copy": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/赞赏引导语.md",
+      "assets": [
+        {
+          "label": "赞赏引导图 · JPG",
+          "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏引导图_750x560.jpg",
+          "size": [
+            750,
+            560
+          ],
+          "bytes": 83579,
+          "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+        },
+        {
+          "label": "赞赏引导图 · PNG",
+          "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏引导图_750x560.png",
+          "size": [
+            750,
+            560
+          ],
+          "bytes": 223299,
+          "sha256": "98df2f3bdd07ca3e826c6f9a7cd774d11aeb468c6332d3cde586deb68768e359"
+        },
+        {
+          "label": "赞赏致谢图 · JPG",
+          "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏致谢图_750x750.jpg",
+          "size": [
+            750,
+            750
+          ],
+          "bytes": 127119,
+          "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+        },
+        {
+          "label": "赞赏致谢图 · PNG",
+          "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏致谢图_750x750.png",
+          "size": [
+            750,
+            750
+          ],
+          "bytes": 303717,
+          "sha256": "0c3b54dd4d57a63f6af4664a57b4c0c3740524b73aefd79988683261a0cec810"
+        }
+      ],
+      "packages": [
+        {
+          "label": "两图与引导语",
+          "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip",
+          "bytes": 738849,
+          "sha256": "1e4561ee653b57c9016e9a4a6d8a8e9da68581cd72aa9591316ff90c7b62bb3c"
+        },
+        {
+          "label": "完整制作备份",
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-fanen-appreciation-v1/archive-efe1e39e5f68e19bc2f01254edc5d162d905241da98bc86aa00b6273d50c59aa.zip",
+          "bytes": 7204334,
+          "sha256": "efe1e39e5f68e19bc2f01254edc5d162d905241da98bc86aa00b6273d50c59aa"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "guide",
+    "size": [
+      750,
+      560
+    ],
+    "caption": [
+      "小鱼干到账",
+      "奶思快乐加倍"
+    ],
+    "original": "02_原画/guide.png"
+  },
+  {
+    "kind": "thanks",
+    "size": [
+      750,
+      750
+    ],
+    "caption": [
+      "谢谢投喂！",
+      "奶思蹭蹭你"
+    ],
+    "original": "02_原画/thanks.png"
+  }
+]

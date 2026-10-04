@@ -1,0 +1,169 @@
+{
+  "technical_pass": true,
+  "checks": [
+    {
+      "file": "三猫_赞赏引导图_750x560.jpg",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.jpg",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.jpg",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.jpg",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.jpg",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.png",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.png",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.png",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.png",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.png",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.jpg",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.jpg",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.jpg",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.jpg",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.jpg",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.png",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.png",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.png",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.png",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.png",
+      "check": "single_frame",
+      "pass": true
+    }
+  ],
+  "assets": [
+    {
+      "file": "三猫_赞赏引导图_750x560.jpg",
+      "sha256": "fde29930edb0087fe07ae447f08ad099ff3bdbdc6dd544caf7e914e90a0a8fbd",
+      "bytes": 95074,
+      "size": [
+        750,
+        560
+      ],
+      "format": "JPEG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "三猫_赞赏引导图_750x560.png",
+      "sha256": "bb24d94300e1ca4bca8b724f780ee2a03cb2e01e5e630886434aadc525620a98",
+      "bytes": 228488,
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.jpg",
+      "sha256": "790614d9616281ca60f2cd9971385188ff4d49d95fe51fca682dcd514c96bde3",
+      "bytes": 192391,
+      "size": [
+        750,
+        750
+      ],
+      "format": "JPEG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "三猫_赞赏致谢图_750x750.png",
+      "sha256": "5e7a3bc2fcdc4ff27877949cd26f77aaba179569a0e6ad87b7b7a9bf69363c9e",
+      "bytes": 315526,
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    }
+  ],
+  "official_rules_verified": false,
+  "dimension_basis": "用户指定尺寸"
+}

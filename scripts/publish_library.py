@@ -46,7 +46,7 @@ def prepare(root):
             for package in entry['packages']:
                 file = lib.inside(root, package['path'])
                 approved[file] = lib.sha(file)
-    for material in lib.hydrate_materials(root, data, characters):
+    for material in lib.hydrate_materials(root, data, characters) + [record['material'] for record in data.get('retired_materials', [])]:
         for package in material['packages']:
             file = lib.inside(root, package['path'])
             approved[file] = lib.sha(file)

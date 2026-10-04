@@ -1,0 +1,37 @@
+{
+  "material_id": "material-0ecb849147cb",
+  "status": "failed",
+  "reviewer": "Codex 在用户纠正后对原生图逐张重新目检",
+  "reviewed_at": "2026-10-04T18:41:43.960660+08:00",
+  "user_feedback": "这张图猫的腿都多了！！重新检查并修改",
+  "issues": [
+    "引导图右后外侧有多余落地小爪，重复下肢；需局部编辑清除额外爪子"
+  ],
+  "per_image_and_cat": {
+    "guide": {
+      "奶思": {
+        "front_paws": 2,
+        "hind_paws": "2个主要落地爪以外，右外侧另有一个明确的小爪，左外侧疑似额外小爪",
+        "tails": 1,
+        "result": "failed"
+      }
+    },
+    "thanks": {
+      "奶思": {
+        "front_paws": 2,
+        "hind_paws": 2,
+        "tails": 1,
+        "result": "passed"
+      }
+    }
+  },
+  "previous_visual_conclusion_withdrawn": true,
+  "asset_sha256": {
+    "奶思_赞赏引导图_750x560.jpg": "c7eaecdecf2cdf73d785ba9f0ca56638030fa6650295affa131e6a8e7d7a3cc1",
+    "奶思_赞赏引导图_750x560.png": "3bc62e0c9447f78bb46681929530a08c1c0634aaef0e1fa732ddbcacc79a7e1c",
+    "奶思_赞赏致谢图_750x750.jpg": "f6ab92ac482f542c346c8cb941aca3dfe3f8e4b3a03c22665a739d08067fa980",
+    "奶思_赞赏致谢图_750x750.png": "5ce286ea7371ef1ef7b3e18afda7ec3ccb2745136f5c326bd8d96d9a26ba208b"
+  },
+  "method": "查看独立原生图，逐猫核对抱碗或抱心前爪、落地或前伸后爪、臀部轮廓和单尾，不以技术检查代替艺术目检",
+  "production_files_modified": false
+}

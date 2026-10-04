@@ -97,11 +97,11 @@ class LibraryTests(unittest.TestCase):
     def complete(self, e):
         gate=lib.acceptance(self.root,e);lib.seal_version(self.root,e,gate);e['status']='本地成品';lib.set_current(self.data,e)
 
-    def material_fixture(self, preview_copy_link=False, cats=None):
+    def material_fixture(self, preview_copy_link=False, cats=None, sequence=1, replace=None, review_evidence=None):
         """Synthetic role material, including explicit test-only visual evidence."""
         cats = cats or ['范恩']
         folder = cats[0] if len(cats) == 1 else '共用'
-        relative = f'04_角色素材/{folder}/赞赏配套/v001_20261004'
+        relative = f'04_角色素材/{folder}/赞赏配套/v{sequence:03d}_20261004'
         version = self.root / relative
         for folder in self.config['sections']:
             (version / folder).mkdir(parents=True)
@@ -116,7 +116,37 @@ class LibraryTests(unittest.TestCase):
         with zipfile.ZipFile(out / 'submission_角色配套.zip', 'w') as archive:
             archive.write(out / 'guide.png', 'guide.png')
         lib.save(out / 'zip_validation.json', [{'file': 'submission_角色配套.zip', 'label': '素材下载包', 'sha256': lib.sha(out / 'submission_角色配套.zip')}])
-        return lib.register_materials(self.root, self.data, self.config, SimpleNamespace(cat=cats[0], with_cat=cats[1:], path=relative, title='测试赞赏配套'))
+        return lib.register_materials(self.root, self.data, self.config, SimpleNamespace(cat=cats[0], with_cat=cats[1:], path=relative, title='测试赞赏配套', replace=replace, review_evidence=review_evidence))
+
+    def test_material_revision_keeps_original_seal_and_prefers_repaired_version(self):
+        original = self.material_fixture(cats=['古德', '范恩', '奶思'])
+        seal = self.root / original['path'] / original['completion']['seal']
+        seal_before = seal.read_bytes()
+        evidence = original['path'] + '/05_验收/原版复核.json'
+        lib.save(self.root / evidence, {'material_id': original['id'], 'status': 'failed',
+            'reviewer': 'synthetic test evidence', 'issues': ['测试用重复肢体问题']})
+        repaired = self.material_fixture(cats=['古德', '范恩', '奶思'], sequence=2,
+            replace=original['id'], review_evidence=evidence)
+        self.assertEqual(lib.hydrate_materials(self.root, self.data, self.config), [repaired])
+        retired = self.data['retired_materials'][0]
+        self.assertEqual(retired['material'], original)
+        self.assertEqual(retired['review_state'], '需复检')
+        self.assertEqual(retired['replaced_by'], repaired['id'])
+        self.assertEqual(repaired['supersedes'], original['id'])
+        self.assertEqual(seal.read_bytes(), seal_before)
+        self.assertEqual(lib.material_integrity(self.root, original)['state'], '有效')
+        lib.save(self.root / evidence, {'material_id': original['id'], 'status': 'passed'})
+        with self.assertRaisesRegex(ValueError, '复核证据'):
+            lib.hydrate_materials(self.root, self.data, self.config)
+
+
+    def test_material_revision_requires_original_review_evidence(self):
+        original = self.material_fixture(cats=['奶思'])
+        with self.assertRaisesRegex(ValueError, '复核记录'):
+            self.material_fixture(cats=['奶思'], sequence=2, replace=original['id'])
+        self.assertEqual(self.data['materials'], [original])
+        self.assertFalse((self.root / '04_角色素材/奶思/赞赏配套/v002_20261004/05_验收/完成锁定.json').exists())
+
 
     def test_shared_materials_use_existing_roles_without_new_character(self):
         cats = ['古德', '范恩', '奶思']

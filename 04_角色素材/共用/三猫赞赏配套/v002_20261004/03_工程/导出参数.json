@@ -1,0 +1,65 @@
+{
+  "image_tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "font_name": "not_disclosed",
+  "font_file_distributed": false,
+  "exports": [
+    {
+      "kind": "guide",
+      "native_size": [
+        1451,
+        1084
+      ],
+      "target_size": [
+        750,
+        560
+      ],
+      "jpeg_quality": 58,
+      "resize_tool": "macOS sips",
+      "png_encoding": "ffmpeg palettegen max_colors=256 reserve_transparent=0; paletteuse dither=none; compression_level=9",
+      "composition_changes": "none"
+    },
+    {
+      "kind": "thanks",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "target_size": [
+        750,
+        750
+      ],
+      "jpeg_quality": 78,
+      "resize_tool": "macOS sips",
+      "png_encoding": "ffmpeg palettegen max_colors=256 reserve_transparent=0; paletteuse dither=none; compression_level=9",
+      "composition_changes": "none"
+    }
+  ],
+  "references": [
+    {
+      "name": "古德",
+      "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
+      "reference": "01_资料/参考/古德_卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "source": "04_角色素材/古德/卡通基准.png",
+      "actually_viewed": true
+    },
+    {
+      "name": "范恩",
+      "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
+      "reference": "01_资料/参考/范恩_卡通基准.png",
+      "sha256": "9d57e48a9f1bb3dd5d8ec48a940b4d5bde3086b6ffffa7e7087d40116bcd0267",
+      "source": "04_角色素材/范恩/卡通基准.png",
+      "actually_viewed": true
+    },
+    {
+      "name": "奶思",
+      "identity": "灰黑虎斑短毛，金棕眼，奶油口鼻与粉鼻",
+      "reference": "01_资料/参考/奶思_卡通基准.png",
+      "sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec",
+      "source": "04_角色素材/奶思/卡通基准.png",
+      "actually_viewed": true
+    }
+  ]
+}

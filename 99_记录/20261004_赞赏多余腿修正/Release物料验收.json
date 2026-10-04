@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "verified_at": "2026-10-04T11:05:26.241641+00:00",
+  "url": "https://github.com/saymagic/cat-sticker-library/releases/tag/materials-20261004-appreciation-paw-fix-v2",
+  "tag": "materials-20261004-appreciation-paw-fix-v2",
+  "checks": [
+    {
+      "file": "archive-4199f061eeedf5d35e1d81febf87d881c7015d36a4583678861ef270a2700b68.zip",
+      "bytes": 15957366,
+      "sha256": "4199f061eeedf5d35e1d81febf87d881c7015d36a4583678861ef270a2700b68",
+      "server_digest": "sha256:4199f061eeedf5d35e1d81febf87d881c7015d36a4583678861ef270a2700b68",
+      "pass": true
+    },
+    {
+      "file": "archive-59ce9dfa10976928f0b92932276c068c7548f670aac18a5dfec7ee3f6c5bb899.zip",
+      "bytes": 10198308,
+      "sha256": "59ce9dfa10976928f0b92932276c068c7548f670aac18a5dfec7ee3f6c5bb899",
+      "server_digest": "sha256:59ce9dfa10976928f0b92932276c068c7548f670aac18a5dfec7ee3f6c5bb899",
+      "pass": true
+    },
+    {
+      "file": "archive-d74aa7b3ebc827c2bb499cfe5a3cc30a9fab3d9ddabc41e027a9c97d76a4b4e9.zip",
+      "bytes": 833053,
+      "sha256": "d74aa7b3ebc827c2bb499cfe5a3cc30a9fab3d9ddabc41e027a9c97d76a4b4e9",
+      "server_digest": "sha256:d74aa7b3ebc827c2bb499cfe5a3cc30a9fab3d9ddabc41e027a9c97d76a4b4e9",
+      "pass": true
+    },
+    {
+      "file": "archive-fe91bf5b2a2dc380d56af0d54030e2120c2b19f24ee74b4490714a720149ac79.zip",
+      "bytes": 833304,
+      "sha256": "fe91bf5b2a2dc380d56af0d54030e2120c2b19f24ee74b4490714a720149ac79",
+      "server_digest": "sha256:fe91bf5b2a2dc380d56af0d54030e2120c2b19f24ee74b4490714a720149ac79",
+      "pass": true
+    },
+    {
+      "file": "archives.json",
+      "bytes": 16998,
+      "sha256": "3272add4ab236666fedcdb5616aa3b48e9925ac4d3a057652bd670e74b3357c3",
+      "server_digest": "sha256:3272add4ab236666fedcdb5616aa3b48e9925ac4d3a057652bd670e74b3357c3",
+      "pass": true
+    }
+  ],
+  "method": "公开Release API的服务器大小与SHA256；未绕过之前受阻的附件下载域名。"
+}

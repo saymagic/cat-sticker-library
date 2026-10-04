@@ -1,0 +1,11 @@
+{
+  "source_version": "04_角色素材/共用/三猫赞赏配套/v001_20261004",
+  "copied_files": [
+    {
+      "source": "/Users/saymagic/workspace/表情包/.工程/04_角色素材/共用/三猫赞赏配套/v001_20261004/02_原画/thanks.png",
+      "destination": "02_原画/thanks.png",
+      "sha256": "ac1a97e8c3d674c3b64aaea19bc5fa01d2b3f37d4e869c3c19e5cd0541d21f6d",
+      "copy_method": "copy2, not hard link"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际逐张图像与浏览器目检",
+  "reviewed_at": "2026-10-04T10:54:49.180081+00:00",
+  "issues": [],
+  "asset_sha256": {
+    "奶思_赞赏引导图_750x560.jpg": "4872c1b68a09e755d52caa3ca22bccded20d6faf21cc8cac43dde5732639cc6d",
+    "奶思_赞赏引导图_750x560.png": "f26efd27ac5e5cc0751ec589030127981bfd4efaf28681335f7b8dd16b928d67",
+    "奶思_赞赏致谢图_750x750.jpg": "f6ab92ac482f542c346c8cb941aca3dfe3f8e4b3a03c22665a739d08067fa980",
+    "奶思_赞赏致谢图_750x750.png": "5ce286ea7371ef1ef7b3e18afda7ec3ccb2745136f5c326bd8d96d9a26ba208b"
+  },
+  "items": {
+    "奶思_赞赏引导图_750x560.jpg": true,
+    "奶思_赞赏引导图_750x560.png": true,
+    "奶思_赞赏致谢图_750x750.jpg": true,
+    "奶思_赞赏致谢图_750x750.png": true
+  },
+  "characters": [
+    "奶思"
+  ],
+  "full_size_review": "修订原画和四种750px导出文件均通过view_image逐张实际查看，未以技术检查代替目检。",
+  "background_modes": [
+    "light",
+    "dark",
+    "checker"
+  ],
+  "actual_size_px": [
+    240,
+    120
+  ],
+  "size_review_evidence": {
+    "page": "04_成品/qa_sizes.html",
+    "surface": "Chrome 本地受限QA静态目录",
+    "actual_browser_review": true,
+    "image_nodes": 24,
+    "all_images_loaded": true,
+    "observed_width_px": [
+      240,
+      120
+    ],
+    "full_page_screenshot_reviewed": true,
+    "background_note": "图片为原奶油底不透明图，三底色为周边页面底色。"
+  },
+  "anatomy_review": {
+    "guide": {
+      "奶思": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      }
+    },
+    "thanks": {
+      "奶思": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      }
+    }
+  },
+  "caption_review": {
+    "guide": {
+      "lines": [
+        "小鱼干到账",
+        "奶思快乐加倍"
+      ],
+      "visually_checked": true
+    },
+    "thanks": {
+      "lines": [
+        "谢谢投喂！",
+        "奶思蹭蹭你"
+      ],
+      "visually_checked": true
+    }
+  },
+  "revision_notes": "奶思引导图外侧额外小爪已消除，左右身体边缘连续；两只抱碗前爪、两只落地后爪和一条尾巴。",
+  "thanks_reuse": "致谢原画复制自v001，重新实际目检后保留；两种导出文件与v001逐字节相同。",
+  "user_approval": "not_recorded",
+  "wechat_submission": "not_attempted",
+  "official_rules_verified": false
+}

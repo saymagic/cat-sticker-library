@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "versions": 14,
+  "versions": 16,
   "checks": [
     {
       "id": "pack-ca58ed5f4c50",
@@ -83,12 +83,24 @@
       "issues": []
     },
     {
+      "id": "material-3998f9e4f3eb",
+      "state": "有效",
+      "issues": []
+    },
+    {
+      "id": "material-7861a01c25da",
+      "state": "有效",
+      "issues": []
+    },
+    {
       "id": "material-0ecb849147cb",
+      "review_state": "需复检",
       "state": "有效",
       "issues": []
     },
     {
       "id": "material-5a3f9eb303cc",
+      "review_state": "需复检",
       "state": "有效",
       "issues": []
     }

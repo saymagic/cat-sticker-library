@@ -1,0 +1,81 @@
+{
+  "title": "三猫赞赏配套",
+  "label": "三猫",
+  "kind": "independent_appreciation_materials",
+  "characters": [
+    "古德",
+    "范恩",
+    "奶思"
+  ],
+  "reference_override": [
+    {
+      "name": "古德",
+      "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
+      "reference": "01_资料/参考/古德_卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "source": "04_角色素材/古德/卡通基准.png",
+      "actually_viewed": true
+    },
+    {
+      "name": "范恩",
+      "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
+      "reference": "01_资料/参考/范恩_卡通基准.png",
+      "sha256": "9d57e48a9f1bb3dd5d8ec48a940b4d5bde3086b6ffffa7e7087d40116bcd0267",
+      "source": "04_角色素材/范恩/卡通基准.png",
+      "actually_viewed": true
+    },
+    {
+      "name": "奶思",
+      "identity": "灰黑虎斑短毛，金棕眼，奶油口鼻与粉鼻",
+      "reference": "01_资料/参考/奶思_卡通基准.png",
+      "sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec",
+      "source": "04_角色素材/奶思/卡通基准.png",
+      "actually_viewed": true
+    }
+  ],
+  "style": "延续范恩赞赏配套的奶油底、手绘毛绒水彩、上方圆润彩色中文；每张独立构图",
+  "items": [
+    {
+      "kind": "guide",
+      "size": [
+        750,
+        560
+      ],
+      "caption": [
+        "投喂一份喜欢",
+        "收获三份可爱"
+      ],
+      "original": "02_原画/guide.png"
+    },
+    {
+      "kind": "thanks",
+      "size": [
+        750,
+        750
+      ],
+      "caption": [
+        "谢谢投喂！",
+        "三只猫一起爱你"
+      ],
+      "original": "02_原画/thanks.png"
+    }
+  ],
+  "copy": [
+    "投喂一份喜欢，收获三份可爱。",
+    "一份小鱼干，三只猫轮流说爱你。",
+    "三只猫排排坐，等你投喂一小口。",
+    "小鱼干一到账，三重呼噜立刻响。",
+    "你负责加餐，我们负责可爱三连。",
+    "一份小心意，换三颗猫猫心。"
+  ],
+  "tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "font_name": "not_disclosed",
+  "revision": {
+    "source_version": "04_角色素材/共用/三猫赞赏配套/v001_20261004",
+    "reason": "用户指出多余腿；复查并修正引导图重复的落地爪，致谢图经重新目检后复用",
+    "scope": "guide anatomy only",
+    "user_approval": "not_recorded"
+  }
+}

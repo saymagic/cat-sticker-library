@@ -1,0 +1,169 @@
+{
+  "technical_pass": true,
+  "checks": [
+    {
+      "file": "奶思_赞赏引导图_750x560.jpg",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.jpg",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.jpg",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.jpg",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.jpg",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.png",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.png",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.png",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.png",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.png",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.jpg",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.jpg",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.jpg",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.jpg",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.jpg",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.png",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.png",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.png",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.png",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.png",
+      "check": "single_frame",
+      "pass": true
+    }
+  ],
+  "assets": [
+    {
+      "file": "奶思_赞赏引导图_750x560.jpg",
+      "sha256": "4872c1b68a09e755d52caa3ca22bccded20d6faf21cc8cac43dde5732639cc6d",
+      "bytes": 98797,
+      "size": [
+        750,
+        560
+      ],
+      "format": "JPEG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "奶思_赞赏引导图_750x560.png",
+      "sha256": "f26efd27ac5e5cc0751ec589030127981bfd4efaf28681335f7b8dd16b928d67",
+      "bytes": 253072,
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.jpg",
+      "sha256": "f6ab92ac482f542c346c8cb941aca3dfe3f8e4b3a03c22665a739d08067fa980",
+      "bytes": 146928,
+      "size": [
+        750,
+        750
+      ],
+      "format": "JPEG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "奶思_赞赏致谢图_750x750.png",
+      "sha256": "5ce286ea7371ef1ef7b3e18afda7ec3ccb2745136f5c326bd8d96d9a26ba208b",
+      "bytes": 332393,
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    }
+  ],
+  "official_rules_verified": false,
+  "dimension_basis": "用户指定尺寸"
+}

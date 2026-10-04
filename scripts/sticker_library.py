@@ -204,6 +204,30 @@ def register_materials(root, data, config, args):
         raise ValueError('单猫配套须放角色目录，多猫共用配套须放04_角色素材/共用')
     if any(x['path'] == args.path for x in data.get('materials', [])):
         raise ValueError('角色配套素材已锁定，修改须保存新版本')
+    previous = None
+    evidence = None
+    if getattr(args, 'replace', None):
+        previous = next((x for x in data.get('materials', []) if x['id'] == args.replace), None)
+        if previous is None:
+            raise ValueError('要替换的角色配套素材不存在或已收起')
+        if previous.get('characters', [previous['character']]) != cats or previous['title'] != component(args.title):
+            raise ValueError('修订版必须保持原角色与主题')
+        old_version = inside(root, previous['path'])
+        old_sequence = re.fullmatch(r'v(\d{3})_\d{8}', old_version.name)
+        new_sequence = re.fullmatch(r'v(\d{3})_\d{8}', version.name)
+        if version.parent != old_version.parent or not old_sequence or not new_sequence or int(new_sequence[1]) <= int(old_sequence[1]):
+            raise ValueError('配套修订须保存在同主题递增的新版本')
+        if not getattr(args, 'review_evidence', None):
+            raise ValueError('替换配套须提供原版复核记录')
+        evidence_path = inside(root, args.review_evidence)
+        if not evidence_path.is_relative_to(old_version / '05_验收') or not evidence_path.is_file():
+            raise ValueError('原版复核记录须保存在该原版05_验收内')
+        review = load(evidence_path)
+        if review.get('material_id') != previous['id'] or review.get('status') not in ('passed', 'failed') or not review.get('reviewer'):
+            raise ValueError('原版复核记录不对应该素材或缺少实际目检结论')
+        if review['status'] == 'failed' and not review.get('issues'):
+            raise ValueError('原版失败复核须列出真实问题')
+        evidence = {'path': evidence_path.relative_to(root).as_posix(), 'sha256': sha(evidence_path)}
     for section in config['sections']:
         if not (version / section).is_dir():
             raise ValueError('角色配套素材缺少目录：' + section)
@@ -250,19 +274,28 @@ def register_materials(root, data, config, args):
                 'preview': relative('preview.html'), 'copy': relative('赞赏引导语.md'), 'assets': assets, 'packages': links}
     if len(cats) > 1:
         material['characters'] = cats
+    if previous:
+        material['supersedes'] = previous['id']
     seal = {'schema_version': 1, 'metadata': dict(material), 'completed_at': now().isoformat(),
             'files': [{'path': p.relative_to(version).as_posix(), 'sha256': sha(p)} for p in protected_files(version)]}
     seal_path = version / '05_验收/完成锁定.json'
     save(seal_path, seal)
     material['completion'] = {'seal': '05_验收/完成锁定.json', 'sha256': sha(seal_path)}
+    if previous:
+        data.setdefault('retired_materials', []).append({'material': previous, 'replaced_by': material['id'],
+            'review_state': '需复检' if review['status'] == 'failed' else '历史版',
+            'issues': review.get('issues', []), 'evidence': evidence, 'retired_at': now().isoformat()})
+        data['materials'] = [x for x in data['materials'] if x['id'] != previous['id']]
     data.setdefault('materials', []).append(material)
     return material
 
 
 def hydrate_materials(root, data, config):
     materials = data.get('materials', [])
+    retired = data.get('retired_materials', [])
+    all_materials = materials + [record['material'] for record in retired]
     ids, paths = set(), set()
-    for material in materials:
+    for material in all_materials:
         cats = material.get('characters', [material['character']])
         if not isinstance(cats, list) or not cats or any(cat not in config['characters'] for cat in cats) or len(cats) != len(set(cats)):
             raise ValueError('角色配套素材角色无效或重复')
@@ -275,6 +308,20 @@ def hydrate_materials(root, data, config):
         if health['issues']:
             raise ValueError('角色配套素材需复检：' + ';'.join(health['issues']))
         ids.add(material['id']); paths.add(material['path'])
+    by_id = {material['id']: material for material in all_materials}
+    for record in retired:
+        material = record['material']
+        replacement = by_id.get(record.get('replaced_by'))
+        evidence = record.get('evidence', {})
+        path = inside(root, evidence.get('path', ''))
+        if replacement is None or replacement.get('supersedes') != material['id']:
+            raise ValueError('历史配套缺少有效的修订版关联')
+        if not path.is_relative_to(inside(root, material['path']) / '05_验收') or not path.is_file() or sha(path) != evidence.get('sha256'):
+            raise ValueError('历史配套的原版复核证据无效或改变')
+        review = load(path)
+        expected_state = '需复检' if review.get('status') == 'failed' else '历史版'
+        if review.get('material_id') != material['id'] or review.get('status') not in ('passed', 'failed') or record.get('review_state') != expected_state or record.get('issues') != review.get('issues', []):
+            raise ValueError('历史配套的复核状态与实际证据不一致')
     return materials
 
 
@@ -696,6 +743,8 @@ def main():
     material = sub.add_parser('materials', help='验收并登记独立的角色配套素材，不改变已完成套装')
     material.add_argument('--cat', required=True); material.add_argument('--path', required=True); material.add_argument('--title', required=True)
     material.add_argument('--with-cat', action='append', help='用户明确要求合体时添加既有角色，素材保存于共用目录')
+    material.add_argument('--replace', help='以已验收的新版本替换常用配套，保留原登记与封存文件')
+    material.add_argument('--review-evidence', help='原版05_验收中的复核记录路径')
     done = sub.add_parser('finish', help='检验真实文件和记录后锁定本地成品')
     done.add_argument('--path', required=True); done.add_argument('--current', action='store_true')
     sub.add_parser('refresh', help='刷新统一作品库，不创建新版本')
@@ -762,8 +811,11 @@ def main():
                     if e['archived']: e['current'] = False
             validate_registry(root, data, config)
             if args.command == 'check':
+                hydrate_materials(root, data, config)
                 statuses = [{'id': e['id'], **integrity(root, e, args.deep)} for e in data['entries']]
                 statuses += [{'id': e['id'], **material_integrity(root, e)} for e in data.get('materials', [])]
+                statuses += [{'id': record['material']['id'], 'review_state': record['review_state'],
+                    **material_integrity(root, record['material'])} for record in data.get('retired_materials', [])]
                 issues = [x for x in statuses if x['issues']]
                 result = {'status': 'FAIL' if issues else 'PASS', 'versions': len(statuses), 'checks': statuses, 'mode': '完整哈希与ZIP' if args.deep else '快速'}
                 save(root / '99_记录/作品库验收.json', result)

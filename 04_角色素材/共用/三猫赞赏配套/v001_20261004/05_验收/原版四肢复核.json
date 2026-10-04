@@ -1,0 +1,61 @@
+{
+  "material_id": "material-5a3f9eb303cc",
+  "status": "failed",
+  "reviewer": "Codex 在用户纠正后对原生图逐张重新目检",
+  "reviewed_at": "2026-10-04T18:41:43.960660+08:00",
+  "user_feedback": "这张图猫的腿都多了！！重新检查并修改",
+  "issues": [
+    "三猫引导图左侧古德和右侧奶思各有4个落地爪，再加2只抱碗前爪，构成6肢错误；中间范恩4肢正常"
+  ],
+  "per_image_and_cat": {
+    "guide": {
+      "古德": {
+        "front_paws": 2,
+        "hind_paws": 4,
+        "tails": 1,
+        "result": "failed"
+      },
+      "范恩": {
+        "front_paws": 2,
+        "hind_paws": 2,
+        "tails": 1,
+        "result": "passed"
+      },
+      "奶思": {
+        "front_paws": 2,
+        "hind_paws": 4,
+        "tails": 1,
+        "result": "failed"
+      }
+    },
+    "thanks": {
+      "古德": {
+        "front_paws": 2,
+        "hind_paws": 2,
+        "tails": 1,
+        "result": "passed"
+      },
+      "范恩": {
+        "front_paws": 2,
+        "hind_paws": 2,
+        "tails": 1,
+        "result": "passed"
+      },
+      "奶思": {
+        "front_paws": 2,
+        "hind_paws": 2,
+        "tails": 1,
+        "result": "passed"
+      }
+    }
+  },
+  "previous_visual_conclusion_withdrawn": true,
+  "asset_sha256": {
+    "三猫_赞赏引导图_750x560.jpg": "a4ef33052fa46c69b364e52ea7facf8db97dbbc607165d996a7bfdbc41c460f3",
+    "三猫_赞赏引导图_750x560.png": "4ab00fde0e45661e81ae42f4ffe033ef047e0d2642fa8b79ba235307550768fe",
+    "三猫_赞赏致谢图_750x750.jpg": "790614d9616281ca60f2cd9971385188ff4d49d95fe51fca682dcd514c96bde3",
+    "三猫_赞赏致谢图_750x750.png": "5e7a3bc2fcdc4ff27877949cd26f77aaba179569a0e6ad87b7b7a9bf69363c9e"
+  },
+  "method": "查看独立原生图，逐猫核对抱碗或抱心前爪、落地或前伸后爪、臀部轮廓和单尾，不以技术检查代替艺术目检",
+  "production_files_modified": false
+}

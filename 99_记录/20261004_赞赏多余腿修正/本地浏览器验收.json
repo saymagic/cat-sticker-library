@@ -1,0 +1,65 @@
+{
+  "reviewed_at": "2026-10-04T11:03:08.501207+00:00",
+  "surface": "Chrome 实际浏览器",
+  "search": "赞赏检索只显示四组现用配套；无匹配词显示空结果",
+  "role_filter": "奶思筛选显示奶思单猫与含奶思的三猫合体两组，均为v002",
+  "material_previews": {
+    "奶思": {
+      "viewport_px": 375,
+      "scroll_width_px": 375,
+      "image_count": 4,
+      "all_images_loaded": true,
+      "natural_sizes": [
+        [
+          750,
+          560
+        ],
+        [
+          750,
+          560
+        ],
+        [
+          750,
+          750
+        ],
+        [
+          750,
+          750
+        ]
+      ]
+    },
+    "三猫": {
+      "viewport_px": 375,
+      "scroll_width_px": 375,
+      "image_count": 4,
+      "all_images_loaded": true,
+      "natural_sizes": [
+        [
+          750,
+          560
+        ],
+        [
+          750,
+          560
+        ],
+        [
+          750,
+          750
+        ],
+        [
+          750,
+          750
+        ]
+      ]
+    }
+  },
+  "observed_tool_limitation": "三猫首次复用旧viewport句柄未生效，实际1728px；该次不计作手机通过，后续创建目标Tab并重新绑定viewport，实际375px无溢出。",
+  "screenshots": "两组375px全页截图已实际查看；CUA返回像素图，未返回可保存的本地截图路径。",
+  "pack_detail": {
+    "title": "奶思宝宝有话说",
+    "version_selection": "v001 · 静态24张 · 常用 · 本地成品",
+    "detail_open": true,
+    "images": 27,
+    "all_loaded": true
+  }
+}

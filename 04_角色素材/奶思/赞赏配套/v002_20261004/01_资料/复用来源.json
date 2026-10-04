@@ -1,0 +1,11 @@
+{
+  "source_version": "04_角色素材/奶思/赞赏配套/v001_20261004",
+  "copied_files": [
+    {
+      "source": "/Users/saymagic/workspace/表情包/.工程/04_角色素材/奶思/赞赏配套/v001_20261004/02_原画/thanks.png",
+      "destination": "02_原画/thanks.png",
+      "sha256": "739f7f13441c21f5be321cce9d65c240ab382d992413d163b87136484bb16ca6",
+      "copy_method": "copy2, not hard link"
+    }
+  ]
+}

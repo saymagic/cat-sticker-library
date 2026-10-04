@@ -1,0 +1,86 @@
+[
+  {
+    "file": "奶思_赞赏引导图_750x560.jpg",
+    "label": "赞赏引导图 · JPG",
+    "characters": [
+      "奶思"
+    ],
+    "caption": [
+      "小鱼干到账",
+      "奶思快乐加倍"
+    ],
+    "spec": {
+      "size": [
+        750,
+        560
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 100000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  },
+  {
+    "file": "奶思_赞赏引导图_750x560.png",
+    "label": "赞赏引导图 · PNG",
+    "characters": [
+      "奶思"
+    ],
+    "caption": [
+      "小鱼干到账",
+      "奶思快乐加倍"
+    ],
+    "spec": {
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  },
+  {
+    "file": "奶思_赞赏致谢图_750x750.jpg",
+    "label": "赞赏致谢图 · JPG",
+    "characters": [
+      "奶思"
+    ],
+    "caption": [
+      "谢谢投喂！",
+      "奶思蹭蹭你"
+    ],
+    "spec": {
+      "size": [
+        750,
+        750
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 200000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  },
+  {
+    "file": "奶思_赞赏致谢图_750x750.png",
+    "label": "赞赏致谢图 · PNG",
+    "characters": [
+      "奶思"
+    ],
+    "caption": [
+      "谢谢投喂！",
+      "奶思蹭蹭你"
+    ],
+    "spec": {
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  }
+]

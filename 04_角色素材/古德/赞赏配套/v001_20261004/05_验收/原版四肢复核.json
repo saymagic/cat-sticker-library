@@ -1,0 +1,35 @@
+{
+  "material_id": "material-3555d91a7747",
+  "status": "passed",
+  "reviewer": "Codex 在用户纠正后对原生图逐张重新目检",
+  "reviewed_at": "2026-10-04T18:41:43.960660+08:00",
+  "user_feedback": "这张图猫的腿都多了！！重新检查并修改",
+  "issues": [],
+  "per_image_and_cat": {
+    "guide": {
+      "古德": {
+        "front_paws": 2,
+        "hind_paws": 2,
+        "tails": 1,
+        "result": "passed"
+      }
+    },
+    "thanks": {
+      "古德": {
+        "front_paws": 2,
+        "hind_paws": 2,
+        "tails": 1,
+        "result": "passed"
+      }
+    }
+  },
+  "previous_visual_conclusion_withdrawn": false,
+  "asset_sha256": {
+    "古德_赞赏引导图_750x560.jpg": "8bfcfd7aed2aabbf2dd30cb2a01ba5c324052c6addfde7511862dda8d07d6ba3",
+    "古德_赞赏引导图_750x560.png": "44ee17b403d16657bfc1aaa9fdf40b51eaea428ede77dc43e40c0b3c0b289810",
+    "古德_赞赏致谢图_750x750.jpg": "f0323eeef3b143705e0acab81bde6db031cc1a648b4f14b2906ded9f5835ea52",
+    "古德_赞赏致谢图_750x750.png": "1816515290061ddee911f60c7ac32fb7414105e8db874ea6d34bda540f537c14"
+  },
+  "method": "查看独立原生图，逐猫核对抱碗或抱心前爪、落地或前伸后爪、臀部轮廓和单尾，不以技术检查代替艺术目检",
+  "production_files_modified": false
+}

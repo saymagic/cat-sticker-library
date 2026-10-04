@@ -300,6 +300,24 @@
       ]
     },
     {
+      "sha256": "4199f061eeedf5d35e1d81febf87d881c7015d36a4583678861ef270a2700b68",
+      "bytes": 15957366,
+      "name": "archive-4199f061eeedf5d35e1d81febf87d881c7015d36a4583678861ef270a2700b68.zip",
+      "tag": "materials-20261004-appreciation-paw-fix-v2",
+      "paths": [
+        "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/complete_materials.zip"
+      ]
+    },
+    {
+      "sha256": "fe91bf5b2a2dc380d56af0d54030e2120c2b19f24ee74b4490714a720149ac79",
+      "bytes": 833304,
+      "name": "archive-fe91bf5b2a2dc380d56af0d54030e2120c2b19f24ee74b4490714a720149ac79.zip",
+      "tag": "materials-20261004-appreciation-paw-fix-v2",
+      "paths": [
+        "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/submission_赞赏配套.zip"
+      ]
+    },
+    {
       "sha256": "fa7eaf777237bc6cfa88035dc52141aa723050ccdcf1076f0bd9af307ebb6dca",
       "bytes": 8430630,
       "name": "archive-fa7eaf777237bc6cfa88035dc52141aa723050ccdcf1076f0bd9af307ebb6dca.zip",
@@ -333,6 +351,24 @@
       "tag": "materials-20261004-appreciation-three-groups-v1",
       "paths": [
         "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip"
+      ]
+    },
+    {
+      "sha256": "59ce9dfa10976928f0b92932276c068c7548f670aac18a5dfec7ee3f6c5bb899",
+      "bytes": 10198308,
+      "name": "archive-59ce9dfa10976928f0b92932276c068c7548f670aac18a5dfec7ee3f6c5bb899.zip",
+      "tag": "materials-20261004-appreciation-paw-fix-v2",
+      "paths": [
+        "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/complete_materials.zip"
+      ]
+    },
+    {
+      "sha256": "d74aa7b3ebc827c2bb499cfe5a3cc30a9fab3d9ddabc41e027a9c97d76a4b4e9",
+      "bytes": 833053,
+      "name": "archive-d74aa7b3ebc827c2bb499cfe5a3cc30a9fab3d9ddabc41e027a9c97d76a4b4e9.zip",
+      "tag": "materials-20261004-appreciation-paw-fix-v2",
+      "paths": [
+        "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/submission_赞赏配套.zip"
       ]
     },
     {

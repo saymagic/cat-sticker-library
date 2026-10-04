@@ -1,0 +1,115 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际逐张图像与浏览器目检",
+  "reviewed_at": "2026-10-04T10:54:49.181229+00:00",
+  "issues": [],
+  "asset_sha256": {
+    "三猫_赞赏引导图_750x560.jpg": "fde29930edb0087fe07ae447f08ad099ff3bdbdc6dd544caf7e914e90a0a8fbd",
+    "三猫_赞赏引导图_750x560.png": "bb24d94300e1ca4bca8b724f780ee2a03cb2e01e5e630886434aadc525620a98",
+    "三猫_赞赏致谢图_750x750.jpg": "790614d9616281ca60f2cd9971385188ff4d49d95fe51fca682dcd514c96bde3",
+    "三猫_赞赏致谢图_750x750.png": "5e7a3bc2fcdc4ff27877949cd26f77aaba179569a0e6ad87b7b7a9bf69363c9e"
+  },
+  "items": {
+    "三猫_赞赏引导图_750x560.jpg": true,
+    "三猫_赞赏引导图_750x560.png": true,
+    "三猫_赞赏致谢图_750x750.jpg": true,
+    "三猫_赞赏致谢图_750x750.png": true
+  },
+  "characters": [
+    "古德",
+    "范恩",
+    "奶思"
+  ],
+  "full_size_review": "修订原画和四种750px导出文件均通过view_image逐张实际查看，未以技术检查代替目检。",
+  "background_modes": [
+    "light",
+    "dark",
+    "checker"
+  ],
+  "actual_size_px": [
+    240,
+    120
+  ],
+  "size_review_evidence": {
+    "page": "04_成品/qa_sizes.html",
+    "surface": "Chrome 本地受限QA静态目录",
+    "actual_browser_review": true,
+    "image_nodes": 24,
+    "all_images_loaded": true,
+    "observed_width_px": [
+      240,
+      120
+    ],
+    "full_page_screenshot_reviewed": true,
+    "background_note": "图片为原奶油底不透明图，三底色为周边页面底色。"
+  },
+  "anatomy_review": {
+    "guide": {
+      "古德": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      },
+      "范恩": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      },
+      "奶思": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      }
+    },
+    "thanks": {
+      "古德": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      },
+      "范恩": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      },
+      "奶思": {
+        "forepaws": 2,
+        "hindpaws": 2,
+        "total_limbs": 4,
+        "tails": 1,
+        "extra_paws": false
+      }
+    }
+  },
+  "caption_review": {
+    "guide": {
+      "lines": [
+        "投喂一份喜欢",
+        "收获三份可爱"
+      ],
+      "visually_checked": true
+    },
+    "thanks": {
+      "lines": [
+        "谢谢投喂！",
+        "三只猫一起爱你"
+      ],
+      "visually_checked": true
+    }
+  },
+  "revision_notes": "引导图额外落地小爪已消除；每只猫只有两只抱碗前爪、两只落地后爪和一条尾巴。左右臀部边缘无新增爪形凸起。",
+  "thanks_reuse": "致谢原画复制自v001，重新实际目检后保留；两种导出文件与v001逐字节相同。",
+  "user_approval": "not_recorded",
+  "wechat_submission": "not_attempted",
+  "official_rules_verified": false
+}

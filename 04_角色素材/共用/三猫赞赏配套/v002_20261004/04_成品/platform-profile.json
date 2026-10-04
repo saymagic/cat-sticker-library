@@ -1,0 +1,27 @@
+{
+  "official_rules_verified": false,
+  "checked_at": null,
+  "creation_date": "2026-10-04",
+  "dimension_basis": "用户本次指定引导750×560、致谢750×750",
+  "scope": "独立赞赏配套图；不属于8至24张表情套装",
+  "official_check_status": "本聊天此前官方规范页被安全策略拦截；未尝试绕过，当前不宣称官方规则已核实",
+  "outputs": {
+    "guide": [
+      750,
+      560
+    ],
+    "thanks": [
+      750,
+      750
+    ]
+  },
+  "format": "JPEG/PNG",
+  "opaque": true,
+  "internal_limits_not_official": {
+    "guide_jpeg": 100000,
+    "thanks_jpeg": 200000,
+    "png": 500000
+  },
+  "revision_date": "2026-10-04",
+  "revision_scope": "修正猫咪多余腿；尺寸仍按用户750x560及750x750要求，未重新核实后台规格"
+}

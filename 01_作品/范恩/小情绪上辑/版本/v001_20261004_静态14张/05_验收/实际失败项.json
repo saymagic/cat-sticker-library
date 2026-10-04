@@ -1,0 +1,12 @@
+{
+  "status": "failed_first_export",
+  "items": [
+    {
+      "number": "13",
+      "caption": "吐血",
+      "issue": "红滴透明处理后变灰，表达不准确",
+      "action": "用暖朱红色非洋红的符号化红滴重新生成本张，重做全部导出及目检",
+      "evidence": "复检前底图/主图240三底_08-14.png"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+[
+  {
+    "asset": "01",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.4128371348844781,
+    "sha256": "8d4981879f201c193a0f3d078d5a9cedd2089095d0e40f0091be9cf0d735139d",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/01.json"
+  },
+  {
+    "asset": "02",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.389271078958815,
+    "sha256": "b025a6c286a75025a488c67ebf41f58b232a6965e9c0c6bb452fda602f91ec20",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/02.json"
+  },
+  {
+    "asset": "03",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.4346512213548225,
+    "sha256": "2a3d9bce503017618c33b711f1c798b10f1ef58caa11d4973b8f080072a37cd4",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/03.json"
+  },
+  {
+    "asset": "04",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.4694451439603794,
+    "sha256": "d4e98ba738ec6573f7272734f85061115ddb98476bf7ae3288ac92e7fbd1a044",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/04.json"
+  },
+  {
+    "asset": "05",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.46930778446769383,
+    "sha256": "2cdc898e95f11e7590da5c0be6d400ff8271d572955078d089a6e5615597328e",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/05.json"
+  },
+  {
+    "asset": "06",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3658411106786831,
+    "sha256": "d68622001dc05ba97f4067317b4b97282633e3744b923c0a65e386fd18cdedb4",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/06.json"
+  },
+  {
+    "asset": "07",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.4520977846966263,
+    "sha256": "82e45b421dfabcc87243f63fd119e570454ce2811078193751773c2e1abd76df",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/07.json"
+  },
+  {
+    "asset": "08",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3708674506332527,
+    "sha256": "d0ce25e42c82facf9e17e5080ba506ae6069b3bd9e52a5a8328460d8be4341a1",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/08.json"
+  },
+  {
+    "asset": "09",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.41699480323252675,
+    "sha256": "8f543cc992e99c185d148ebd21e7f01fa75ca8d9713f98e586c56e53e0d5c1b1",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/09.json"
+  },
+  {
+    "asset": "10",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.2679546662800251,
+    "sha256": "ed25bb65d33b1b4d8988e0fa70edc499752de62a4191ee8438c39d659cd506d4",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/10.json"
+  },
+  {
+    "asset": "11",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3373956131447947,
+    "sha256": "a144b0cc750f5b72df7313be33aa182d41d82f41470af096272b8f1f09a34d34",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/11.json"
+  },
+  {
+    "asset": "12",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.38534679456361653,
+    "sha256": "1119bf92277e7ab37023b2539a2fc5353e917de70d66088dba6875d9d9bb0cda",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/12.json"
+  },
+  {
+    "asset": "13",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.478584001689013,
+    "sha256": "66308d37bb2a25be75cbef333526786e8ae02cf2b234d72a93493cc5f14ea644",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/13.json"
+  },
+  {
+    "asset": "14",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3854981443750016,
+    "sha256": "2887e56bdcc09769c00ef6f7b9fbaf6a60ac3e379962cc4578fa9d969bbb765d",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/14.json"
+  },
+  {
+    "asset": "cover",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.40140068527124684,
+    "sha256": "fba2b37792c869a9f9eb0d4879c3f640f8b2797c3b21b701601c352c45313aae",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/cover.json"
+  },
+  {
+    "asset": "chat_icon",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.5910184697643776,
+    "sha256": "b27ef6a3127c5d26e54a737c804ebaa0459482f34d67cbf1e31748daabf873fc",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/chat_icon.json"
+  },
+  {
+    "asset": "banner",
+    "pass": true,
+    "native_size": [
+      1717,
+      916
+    ],
+    "processed_size": [
+      1717,
+      916
+    ],
+    "alpha": false,
+    "corners": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "coverage": 1.0,
+    "sha256": "42699ade4def62e52b031b64a7e710e8c8af7689e66b4c3869d1556eb174b6b5",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/banner.json"
+  }
+]

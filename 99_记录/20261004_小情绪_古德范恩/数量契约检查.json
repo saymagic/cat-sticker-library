@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "case": "input_count_8",
+      "pass": true
+    },
+    {
+      "case": "input_count_14",
+      "pass": true
+    },
+    {
+      "case": "input_count_24",
+      "pass": true
+    },
+    {
+      "case": "below_min",
+      "pass": true
+    },
+    {
+      "case": "above_max",
+      "pass": true
+    },
+    {
+      "case": "count_mismatch",
+      "pass": true
+    },
+    {
+      "case": "duplicate_meaning_rejected",
+      "pass": true
+    },
+    {
+      "case": "mixed_character_rejected",
+      "pass": true
+    },
+    {
+      "case": "actual14_visual_evidence_accepted",
+      "pass": true
+    },
+    {
+      "case": "missing_visual_item_rejected",
+      "pass": true
+    },
+    {
+      "case": "actual14_export_and_zip",
+      "pass": true
+    }
+  ],
+  "scope": "input boundaries 8/14/24; actual complete export/ZIP exercised on14"
+}

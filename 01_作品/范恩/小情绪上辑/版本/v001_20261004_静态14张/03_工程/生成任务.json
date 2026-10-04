@@ -1,0 +1,98 @@
+[
+  {
+    "asset": "01",
+    "user_number": 1,
+    "caption": "坏",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/01.txt"
+  },
+  {
+    "asset": "02",
+    "user_number": 2,
+    "caption": "嘿嘿嘿",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/02.txt"
+  },
+  {
+    "asset": "03",
+    "user_number": 3,
+    "caption": "看扁我？",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/03.txt"
+  },
+  {
+    "asset": "04",
+    "user_number": 4,
+    "caption": "被看扁了",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/04.txt"
+  },
+  {
+    "asset": "05",
+    "user_number": 5,
+    "caption": "稍等",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/05.txt"
+  },
+  {
+    "asset": "06",
+    "user_number": 6,
+    "caption": "跳舞",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/06.txt"
+  },
+  {
+    "asset": "07",
+    "user_number": 7,
+    "caption": "跳",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/07.txt"
+  },
+  {
+    "asset": "08",
+    "user_number": 8,
+    "caption": "冷",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/08.txt"
+  },
+  {
+    "asset": "09",
+    "user_number": 9,
+    "caption": "发抖",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/09.txt"
+  },
+  {
+    "asset": "10",
+    "user_number": 10,
+    "caption": "热",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/10.txt"
+  },
+  {
+    "asset": "11",
+    "user_number": 11,
+    "caption": "淋雨",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/11.txt"
+  },
+  {
+    "asset": "12",
+    "user_number": 12,
+    "caption": "摸摸头",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/12.txt"
+  },
+  {
+    "asset": "13",
+    "user_number": 13,
+    "caption": "吐血",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/13.txt"
+  },
+  {
+    "asset": "14",
+    "user_number": 14,
+    "caption": "呆住",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/14.txt"
+  },
+  {
+    "asset": "cover",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/cover.txt"
+  },
+  {
+    "asset": "chat_icon",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/chat_icon.txt"
+  },
+  {
+    "asset": "banner",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/提示词/banner.txt"
+  }
+]

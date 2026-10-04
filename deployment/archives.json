@@ -60,6 +60,60 @@
       ]
     },
     {
+      "sha256": "c45909f5a2ac0eb4abf7c0d7f8f9cd84077181432d0e5b9ec17c9b9b5a566639",
+      "bytes": 89380446,
+      "name": "archive-c45909f5a2ac0eb4abf7c0d7f8f9cd84077181432d0e5b9ec17c9b9b5a566639.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/complete_delivery.zip"
+      ]
+    },
+    {
+      "sha256": "53ad97a7c3673eee9120209608821ee9fe01f0ab46c7be283d2674b339ebbbb4",
+      "bytes": 781261,
+      "name": "archive-53ad97a7c3673eee9120209608821ee9fe01f0ab46c7be283d2674b339ebbbb4.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip"
+      ]
+    },
+    {
+      "sha256": "6bb755ffd014b451d9b4cd7a7e76347bab89d05851c69c5d8af6705715b70ec5",
+      "bytes": 1424376,
+      "name": "archive-6bb755ffd014b451d9b4cd7a7e76347bab89d05851c69c5d8af6705715b70ec5.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip"
+      ]
+    },
+    {
+      "sha256": "a1c4a89d7e710ef39758b464379e467703ac3f7f9163831d4c162f749c452334",
+      "bytes": 91000653,
+      "name": "archive-a1c4a89d7e710ef39758b464379e467703ac3f7f9163831d4c162f749c452334.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/complete_delivery.zip"
+      ]
+    },
+    {
+      "sha256": "01a39188a0ffd39fe16c268f792eb16ba8ba3e798d96057963cf23a9807c6536",
+      "bytes": 785935,
+      "name": "archive-01a39188a0ffd39fe16c268f792eb16ba8ba3e798d96057963cf23a9807c6536.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip"
+      ]
+    },
+    {
+      "sha256": "736b8ac6adab18e93087d07108b06850571e14dc916d3f79661d7d61e93c6767",
+      "bytes": 1431315,
+      "name": "archive-736b8ac6adab18e93087d07108b06850571e14dc916d3f79661d7d61e93c6767.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip"
+      ]
+    },
+    {
       "sha256": "0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec",
       "bytes": 112611896,
       "name": "archive-0544c24d998766ee03976c9de0ba02b8c966a46dff7d58e9be4d5f590936b4ec.zip",
@@ -141,6 +195,60 @@
       "tag": "materials-20261004-baby-v1",
       "paths": [
         "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_PNG.zip"
+      ]
+    },
+    {
+      "sha256": "dfa42640791ce81c8186cd7d082b759cceaefab976841dcc35e9ab370010f216",
+      "bytes": 74268207,
+      "name": "archive-dfa42640791ce81c8186cd7d082b759cceaefab976841dcc35e9ab370010f216.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/complete_delivery.zip"
+      ]
+    },
+    {
+      "sha256": "95883ba5df8b255034f0bec18fd0a6a2b37db08198590944de5663b9942cbd16",
+      "bytes": 690427,
+      "name": "archive-95883ba5df8b255034f0bec18fd0a6a2b37db08198590944de5663b9942cbd16.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip"
+      ]
+    },
+    {
+      "sha256": "b67d4badf5762ed8d182f6a82ef543c9f85c72e544837413777c651cf9f72627",
+      "bytes": 1263089,
+      "name": "archive-b67d4badf5762ed8d182f6a82ef543c9f85c72e544837413777c651cf9f72627.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip"
+      ]
+    },
+    {
+      "sha256": "deab7e11987bbcbb81c999e953ccc7778d640754455d12bf164fb78040bd2b26",
+      "bytes": 76956644,
+      "name": "archive-deab7e11987bbcbb81c999e953ccc7778d640754455d12bf164fb78040bd2b26.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/complete_delivery.zip"
+      ]
+    },
+    {
+      "sha256": "06003c463ee8514125b0a5bb6c6ffbf4dcd8eae35e9b1adf37bc1e69db9202da",
+      "bytes": 694337,
+      "name": "archive-06003c463ee8514125b0a5bb6c6ffbf4dcd8eae35e9b1adf37bc1e69db9202da.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_GIF.zip"
+      ]
+    },
+    {
+      "sha256": "fd76dd61919836bbc52982764178dcd068d3d3026bd5866ebe0ad7e09a17bfcf",
+      "bytes": 1263491,
+      "name": "archive-fd76dd61919836bbc52982764178dcd068d3d3026bd5866ebe0ad7e09a17bfcf.zip",
+      "tag": "materials-20261004-moods-v1",
+      "paths": [
+        "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/04_成品/submission_PNG.zip"
       ]
     },
     {

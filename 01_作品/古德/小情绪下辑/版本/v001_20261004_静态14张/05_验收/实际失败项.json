@@ -1,0 +1,12 @@
+{
+  "status": "failed_first_export",
+  "items": [
+    {
+      "number": "10",
+      "caption": "三分冷漠",
+      "issue": "实际240px深底与120px缩略图中30%标注颜色偏暗",
+      "fix": "标注86px母版字号并加6px白描边，重新导出、全套复检",
+      "evidence": "复检前底图/主图240三底_08-14.png"
+    }
+  ]
+}

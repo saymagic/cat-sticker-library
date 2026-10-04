@@ -263,8 +263,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张",
       "reference": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
@@ -281,7 +281,18 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "acbbf0a52e5c8c53f9b6b0783fb05d0d21932f4888503ed8739b6f593b4095b6",
+        "completed_at": "2026-10-04T10:02:22.174703+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
+      }
     },
     {
       "id": "pack-73b2cce6e825",
@@ -292,8 +303,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张",
       "reference": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
@@ -310,7 +321,18 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "1f641604f9b448590ddbb228ab1cc440e0bfdc8343170d7636be373fe94b24bd",
+        "completed_at": "2026-10-04T10:23:23.367220+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
+      }
     },
     {
       "id": "pack-3801868b3050",
@@ -321,8 +343,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张",
       "reference": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
@@ -339,7 +361,18 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "ac439e115c929e0ad6ad0ba86016216410854ab3a0288ec51eff59430026a3db",
+        "completed_at": "2026-10-04T10:53:35.882772+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
+      }
     },
     {
       "id": "pack-6e2459078410",
@@ -350,8 +383,8 @@
       "count": 14,
       "sequence": 1,
       "date": "20261004",
-      "status": "制作中",
-      "current": false,
+      "status": "本地成品",
+      "current": true,
       "archived": false,
       "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张",
       "reference": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
@@ -368,8 +401,19 @@
         "state": "未投稿",
         "evidence": null
       },
-      "completion": null
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "d7676669aa0218563e67256616aa596f30ec797264a3af1b9fb4854d32d26c73",
+        "completed_at": "2026-10-04T10:57:21.943282+08:00",
+        "gate": {
+          "technical_checks": 679,
+          "visual_items": 14,
+          "assets": 46,
+          "packages": 3,
+          "profile_date": "2026-10-04"
+        }
+      }
     }
   ],
-  "updated_at": "2026-10-04T09:32:50.967521+08:00"
+  "updated_at": "2026-10-04T11:01:13.848418+08:00"
 }

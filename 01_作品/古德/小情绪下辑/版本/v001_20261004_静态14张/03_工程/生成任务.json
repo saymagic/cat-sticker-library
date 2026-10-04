@@ -1,0 +1,98 @@
+[
+  {
+    "asset": "01",
+    "user_number": 15,
+    "caption": "勃然小怒",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/01.txt"
+  },
+  {
+    "asset": "02",
+    "user_number": 16,
+    "caption": "小发雷霆",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/02.txt"
+  },
+  {
+    "asset": "03",
+    "user_number": 17,
+    "caption": "捶你",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/03.txt"
+  },
+  {
+    "asset": "04",
+    "user_number": 18,
+    "caption": "困了",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/04.txt"
+  },
+  {
+    "asset": "05",
+    "user_number": 19,
+    "caption": "哦。",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/05.txt"
+  },
+  {
+    "asset": "06",
+    "user_number": 20,
+    "caption": "OK",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/06.txt"
+  },
+  {
+    "asset": "07",
+    "user_number": 21,
+    "caption": "笑",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/07.txt"
+  },
+  {
+    "asset": "08",
+    "user_number": 22,
+    "caption": "kiss",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/08.txt"
+  },
+  {
+    "asset": "09",
+    "user_number": 23,
+    "caption": "撅嘴",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/09.txt"
+  },
+  {
+    "asset": "10",
+    "user_number": 24,
+    "caption": "三分冷漠",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/10.txt"
+  },
+  {
+    "asset": "11",
+    "user_number": 25,
+    "caption": "炸弹",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/11.txt"
+  },
+  {
+    "asset": "12",
+    "user_number": 26,
+    "caption": "心虚",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/12.txt"
+  },
+  {
+    "asset": "13",
+    "user_number": 27,
+    "caption": "流汗",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/13.txt"
+  },
+  {
+    "asset": "14",
+    "user_number": 28,
+    "caption": "咪",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/14.txt"
+  },
+  {
+    "asset": "cover",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/cover.txt"
+  },
+  {
+    "asset": "chat_icon",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/chat_icon.txt"
+  },
+  {
+    "asset": "banner",
+    "prompt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/提示词/banner.txt"
+  }
+]

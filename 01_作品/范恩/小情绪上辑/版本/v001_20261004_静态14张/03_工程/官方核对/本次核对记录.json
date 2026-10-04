@@ -1,0 +1,18 @@
+{
+  "checked_date": "2026-10-04",
+  "access_channel": "independent official public documentation CDN; HTTP 200",
+  "official_document_url": "https://res.wxqcloud.qq.com.cn/t/wx_fed/base/sticker_platform/26052800/static/js/pages/guide/index.f84d77217115a9c8a0ed.js?1ba308c511fe82c68e48",
+  "bytes": 792674,
+  "sha256": "9d16725d109eb65349369ceeda6212015d70af4f8121c34be92396bfe754cd78",
+  "verified_fields": [
+    "static240",
+    "count8-24",
+    "cover240_no_white_contour",
+    "chat_icon50_no_white_contour",
+    "banner750x400_color_no_text"
+  ],
+  "logged_in_upload_page_verified": false,
+  "guide_browser_page": "blocked_by_browser_security_policy",
+  "text_derivation": "当前下载的官方脚本SHA256与原始可见文本来源脚本相同；本次实际复读相关字段，未仅修改旧快照日期",
+  "export_count": 14
+}

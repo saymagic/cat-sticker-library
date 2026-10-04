@@ -8,8 +8,8 @@
   "count": 14,
   "sequence": 1,
   "date": "20261004",
-  "status": "制作中",
-  "current": false,
+  "status": "本地成品",
+  "current": true,
   "archived": false,
   "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张",
   "reference": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
@@ -26,5 +26,16 @@
     "state": "未投稿",
     "evidence": null
   },
-  "completion": null
+  "completion": {
+    "seal": "05_验收/完成锁定.json",
+    "sha256": "ac439e115c929e0ad6ad0ba86016216410854ab3a0288ec51eff59430026a3db",
+    "completed_at": "2026-10-04T10:53:35.882772+08:00",
+    "gate": {
+      "technical_checks": 679,
+      "visual_items": 14,
+      "assets": 46,
+      "packages": 3,
+      "profile_date": "2026-10-04"
+    }
+  }
 }

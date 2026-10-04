@@ -8,8 +8,8 @@
   "count": 14,
   "sequence": 1,
   "date": "20261004",
-  "status": "制作中",
-  "current": false,
+  "status": "本地成品",
+  "current": true,
   "archived": false,
   "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张",
   "reference": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
@@ -26,5 +26,16 @@
     "state": "未投稿",
     "evidence": null
   },
-  "completion": null
+  "completion": {
+    "seal": "05_验收/完成锁定.json",
+    "sha256": "1f641604f9b448590ddbb228ab1cc440e0bfdc8343170d7636be373fe94b24bd",
+    "completed_at": "2026-10-04T10:23:23.367220+08:00",
+    "gate": {
+      "technical_checks": 679,
+      "visual_items": 14,
+      "assets": 46,
+      "packages": 3,
+      "profile_date": "2026-10-04"
+    }
+  }
 }

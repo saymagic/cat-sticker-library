@@ -1,0 +1,376 @@
+[
+  {
+    "asset": "01",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.34439140841810195,
+    "sha256": "e00f2259be9589adb86e69a3b86f3f37b4ae281b962f5ce07b32546c64d72880",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/01.json"
+  },
+  {
+    "asset": "02",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.36673140368683055,
+    "sha256": "bb50b5a68ce9af0ff780910ab0e72665c6f3a16822ab45a92c21e282202fe6c1",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/02.json"
+  },
+  {
+    "asset": "03",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.46392341953913346,
+    "sha256": "ef6ebea804b69c6ff347590c93548553e9072ef426065aec6af0a1296705fbbc",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/03.json"
+  },
+  {
+    "asset": "04",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.44678591505587223,
+    "sha256": "f6c40508df50cd40b86a5eb8279482551e879242bf421bb60017b1796206d248",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/04.json"
+  },
+  {
+    "asset": "05",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3816533504269591,
+    "sha256": "451242946e4771cd5220086ce7fa0eb4b4a5dab6c87b2c4774f730bf238453f0",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/05.json"
+  },
+  {
+    "asset": "06",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.41485937186012734,
+    "sha256": "2351c51bb3b57df4f8533041c70ef649f599f21b5762c3ba9f0716edd82fdc14",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/06.json"
+  },
+  {
+    "asset": "07",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.4341482058052192,
+    "sha256": "56bbfaec05706091f3f640b2d743fc5784d9d0eccffd1153a0d4f6be4d21b12c",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/07.json"
+  },
+  {
+    "asset": "08",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.40257396427126974,
+    "sha256": "5341a60f0bb7634b75ed559c41c4680b951c0bff858dd973f263023f3b9047d3",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/08.json"
+  },
+  {
+    "asset": "09",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3798460556204198,
+    "sha256": "127eaf1d968a51744a9707e331f71e5eaa3dcf5b669ed688ae4bb9d4b2f01562",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/09.json"
+  },
+  {
+    "asset": "10",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3041368100547149,
+    "sha256": "e15f7f339ed85522110361b34989ac2e72bf61b4de7ecdfc26d5729a59cd373a",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/10.json"
+  },
+  {
+    "asset": "11",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3484721300133035,
+    "sha256": "107f7fce905059a8af75b5f715a81b643427aebcde3ffe45b5ed64c5a7065cdd",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/11.json"
+  },
+  {
+    "asset": "12",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.3555811196833609,
+    "sha256": "fca951b3e00ee67d064b52b25cc758fe0843e14393e64af875a71bbd60e294ea",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/12.json"
+  },
+  {
+    "asset": "13",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.4330442424751163,
+    "sha256": "fc2767a6f7c817d041664e5b4cba15a1464b877ffc09a736e5e8f37d5c34af59",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/13.json"
+  },
+  {
+    "asset": "14",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.45553240793734373,
+    "sha256": "6ec08fff010217d2710d4ee0c4322e73f5e8e97bd80a4c53c830a9922581e825",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/14.json"
+  },
+  {
+    "asset": "cover",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.34730711801978487,
+    "sha256": "02f51598720c6040ef9242de60db8b3eb3fcf53d11f6888f148b0e30ea0046f2",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/cover.json"
+  },
+  {
+    "asset": "chat_icon",
+    "pass": true,
+    "native_size": [
+      1254,
+      1254
+    ],
+    "processed_size": [
+      1254,
+      1254
+    ],
+    "alpha": true,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "coverage": 0.5578353415799903,
+    "sha256": "5a0ed92695cf5f72f33fab079ba30ccdfb0a64d65f48fa0698a053d98e8ca751",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/chat_icon.json"
+  },
+  {
+    "asset": "banner",
+    "pass": true,
+    "native_size": [
+      1717,
+      916
+    ],
+    "processed_size": [
+      1717,
+      916
+    ],
+    "alpha": false,
+    "corners": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "coverage": 1.0,
+    "sha256": "f51c1fbcaff676b746ba12a71dc0f812a3d88ec8bacd874822e4dbcea397c703",
+    "tool_receipt": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/生成记录/banner.json"
+  }
+]

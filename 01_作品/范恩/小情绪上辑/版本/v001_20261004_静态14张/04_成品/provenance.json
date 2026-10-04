@@ -1,0 +1,263 @@
+{
+  "sources": [
+    {
+      "number": "01",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/01.png",
+      "source_sha256": "938cd417ae03f8b5cae093af6fa3c96367e15b303d6b3bab605364c1594ff3ba",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "02",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/02.png",
+      "source_sha256": "ff56275bf291e3dc32bbdc4456ce008a52011572a5e268171d26ac30fc808d20",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "03",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/03.png",
+      "source_sha256": "f04694c8e6b54dc05d020bf404d718c24e31025fc47854cf7336cebe7d7c7642",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "04",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/04.png",
+      "source_sha256": "ae58335cf6c5b02e418fcb9ef6b48054f062eca7a3d67277512dbdab46f37b99",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "05",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/05.png",
+      "source_sha256": "52f844223925ce9793c0ca6dbc70d35bf72892458104c1bb7fb368d8770a78c8",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "06",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/06.png",
+      "source_sha256": "9cb0221240f3428aaeac6b5761d98d14fbdcfc70a312841ca520a4e5ad259aed",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "07",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/07.png",
+      "source_sha256": "575e832026fe375d0e83f1257796ec0add9c7c19b13511f156ccc7478e041ada",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "08",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/08.png",
+      "source_sha256": "2347dd4634b1c00ce795871636373aa02a6f474e8d2b40ec7186cbbd692192da",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "09",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/09.png",
+      "source_sha256": "27ba2550a25be6b8160432c67eb484a77707c11a7d6ff3d846d9432ff15ceded",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "10",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/10.png",
+      "source_sha256": "660359bed0b1ae4e1e7d53d9c9eb337ddc16f85a3438717d755a1828a58af0c3",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "11",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/11.png",
+      "source_sha256": "52279c4299d0821c334c84b0b376ae57b41c2b21861db3cc652766bda1892a40",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "12",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/12.png",
+      "source_sha256": "d2cc2797003df7ac4da0655adcfae0528df3c9db99928333db148d1f56818aec",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "13",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/13.png",
+      "source_sha256": "688f79103283c3a79cc43ac9386e67e2a2d63afd27e951f3a8fabdc513904bc4",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "number": "14",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/14.png",
+      "source_sha256": "c61bf9472f52bba7e17dc0857a0d17d1d77e564d1c41ae78b4add05217f1629a",
+      "native_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "extra": "cover",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/cover.png",
+      "source_sha256": "f004bbe840d4b4bbc49a1d9aa359da825e3c2967bd4b50841567c0917ac9b287"
+    },
+    {
+      "extra": "chat_icon",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/chat_icon.png",
+      "source_sha256": "574ac33fdaaf6e6b3e17709d143b3ee6203dbe2e97e6e8f961a7c8eb793cd276"
+    },
+    {
+      "extra": "banner",
+      "source": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/02_原画/banner.png",
+      "source_sha256": "9c3b965ddc0d9c39659df7ca3d94cc1c4d2f1063a95f48ccb703efc63d891ea0"
+    }
+  ],
+  "font": "/Users/saymagic/workspace/表情包/01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/03_工程/字体/ZCOOLKuaiLe-Regular.ttf",
+  "font_sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+  "font_index": 0,
+  "typography": [
+    {
+      "mode": "colorful",
+      "fill": "#AE98D4",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#F2C454",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#E58070",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#81A9DC",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#75BCB7",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#EA92AD",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#A6C867",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#81A9DC",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#AE98D4",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#EEA160",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#81A9DC",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#EA92AD",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#E58070",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    },
+    {
+      "mode": "colorful",
+      "fill": "#75BCB7",
+      "stroke": "#433535",
+      "fill_expand": 2,
+      "stroke_radius": 6,
+      "white_radius": 10
+    }
+  ],
+  "gif": "single-frame static"
+}

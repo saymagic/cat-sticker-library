@@ -1,0 +1,211 @@
+{
+  "title": "古德小情绪上",
+  "description": "古德的小情绪上辑，按原顺序收录第1至14条文案，用棕虎斑猫回应坏笑、撒娇与天气。",
+  "characters": [
+    "古德"
+  ],
+  "count": 14,
+  "user_sequence_range": [
+    1,
+    14
+  ],
+  "items": [
+    {
+      "number": "01",
+      "user_number": 1,
+      "caption": "坏",
+      "meaning": "调皮",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "pose": "Seated three-quarter view, cheeky asymmetric closed-mouth grin, one front paw resting at cheek as if plotting a little prank, other forepaw planted; one tail curling sideways.",
+      "art": "sources/01.png",
+      "pie_chart": false
+    },
+    {
+      "number": "02",
+      "user_number": 2,
+      "caption": "嘿嘿嘿",
+      "meaning": "坏笑",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#F2C454",
+      "pose": "Seated facing front, both front paws clasped together below muzzle, shoulders hunched with a cheeky broad toothless grin, eyes narrowed happily, tiny golden chuckle motion ticks; hind paws visible, one tail.",
+      "art": "sources/02.png",
+      "pie_chart": false
+    },
+    {
+      "number": "03",
+      "user_number": 3,
+      "caption": "看扁我？",
+      "meaning": "不服",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#E58070",
+      "pose": "Standing proudly on two hind paws, chest puffed, chin raised, one forepaw on hip and other forepaw pointing to own chest, determined indignant green eyes, tiny upward energy ticks; entire body and one tail.",
+      "art": "sources/03.png",
+      "pie_chart": false
+    },
+    {
+      "number": "04",
+      "user_number": 4,
+      "caption": "被看扁了",
+      "meaning": "委屈",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "pose": "Comically squashed flat as a harmless soft pancake kitten lying low, ears gently folded sideways, sad wide eyes, tiny cheek tear, forepaws extended and hind paws plausibly tucked behind, one tail lying flat. No injury, no person.",
+      "art": "sources/04.png",
+      "pie_chart": false
+    },
+    {
+      "number": "05",
+      "user_number": 5,
+      "caption": "稍等",
+      "meaning": "等待",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#75BCB7",
+      "pose": "Sitting upright, one forepaw lifted with its soft paw pad toward viewer as a polite wait gesture, other forepaw beside a small blue sand hourglass, patient expression, hind paws and one tail.",
+      "art": "sources/05.png",
+      "pie_chart": false
+    },
+    {
+      "number": "06",
+      "user_number": 6,
+      "caption": "跳舞",
+      "meaning": "起舞",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "pose": "Joyful dancing on one hind paw, other hind paw bent lifted, both forepaws raised at different heights, head tilted, open happy mouth, tiny ochre and cyan rhythm confetti and motion curves; one tail.",
+      "art": "sources/06.png",
+      "pie_chart": false
+    },
+    {
+      "number": "07",
+      "user_number": 7,
+      "caption": "跳",
+      "meaning": "跳跃",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#A6C867",
+      "pose": "An athletic kitten springing upward, all four paws clear and off the ground with forepaws reaching upward and hind legs stretched back, joyful alert expression, small upward motion strokes, one tail arcing below. No floor shadow.",
+      "art": "sources/07.png",
+      "pie_chart": false
+    },
+    {
+      "number": "08",
+      "user_number": 8,
+      "caption": "冷",
+      "meaning": "怕冷",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "pose": "Sitting compactly wrapped in a pale blue knitted scarf with both forepaws holding scarf against chest, ears low, chilly worried expression, two simple icy blue snowflakes beside it; hind paws and one curled tail visible.",
+      "art": "sources/08.png",
+      "pie_chart": false
+    },
+    {
+      "number": "09",
+      "user_number": 9,
+      "caption": "发抖",
+      "meaning": "颤抖",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "pose": "Entire kitten visibly trembling in a small crouch, forepaws pressed close, hind paws tucked, wide anxious eyes and slightly quivering mouth, several short cyan zigzag tremble marks around body, one tail tight beside body. No scarf; distinct from cold pose.",
+      "art": "sources/09.png",
+      "pie_chart": false
+    },
+    {
+      "number": "10",
+      "user_number": 10,
+      "caption": "热",
+      "meaning": "怕热",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EEA160",
+      "pose": "Sitting slumped with hind paws stretched out, tongue slightly out, one forepaw slowly holding a cream paper fan and the other forepaw on belly, tiny orange warm air curls and a sweat drop, one tail relaxed sideways.",
+      "art": "sources/10.png",
+      "pie_chart": false
+    },
+    {
+      "number": "11",
+      "user_number": 11,
+      "caption": "淋雨",
+      "meaning": "落汤猫",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "pose": "A wet kitten huddling sadly, fur clumped but character identity preserved, ears down, front paws close, hind paws tucked, one drooping tail; a small blue rain cloud above and several clearly separated opaque blue rain drops. No broad background or floor.",
+      "art": "sources/11.png",
+      "pie_chart": false
+    },
+    {
+      "number": "12",
+      "user_number": 12,
+      "caption": "摸摸头",
+      "meaning": "安慰",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "pose": "Sweet kitten softly patting its own head with one clearly feline front paw, other forepaw planted, eyes happily closed and tiny blush, sitting with both hind paws plausible, one curved tail, two small coral hearts. No human hand and no second animal.",
+      "art": "sources/12.png",
+      "pie_chart": false
+    },
+    {
+      "number": "13",
+      "user_number": 13,
+      "caption": "吐血",
+      "meaning": "扎心",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#E58070",
+      "pose": "A melodramatic shocked kitten slumped backward sitting, one forepaw pressed to chest and the other supporting its body, one tiny stylized coral-red drop from corner of mouth and a red zigzag comic reaction symbol. Harmless cartoon reaction, no wounds, no gore, no realistic blood pool; one tail.",
+      "art": "sources/13.png",
+      "pie_chart": false
+    },
+    {
+      "number": "14",
+      "user_number": 14,
+      "caption": "呆住",
+      "meaning": "愣住",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#75BCB7",
+      "pose": "Sitting bolt upright completely frozen, perfectly wide round eyes, small open mouth, both front paws straight and parallel, hind paws tucked, ears perked, tail stiff sideways, two small yellow surprise dashes. No text.",
+      "art": "sources/14.png",
+      "pie_chart": false
+    }
+  ],
+  "extras": {
+    "cover": "sources/cover.png",
+    "chat_icon": "sources/chat_icon.png",
+    "banner": "sources/banner.png"
+  },
+  "style": {
+    "font": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/03_工程/字体/ZCOOLKuaiLe-Regular.ttf",
+    "text_style": "colorful",
+    "text_stroke_color": "#433535",
+    "text_stroke_radius": 6,
+    "text_fill_expand": 2,
+    "outline_radius": 12,
+    "text_outline_radius": 10,
+    "caption_position": "top"
+  }
+}

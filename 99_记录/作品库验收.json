@@ -46,27 +46,31 @@
     },
     {
       "id": "pack-f553ea391eed",
-      "state": "未完成",
+      "state": "有效",
       "issues": [],
-      "checked": 0
+      "checked": 289,
+      "mode": "完整哈希与ZIP"
     },
     {
       "id": "pack-73b2cce6e825",
-      "state": "未完成",
+      "state": "有效",
       "issues": [],
-      "checked": 0
+      "checked": 480,
+      "mode": "完整哈希与ZIP"
     },
     {
       "id": "pack-3801868b3050",
-      "state": "未完成",
+      "state": "有效",
       "issues": [],
-      "checked": 0
+      "checked": 484,
+      "mode": "完整哈希与ZIP"
     },
     {
       "id": "pack-6e2459078410",
-      "state": "未完成",
+      "state": "有效",
       "issues": [],
-      "checked": 0
+      "checked": 290,
+      "mode": "完整哈希与ZIP"
     }
   ],
   "mode": "完整哈希与ZIP"

@@ -1,0 +1,211 @@
+{
+  "title": "古德小情绪下",
+  "description": "古德的小情绪下辑，按原顺序收录第15至28条文案，从小脾气到咪咪卖萌，陪你轻松聊天。",
+  "characters": [
+    "古德"
+  ],
+  "count": 14,
+  "user_sequence_range": [
+    15,
+    28
+  ],
+  "items": [
+    {
+      "number": "01",
+      "user_number": 15,
+      "caption": "勃然小怒",
+      "meaning": "微怒",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#E58070",
+      "pose": "Kitten sulking mildly with cheeks slightly puffed and brows knit, seated with both front paws folded together at chest, one tiny coral comic anger tick near ear, hind paws and one tail. Small restrained anger, cute rather than scary.",
+      "art": "../02_原画/01.png",
+      "pie_chart": false
+    },
+    {
+      "number": "02",
+      "user_number": 16,
+      "caption": "小发雷霆",
+      "meaning": "发怒",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EEA160",
+      "pose": "Comically furious but cute kitten standing upright on hind paws, mouth open in a tiny shout, both forepaws lifted in small clenched mitten paws, one tail standing curved, several orange lightning bolt doodles and motion ticks. Stronger energy than mild sulking, no weapons, no fire background.",
+      "art": "../02_原画/02.png",
+      "pie_chart": false
+    },
+    {
+      "number": "03",
+      "user_number": 17,
+      "caption": "捶你",
+      "meaning": "轻捶",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#E58070",
+      "pose": "A playful kitten leaning forward in three-quarter view, one front paw reaching toward viewer as a soft mitten-paw boop/punch and other forepaw braced, mischievous focused face, hind paws grounded, one tail curved behind, small yellow impact star near paw. No human fist, no second character, no injury.",
+      "art": "../02_原画/03.png",
+      "pie_chart": false
+    },
+    {
+      "number": "04",
+      "user_number": 18,
+      "caption": "困了",
+      "meaning": "困倦",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "pose": "Kitten yawning widely with half-closed sleepy eyes, sitting and leaning head into one forepaw while other forepaw holds a tiny lavender pillow; hind paws and one curled tail. No letter Z, no text.",
+      "art": "../02_原画/04.png",
+      "pie_chart": false
+    },
+    {
+      "number": "05",
+      "user_number": 19,
+      "caption": "哦。",
+      "meaning": "平淡",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "pose": "Deadpan sitting kitten with half-lidded eyes and a tiny straight relaxed mouth, both front paws evenly planted, hind paws tucked, one tail quietly curling beside it. Minimal props, understated unimpressed emotion.",
+      "art": "../02_原画/05.png",
+      "pie_chart": false
+    },
+    {
+      "number": "06",
+      "user_number": 20,
+      "caption": "OK",
+      "meaning": "答应",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#A6C867",
+      "pose": "Bright friendly kitten nodding and raising one feline forepaw with pink paw pad visible in acknowledgement, other forepaw planted, joyful eyes, small golden checkmark shape beside it, hind paws and one tail. No human fingers, no letters; OK will be typeset later.",
+      "art": "../02_原画/06.png",
+      "pie_chart": false
+    },
+    {
+      "number": "07",
+      "user_number": 21,
+      "caption": "笑",
+      "meaning": "开心",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#F2C454",
+      "pose": "Kitten laughing heartily, eyes closed in crescent smiles, mouth open joyfully, sitting slightly leaning back, one forepaw pressed to belly and the other waving, hind paws relaxed, one tail; small golden laughing motion rays.",
+      "art": "../02_原画/07.png",
+      "pie_chart": false
+    },
+    {
+      "number": "08",
+      "user_number": 22,
+      "caption": "kiss",
+      "meaning": "亲亲",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "pose": "Kitten blowing a sweet kiss, eyes softly closed, puckered small mouth, one forepaw at lips and other forepaw resting, three small coral hearts drifting outward, sitting with hind paws and one curled tail. No letters; kiss will be typeset later.",
+      "art": "../02_原画/08.png",
+      "pie_chart": false
+    },
+    {
+      "number": "09",
+      "user_number": 23,
+      "caption": "撅嘴",
+      "meaning": "嘟嘴",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "pose": "Kitten turning head slightly sideways with a clearly pouty puckered mouth, cheeks puffed, both forepaws crossed in front of chest, raised brows and small pink blush, hind paws and one tail, no hearts. Different from kiss pose.",
+      "art": "../02_原画/09.png",
+      "pie_chart": false
+    },
+    {
+      "number": "10",
+      "user_number": 24,
+      "caption": "三分冷漠",
+      "meaning": "冷漠",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#81A9DC",
+      "pose": "Cool detached kitten seated on LEFT half of canvas, head turned slightly away with half-lidded eyes, front paws together and one tail on left, RIGHT half kept entirely empty for an exact 30 percent pie chart added as a native diagram during export. No chart drawn in source, no text.",
+      "art": "../02_原画/10.png",
+      "pie_chart": true
+    },
+    {
+      "number": "11",
+      "user_number": 25,
+      "caption": "炸弹",
+      "meaning": "炸弹",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#AE98D4",
+      "pose": "Alarmed kitten holding one harmless toy round charcoal cartoon bomb with a tiny golden fuse spark, front paws supporting bomb carefully, eyes wide, seated with hind paws, one tail. Cute symbolic sticker, no explosion, no weapon instructions.",
+      "art": "../02_原画/11.png",
+      "pie_chart": false
+    },
+    {
+      "number": "12",
+      "user_number": 26,
+      "caption": "心虚",
+      "meaning": "心虚",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EEA160",
+      "pose": "Guilty sheepish kitten glancing sideways, one forepaw hiding behind back and other forepaw touching cheek, ears low, a tiny blue sweat drop on forehead, awkward tight mouth, hind paws and one tail.",
+      "art": "../02_原画/12.png",
+      "pie_chart": false
+    },
+    {
+      "number": "13",
+      "user_number": 27,
+      "caption": "流汗",
+      "meaning": "尴尬",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#75BCB7",
+      "pose": "Embarrassed kitten seated facing viewer, large opaque blue sweat drops by forehead and cheek, one forepaw wiping brow and other supporting body, nervous small smile, hind paws and one curled tail. Distinct from guilty sideways glance.",
+      "art": "../02_原画/13.png",
+      "pie_chart": false
+    },
+    {
+      "number": "14",
+      "user_number": 28,
+      "caption": "咪",
+      "meaning": "卖萌",
+      "characters": [
+        "古德"
+      ],
+      "text_color": "#EA92AD",
+      "pose": "Ultra sweet kitten curling both forepaws close to cheeks, head tilted, very bright wide eyes and small smiling mouth, soft pink cheek blush, sitting with both hind paws visible and one fluffy or striped tail curled, two small coral hearts. No text.",
+      "art": "../02_原画/14.png",
+      "pie_chart": false
+    }
+  ],
+  "extras": {
+    "cover": "../02_原画/cover.png",
+    "chat_icon": "../02_原画/chat_icon.png",
+    "banner": "../02_原画/banner.png"
+  },
+  "style": {
+    "font": "/Users/saymagic/workspace/表情包/01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/03_工程/字体/ZCOOLKuaiLe-Regular.ttf",
+    "text_style": "colorful",
+    "text_stroke_color": "#433535",
+    "text_stroke_radius": 6,
+    "text_fill_expand": 2,
+    "outline_radius": 12,
+    "text_outline_radius": 10,
+    "caption_position": "top"
+  }
+}

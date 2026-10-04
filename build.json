@@ -3,13 +3,13 @@
   "versions": 10,
   "stickers": 200,
   "files": 367,
-  "bytes": 55422105,
+  "bytes": 55404359,
   "release_downloads": 10,
   "site_downloads": 20,
   "local_links_checked": 366,
   "output": "/home/runner/work/cat-sticker-library/cat-sticker-library/_site",
-  "source_commit": "9a918fe66fb81f42dd2966581252ce638268fe37",
-  "built_at": "2026-10-04T18:13:12.377622+08:00",
+  "source_commit": "6c0b70faae307c9610b379312804e59412a748cc",
+  "built_at": "2026-10-04T19:10:33.972650+08:00",
   "public_url": "https://stickers.saymagic.cn/",
-  "workflow_run": "https://github.com/saymagic/cat-sticker-library/actions/runs/37194506219"
+  "workflow_run": "https://github.com/saymagic/cat-sticker-library/actions/runs/37197713555"
 }

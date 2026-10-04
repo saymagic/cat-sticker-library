@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T18:13:12.268900+08:00",
+  "updated_at": "2026-10-04T19:10:33.864473+08:00",
   "characters": [
     "奶思",
     "古德",
@@ -2407,36 +2407,36 @@
       ]
     },
     {
-      "id": "material-0ecb849147cb",
+      "id": "material-3998f9e4f3eb",
       "character": "奶思",
       "title": "奶思赞赏配套",
-      "path": "04_角色素材/奶思/赞赏配套/v001_20261004",
-      "preview": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/preview.html",
-      "copy": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/赞赏引导语.html",
+      "path": "04_角色素材/奶思/赞赏配套/v002_20261004",
+      "preview": "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/preview.html",
+      "copy": "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/赞赏引导语.html",
       "assets": [
         {
           "label": "赞赏引导图 · JPG",
-          "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏引导图_750x560.jpg",
+          "path": "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/奶思_赞赏引导图_750x560.jpg",
           "size": [
             750,
             560
           ],
-          "bytes": 99002,
-          "sha256": "c7eaecdecf2cdf73d785ba9f0ca56638030fa6650295affa131e6a8e7d7a3cc1"
+          "bytes": 98797,
+          "sha256": "4872c1b68a09e755d52caa3ca22bccded20d6faf21cc8cac43dde5732639cc6d"
         },
         {
           "label": "赞赏引导图 · PNG",
-          "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏引导图_750x560.png",
+          "path": "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/奶思_赞赏引导图_750x560.png",
           "size": [
             750,
             560
           ],
-          "bytes": 254503,
-          "sha256": "3bc62e0c9447f78bb46681929530a08c1c0634aaef0e1fa732ddbcacc79a7e1c"
+          "bytes": 253072,
+          "sha256": "f26efd27ac5e5cc0751ec589030127981bfd4efaf28681335f7b8dd16b928d67"
         },
         {
           "label": "赞赏致谢图 · JPG",
-          "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏致谢图_750x750.jpg",
+          "path": "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/奶思_赞赏致谢图_750x750.jpg",
           "size": [
             750,
             750
@@ -2446,7 +2446,7 @@
         },
         {
           "label": "赞赏致谢图 · PNG",
-          "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏致谢图_750x750.png",
+          "path": "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/奶思_赞赏致谢图_750x750.png",
           "size": [
             750,
             750
@@ -2458,49 +2458,50 @@
       "packages": [
         {
           "label": "两图与引导语",
-          "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip",
-          "bytes": 834691,
-          "sha256": "f39466294abcb9caed8764fac84c080a05217cf4d9f21523a2607dda91c081ee"
+          "path": "04_角色素材/奶思/赞赏配套/v002_20261004/04_成品/submission_赞赏配套.zip",
+          "bytes": 833053,
+          "sha256": "d74aa7b3ebc827c2bb499cfe5a3cc30a9fab3d9ddabc41e027a9c97d76a4b4e9"
         },
         {
           "label": "完整制作备份",
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-appreciation-three-groups-v1/archive-8243f4664e98f8b60c44db6fa9bc0dd257b61fab9e9e5e167e51cd4b9c7fb15c.zip",
-          "bytes": 8441764,
-          "sha256": "8243f4664e98f8b60c44db6fa9bc0dd257b61fab9e9e5e167e51cd4b9c7fb15c"
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-appreciation-paw-fix-v2/archive-59ce9dfa10976928f0b92932276c068c7548f670aac18a5dfec7ee3f6c5bb899.zip",
+          "bytes": 10198308,
+          "sha256": "59ce9dfa10976928f0b92932276c068c7548f670aac18a5dfec7ee3f6c5bb899"
         }
-      ]
+      ],
+      "supersedes": "material-0ecb849147cb"
     },
     {
-      "id": "material-5a3f9eb303cc",
+      "id": "material-7861a01c25da",
       "character": "古德、范恩、奶思",
       "title": "三猫赞赏配套",
-      "path": "04_角色素材/共用/三猫赞赏配套/v001_20261004",
-      "preview": "04_角色素材/共用/三猫赞赏配套/v001_20261004/04_成品/preview.html",
-      "copy": "04_角色素材/共用/三猫赞赏配套/v001_20261004/04_成品/赞赏引导语.html",
+      "path": "04_角色素材/共用/三猫赞赏配套/v002_20261004",
+      "preview": "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/preview.html",
+      "copy": "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/赞赏引导语.html",
       "assets": [
         {
           "label": "赞赏引导图 · JPG",
-          "path": "04_角色素材/共用/三猫赞赏配套/v001_20261004/04_成品/三猫_赞赏引导图_750x560.jpg",
+          "path": "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/三猫_赞赏引导图_750x560.jpg",
           "size": [
             750,
             560
           ],
-          "bytes": 96425,
-          "sha256": "a4ef33052fa46c69b364e52ea7facf8db97dbbc607165d996a7bfdbc41c460f3"
+          "bytes": 95074,
+          "sha256": "fde29930edb0087fe07ae447f08ad099ff3bdbdc6dd544caf7e914e90a0a8fbd"
         },
         {
           "label": "赞赏引导图 · PNG",
-          "path": "04_角色素材/共用/三猫赞赏配套/v001_20261004/04_成品/三猫_赞赏引导图_750x560.png",
+          "path": "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/三猫_赞赏引导图_750x560.png",
           "size": [
             750,
             560
           ],
-          "bytes": 234652,
-          "sha256": "4ab00fde0e45661e81ae42f4ffe033ef047e0d2642fa8b79ba235307550768fe"
+          "bytes": 228488,
+          "sha256": "bb24d94300e1ca4bca8b724f780ee2a03cb2e01e5e630886434aadc525620a98"
         },
         {
           "label": "赞赏致谢图 · JPG",
-          "path": "04_角色素材/共用/三猫赞赏配套/v001_20261004/04_成品/三猫_赞赏致谢图_750x750.jpg",
+          "path": "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/三猫_赞赏致谢图_750x750.jpg",
           "size": [
             750,
             750
@@ -2510,7 +2511,7 @@
         },
         {
           "label": "赞赏致谢图 · PNG",
-          "path": "04_角色素材/共用/三猫赞赏配套/v001_20261004/04_成品/三猫_赞赏致谢图_750x750.png",
+          "path": "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/三猫_赞赏致谢图_750x750.png",
           "size": [
             750,
             750
@@ -2522,22 +2523,23 @@
       "packages": [
         {
           "label": "两图与引导语",
-          "path": "04_角色素材/共用/三猫赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip",
-          "bytes": 840632,
-          "sha256": "88fc047a6f5e9e0de2435bf11c1c59665b8e4464e79177e39ea2ae2a287c1970"
+          "path": "04_角色素材/共用/三猫赞赏配套/v002_20261004/04_成品/submission_赞赏配套.zip",
+          "bytes": 833304,
+          "sha256": "fe91bf5b2a2dc380d56af0d54030e2120c2b19f24ee74b4490714a720149ac79"
         },
         {
           "label": "完整制作备份",
-          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-appreciation-three-groups-v1/archive-a116b1335e95c42eb6a4b9c6e00bab7157ef8ed0ef9d89d2fccac4084d4489cf.zip",
-          "bytes": 13908450,
-          "sha256": "a116b1335e95c42eb6a4b9c6e00bab7157ef8ed0ef9d89d2fccac4084d4489cf"
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-appreciation-paw-fix-v2/archive-4199f061eeedf5d35e1d81febf87d881c7015d36a4583678861ef270a2700b68.zip",
+          "bytes": 15957366,
+          "sha256": "4199f061eeedf5d35e1d81febf87d881c7015d36a4583678861ef270a2700b68"
         }
       ],
       "characters": [
         "古德",
         "范恩",
         "奶思"
-      ]
+      ],
+      "supersedes": "material-5a3f9eb303cc"
     }
   ]
 }

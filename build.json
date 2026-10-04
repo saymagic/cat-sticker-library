@@ -1,15 +1,15 @@
 {
   "status": "PASS",
-  "versions": 3,
-  "stickers": 72,
-  "files": 120,
-  "bytes": 18358439,
-  "release_downloads": 3,
-  "site_downloads": 6,
-  "local_links_checked": 121,
+  "versions": 10,
+  "stickers": 200,
+  "files": 239,
+  "bytes": 44316623,
+  "release_downloads": 6,
+  "site_downloads": 12,
+  "local_links_checked": 234,
   "output": "/home/runner/work/cat-sticker-library/cat-sticker-library/_site",
-  "source_commit": "55ad5ba8077efd4429f099147a370faf910d4e26",
-  "built_at": "2026-10-03T16:07:13.519292+08:00",
+  "source_commit": "6fcd90e1bbe19f8e9139cf6fa6c67b32bf2d7b7b",
+  "built_at": "2026-10-04T10:06:49.402084+08:00",
   "public_url": "https://stickers.saymagic.cn/",
-  "workflow_run": "https://github.com/saymagic/cat-sticker-library/actions/runs/37013698696"
+  "workflow_run": "https://github.com/saymagic/cat-sticker-library/actions/runs/37170010011"
 }

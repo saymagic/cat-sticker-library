@@ -1,0 +1,4793 @@
+{
+  "version_id": "pack-a4e39c770a56",
+  "completed_at": "2026-10-04T09:21:05.436545+08:00",
+  "metadata": {
+    "id": "pack-a4e39c770a56",
+    "character": "古德",
+    "theme": "宝宝有话说",
+    "title": "古德宝宝有话说",
+    "description": "古德把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+    "media": "静态",
+    "count": 24,
+    "sequence": 1,
+    "date": "20261003",
+    "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张",
+    "reference": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/01_资料/参考/卡通基准.png",
+    "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+    "copy_exception": ""
+  },
+  "scope": "已交付的资料、原画、工程和成品；生成的导航及后续平台凭据另行维护",
+  "gate": {
+    "technical_checks": 1129,
+    "visual_items": 24,
+    "assets": 76,
+    "packages": 3,
+    "profile_date": "2026-10-03"
+  },
+  "files": [
+    {
+      "file": "01_资料/input.json",
+      "sha256": "46bde2902b0c4403218956fd6c4e62cd5a324f6eed74b67f42b6316d684d9e7b",
+      "bytes": 533,
+      "mtime_ns": 1791030545340589858
+    },
+    {
+      "file": "01_资料/创作需求.md",
+      "sha256": "b59376188d40413a24e4f1b5c3e0dad8d150cf011a1b34f78ba506237a84bc8f",
+      "bytes": 562,
+      "mtime_ns": 1791030545008627102
+    },
+    {
+      "file": "01_资料/参考/卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1791030545005587286
+    },
+    {
+      "file": "01_资料/参考与权利来源.md",
+      "sha256": "3e0ab91b54ae540e07a0e6364c6a6f1964580b6a0ae06a4f28df16755a541948",
+      "bytes": 591,
+      "mtime_ns": 1791031094187982378
+    },
+    {
+      "file": "01_资料/文案.csv",
+      "sha256": "346ed317a8cab4ef2d94e2006020be9936adb52f86c6c1c599800a6be5c76daa",
+      "bytes": 4478,
+      "mtime_ns": 1791031916319790060
+    },
+    {
+      "file": "01_资料/用户原始需求.md",
+      "sha256": "85a5bbd0c573e614472d9ebcc31c3894c866ef70209692e18d9804c71df08c60",
+      "bytes": 523,
+      "mtime_ns": 1791030545340747776
+    },
+    {
+      "file": "01_资料/角色快照.json",
+      "sha256": "9e8731a59541fb495e62f3583efaf3a8b2272a8bc2cf50c48c83791cc6540aa1",
+      "bytes": 1207,
+      "mtime_ns": 1791031094187842210
+    },
+    {
+      "file": "02_原画/01.png",
+      "sha256": "0087e8e146f4f50c1581c1f1417b9a28e2b381f000d339b3303229d48edd4516",
+      "bytes": 1341756,
+      "mtime_ns": 1791031331729010049
+    },
+    {
+      "file": "02_原画/02.png",
+      "sha256": "d389034306e0a2127dcbd94378e811300f99b0059c5acd47a16ef1657a7533ad",
+      "bytes": 1558641,
+      "mtime_ns": 1791031335638093410
+    },
+    {
+      "file": "02_原画/03.png",
+      "sha256": "97d271447a180be96ae6bdf649ab330a383be1893d4def52e29a6e5a9dc0dafa",
+      "bytes": 1603108,
+      "mtime_ns": 1791031339486508139
+    },
+    {
+      "file": "02_原画/04.png",
+      "sha256": "a23609a80d227b4242997253b59418862400c566ec00d1a364caed8ed26ff275",
+      "bytes": 1652162,
+      "mtime_ns": 1791031343494553765
+    },
+    {
+      "file": "02_原画/05.png",
+      "sha256": "46ea141936ffa062ffd2581ed87296a394678de633ec93203e77d6ed0da226a4",
+      "bytes": 1713623,
+      "mtime_ns": 1791031498782008020
+    },
+    {
+      "file": "02_原画/06.png",
+      "sha256": "fa293aa9f3f88c1d0e857d913b0e2f8abd58d3dac7e610025875966c4d0a8495",
+      "bytes": 1643400,
+      "mtime_ns": 1791031499784393857
+    },
+    {
+      "file": "02_原画/07.png",
+      "sha256": "946306e3c6e41bd31511145a1f33d5dac45039e82c78ce8f5855981e4673f3e7",
+      "bytes": 1695157,
+      "mtime_ns": 1791031592042058102
+    },
+    {
+      "file": "02_原画/08.png",
+      "sha256": "ccda11898b064db5a60dd143a2df1f8142d2b628e3849a564b0e1dfb68ed3723",
+      "bytes": 1735778,
+      "mtime_ns": 1791031500485827270
+    },
+    {
+      "file": "02_原画/09.png",
+      "sha256": "4237059907bcca75d291972639e69a77065983eb84ae4a3990d4ae7a40c2b20d",
+      "bytes": 1893767,
+      "mtime_ns": 1791031683329256400
+    },
+    {
+      "file": "02_原画/10.png",
+      "sha256": "27cbaefee0de05e84b2c93c22941b185fed91046e43db8f01a2b3793162d92fe",
+      "bytes": 1731646,
+      "mtime_ns": 1791031722826427829
+    },
+    {
+      "file": "02_原画/11.png",
+      "sha256": "1425d8d70515af1cc26598a70dab29907bda9b33bacf4a3c22c86c54dbfdfac2",
+      "bytes": 1778749,
+      "mtime_ns": 1791031640844262464
+    },
+    {
+      "file": "02_原画/12.png",
+      "sha256": "6d814deb38cc8eae304dc0a9d5d35598463ee0776f7794adf47ed53f9d4c4a71",
+      "bytes": 1599746,
+      "mtime_ns": 1791031593456182052
+    },
+    {
+      "file": "02_原画/13.png",
+      "sha256": "f66c0f79ecc4f7c3342b68b7731ebe9d450a677adedee0b154cd07a6482946b9",
+      "bytes": 1744316,
+      "mtime_ns": 1791031574840612249
+    },
+    {
+      "file": "02_原画/14.png",
+      "sha256": "52990f8d1c69dcb4bf50c493cd96a8990498c4b176676925b01d5c9a2221e093",
+      "bytes": 1561016,
+      "mtime_ns": 1791031650465211614
+    },
+    {
+      "file": "02_原画/15.png",
+      "sha256": "5fa76f89417d1be2a36d40cf6aec0e6a10fa147167a1a45f1251983598cab342",
+      "bytes": 1785715,
+      "mtime_ns": 1791031606915610650
+    },
+    {
+      "file": "02_原画/16.png",
+      "sha256": "642bc7732abef146264b06272832ef688bab1ee9cb389a30aa56dd3110f64e1b",
+      "bytes": 1603712,
+      "mtime_ns": 1791031678523469086
+    },
+    {
+      "file": "02_原画/17.png",
+      "sha256": "f364ce5aa11eab62722e0924aec88b72a10c6560ac0568ad127bced9f533189c",
+      "bytes": 1481179,
+      "mtime_ns": 1791031729650576344
+    },
+    {
+      "file": "02_原画/18.png",
+      "sha256": "d9fddd45298d3d2f2681eea8f23ae0f0f930b0d0a819aadb1903c41b9287cc57",
+      "bytes": 1738050,
+      "mtime_ns": 1791031673595749252
+    },
+    {
+      "file": "02_原画/19.png",
+      "sha256": "237994899c71e8c0729b1342156f4b8cd7312c8238bcd1c367e7bc3cc14ac05d",
+      "bytes": 1941649,
+      "mtime_ns": 1791031785954925582
+    },
+    {
+      "file": "02_原画/20.png",
+      "sha256": "a25361ecae230d44a4659900f36264cc8e24149c7b5ce7611e02e1e48770ea54",
+      "bytes": 1748333,
+      "mtime_ns": 1791031810204992066
+    },
+    {
+      "file": "02_原画/21.png",
+      "sha256": "96f47c155903c140928d761f1cd3bcf96ea9b8be0c201c88834eb94193e416e0",
+      "bytes": 1843995,
+      "mtime_ns": 1791031843860438430
+    },
+    {
+      "file": "02_原画/22.png",
+      "sha256": "61a6c96884a4c36be2fa50fe0ed27c0acf2ed7f722955453dfd73b21a900e995",
+      "bytes": 2007342,
+      "mtime_ns": 1791031814160225270
+    },
+    {
+      "file": "02_原画/23.png",
+      "sha256": "b7a4fca5093c5825c89c92c8fbd3c977fdddee83538d89189ff61a1f24d8d00d",
+      "bytes": 1361013,
+      "mtime_ns": 1791031878064197568
+    },
+    {
+      "file": "02_原画/24.png",
+      "sha256": "74aa5aae1375978b1a99870cbff41dd006101e0020a570e9f719aa00d9ddff15",
+      "bytes": 1457630,
+      "mtime_ns": 1791031762515562641
+    },
+    {
+      "file": "02_原画/banner.png",
+      "sha256": "23269e70bb80271e85f0dd42897e1a17f00b3ad8fa33baa62ba01478c4a385f5",
+      "bytes": 2763531,
+      "mtime_ns": 1791031837630997810
+    },
+    {
+      "file": "02_原画/chat_icon.png",
+      "sha256": "6b2cb49cfd0c364ef287a7f34eb0b55f57ed75617cf8ece9c6e4b735d9f815f1",
+      "bytes": 2502489,
+      "mtime_ns": 1791031911070314471
+    },
+    {
+      "file": "02_原画/chat_icon_r2.png",
+      "sha256": "c5201d4e4e287e36685c0c59453279b0c112fe3cbf6eb16165b94c73994dea25",
+      "bytes": 1822019,
+      "mtime_ns": 1791032060885031595
+    },
+    {
+      "file": "02_原画/cover.png",
+      "sha256": "edace10f570e3e94995ce7987c761b839f3060ed67dcb2cc34218145fe047aa5",
+      "bytes": 1729142,
+      "mtime_ns": 1791031950123095834
+    },
+    {
+      "file": "02_原画/生成原件/01.png",
+      "sha256": "2a9637fa1516ef4c0bff776c257fc12ef91b23c6c79347377634662328221dfb",
+      "bytes": 1883661,
+      "mtime_ns": 1791031139547476142
+    },
+    {
+      "file": "02_原画/生成原件/02.png",
+      "sha256": "d0ede5b726cc414a6dfaed83a5fcb13b62f41d608236d129c21cdd4aed9a9987",
+      "bytes": 2012925,
+      "mtime_ns": 1791031197190877330
+    },
+    {
+      "file": "02_原画/生成原件/03.png",
+      "sha256": "34462768a5ccb5f0a661b0f54da5956657b65064625dcbf85099e53fec3bda73",
+      "bytes": 2069399,
+      "mtime_ns": 1791031263287273773
+    },
+    {
+      "file": "02_原画/生成原件/04.png",
+      "sha256": "fb00dfcb0e3ea9923b8711fc889fa9672c16e66f674fffb887e0dc0b76bf3ab2",
+      "bytes": 2100308,
+      "mtime_ns": 1791031231659167902
+    },
+    {
+      "file": "02_原画/生成原件/05.png",
+      "sha256": "6e38652d77966bd6b0e788596dadd263f6f2c01fdf3f7aa0b7b2370e7430b17e",
+      "bytes": 2103619,
+      "mtime_ns": 1791031423407153645
+    },
+    {
+      "file": "02_原画/生成原件/06.png",
+      "sha256": "29059840030d0a7808718bdca8678f301b758994af03b6dee59593127b459dba",
+      "bytes": 2074278,
+      "mtime_ns": 1791031336269607672
+    },
+    {
+      "file": "02_原画/生成原件/07.png",
+      "sha256": "9554ec71a9d776308c3c13a945bbd25a9d6aa1bd9fa64e65106f5c26d2f525e2",
+      "bytes": 2125191,
+      "mtime_ns": 1791031465041994953
+    },
+    {
+      "file": "02_原画/生成原件/08.png",
+      "sha256": "f7f10e50755c24fb1c19ee1d31da0ab37f3e7f77809aaff5976fe142eee73836",
+      "bytes": 2072994,
+      "mtime_ns": 1791031372159079564
+    },
+    {
+      "file": "02_原画/生成原件/09.png",
+      "sha256": "a47288e4e1a6d1122be378a2b133e1af8ffa936a6d4aad7f384a05be261b3c8a",
+      "bytes": 2245303,
+      "mtime_ns": 1791031678668752782
+    },
+    {
+      "file": "02_原画/生成原件/10.png",
+      "sha256": "8693c82ef2b7ecdc53e546d53fd6c4827bb93cacf9d10ca1699ccd10c1679f6b",
+      "bytes": 2150369,
+      "mtime_ns": 1791031717796044980
+    },
+    {
+      "file": "02_原画/生成原件/11.png",
+      "sha256": "64b09111a1a23651d9de4123bf2aadd9017b5c6fbe94ccc46de32f9a4ab5e7d1",
+      "bytes": 2191966,
+      "mtime_ns": 1791031635759961392
+    },
+    {
+      "file": "02_原画/生成原件/12.png",
+      "sha256": "b4bc223379211aa31514be5bd6506556867c77800519d08d95e281d563d51055",
+      "bytes": 2059038,
+      "mtime_ns": 1791031588340156794
+    },
+    {
+      "file": "02_原画/生成原件/13.png",
+      "sha256": "d4f18745ff531116304428e07a771a2030a186e2f854c0a791adb2644ab6b0d8",
+      "bytes": 2177340,
+      "mtime_ns": 1791031569545661130
+    },
+    {
+      "file": "02_原画/生成原件/14.png",
+      "sha256": "027fff03babb4ddba84dbaf8571aa9b45c4313b44fb924eecbd91896109928ba",
+      "bytes": 2022700,
+      "mtime_ns": 1791031645795424059
+    },
+    {
+      "file": "02_原画/生成原件/15.png",
+      "sha256": "82668995e90f723b3c948b8f8e6d63dbee6c7ea2cd65403d166a014d2e7d0e82",
+      "bytes": 2192536,
+      "mtime_ns": 1791031602237712173
+    },
+    {
+      "file": "02_原画/生成原件/16.png",
+      "sha256": "a3dad33ec1553ab6e5a5fc9f147f0af255916df2eb653c371127c4126b356635",
+      "bytes": 2078489,
+      "mtime_ns": 1791031668832719203
+    },
+    {
+      "file": "02_原画/生成原件/17.png",
+      "sha256": "1fcc78f15ab6e0b04baf04bea85b4d39de8c231ad02a29884aec656c2b2aaec7",
+      "bytes": 1997099,
+      "mtime_ns": 1791031725041939885
+    },
+    {
+      "file": "02_原画/生成原件/18.png",
+      "sha256": "4ecd08c5ad12872b7163b1a9ef696a09322c6f540982332fc97ebbd375bd437e",
+      "bytes": 2163025,
+      "mtime_ns": 1791031667720036017
+    },
+    {
+      "file": "02_原画/生成原件/19.png",
+      "sha256": "bef2665f838ebe7cd49a220dc877404c4ec4d44e646451d952196fd3d55f4c46",
+      "bytes": 2290873,
+      "mtime_ns": 1791031781597361078
+    },
+    {
+      "file": "02_原画/生成原件/20.png",
+      "sha256": "53007136ae41e1a27d7ce38b725830b53392be3939f19279e682aa04988a9a4c",
+      "bytes": 2156119,
+      "mtime_ns": 1791031806112989968
+    },
+    {
+      "file": "02_原画/生成原件/21.png",
+      "sha256": "ca094d8f9a37797595aaf0f2ec2e1134fd1b14028548eadab41cc5485ebf38e8",
+      "bytes": 2200837,
+      "mtime_ns": 1791031839792515849
+    },
+    {
+      "file": "02_原画/生成原件/22.png",
+      "sha256": "bf9bcb6fdb8b1a7d81ae0efaa370722059f33f36d5d231ea85e639c2102df48e",
+      "bytes": 2316558,
+      "mtime_ns": 1791031807924827000
+    },
+    {
+      "file": "02_原画/生成原件/23.png",
+      "sha256": "c336b66e3d1dc01cdbffe6d71a3a4e8e2e065b97a1c2722371cd239fbb84a2e6",
+      "bytes": 1900965,
+      "mtime_ns": 1791031874107789607
+    },
+    {
+      "file": "02_原画/生成原件/24.png",
+      "sha256": "87ea9edd7933575bb268e94de6ab13800394e2fdf09dd17457204e7901074530",
+      "bytes": 1921923,
+      "mtime_ns": 1791031757882436202
+    },
+    {
+      "file": "02_原画/生成原件/banner.png",
+      "sha256": "23269e70bb80271e85f0dd42897e1a17f00b3ad8fa33baa62ba01478c4a385f5",
+      "bytes": 2763531,
+      "mtime_ns": 1791031837630997810
+    },
+    {
+      "file": "02_原画/生成原件/chat_icon.png",
+      "sha256": "fc204dd45f2251f93a13c697d476b9974f43d9520565658c70c7114f998cf812",
+      "bytes": 2650030,
+      "mtime_ns": 1791031906974931068
+    },
+    {
+      "file": "02_原画/生成原件/chat_icon_r2.png",
+      "sha256": "b939f373b127f3bcb6f40dc6f9f90a44dc00a4de069e30a83238f2c9a02d183f",
+      "bytes": 2204017,
+      "mtime_ns": 1791032056676527796
+    },
+    {
+      "file": "02_原画/生成原件/cover.png",
+      "sha256": "0139b73171a756c11500baecb80d10c3c976bbb3a1f72905c52704a79135d8c5",
+      "bytes": 2151632,
+      "mtime_ns": 1791031946084248575
+    },
+    {
+      "file": "03_工程/GIF调色板对比/02_FASTOCTREE.png",
+      "sha256": "6333aab20bcc2ceaacc7a1809bb12c8b8b3162b3113fcc5b282f42d9f0b04565",
+      "bytes": 17662,
+      "mtime_ns": 1791032504441416492
+    },
+    {
+      "file": "03_工程/GIF调色板对比/02_MAXCOVERAGE.png",
+      "sha256": "af81b4e63d5f44c73cf95b9d190d0469db4ebb6e5524a94cf8b54d4203a91cbb",
+      "bytes": 17943,
+      "mtime_ns": 1791032504439713231
+    },
+    {
+      "file": "03_工程/GIF调色板对比/02_MEDIANCUT.png",
+      "sha256": "a239522561975b9307c7d87d4cb0e2452fc7f44b638fbbc875dadb32ee3fb2d1",
+      "bytes": 22271,
+      "mtime_ns": 1791032504408814242
+    },
+    {
+      "file": "03_工程/job.json",
+      "sha256": "3851e5e130efbb6fcb02cf21f2d875a0106af2ff80d186e5e6b3f84f6467174e",
+      "bytes": 52905,
+      "mtime_ns": 1791032157182333216
+    },
+    {
+      "file": "03_工程/platform-profile.json",
+      "sha256": "86f38feb4b45f3783ea90b096a3c85ff53e938af14ba9d0b2ae5affb02da8961",
+      "bytes": 19576,
+      "mtime_ns": 1791076722556768066
+    },
+    {
+      "file": "03_工程/上传填写文案.md",
+      "sha256": "05f0b35dac85bc1922b73e69a399692a9169e9e6858b60cb66210d16d5ef5af5",
+      "bytes": 1654,
+      "mtime_ns": 1791032068544407822
+    },
+    {
+      "file": "03_工程/原画技术检查.json",
+      "sha256": "488b4a97e4b1c2eea24ebfdbc74b83a7f4f3fb1f2f994afb3bb6f419763e9edd",
+      "bytes": 9698,
+      "mtime_ns": 1791032199939944152
+    },
+    {
+      "file": "03_工程/失败导出_r1/captions.csv",
+      "sha256": "65776c740cb4d6a64c9a6ff957f2869fb75651bba2dd4de40851795a18bd6627",
+      "bytes": 1944,
+      "mtime_ns": 1791032184414543455
+    },
+    {
+      "file": "03_工程/失败导出_r1/delivery_notes.md",
+      "sha256": "b147953261fa0d196cbf46b8ac5702bbc3733ced01e218c0b029fcf057c6db9c",
+      "bytes": 1021,
+      "mtime_ns": 1791032185582294502
+    },
+    {
+      "file": "03_工程/失败导出_r1/extras/banner_750x400.jpg",
+      "sha256": "33758bb0770cd8000f20862e4c565a66a178b58ad4b9e6b8d9689fc51025a140",
+      "bytes": 78977,
+      "mtime_ns": 1791032184409674423
+    },
+    {
+      "file": "03_工程/失败导出_r1/extras/chat_icon_240_备用.png",
+      "sha256": "8eb124f45b8850972f11b742373a03ff69b0d25eaedb216ac4acb4d740ae5f48",
+      "bytes": 92022,
+      "mtime_ns": 1791032184308456110
+    },
+    {
+      "file": "03_工程/失败导出_r1/extras/chat_icon_50.png",
+      "sha256": "ffc5290a3ac9d989130692c7ebfda3763bf4afb9133fe2321d810e2fabe7af0b",
+      "bytes": 5562,
+      "mtime_ns": 1791032184287929145
+    },
+    {
+      "file": "03_工程/失败导出_r1/extras/cover_240.png",
+      "sha256": "e1dbd2c51cb2968b6d01919eae1527397cea47c7f05b8ef22846b01a674754bb",
+      "bytes": 72928,
+      "mtime_ns": 1791032183998742088
+    },
+    {
+      "file": "03_工程/失败导出_r1/job.json",
+      "sha256": "771a684056ba8f7e85341f2be004a8bd577970a783d94a7225880a7d863c0836",
+      "bytes": 52767,
+      "mtime_ns": 1791032184411085891
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/01_art.png",
+      "sha256": "82adc19bfc832fcb3722225fa60ee0718576eeb33bea70019b10abee35d8064d",
+      "bytes": 613364,
+      "mtime_ns": 1791032158829897830
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/01_text.png",
+      "sha256": "89902b831f6181cd2212259fde84af3d20438e3d9f10352b6650cecf2f2b31e6",
+      "bytes": 27538,
+      "mtime_ns": 1791032158872026516
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/02_art.png",
+      "sha256": "1d3fe3d9dcf81a0ca710151b1750fdc6f46b45ba27027f3d920a31f60db6216e",
+      "bytes": 740998,
+      "mtime_ns": 1791032159843380850
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/02_text.png",
+      "sha256": "1515338c09c06c239ef392a7587e0c0dd0f074c72d8151e7294b43b34afabac2",
+      "bytes": 22526,
+      "mtime_ns": 1791032159874827760
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/03_art.png",
+      "sha256": "67905171502e8f13e23ec46443d3123b79909569c42919175ed1cce788eb1db8",
+      "bytes": 683054,
+      "mtime_ns": 1791032160870511082
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/03_text.png",
+      "sha256": "81b1cc312d2add50e13d9e27d4435a17458e78a4274dc3c4ec3527ec2ba8ef6e",
+      "bytes": 30654,
+      "mtime_ns": 1791032160908586701
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/04_art.png",
+      "sha256": "32b22b88dad406d73b55f1235cebd7c94ceea9fbca019964a15ab0be4843fe80",
+      "bytes": 693541,
+      "mtime_ns": 1791032161836844801
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/04_text.png",
+      "sha256": "4a558efd024eba629cd65d220e2e19b3145a1742febcae79d4b07f86d88c5835",
+      "bytes": 41775,
+      "mtime_ns": 1791032161885585780
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/05_art.png",
+      "sha256": "ad165830da06f4e51707a385acae393249528f6a28b42a204446fbe77d65cdf9",
+      "bytes": 720378,
+      "mtime_ns": 1791032162901682816
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/05_text.png",
+      "sha256": "03b54091c211f16dec50b29e627151f7c6dbb5bc8ed9790df84feea802066a92",
+      "bytes": 34393,
+      "mtime_ns": 1791032162947151981
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/06_art.png",
+      "sha256": "9b8e735fdc04eb52151a6dda5627a436fe11e438aa26e6bde878dccb73bf6804",
+      "bytes": 714609,
+      "mtime_ns": 1791032163947940754
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/06_text.png",
+      "sha256": "cec439012bb5273287701b1ce2a4654f186db03e92d90b2fb386be1035e7f4dc",
+      "bytes": 23299,
+      "mtime_ns": 1791032163978572075
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/07_art.png",
+      "sha256": "6cffd8cec4fc0ef056e3b9adb1c8ce6e693295f2e17544d0608a5b6dcc5e92f8",
+      "bytes": 714025,
+      "mtime_ns": 1791032164914981435
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/07_text.png",
+      "sha256": "582f11f72d5e66c91a38b5bce534303e0211d7cf728e695538031d5c4248853e",
+      "bytes": 32813,
+      "mtime_ns": 1791032164954535646
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/08_art.png",
+      "sha256": "020d52f57c64e5950d0afd500f35779cd629d57b095db14f23e6bbb0cc5b3384",
+      "bytes": 1109351,
+      "mtime_ns": 1791032166087034093
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/08_text.png",
+      "sha256": "69ab4b69665bfe95b06f9462bb9f0d253358a69e507424fddf1ace1861db91f7",
+      "bytes": 54720,
+      "mtime_ns": 1791032166157568086
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/09_art.png",
+      "sha256": "accbe20c0cd1a97696f88c471953f51b7d9bce6d075ce5ed4d01eabedb8c5186",
+      "bytes": 793233,
+      "mtime_ns": 1791032167386404650
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/09_text.png",
+      "sha256": "769891de890c4885cff926f0852fb1f453b8aa2f5071a7651eb5fccb8892785b",
+      "bytes": 22135,
+      "mtime_ns": 1791032167417940309
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/10_art.png",
+      "sha256": "6296bd3e358f6869792ce3e78af242c34d75db4b04f37a25e31db395bf5a4355",
+      "bytes": 734531,
+      "mtime_ns": 1791032168411205909
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/10_text.png",
+      "sha256": "618210ad6a8eec033d11c67123d54e80b38f7f119870639b2ccded592018674e",
+      "bytes": 21854,
+      "mtime_ns": 1791032168447703601
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/11_art.png",
+      "sha256": "603ea2f6d974d75ab9d4aeb476cc8785365ce5bb06a3bf3fa56b80e42234e4fe",
+      "bytes": 739533,
+      "mtime_ns": 1791032169410242671
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/11_text.png",
+      "sha256": "62e29662d6a0d3071d65d6e2c84d50a4bde4451350830893605d38fd0ea12343",
+      "bytes": 41800,
+      "mtime_ns": 1791032169463281426
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/12_art.png",
+      "sha256": "6ce11223acf3f5959105bbcd358ed99d338919ddebd4e569e0d53415e0a8f60f",
+      "bytes": 679224,
+      "mtime_ns": 1791032170459685587
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/12_text.png",
+      "sha256": "ed3dac1338a59e983a401b0537fc85a7234ef17abb9ba3ea30a2e030c81dca2e",
+      "bytes": 43952,
+      "mtime_ns": 1791032170519660137
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/13_art.png",
+      "sha256": "5e67f2bf7fa7f9dc10c98ba7ce89bd3de878f44beb2776473bbb6660673918a2",
+      "bytes": 705346,
+      "mtime_ns": 1791032171525248107
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/13_text.png",
+      "sha256": "3d98748c107f52ba426287f5f428d2ae472073515de360dc5e7c8a96b9f7f725",
+      "bytes": 30593,
+      "mtime_ns": 1791032171571240567
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/14_art.png",
+      "sha256": "725179504679946225beba333a89f1b205bf3975ba46ed7c442b8b1b3aeaeb4f",
+      "bytes": 762708,
+      "mtime_ns": 1791032172740399415
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/14_text.png",
+      "sha256": "bb08661cd5f0e5314a7c16821a951d23bae3e96323e33df1c80092d9144c0d32",
+      "bytes": 46984,
+      "mtime_ns": 1791032172800517425
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/15_art.png",
+      "sha256": "3cf5af1bdb281480c2f3c9d2ccb4b2e100a0bdaa03ffeabab089dc5064e83c0e",
+      "bytes": 803076,
+      "mtime_ns": 1791032173850628928
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/15_text.png",
+      "sha256": "3c728b51a524d5955059de03cf4c50625435818ac450c1ae4e74fcee139e9ede",
+      "bytes": 11906,
+      "mtime_ns": 1791032173871601729
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/16_art.png",
+      "sha256": "43c6dd8e31bbe15880ad215f04ac28deca325514a35749d31762ae5c1545f4ca",
+      "bytes": 671087,
+      "mtime_ns": 1791032174763976434
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/16_text.png",
+      "sha256": "6e438516d05c0056934e14af9ef83097abbebb0438bd1346c4d62a524a443eba",
+      "bytes": 23764,
+      "mtime_ns": 1791032174800472583
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/17_art.png",
+      "sha256": "e1d5fb9213448b1ca463f86557c518e0f59cd5c06b9580e8aa0755da8f376a7d",
+      "bytes": 684522,
+      "mtime_ns": 1791032175680986336
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/17_text.png",
+      "sha256": "6ef1e66a2452bb34d3e7f6d3a966e06ff643b06eb0b53c2f5efb4a224a63f60c",
+      "bytes": 13533,
+      "mtime_ns": 1791032175706375082
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/18_art.png",
+      "sha256": "4b5edb78b6373a6d5c5860739a2ae6386a81f920228304e6d784299e6a1607b3",
+      "bytes": 727864,
+      "mtime_ns": 1791032176623279152
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/18_text.png",
+      "sha256": "461df1ebf779659efca49eee44652d3e0aa5feaecfbbb148708d80d23b99cbc4",
+      "bytes": 21736,
+      "mtime_ns": 1791032176655588525
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/19_art.png",
+      "sha256": "22708712205b4ffa231489a4d1a4835c396c8d9954413d1f35daf1ecbac062ad",
+      "bytes": 819510,
+      "mtime_ns": 1791032177662098001
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/19_text.png",
+      "sha256": "a41192234c8f69f99f305d1021ca793bfcc50ca8ce34b181914a92022ba5f72a",
+      "bytes": 48947,
+      "mtime_ns": 1791032177722339844
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/20_art.png",
+      "sha256": "dde2eef6f5401b564e95e1545bccb2d92096e00875bca0a651086ebc02daac11",
+      "bytes": 733065,
+      "mtime_ns": 1791032178811839308
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/20_text.png",
+      "sha256": "69fbb5265be1d7500f545bebf699f6f1615c8be59b280a135097c3b9b085ff4a",
+      "bytes": 42544,
+      "mtime_ns": 1791032178865275358
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/21_art.png",
+      "sha256": "e3529393382803d5d2560396f9e24dd1540ea786b0083df3d3a26bfc34a2f847",
+      "bytes": 923572,
+      "mtime_ns": 1791032180025039729
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/21_text.png",
+      "sha256": "b34d9c77d6bc294ec2d99a814e614168991d28d611a73b2616eddf420826976f",
+      "bytes": 27127,
+      "mtime_ns": 1791032180063516975
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/22_art.png",
+      "sha256": "336386b106053e586d93c8bdf38c41a7c45158ec3a112099b3bd0a354a02d837",
+      "bytes": 1092922,
+      "mtime_ns": 1791032181192812360
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/22_text.png",
+      "sha256": "04316f3ccc0d0e8aa942bb90ec3107569c12472fab2f29d0d8cb7f13a812579f",
+      "bytes": 39420,
+      "mtime_ns": 1791032181246660413
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/23_art.png",
+      "sha256": "b930bcdf8216f1c0e54aa3524b2b03a91918e00f096df1fd07304f3f6afd6b13",
+      "bytes": 622347,
+      "mtime_ns": 1791032182263478663
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/23_text.png",
+      "sha256": "ba24ed7c7619b2e59ff6d004239aefdc7d5966c15190302fd07c89270630af77",
+      "bytes": 37903,
+      "mtime_ns": 1791032182307827530
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/24_art.png",
+      "sha256": "1d4c3cfc3da1e0324b2603f203aa59fb5fd93038662fe395c5338a7787a82e1a",
+      "bytes": 943407,
+      "mtime_ns": 1791032183193920569
+    },
+    {
+      "file": "03_工程/失败导出_r1/layers/24_text.png",
+      "sha256": "4939940db5f727cb5b043bdb242894be7f9e6d8104982785bb15e61306897386",
+      "bytes": 27919,
+      "mtime_ns": 1791032183235507002
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/01.gif",
+      "sha256": "668fe4dfa70588b2df6d1ec46307a51fd81a69ee085237b47f55025388ba2dff",
+      "bytes": 21920,
+      "mtime_ns": 1791032159344531412
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/02.gif",
+      "sha256": "cae4e13273ed4865b658cf21d6394ff5273abfe9606b9448346fb918ecc01e5e",
+      "bytes": 25346,
+      "mtime_ns": 1791032160341202324
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/03.gif",
+      "sha256": "86776afa1673d3fa5772a3372f43e72f05898c554c4baedae6322b344a761480",
+      "bytes": 23896,
+      "mtime_ns": 1791032161357576071
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/04.gif",
+      "sha256": "76b00eb2038ec5084698e6b6df087af3754077c6ab792b8f90c10b5834c263bc",
+      "bytes": 26544,
+      "mtime_ns": 1791032162355596201
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/05.gif",
+      "sha256": "61ec0293d09a1b1b16cdd0d14805c5fe300d0e1bfd514117e92d79ceb4d3ce0e",
+      "bytes": 25756,
+      "mtime_ns": 1791032163436851237
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/06.gif",
+      "sha256": "74ed55157f543905482948ddcf2bb3516aa4d4f9ee8c635b370034880580d893",
+      "bytes": 23902,
+      "mtime_ns": 1791032164433557567
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/07.gif",
+      "sha256": "683f5065bf5a3c70da2cec698ed9824b2957c688cd776f36462c761dcbfa205c",
+      "bytes": 24395,
+      "mtime_ns": 1791032165433323957
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/08.gif",
+      "sha256": "8f92b55c8b053f7da4b759719f78fdaa48accb13a8644d4ce761a212cf08fa8a",
+      "bytes": 36043,
+      "mtime_ns": 1791032166805200226
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/09.gif",
+      "sha256": "72a7964edd67ca88cc80f16ad93f18c32ef829772704de8e7d9b705ddafa30e1",
+      "bytes": 24079,
+      "mtime_ns": 1791032167916336787
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/10.gif",
+      "sha256": "0a9f52eb7eb1021ecda4aebf81b764d51e5785e140af2fd5f70ad10ee6f1d125",
+      "bytes": 23266,
+      "mtime_ns": 1791032168923166182
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/11.gif",
+      "sha256": "00ec0f14e2697cfa69879c72860e39b00fdcbe90b3110629dc552f9c36461507",
+      "bytes": 24910,
+      "mtime_ns": 1791032169951379337
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/12.gif",
+      "sha256": "af1f5458bb704217bd1f3fee7d19a26a5fc56beceb4344f6195bc6505aa2ffb7",
+      "bytes": 24794,
+      "mtime_ns": 1791032171034341969
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/13.gif",
+      "sha256": "25c6481a61be92564e757a268f1befc9486aa0ec7ec7809c96cbc3b0f70ce2f0",
+      "bytes": 22284,
+      "mtime_ns": 1791032172037829799
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/14.gif",
+      "sha256": "17033bb14ac9f4e5ea5e9084ebde6f1b04cf33a2309ab0a821942daf95cce204",
+      "bytes": 27828,
+      "mtime_ns": 1791032173346710375
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/15.gif",
+      "sha256": "a47513415675bc1b1ad1330ca96ceeb7f51e233067cc0e756c37265620de3b5c",
+      "bytes": 24282,
+      "mtime_ns": 1791032174330740873
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/16.gif",
+      "sha256": "37f2198fcaa708fb9edc878560363b20fd7d99e9397afd1d243587a10d07a738",
+      "bytes": 21085,
+      "mtime_ns": 1791032175256088245
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/17.gif",
+      "sha256": "de7d865f19a3ee8084c95d9cfea375038ea5866b6576a1c6aa220391c4f67758",
+      "bytes": 20299,
+      "mtime_ns": 1791032176143798545
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/18.gif",
+      "sha256": "fd358599157f5e007b5f6ed7123328a8bfa49227584da027b22d65a9f8c0abd9",
+      "bytes": 23143,
+      "mtime_ns": 1791032177114870211
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/19.gif",
+      "sha256": "079dedde3a6bf1b1b9f5bb3066bb06622a15221d53090883f9d039cdd0a146bd",
+      "bytes": 28194,
+      "mtime_ns": 1791032178254563538
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/20.gif",
+      "sha256": "5a4a87db843688a0a7459b4dc7fa8d8054e78bb6857a6e0333a7ec2ced9a7f67",
+      "bytes": 25851,
+      "mtime_ns": 1791032179437241140
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/21.gif",
+      "sha256": "177158d61ae38a6b79d60e25b6274fce32431acb5eb48001d4b453fa05ea503d",
+      "bytes": 29013,
+      "mtime_ns": 1791032180580266779
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/22.gif",
+      "sha256": "a841c4aa8b554192b34d41bdd2918f0046c1400deb6803bb32fe9006eee4d621",
+      "bytes": 33998,
+      "mtime_ns": 1791032181824464148
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/23.gif",
+      "sha256": "31a32b8b75757662a16c37086dce0632a0c73605f137f75468b89af959ba69ed",
+      "bytes": 23312,
+      "mtime_ns": 1791032182787043385
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_gif/24.gif",
+      "sha256": "bc3253df668cf608545cb2924fc4137aa73280d6706f0cbf0e39e676843de3ec",
+      "bytes": 29440,
+      "mtime_ns": 1791032183729007740
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/01.png",
+      "sha256": "a84e34588e9d322e2d0f38b950b375fd56ff25a869c7c4ce8b1976004d9da374",
+      "bytes": 57667,
+      "mtime_ns": 1791032159318930915
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/02.png",
+      "sha256": "2249465a03ddf2137b21342f7eb4e77503afbe2b761cbe9a233fa01cc030a52a",
+      "bytes": 64808,
+      "mtime_ns": 1791032160313250562
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/03.png",
+      "sha256": "df82ae2b3455e16578c617074b755a5788404ed863c9d764dba7c997390d7a7b",
+      "bytes": 62581,
+      "mtime_ns": 1791032161331038526
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/04.png",
+      "sha256": "c51af596b68ae182b8fd932f1d59743d1b9357b3f774f3c780a38170d96e67bc",
+      "bytes": 69914,
+      "mtime_ns": 1791032162328968822
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/05.png",
+      "sha256": "428c05ed9f2632f624c44fdf097f9eb6e8ff095f802a33d31c456cd0e615b49d",
+      "bytes": 66601,
+      "mtime_ns": 1791032163408897433
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/06.png",
+      "sha256": "82dcc2014d39eb3dc86fc6d619609602af5d3e3b4a94c0e17d3112abf02a0fc9",
+      "bytes": 62592,
+      "mtime_ns": 1791032164408267197
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/07.png",
+      "sha256": "ba687a52b24e4add3a2bcdb4ced3c1697c10b90301a6c736eece8757609bae34",
+      "bytes": 62353,
+      "mtime_ns": 1791032165401930673
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/08.png",
+      "sha256": "b639de4ff5cc38de5e5a964d353e4e2fea357abde9710c6931550a28d73b5313",
+      "bytes": 81878,
+      "mtime_ns": 1791032166766545562
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/09.png",
+      "sha256": "58b0beeec424b98a75dcd384852ca65b5288c48b220013f22050c4db28756307",
+      "bytes": 63256,
+      "mtime_ns": 1791032167889347573
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/10.png",
+      "sha256": "5c9c127dad14f9951a8cda716a03aff466a72bc71b13f86688749ea462809086",
+      "bytes": 60448,
+      "mtime_ns": 1791032168895532880
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/11.png",
+      "sha256": "e933367f4f9e7eb45d2ed915ee2ff5cbde8cbe36e8404759eb479ddb003bbdea",
+      "bytes": 68328,
+      "mtime_ns": 1791032169925239295
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/12.png",
+      "sha256": "4f53c320b2dd7fede3dfbaad75547d85f0dff74d0492e307944e4da075e4765f",
+      "bytes": 65709,
+      "mtime_ns": 1791032171007624839
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/13.png",
+      "sha256": "03082d89ecdd02fde1aae71351ad999c0c7ccb186f8de1fcbb69aea831a2673a",
+      "bytes": 58527,
+      "mtime_ns": 1791032172011841675
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/14.png",
+      "sha256": "6595ad79a0520c1e6dec29ee8394c0ab099d283c692dbbdfc603b27430745afc",
+      "bytes": 74115,
+      "mtime_ns": 1791032173318076233
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/15.png",
+      "sha256": "0afdb31a2b3b5e6091ffa27200cabe9a93c1d55b75e62a2b12ae3749d5f2bd2c",
+      "bytes": 61461,
+      "mtime_ns": 1791032174304064910
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/16.png",
+      "sha256": "a2623ce06cb170ab9646e712fa1211090ab2e0ba845f8a3de92f4f87fde11c93",
+      "bytes": 55625,
+      "mtime_ns": 1791032175227783814
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/17.png",
+      "sha256": "a75ccdd43acda28a356dfbb3e8aca3ee3118cb7351088c094b299af114daf458",
+      "bytes": 51786,
+      "mtime_ns": 1791032176118285465
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/18.png",
+      "sha256": "037d8a166db3815beeefce7dea941508005e91f4b3e0aade9b93e0dfb844aebf",
+      "bytes": 60596,
+      "mtime_ns": 1791032177088355167
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/19.png",
+      "sha256": "5074654265a82b6e97b21d7c8836a8b1246d941081eec373f1c02a0719401fbd",
+      "bytes": 75250,
+      "mtime_ns": 1791032178212493186
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/20.png",
+      "sha256": "19e4fae547a2dc11a53bdc9806eb13558cf3eea8b56f6cdb7b7dbcc8ef71288e",
+      "bytes": 66600,
+      "mtime_ns": 1791032179354050774
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/21.png",
+      "sha256": "a45e80d78b5a95b79584b53fcc0373a44803f862697da40380ee1cc88b860b88",
+      "bytes": 72494,
+      "mtime_ns": 1791032180550414338
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/22.png",
+      "sha256": "4e891ca0b77c9ce2649f92a2d744e497de44b03f1947bd90f0bf226d83e17c3a",
+      "bytes": 91840,
+      "mtime_ns": 1791032181787833247
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/23.png",
+      "sha256": "2ea68350d9a4d1494f386289c1f9d1b6390069e1116bb1d454f30095b186d8e3",
+      "bytes": 61390,
+      "mtime_ns": 1791032182760918718
+    },
+    {
+      "file": "03_工程/失败导出_r1/main_png/24.png",
+      "sha256": "b2bed672560cbafa395702577fc176c37fcc18badbfd62e54cc83d5783bd117e",
+      "bytes": 77176,
+      "mtime_ns": 1791032183694408102
+    },
+    {
+      "file": "03_工程/失败导出_r1/manifest.json",
+      "sha256": "4a381c3417726985abc145a51335b44de819374aa4a685055c7653ae0b9f050b",
+      "bytes": 18033,
+      "mtime_ns": 1791032184411559019
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/01.png",
+      "sha256": "64e5c020b7d1891ee9d36bf0d6af6f9ebf5bdf86a763022267474adb9985d394",
+      "bytes": 665529,
+      "mtime_ns": 1791032159295776766
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/02.png",
+      "sha256": "b954a984d679ce9b05ee82dfa808082a4eb1b894ebca831615b35e8fb337ecda",
+      "bytes": 780693,
+      "mtime_ns": 1791032160289445785
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/03.png",
+      "sha256": "e9e077eadbe283f7c5c1598bd727764fd2aa7618f7747c82ddfb37b4532af619",
+      "bytes": 731837,
+      "mtime_ns": 1791032161311009356
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/04.png",
+      "sha256": "375edd2a27c85ea58c465841148091c15a4ccf3ef9c471ff3cba402b4e616f3f",
+      "bytes": 763849,
+      "mtime_ns": 1791032162306790431
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/05.png",
+      "sha256": "66018d9ce1b48ee3708ea754cd5582ade91037fb7998d22c5a29ba3714d346a0",
+      "bytes": 777775,
+      "mtime_ns": 1791032163387468379
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/06.png",
+      "sha256": "c7f8f23eb01c538e0df9500a42e5690d1cf3740be6bb05b0ae5b7fd3912b35a5",
+      "bytes": 757620,
+      "mtime_ns": 1791032164388060193
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/07.png",
+      "sha256": "2df491145da16c31b3bea9584a0c22f80ce0ae80b212f146cadefcb8065270dd",
+      "bytes": 769689,
+      "mtime_ns": 1791032165380291701
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/08.png",
+      "sha256": "51c84aa3fa08985298b4e647d4f1cd71a5b31cc89c950847cd652694b7d60ec8",
+      "bytes": 1195252,
+      "mtime_ns": 1791032166716010739
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/09.png",
+      "sha256": "1f6814bfeb63514831234f175dcde2e2882ea743abd346e89a8fb975c83fb899",
+      "bytes": 837196,
+      "mtime_ns": 1791032167868625566
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/10.png",
+      "sha256": "fd2a72e8b35814c5736ff04272c42cb3947f421eaa980c77b06592ef4a532a63",
+      "bytes": 781139,
+      "mtime_ns": 1791032168872812027
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/11.png",
+      "sha256": "dc4f7fe0b5229c30d3a7ea2c5e242a74cf04b8640f666bee3ea8be064358fb1b",
+      "bytes": 811356,
+      "mtime_ns": 1791032169903106279
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/12.png",
+      "sha256": "65f9ef2b8c941fc2ad3ad9572249f1fedb260b1c60040428fbda15e2e5a25eba",
+      "bytes": 754665,
+      "mtime_ns": 1791032170986053660
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/13.png",
+      "sha256": "ab5ca52229346c4cef05e1f361d853cbef51c3d775066b9fa4f9d36f74bc9ec7",
+      "bytes": 758283,
+      "mtime_ns": 1791032171991043000
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/14.png",
+      "sha256": "273bf4861a151592753f86242c02cab10e5ae5e3f08fe4d7ac493db0c6681b02",
+      "bytes": 840786,
+      "mtime_ns": 1791032173294881168
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/15.png",
+      "sha256": "0adbfaf03171622337a6fee179bac9470efb9feb3d0208c0b6fc286877a4687b",
+      "bytes": 832178,
+      "mtime_ns": 1791032174282683690
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/16.png",
+      "sha256": "dd328f42867a7f80125901ec3a9e46412088fe6e5bba2e44ab2d1d37c67180c6",
+      "bytes": 714382,
+      "mtime_ns": 1791032175208527983
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/17.png",
+      "sha256": "7f5bb8b3d4781695cb65dc5b3fbd1def42fe29258905d310ed4d031dbf9d08d5",
+      "bytes": 715311,
+      "mtime_ns": 1791032176100490852
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/18.png",
+      "sha256": "a8fbf9c7b9e10a88d4f0e2fb72c75e4756eb646cae82e7596fefe907be61c997",
+      "bytes": 771933,
+      "mtime_ns": 1791032177067986828
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/19.png",
+      "sha256": "4b3f301420e28df655c433e26907517211a42bc35fb20ff2717a384ca82f969c",
+      "bytes": 895956,
+      "mtime_ns": 1791032178184970260
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/20.png",
+      "sha256": "b101525b2be29196eb7a04c8edf60ee713258b46d24a1b251c2afbaf096a6205",
+      "bytes": 796703,
+      "mtime_ns": 1791032179329665077
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/21.png",
+      "sha256": "cfd26b4eb6167ca3df888362f079dbf4d5adb75723aea0b3f6a3929efa1afc92",
+      "bytes": 970522,
+      "mtime_ns": 1791032180527787943
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/22.png",
+      "sha256": "6366f119f121b4a35524cea84017aa36cf462d26683f6a6ab7a81d6b3b9f3029",
+      "bytes": 1167354,
+      "mtime_ns": 1791032181764252555
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/23.png",
+      "sha256": "08f739f0ff3f088e43f9955352d5ffb770f685dcf480375215201266f4723b35",
+      "bytes": 683097,
+      "mtime_ns": 1791032182734174589
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/24.png",
+      "sha256": "94ac25499425dcbef707ee5e44dbe541934edbecc557796f3f45e3c6a0b125bc",
+      "bytes": 993512,
+      "mtime_ns": 1791032183673480427
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/chat_icon.png",
+      "sha256": "24e5f6da6a69d29d438467046f7e46ea98d2fc4fc2e50af8489879f9277fd777",
+      "bytes": 1392245,
+      "mtime_ns": 1791032184281723272
+    },
+    {
+      "file": "03_工程/失败导出_r1/masters/cover.png",
+      "sha256": "fd6065e34e4da1524871ca43c7627bd31b701bc44eab3f4d50c11bfc34de1b66",
+      "bytes": 1084358,
+      "mtime_ns": 1791032183978614626
+    },
+    {
+      "file": "03_工程/失败导出_r1/platform-profile.json",
+      "sha256": "28c0dbbfb08b7e997a93d5463f8a466955b6e2710dbc6459a1c6a85b31f1a7ac",
+      "bytes": 2664,
+      "mtime_ns": 1791032158346565283
+    },
+    {
+      "file": "03_工程/失败导出_r1/preview.html",
+      "sha256": "90b5f567f4369175468fe154b952c8f1fdf0e108e717a7e5cfa032f0996cfd54",
+      "bytes": 6622,
+      "mtime_ns": 1791032185582144918
+    },
+    {
+      "file": "03_工程/失败导出_r1/previews/overview_dark.jpg",
+      "sha256": "438077af641516da9d7eb965a48a1acc06d6b286eed8ea386c13a523ff793c67",
+      "bytes": 605639,
+      "mtime_ns": 1791032185581154661
+    },
+    {
+      "file": "03_工程/失败导出_r1/previews/overview_light.jpg",
+      "sha256": "5cf0147c84cc18a560241b870a5d23f30cdfda53754e6249e56ef8da1c27cc1f",
+      "bytes": 553391,
+      "mtime_ns": 1791032185004329349
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/job.json",
+      "sha256": "3851e5e130efbb6fcb02cf21f2d875a0106af2ff80d186e5e6b3f84f6467174e",
+      "bytes": 52905,
+      "mtime_ns": 1791032157182333216
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/01.png",
+      "sha256": "2a9637fa1516ef4c0bff776c257fc12ef91b23c6c79347377634662328221dfb",
+      "bytes": 1883661,
+      "mtime_ns": 1791031139547476142
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/02.png",
+      "sha256": "d0ede5b726cc414a6dfaed83a5fcb13b62f41d608236d129c21cdd4aed9a9987",
+      "bytes": 2012925,
+      "mtime_ns": 1791031197190877330
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/03.png",
+      "sha256": "34462768a5ccb5f0a661b0f54da5956657b65064625dcbf85099e53fec3bda73",
+      "bytes": 2069399,
+      "mtime_ns": 1791031263287273773
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/04.png",
+      "sha256": "fb00dfcb0e3ea9923b8711fc889fa9672c16e66f674fffb887e0dc0b76bf3ab2",
+      "bytes": 2100308,
+      "mtime_ns": 1791031231659167902
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/05.png",
+      "sha256": "6e38652d77966bd6b0e788596dadd263f6f2c01fdf3f7aa0b7b2370e7430b17e",
+      "bytes": 2103619,
+      "mtime_ns": 1791031423407153645
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/06.png",
+      "sha256": "29059840030d0a7808718bdca8678f301b758994af03b6dee59593127b459dba",
+      "bytes": 2074278,
+      "mtime_ns": 1791031336269607672
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/07.png",
+      "sha256": "9554ec71a9d776308c3c13a945bbd25a9d6aa1bd9fa64e65106f5c26d2f525e2",
+      "bytes": 2125191,
+      "mtime_ns": 1791031465041994953
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/08.png",
+      "sha256": "f7f10e50755c24fb1c19ee1d31da0ab37f3e7f77809aaff5976fe142eee73836",
+      "bytes": 2072994,
+      "mtime_ns": 1791031372159079564
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/09.png",
+      "sha256": "a47288e4e1a6d1122be378a2b133e1af8ffa936a6d4aad7f384a05be261b3c8a",
+      "bytes": 2245303,
+      "mtime_ns": 1791031678668752782
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/10.png",
+      "sha256": "8693c82ef2b7ecdc53e546d53fd6c4827bb93cacf9d10ca1699ccd10c1679f6b",
+      "bytes": 2150369,
+      "mtime_ns": 1791031717796044980
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/11.png",
+      "sha256": "64b09111a1a23651d9de4123bf2aadd9017b5c6fbe94ccc46de32f9a4ab5e7d1",
+      "bytes": 2191966,
+      "mtime_ns": 1791031635759961392
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/12.png",
+      "sha256": "b4bc223379211aa31514be5bd6506556867c77800519d08d95e281d563d51055",
+      "bytes": 2059038,
+      "mtime_ns": 1791031588340156794
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/13.png",
+      "sha256": "d4f18745ff531116304428e07a771a2030a186e2f854c0a791adb2644ab6b0d8",
+      "bytes": 2177340,
+      "mtime_ns": 1791031569545661130
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/14.png",
+      "sha256": "027fff03babb4ddba84dbaf8571aa9b45c4313b44fb924eecbd91896109928ba",
+      "bytes": 2022700,
+      "mtime_ns": 1791031645795424059
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/15.png",
+      "sha256": "82668995e90f723b3c948b8f8e6d63dbee6c7ea2cd65403d166a014d2e7d0e82",
+      "bytes": 2192536,
+      "mtime_ns": 1791031602237712173
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/16.png",
+      "sha256": "a3dad33ec1553ab6e5a5fc9f147f0af255916df2eb653c371127c4126b356635",
+      "bytes": 2078489,
+      "mtime_ns": 1791031668832719203
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/17.png",
+      "sha256": "1fcc78f15ab6e0b04baf04bea85b4d39de8c231ad02a29884aec656c2b2aaec7",
+      "bytes": 1997099,
+      "mtime_ns": 1791031725041939885
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/18.png",
+      "sha256": "4ecd08c5ad12872b7163b1a9ef696a09322c6f540982332fc97ebbd375bd437e",
+      "bytes": 2163025,
+      "mtime_ns": 1791031667720036017
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/19.png",
+      "sha256": "bef2665f838ebe7cd49a220dc877404c4ec4d44e646451d952196fd3d55f4c46",
+      "bytes": 2290873,
+      "mtime_ns": 1791031781597361078
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/20.png",
+      "sha256": "53007136ae41e1a27d7ce38b725830b53392be3939f19279e682aa04988a9a4c",
+      "bytes": 2156119,
+      "mtime_ns": 1791031806112989968
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/21.png",
+      "sha256": "ca094d8f9a37797595aaf0f2ec2e1134fd1b14028548eadab41cc5485ebf38e8",
+      "bytes": 2200837,
+      "mtime_ns": 1791031839792515849
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/22.png",
+      "sha256": "bf9bcb6fdb8b1a7d81ae0efaa370722059f33f36d5d231ea85e639c2102df48e",
+      "bytes": 2316558,
+      "mtime_ns": 1791031807924827000
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/23.png",
+      "sha256": "c336b66e3d1dc01cdbffe6d71a3a4e8e2e065b97a1c2722371cd239fbb84a2e6",
+      "bytes": 1900965,
+      "mtime_ns": 1791031874107789607
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/24.png",
+      "sha256": "87ea9edd7933575bb268e94de6ab13800394e2fdf09dd17457204e7901074530",
+      "bytes": 1921923,
+      "mtime_ns": 1791031757882436202
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/banner.png",
+      "sha256": "23269e70bb80271e85f0dd42897e1a17f00b3ad8fa33baa62ba01478c4a385f5",
+      "bytes": 2763531,
+      "mtime_ns": 1791031837630997810
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/chat_icon.png",
+      "sha256": "fc204dd45f2251f93a13c697d476b9974f43d9520565658c70c7114f998cf812",
+      "bytes": 2650030,
+      "mtime_ns": 1791031906974931068
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/chat_icon_r2.png",
+      "sha256": "b939f373b127f3bcb6f40dc6f9f90a44dc00a4de069e30a83238f2c9a02d183f",
+      "bytes": 2204017,
+      "mtime_ns": 1791032056676527796
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原始生成文件/cover.png",
+      "sha256": "0139b73171a756c11500baecb80d10c3c976bbb3a1f72905c52704a79135d8c5",
+      "bytes": 2151632,
+      "mtime_ns": 1791031946084248575
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/原画技术检查.json",
+      "sha256": "488b4a97e4b1c2eea24ebfdbc74b83a7f4f3fb1f2f994afb3bb6f419763e9edd",
+      "bytes": 9698,
+      "mtime_ns": 1791032199939944152
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/图标修复记录.json",
+      "sha256": "f25a45d43b5628d63dea4027af81d6d76e61008b29ebdef368d8f1504f4a5a81",
+      "bytes": 414,
+      "mtime_ns": 1791032157183234347
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/字体OFL许可.txt",
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "bytes": 4398,
+      "mtime_ns": 1791031239282905423
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/字体来源.json",
+      "sha256": "0a669833935b569326001f8315c9035c92aa5c38d0bd6069561b248d94a7e6a1",
+      "bytes": 585,
+      "mtime_ns": 1791032263080088667
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/字体说明.md",
+      "sha256": "096960ce3b38d89581c44699da2e58d6a4378c2d1a37a45e10c20fe5c69e3081",
+      "bytes": 365,
+      "mtime_ns": 1791031239284161562
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/官方核对/本次核对结果.json",
+      "sha256": "37bcc9862994f0efa055da666be374b2f59bd307fe52982e8a4599ea05c3e11b",
+      "bytes": 581,
+      "mtime_ns": 1791031239286781758
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/官方核对/本次访问失败.md",
+      "sha256": "f4e37f93d0155eb59b597c04a368b4ed68e07de344b481c7ec8b91add57bf3a2",
+      "bytes": 651,
+      "mtime_ns": 1791031239286881926
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/接收与透明处理.py",
+      "sha256": "94482752e56147203abb777313f456dd826c5147cda1803b70b8f1b01db987a8",
+      "bytes": 2077,
+      "mtime_ns": 1791031492479655839
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/01.txt",
+      "sha256": "284083f96c1cd5adaa34f97998f3c01bb33639c993d4f40d3988fef7dade17f0",
+      "bytes": 1498,
+      "mtime_ns": 1791031094191146163
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/02.txt",
+      "sha256": "404142ad3b12a46ada3c0cd431ddf6c7bee7ac7576f1f5c0a654236ee8b4ea9f",
+      "bytes": 1483,
+      "mtime_ns": 1791031094191276373
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/03.txt",
+      "sha256": "008febfb89583c50800ad72e60311f1546d65b6b6087087c7490d091ab180c0f",
+      "bytes": 1496,
+      "mtime_ns": 1791031094191414833
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/04.txt",
+      "sha256": "fc5b763f98f4542e565394c87b595f6551659ecd0d4cd23e8eb99b0381f9048b",
+      "bytes": 1482,
+      "mtime_ns": 1791031094191537043
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/05.txt",
+      "sha256": "fe7eb10204b20cfd99095c007e6f21ff21fdb62ba2bc050f9751576759cd63c0",
+      "bytes": 1524,
+      "mtime_ns": 1791031094191651836
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/06.txt",
+      "sha256": "42a3ec39405ed9bbd6b448c98bfcbc12f0d0f39b42545d2ce84bcfba59f85f29",
+      "bytes": 1482,
+      "mtime_ns": 1791031094191765378
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/07.txt",
+      "sha256": "a82f42cd6ead7980c695401fdea987bb902fb3a8ed0253842f52ba24b3ca6131",
+      "bytes": 1493,
+      "mtime_ns": 1791031094191876505
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/08.txt",
+      "sha256": "425f39d4e9d8d38fe18b8d7ffe2e498b23769bbb97c1286aeaa38e75fe30934d",
+      "bytes": 1520,
+      "mtime_ns": 1791031094191980006
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/09.txt",
+      "sha256": "63db299ee98eab85ec2e9f002ad6cec4f77708cb76a08abf0d68938ba80f00d9",
+      "bytes": 1512,
+      "mtime_ns": 1791031094192085757
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/10.txt",
+      "sha256": "54f7da754895a0cc22e5354638658f0c234328b9fabc87de5497c871e821ee4c",
+      "bytes": 1504,
+      "mtime_ns": 1791031094192197008
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/11.txt",
+      "sha256": "99ac3105577d73dcd32dc806c22c039730a114d9371aa14267d7dc0069346d54",
+      "bytes": 1486,
+      "mtime_ns": 1791031094192307843
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/12.txt",
+      "sha256": "3fa5927099d0df145149b8349cf1051f03832ca309123b7cc840240bbc24bb61",
+      "bytes": 1497,
+      "mtime_ns": 1791031094192419178
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/13.txt",
+      "sha256": "f517e3156e93d689d8d43267eccc81f8ac09734280376bc07297a0df63f6e27f",
+      "bytes": 1484,
+      "mtime_ns": 1791031094192523220
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/14.txt",
+      "sha256": "7f507e439a611d5ccd82a938082f527818b64e8a9d4e94e7887368a563c667e8",
+      "bytes": 1517,
+      "mtime_ns": 1791031094192628888
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/15.txt",
+      "sha256": "fcbb83e48eec27a60ee2c08682c4aa8da847ce8ce921f12ccef04bb7d22dec54",
+      "bytes": 1476,
+      "mtime_ns": 1791031094192748098
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/16.txt",
+      "sha256": "c4a79cf7e778e4a588e0836b48ceef3fbfc56da41a858b9663ef4f46cc1f794b",
+      "bytes": 1514,
+      "mtime_ns": 1791031094192850974
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/17.txt",
+      "sha256": "9de461c2ca5981f4cf719e80d4f887c2d3e363559dfc7564c53c539b02326fd3",
+      "bytes": 1492,
+      "mtime_ns": 1791031094192969017
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/18.txt",
+      "sha256": "47886f0fa329aec3cba863551492f99c366b2c2cc3bc6be510aa701480228e4a",
+      "bytes": 1485,
+      "mtime_ns": 1791031094193080268
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/19.txt",
+      "sha256": "5312a6dd823440d76d0733890f944464bc8a3c184d7599ebf62249eb1d2dc18f",
+      "bytes": 1499,
+      "mtime_ns": 1791031094193182644
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/20.txt",
+      "sha256": "d1dfe8fafdd4db2f73f31ddf8f543c23ed5ffcd146a5482c9de972171308a7a2",
+      "bytes": 1494,
+      "mtime_ns": 1791031094193342979
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/21.txt",
+      "sha256": "6f245813b777148d437f363e895aebe35aadcc8071b1ee1321442fb3422e9e32",
+      "bytes": 1499,
+      "mtime_ns": 1791031094193515606
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/22.txt",
+      "sha256": "150e53918440673ad6073edd90e02f678036d765ef58bdafc2689ca5a9a41953",
+      "bytes": 1540,
+      "mtime_ns": 1791031094193620566
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/23.txt",
+      "sha256": "58e68b46b3a5ff2ac0727c73212ee48b295d3c83d9ef8bd681ff1ee6d38ca3d3",
+      "bytes": 1511,
+      "mtime_ns": 1791031094193740525
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/24.txt",
+      "sha256": "b6382aa64fc773e985a5d54e9b9e94b86fbf945c3ab91f3410f09999b3f06f81",
+      "bytes": 1522,
+      "mtime_ns": 1791031682906285704
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/banner.txt",
+      "sha256": "b69d4989732212f976f5f3607b4cfbc86ed87372898d5066fdfbfd51c4c522e8",
+      "bytes": 1355,
+      "mtime_ns": 1791031773753267448
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/chat_icon.txt",
+      "sha256": "289a4cab7bf6e07b7b81da88bada3e75838280a91b5e65454e3b6a9365cc6ae5",
+      "bytes": 1689,
+      "mtime_ns": 1791031773753156364
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/chat_icon_r2.txt",
+      "sha256": "8c3004e06172f469ce10bffde43b18b65d3d0122a9913c916eab51a57dc5daa6",
+      "bytes": 1050,
+      "mtime_ns": 1791032006696764539
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/提示词/cover.txt",
+      "sha256": "09539b9f3a8f16cdd5f920f2109ac437e39c20daf3a42d1cf7c26d453d541913",
+      "bytes": 1583,
+      "mtime_ns": 1791031773753038071
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/本版制作计划.md",
+      "sha256": "0df19c6937916a1ed257bd59418f030d5c9a43acf08e5e57623c5b63d1ca0d08",
+      "bytes": 1759,
+      "mtime_ns": 1791031916320000843
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成目检底图.py",
+      "sha256": "5b64a57f07eee7429fe55435bb3d61e6dac1eb03a34b48c1d754af7f764eacaa",
+      "bytes": 2854,
+      "mtime_ns": 1791031916262672038
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/01.json",
+      "sha256": "bc971f59052557e7f1771c3f5d47187ebfb9e6a23bd2abf95ba41821fd6cc3ed",
+      "bytes": 2200,
+      "mtime_ns": 1791032068533391668
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/02.json",
+      "sha256": "5987d1848e1eeb79f37204b96aca12e241b7fda087564106c9dcfe9773ff9f81",
+      "bytes": 2200,
+      "mtime_ns": 1791032068535744516
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/03.json",
+      "sha256": "c848bbb8fa1dfd6f8d348a9db9c58ae9d98875c119ba70e6db50dbf6ef2c8aa3",
+      "bytes": 2200,
+      "mtime_ns": 1791032068538283074
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/04.json",
+      "sha256": "145adb7ea309471a8d8e571ac7011bc49f34be835431fc1f999fa852299e50f8",
+      "bytes": 2200,
+      "mtime_ns": 1791032068544094028
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/05.json",
+      "sha256": "409d4faddb15390c6d146c3d545f60667b788d348103d08e3f819b71e46d5bf0",
+      "bytes": 2735,
+      "mtime_ns": 1791031498803299965
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/06.json",
+      "sha256": "80aad72a154efd229a50ba0e7a6d713a1cbbfe66cda43add4ab89b020c26480b",
+      "bytes": 2736,
+      "mtime_ns": 1791031499798287053
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/07.json",
+      "sha256": "cfd4bd04f6c1d7501d77a1ed2c8930bff2070929693551c777a2bca5621e4861",
+      "bytes": 2736,
+      "mtime_ns": 1791031592056512762
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/08.json",
+      "sha256": "c73a48fe8326b2e7fe2422180f4a7d62bfd2b410e3f763eda5a6f348c7521fb2",
+      "bytes": 2736,
+      "mtime_ns": 1791031500498793206
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/09.json",
+      "sha256": "09690d35475d748978f8401645583df55db2f36179df086b64d5d1f3bbb23ec9",
+      "bytes": 2736,
+      "mtime_ns": 1791031683347703438
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/10.json",
+      "sha256": "89628f54f3fa22431e37586446a58e6d6bd411a59e55c55d724a30e5d9452858",
+      "bytes": 2736,
+      "mtime_ns": 1791031722838272877
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/11.json",
+      "sha256": "021e37556a2bdf865edd3481f40653e2a3c098bef2e248822e4a087a46865fef",
+      "bytes": 2736,
+      "mtime_ns": 1791031640857435152
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/12.json",
+      "sha256": "9e3cc5ced1473d68bba6136c1795711ee0408e73bda04bb911f91e92732995fb",
+      "bytes": 2736,
+      "mtime_ns": 1791031593475255222
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/13.json",
+      "sha256": "9e70fa5e60022666912f9e8ef3d042046fd07ac58420c93a2ecb641f5391d278",
+      "bytes": 2736,
+      "mtime_ns": 1791031574855660708
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/14.json",
+      "sha256": "103ec337fda556c81ad07f80d1fe3f928620834d10f9b420777b78a2e572ff50",
+      "bytes": 2736,
+      "mtime_ns": 1791031650476815576
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/15.json",
+      "sha256": "799325d5c10785847cf6e78f3f56fad110ac1e745a7c681db9a8d5cef0da2671",
+      "bytes": 2736,
+      "mtime_ns": 1791031606927310655
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/16.json",
+      "sha256": "47887cb0f032bf3ced4348f2f9934a58b7bbb084771bb5e479582c0f33d590da",
+      "bytes": 2736,
+      "mtime_ns": 1791031678535994017
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/17.json",
+      "sha256": "287147e3996a92b69edcc1485ef2c17b987764caeb981e64b2295c835df84031",
+      "bytes": 2737,
+      "mtime_ns": 1791031729660652873
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/18.json",
+      "sha256": "0a05c6f1004b4b23cadb44222c6147bdc07e583bcb505a22f7395cbf93f61926",
+      "bytes": 2736,
+      "mtime_ns": 1791031673609209276
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/19.json",
+      "sha256": "8c5a8990258060bec46cd3dafc8b6fec06cf5b4a93853a1faf0330a5ce1b113e",
+      "bytes": 2736,
+      "mtime_ns": 1791031785965696243
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/20.json",
+      "sha256": "858f178e1068ede653607ce3cd5659a1ad0f971ada6d51fff79313939905b42c",
+      "bytes": 2736,
+      "mtime_ns": 1791031810214477671
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/21.json",
+      "sha256": "9dabd74335cd755bacb354de289b34c73528b7b1ec16df9be77869ba8b98d3fc",
+      "bytes": 2736,
+      "mtime_ns": 1791031843871217174
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/22.json",
+      "sha256": "f66ea5acdec24dbba607c954d5516140aa3c11b555a4ea32f8ff631e7411d14e",
+      "bytes": 2736,
+      "mtime_ns": 1791031814171017473
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/23.json",
+      "sha256": "8e6aea1398a1dbf87d232a047fb5e5edd02d50b5b195a2703335739079e27784",
+      "bytes": 2737,
+      "mtime_ns": 1791031878073966019
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/24.json",
+      "sha256": "9a1c55d25dcf4065cb1e41472fa8a5e3c106e52d9e482f761efeaed15d884161",
+      "bytes": 2736,
+      "mtime_ns": 1791031762527035477
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/banner.json",
+      "sha256": "cafc93e65ab4195bca2816f7d8b1a5cc3596dd1bdc47625581d0942a66344133",
+      "bytes": 1821,
+      "mtime_ns": 1791031837902067694
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/chat_icon.json",
+      "sha256": "21e8d5a02d3fecca9c35d4f4ed70d350c784f6eea92d1358dd225968d3351d68",
+      "bytes": 2778,
+      "mtime_ns": 1791031911080949214
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/chat_icon_r2.json",
+      "sha256": "e568f0236ab5bb907337a293ed74ded941dd1f2fdced3d95a25cfffc2b03b8b2",
+      "bytes": 2901,
+      "mtime_ns": 1791032060896466626
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/生成记录/cover.json",
+      "sha256": "547c91a0ee14c6f7849d63a3483992083675f9b7f886116b08b6cf1896ee3a8e",
+      "bytes": 2754,
+      "mtime_ns": 1791031950133825596
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/计划/01_古德_古德宝宝有话说/character_references.json",
+      "sha256": "979bbf61213b50a9050d2f821f26fb3db974e59bab8f909f7a8926a60244e155",
+      "bytes": 1160,
+      "mtime_ns": 1791031112000621706
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/计划/01_古德_古德宝宝有话说/job-plan.json",
+      "sha256": "7330c3e75f4e3b8ed473f7f02bb82b52cd6b61c1754342b7d1ebc41411fd3095",
+      "bytes": 8297,
+      "mtime_ns": 1791031112001192004
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/计划/01_古德_古德宝宝有话说/references/gude_01.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1791030545005587286
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/计划/batch.json",
+      "sha256": "76570547fc7d58d5075cdd0050ce99804335e9d867296a5f002ad4c5224b3a97",
+      "bytes": 135,
+      "mtime_ns": 1791031112001571300
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/计划/input.json",
+      "sha256": "46bde2902b0c4403218956fd6c4e62cd5a324f6eed74b67f42b6316d684d9e7b",
+      "bytes": 533,
+      "mtime_ns": 1791031111991718648
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/资料/input.json",
+      "sha256": "46bde2902b0c4403218956fd6c4e62cd5a324f6eed74b67f42b6316d684d9e7b",
+      "bytes": 533,
+      "mtime_ns": 1791030545340589858
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/资料/创作需求.md",
+      "sha256": "b59376188d40413a24e4f1b5c3e0dad8d150cf011a1b34f78ba506237a84bc8f",
+      "bytes": 562,
+      "mtime_ns": 1791030545008627102
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/资料/参考/卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1791030545005587286
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/资料/参考与权利来源.md",
+      "sha256": "3e0ab91b54ae540e07a0e6364c6a6f1964580b6a0ae06a4f28df16755a541948",
+      "bytes": 591,
+      "mtime_ns": 1791031094187982378
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/资料/文案.csv",
+      "sha256": "346ed317a8cab4ef2d94e2006020be9936adb52f86c6c1c599800a6be5c76daa",
+      "bytes": 4478,
+      "mtime_ns": 1791031916319790060
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/资料/用户原始需求.md",
+      "sha256": "85a5bbd0c573e614472d9ebcc31c3894c866ef70209692e18d9804c71df08c60",
+      "bytes": 523,
+      "mtime_ns": 1791030545340747776
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/资料/角色快照.json",
+      "sha256": "9e8731a59541fb495e62f3583efaf3a8b2272a8bc2cf50c48c83791cc6540aa1",
+      "bytes": 1207,
+      "mtime_ns": 1791031094187842210
+    },
+    {
+      "file": "03_工程/失败导出_r1/production/重现说明.md",
+      "sha256": "838a2197a5cb0e22fb95a66d736fa30ff11e9b83ff4db3037db6d5c7128f6b2f",
+      "bytes": 1068,
+      "mtime_ns": 1791032263080832005
+    },
+    {
+      "file": "03_工程/失败导出_r1/provenance.json",
+      "sha256": "6bf8cd95b41a9f117efff1b072e2afa5842d9ed628c51b2eb3cdbacef99f6af6",
+      "bytes": 12865,
+      "mtime_ns": 1791032184414209327
+    },
+    {
+      "file": "03_工程/失败导出_r1/scripts/build_pack.py",
+      "sha256": "c1fe7d5f613b8db4c3c3e4a9225a7b0244bc367ff73d0b5b06b2116c39b9a218",
+      "bytes": 15747,
+      "mtime_ns": 1791032158347222912
+    },
+    {
+      "file": "03_工程/失败导出_r1/scripts/pack_utils.py",
+      "sha256": "83a3fa400f213f493e8d78aace0c01759d587afaf235b15411cb66912eeb0bc2",
+      "bytes": 11847,
+      "mtime_ns": 1791032158348406628
+    },
+    {
+      "file": "03_工程/失败导出_r1/scripts/validate_pack.py",
+      "sha256": "a85719b642a8ba91125c66db8d626d793bad47714c563fc85453cd8729830d45",
+      "bytes": 17443,
+      "mtime_ns": 1791032158347867999
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/01.png",
+      "sha256": "f6efd35c9662105072818804d44b6de23d2f65aa9a3016801a36b0a815bae3b2",
+      "bytes": 1293057,
+      "mtime_ns": 1791032158672080239
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/02.png",
+      "sha256": "67c6831fc730b3e8e1f36da169ce7acac4f1834b4663e1d7e6a76db47c64f5ae",
+      "bytes": 1521016,
+      "mtime_ns": 1791032159669477030
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/03.png",
+      "sha256": "a6326c47247fdabbf65a3845e468288f167890f66fe7e337c6463f30c59c000e",
+      "bytes": 1558332,
+      "mtime_ns": 1791032160717854399
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/04.png",
+      "sha256": "dab5eb47db3fa18ce714a8e3dd25f27b3156315b6ab0523bd2690f5118db46ba",
+      "bytes": 1612578,
+      "mtime_ns": 1791032161672781628
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/05.png",
+      "sha256": "48c54780eb4bbbc5f694dc55c5fb9a3dceef83ec2f39ff975a9a1427d16ac6d2",
+      "bytes": 1660924,
+      "mtime_ns": 1791032162715345709
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/06.png",
+      "sha256": "b98e4d4dd9410464b4f2125de49f02786601f2915995e2055b0b7bdd5bf666ac",
+      "bytes": 1597381,
+      "mtime_ns": 1791032163784611585
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/07.png",
+      "sha256": "6791cd9771fdf35b7ac6705ee77aef1b8e7202b9442759c886387d0f1b852ca4",
+      "bytes": 1653427,
+      "mtime_ns": 1791032164758858105
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/08.png",
+      "sha256": "a9984328e48068df89268add4519ef68d1e2d78d1ce9513037ffb94aab6179ba",
+      "bytes": 1692325,
+      "mtime_ns": 1791032165801655519
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/09.png",
+      "sha256": "fa8dc74ddc4d7daab75a5167236adaabcced7cc340ae1502a307d47a755e9fa2",
+      "bytes": 1841172,
+      "mtime_ns": 1791032167177132229
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/10.png",
+      "sha256": "b2163f62a110f9192ef4acf301a3cc66f3f34071a6e0490b37edfb648b2b59cf",
+      "bytes": 1673781,
+      "mtime_ns": 1791032168258105139
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/11.png",
+      "sha256": "4ddb3dbd6752ab9dcee9ce3b6aba8ad7507f9934ccdfc258e374552a89ce7080",
+      "bytes": 1730293,
+      "mtime_ns": 1791032169253076832
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/12.png",
+      "sha256": "4261457aea05798539bd179ceb2aaa8200b00a0dc75d6a0edbafc6bb79c1c369",
+      "bytes": 1551523,
+      "mtime_ns": 1791032170276585166
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/13.png",
+      "sha256": "ae2d58241a2fb3d9b583c3e0c223662b829790c3618bbd1d3a7ed9f247f798b3",
+      "bytes": 1706240,
+      "mtime_ns": 1791032171352171084
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/14.png",
+      "sha256": "4b49e643a81a0a946af7458794d083aa10bb8473572cdc3ec947da8ea4971dbd",
+      "bytes": 1520257,
+      "mtime_ns": 1791032172438161317
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/15.png",
+      "sha256": "c65224614091123e094f7826a11054fe3d6f61f2ef8961f67f5dc836fb4b6095",
+      "bytes": 1753980,
+      "mtime_ns": 1791032173687152509
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/16.png",
+      "sha256": "bac9f71d8c0510cf54a468a46fd7e43f47821e0f097cd5807db7e337d5d5e417",
+      "bytes": 1555758,
+      "mtime_ns": 1791032174626908891
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/17.png",
+      "sha256": "489e92abc553618b65462e792790ed9aa53a3ee024a839f31b47b724fad06101",
+      "bytes": 1451025,
+      "mtime_ns": 1791032175542830787
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/18.png",
+      "sha256": "a7cd95146cd2fadf4aa05b1f852caacf28b69688ce539a67d83f3980beb20a57",
+      "bytes": 1694703,
+      "mtime_ns": 1791032176471874726
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/19.png",
+      "sha256": "c5c1cbe6a0e9b79117974db54ff5731a66a2e6f9c9302c6a674b09c7009e0e25",
+      "bytes": 1903821,
+      "mtime_ns": 1791032177474069591
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/20.png",
+      "sha256": "b59374eb3d554ab8d9353b8a9d72985b909c519c779932ea75dcc80d45d69cc7",
+      "bytes": 1694448,
+      "mtime_ns": 1791032178629377934
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/21.png",
+      "sha256": "03b5ae40cd19d68fc433930048e50201ebf58de46827eb0cbac4d58258fa2d50",
+      "bytes": 1807324,
+      "mtime_ns": 1791032179844965162
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/22.png",
+      "sha256": "519e3b30eabf5801cd7559fbd76b9da3c8e182ecd39ab7007cbf8ea3d9400a00",
+      "bytes": 1982561,
+      "mtime_ns": 1791032180975592222
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/23.png",
+      "sha256": "f4fa3668d9d5ba00a981a11e938c94f7d26da183c793ad809fb5a7e9be744ef3",
+      "bytes": 1322946,
+      "mtime_ns": 1791032182109879181
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/24.png",
+      "sha256": "eba71fcc465bbc562caab76146ebacbacace9f6bc1c378e7c1b59cee86f84c56",
+      "bytes": 1453562,
+      "mtime_ns": 1791032183022292055
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/banner.png",
+      "sha256": "23269e70bb80271e85f0dd42897e1a17f00b3ad8fa33baa62ba01478c4a385f5",
+      "bytes": 2763531,
+      "mtime_ns": 1791032184313237724
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/chat_icon.png",
+      "sha256": "c5201d4e4e287e36685c0c59453279b0c112fe3cbf6eb16165b94c73994dea25",
+      "bytes": 1822019,
+      "mtime_ns": 1791032184000378640
+    },
+    {
+      "file": "03_工程/失败导出_r1/sources/cover.png",
+      "sha256": "edace10f570e3e94995ce7987c761b839f3060ed67dcb2cc34218145fe047aa5",
+      "bytes": 1729142,
+      "mtime_ns": 1791032183730730084
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/01.png",
+      "sha256": "19d14e1897be918098470e314f2f3d2daf37f9cf0c2390d278712676daa05795",
+      "bytes": 17982,
+      "mtime_ns": 1791032159327906639
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/02.png",
+      "sha256": "d233bb0b42362f94d64dd0b62cafbc134b14fa5e712a0326aeb6bcbee307e026",
+      "bytes": 19884,
+      "mtime_ns": 1791032160322472621
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/03.png",
+      "sha256": "b5dfa21dccc13444c0e9b4f922361f0e1b3cbc1c182cdad240ed845b5d23ca45",
+      "bytes": 19383,
+      "mtime_ns": 1791032161339735665
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/04.png",
+      "sha256": "f95dbf6b74bbc94e84e79e4b1a934c28b5a89b302e15743a7e1c854f4b7bcf52",
+      "bytes": 21700,
+      "mtime_ns": 1791032162338210381
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/05.png",
+      "sha256": "7362592fd662e35870f2c1b084e48a0cd96430f765865a0e2295393394258991",
+      "bytes": 20854,
+      "mtime_ns": 1791032163417973699
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/06.png",
+      "sha256": "ae1ff1e7e76c14414e1127bd6a09a65f9644ae2473ccab0e97489b482fef16a6",
+      "bytes": 18629,
+      "mtime_ns": 1791032164416747751
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/07.png",
+      "sha256": "1cb9a8132eb92e2e37bcd4d63e83c6afafbf2d2afe56b1e6809dff39e22a7f79",
+      "bytes": 18762,
+      "mtime_ns": 1791032165410802063
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/08.png",
+      "sha256": "eabba8eeba7911cf8ca7c8a14eeabac5b57fd093f6ba262236ec7022bc175574",
+      "bytes": 29787,
+      "mtime_ns": 1791032166776629252
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/09.png",
+      "sha256": "f06bcf5374862573fed253c0bb053e5833494860f94d9394caff655f26a708a1",
+      "bytes": 18750,
+      "mtime_ns": 1791032167898086212
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/10.png",
+      "sha256": "9e51a9bf84d41fad0d2ea15e600039698647eb88a706b3a9c35450f760faf584",
+      "bytes": 18283,
+      "mtime_ns": 1791032168905055733
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/11.png",
+      "sha256": "20c0189a0936efaaf343265fe749cf4fb802c6e36f0f97e377b7e6975b7fa2ba",
+      "bytes": 20685,
+      "mtime_ns": 1791032169933789266
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/12.png",
+      "sha256": "d967d535cd5f0a50d0e39fe858545d622cd7f3c5d191d5f316de3fbe418d369f",
+      "bytes": 20225,
+      "mtime_ns": 1791032171017008524
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/13.png",
+      "sha256": "5478164dd3d57f0e869c4c8033252d3f0d952915428ed852a8760963dc52ecfe",
+      "bytes": 17507,
+      "mtime_ns": 1791032172020158394
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/14.png",
+      "sha256": "7e7ddf4f29961abd5188b208f84fd426552dd42f04d579edc13ec07ff196a209",
+      "bytes": 23011,
+      "mtime_ns": 1791032173327586877
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/15.png",
+      "sha256": "3b0953e28ccd7a98d7a6a545b0060c8d76bbf11ce240231273975b2292314062",
+      "bytes": 18294,
+      "mtime_ns": 1791032174312823216
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/16.png",
+      "sha256": "aca3cf9dc0f28a7d098dd25a561248a48cf80de27b934502ce8a837334b0a986",
+      "bytes": 16677,
+      "mtime_ns": 1791032175235769866
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/17.png",
+      "sha256": "4546370366c72f7bdf29555259257e9418ee2004dcbc9494d3872cca163d6b66",
+      "bytes": 15241,
+      "mtime_ns": 1791032176126647269
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/18.png",
+      "sha256": "d2617e69ca06fa5f36f91da2fb387724401af0423a3b44108d5029a9f491fdbe",
+      "bytes": 18328,
+      "mtime_ns": 1791032177097804644
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/19.png",
+      "sha256": "a6a8d903d72734e11b503bc9bad987b98cde8bc94b6cea7d3a11b41c9d1f31c0",
+      "bytes": 22771,
+      "mtime_ns": 1791032178224208011
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/20.png",
+      "sha256": "20a0dc3bd467d12b36043dae2c0ab29703296ef4cdf5484e4ed8031a874a6147",
+      "bytes": 20131,
+      "mtime_ns": 1791032179363793712
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/21.png",
+      "sha256": "65bdab3b49f4ca258ff26f9f817b5ab874e2028a99e5faeda5adb843af2d5478",
+      "bytes": 21651,
+      "mtime_ns": 1791032180560666278
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/22.png",
+      "sha256": "2570a0ecdcbac402731a3498b05beb96d0acd16bc20f3ff22860bfb8b7a8257c",
+      "bytes": 27244,
+      "mtime_ns": 1791032181797906478
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/23.png",
+      "sha256": "10b89e161627cdef0412ca265aa8fa3ea5a7cfd62d26b68907b97f16c3c9b6ab",
+      "bytes": 18865,
+      "mtime_ns": 1791032182770366737
+    },
+    {
+      "file": "03_工程/失败导出_r1/thumbnail/24.png",
+      "sha256": "32afb8343848505eda977bd62ef3d0dfe3495ef996fcc5b222179bbd2e97551c",
+      "bytes": 23090,
+      "mtime_ns": 1791032183704076830
+    },
+    {
+      "file": "03_工程/失败导出_r1/validation_report.json",
+      "sha256": "d8fada3e4d4012b1b3fe75fc47465589f653707b85e75a37b9ac65e4ab3b8788",
+      "bytes": 131685,
+      "mtime_ns": 1791032188430928920
+    },
+    {
+      "file": "03_工程/失败导出_r1/visual_review.json",
+      "sha256": "a6f5959dc5e2e8a1a9314f2fa31b82fd1067f5925fb486bc622e39e12732273d",
+      "bytes": 141,
+      "mtime_ns": 1791032184414354287
+    },
+    {
+      "file": "03_工程/失败导出_r1/上传填写文案.md",
+      "sha256": "05f0b35dac85bc1922b73e69a399692a9169e9e6858b60cb66210d16d5ef5af5",
+      "bytes": 1654,
+      "mtime_ns": 1791032068544407822
+    },
+    {
+      "file": "03_工程/字体/OFL.txt",
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "bytes": 4398,
+      "mtime_ns": 1791031239282905423
+    },
+    {
+      "file": "03_工程/字体/ZCOOLKuaiLe-Regular.ttf",
+      "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+      "bytes": 1514968,
+      "mtime_ns": 1791031238751151935
+    },
+    {
+      "file": "03_工程/字体/字体说明.md",
+      "sha256": "096960ce3b38d89581c44699da2e58d6a4378c2d1a37a45e10c20fe5c69e3081",
+      "bytes": 365,
+      "mtime_ns": 1791031239284161562
+    },
+    {
+      "file": "03_工程/官方核对/同批官方可见证据_范恩_20261003.json",
+      "sha256": "f743fb3d483b6272ddcd789325aa798217b397f0732c82e6f49d763b5934de8d",
+      "bytes": 1138,
+      "mtime_ns": 1791031311869134130
+    },
+    {
+      "file": "03_工程/官方核对/同批官方首次可见素材字段.json",
+      "sha256": "b73a95b8cf42d7ff538b601c656bdb3976d750fe510fa45336eb8171a2eb0c02",
+      "bytes": 8669,
+      "mtime_ns": 1791076722551547090
+    },
+    {
+      "file": "03_工程/官方核对/本次核对结果.json",
+      "sha256": "37bcc9862994f0efa055da666be374b2f59bd307fe52982e8a4599ea05c3e11b",
+      "bytes": 581,
+      "mtime_ns": 1791031239286781758
+    },
+    {
+      "file": "03_工程/官方核对/本次访问失败.md",
+      "sha256": "f4e37f93d0155eb59b597c04a368b4ed68e07de344b481c7ec8b91add57bf3a2",
+      "bytes": 651,
+      "mtime_ns": 1791031239286881926
+    },
+    {
+      "file": "03_工程/官方核对/本版逐字段复核.json",
+      "sha256": "2ec741618d91e5803ebe9957c6e89f48a4d616efe8101fce24e15c7db2996c59",
+      "bytes": 14924,
+      "mtime_ns": 1791076722556006605
+    },
+    {
+      "file": "03_工程/导出器/build_pack.py",
+      "sha256": "245e39521a47caa561fc6ca11f6824612514b83a094f81fc21560a0f10e7cb54",
+      "bytes": 15855,
+      "mtime_ns": 1791076774554092838
+    },
+    {
+      "file": "03_工程/导出器/pack_utils.py",
+      "sha256": "473eefb6d2fabf967c50b27791f2e6ec4c1d3015e71330ac14d90afe1ffd1e87",
+      "bytes": 11849,
+      "mtime_ns": 1791032592085699144
+    },
+    {
+      "file": "03_工程/导出器/platform-profile.json",
+      "sha256": "86f38feb4b45f3783ea90b096a3c85ff53e938af14ba9d0b2ae5affb02da8961",
+      "bytes": 19576,
+      "mtime_ns": 1791076722556965233
+    },
+    {
+      "file": "03_工程/导出器/validate_pack.py",
+      "sha256": "a85719b642a8ba91125c66db8d626d793bad47714c563fc85453cd8729830d45",
+      "bytes": 17443,
+      "mtime_ns": 1790930757139177771
+    },
+    {
+      "file": "03_工程/导出器/适配说明.md",
+      "sha256": "d0057c9e61eb1c6cc94a85a4acaf7d147205d04fab9911776270a09e27e3f346",
+      "bytes": 578,
+      "mtime_ns": 1791032592086316815
+    },
+    {
+      "file": "03_工程/已生成原画技术检查.json",
+      "sha256": "053f2c9e0fe7372e1134814a01df4324a5474e8a78911047aed2725a6caee4cb",
+      "bytes": 4923,
+      "mtime_ns": 1791031682904113388
+    },
+    {
+      "file": "03_工程/接收与透明处理.py",
+      "sha256": "94482752e56147203abb777313f456dd826c5147cda1803b70b8f1b01db987a8",
+      "bytes": 2077,
+      "mtime_ns": 1791031492479655839
+    },
+    {
+      "file": "03_工程/提示词/01.txt",
+      "sha256": "284083f96c1cd5adaa34f97998f3c01bb33639c993d4f40d3988fef7dade17f0",
+      "bytes": 1498,
+      "mtime_ns": 1791031094191146163
+    },
+    {
+      "file": "03_工程/提示词/02.txt",
+      "sha256": "404142ad3b12a46ada3c0cd431ddf6c7bee7ac7576f1f5c0a654236ee8b4ea9f",
+      "bytes": 1483,
+      "mtime_ns": 1791031094191276373
+    },
+    {
+      "file": "03_工程/提示词/03.txt",
+      "sha256": "008febfb89583c50800ad72e60311f1546d65b6b6087087c7490d091ab180c0f",
+      "bytes": 1496,
+      "mtime_ns": 1791031094191414833
+    },
+    {
+      "file": "03_工程/提示词/04.txt",
+      "sha256": "fc5b763f98f4542e565394c87b595f6551659ecd0d4cd23e8eb99b0381f9048b",
+      "bytes": 1482,
+      "mtime_ns": 1791031094191537043
+    },
+    {
+      "file": "03_工程/提示词/05.txt",
+      "sha256": "fe7eb10204b20cfd99095c007e6f21ff21fdb62ba2bc050f9751576759cd63c0",
+      "bytes": 1524,
+      "mtime_ns": 1791031094191651836
+    },
+    {
+      "file": "03_工程/提示词/06.txt",
+      "sha256": "42a3ec39405ed9bbd6b448c98bfcbc12f0d0f39b42545d2ce84bcfba59f85f29",
+      "bytes": 1482,
+      "mtime_ns": 1791031094191765378
+    },
+    {
+      "file": "03_工程/提示词/07.txt",
+      "sha256": "a82f42cd6ead7980c695401fdea987bb902fb3a8ed0253842f52ba24b3ca6131",
+      "bytes": 1493,
+      "mtime_ns": 1791031094191876505
+    },
+    {
+      "file": "03_工程/提示词/08.txt",
+      "sha256": "425f39d4e9d8d38fe18b8d7ffe2e498b23769bbb97c1286aeaa38e75fe30934d",
+      "bytes": 1520,
+      "mtime_ns": 1791031094191980006
+    },
+    {
+      "file": "03_工程/提示词/09.txt",
+      "sha256": "63db299ee98eab85ec2e9f002ad6cec4f77708cb76a08abf0d68938ba80f00d9",
+      "bytes": 1512,
+      "mtime_ns": 1791031094192085757
+    },
+    {
+      "file": "03_工程/提示词/10.txt",
+      "sha256": "54f7da754895a0cc22e5354638658f0c234328b9fabc87de5497c871e821ee4c",
+      "bytes": 1504,
+      "mtime_ns": 1791031094192197008
+    },
+    {
+      "file": "03_工程/提示词/11.txt",
+      "sha256": "99ac3105577d73dcd32dc806c22c039730a114d9371aa14267d7dc0069346d54",
+      "bytes": 1486,
+      "mtime_ns": 1791031094192307843
+    },
+    {
+      "file": "03_工程/提示词/12.txt",
+      "sha256": "3fa5927099d0df145149b8349cf1051f03832ca309123b7cc840240bbc24bb61",
+      "bytes": 1497,
+      "mtime_ns": 1791031094192419178
+    },
+    {
+      "file": "03_工程/提示词/13.txt",
+      "sha256": "f517e3156e93d689d8d43267eccc81f8ac09734280376bc07297a0df63f6e27f",
+      "bytes": 1484,
+      "mtime_ns": 1791031094192523220
+    },
+    {
+      "file": "03_工程/提示词/14.txt",
+      "sha256": "7f507e439a611d5ccd82a938082f527818b64e8a9d4e94e7887368a563c667e8",
+      "bytes": 1517,
+      "mtime_ns": 1791031094192628888
+    },
+    {
+      "file": "03_工程/提示词/15.txt",
+      "sha256": "fcbb83e48eec27a60ee2c08682c4aa8da847ce8ce921f12ccef04bb7d22dec54",
+      "bytes": 1476,
+      "mtime_ns": 1791031094192748098
+    },
+    {
+      "file": "03_工程/提示词/16.txt",
+      "sha256": "c4a79cf7e778e4a588e0836b48ceef3fbfc56da41a858b9663ef4f46cc1f794b",
+      "bytes": 1514,
+      "mtime_ns": 1791031094192850974
+    },
+    {
+      "file": "03_工程/提示词/17.txt",
+      "sha256": "9de461c2ca5981f4cf719e80d4f887c2d3e363559dfc7564c53c539b02326fd3",
+      "bytes": 1492,
+      "mtime_ns": 1791031094192969017
+    },
+    {
+      "file": "03_工程/提示词/18.txt",
+      "sha256": "47886f0fa329aec3cba863551492f99c366b2c2cc3bc6be510aa701480228e4a",
+      "bytes": 1485,
+      "mtime_ns": 1791031094193080268
+    },
+    {
+      "file": "03_工程/提示词/19.txt",
+      "sha256": "5312a6dd823440d76d0733890f944464bc8a3c184d7599ebf62249eb1d2dc18f",
+      "bytes": 1499,
+      "mtime_ns": 1791031094193182644
+    },
+    {
+      "file": "03_工程/提示词/20.txt",
+      "sha256": "d1dfe8fafdd4db2f73f31ddf8f543c23ed5ffcd146a5482c9de972171308a7a2",
+      "bytes": 1494,
+      "mtime_ns": 1791031094193342979
+    },
+    {
+      "file": "03_工程/提示词/21.txt",
+      "sha256": "6f245813b777148d437f363e895aebe35aadcc8071b1ee1321442fb3422e9e32",
+      "bytes": 1499,
+      "mtime_ns": 1791031094193515606
+    },
+    {
+      "file": "03_工程/提示词/22.txt",
+      "sha256": "150e53918440673ad6073edd90e02f678036d765ef58bdafc2689ca5a9a41953",
+      "bytes": 1540,
+      "mtime_ns": 1791031094193620566
+    },
+    {
+      "file": "03_工程/提示词/23.txt",
+      "sha256": "58e68b46b3a5ff2ac0727c73212ee48b295d3c83d9ef8bd681ff1ee6d38ca3d3",
+      "bytes": 1511,
+      "mtime_ns": 1791031094193740525
+    },
+    {
+      "file": "03_工程/提示词/24.txt",
+      "sha256": "b6382aa64fc773e985a5d54e9b9e94b86fbf945c3ab91f3410f09999b3f06f81",
+      "bytes": 1522,
+      "mtime_ns": 1791031682906285704
+    },
+    {
+      "file": "03_工程/提示词/banner.txt",
+      "sha256": "b69d4989732212f976f5f3607b4cfbc86ed87372898d5066fdfbfd51c4c522e8",
+      "bytes": 1355,
+      "mtime_ns": 1791031773753267448
+    },
+    {
+      "file": "03_工程/提示词/chat_icon.txt",
+      "sha256": "289a4cab7bf6e07b7b81da88bada3e75838280a91b5e65454e3b6a9365cc6ae5",
+      "bytes": 1689,
+      "mtime_ns": 1791031773753156364
+    },
+    {
+      "file": "03_工程/提示词/chat_icon_r2.txt",
+      "sha256": "8c3004e06172f469ce10bffde43b18b65d3d0122a9913c916eab51a57dc5daa6",
+      "bytes": 1050,
+      "mtime_ns": 1791032006696764539
+    },
+    {
+      "file": "03_工程/提示词/cover.txt",
+      "sha256": "09539b9f3a8f16cdd5f920f2109ac437e39c20daf3a42d1cf7c26d453d541913",
+      "bytes": 1583,
+      "mtime_ns": 1791031773753038071
+    },
+    {
+      "file": "03_工程/本版制作计划.md",
+      "sha256": "58b0d72b42f4fa747d8d7f20b0b693899acff975f51a340f1211f127f5c8363b",
+      "bytes": 2193,
+      "mtime_ns": 1791076774560369693
+    },
+    {
+      "file": "03_工程/独立任务工作单.md",
+      "sha256": "f97e7cc0b4480523f2f307c7b577ffd5455641fae8b81b0a148dc11f209609d4",
+      "bytes": 7214,
+      "mtime_ns": 1791030709246900218
+    },
+    {
+      "file": "03_工程/生成目检底图.py",
+      "sha256": "1d35b857e5690de5f4e7779d3e9a74d87a96dc2770ab235f23b22294cd349b66",
+      "bytes": 2854,
+      "mtime_ns": 1791032384697469604
+    },
+    {
+      "file": "03_工程/生成记录/01.json",
+      "sha256": "bc971f59052557e7f1771c3f5d47187ebfb9e6a23bd2abf95ba41821fd6cc3ed",
+      "bytes": 2200,
+      "mtime_ns": 1791032068533391668
+    },
+    {
+      "file": "03_工程/生成记录/02.json",
+      "sha256": "5987d1848e1eeb79f37204b96aca12e241b7fda087564106c9dcfe9773ff9f81",
+      "bytes": 2200,
+      "mtime_ns": 1791032068535744516
+    },
+    {
+      "file": "03_工程/生成记录/03.json",
+      "sha256": "c848bbb8fa1dfd6f8d348a9db9c58ae9d98875c119ba70e6db50dbf6ef2c8aa3",
+      "bytes": 2200,
+      "mtime_ns": 1791032068538283074
+    },
+    {
+      "file": "03_工程/生成记录/04.json",
+      "sha256": "145adb7ea309471a8d8e571ac7011bc49f34be835431fc1f999fa852299e50f8",
+      "bytes": 2200,
+      "mtime_ns": 1791032068544094028
+    },
+    {
+      "file": "03_工程/生成记录/05.json",
+      "sha256": "409d4faddb15390c6d146c3d545f60667b788d348103d08e3f819b71e46d5bf0",
+      "bytes": 2735,
+      "mtime_ns": 1791031498803299965
+    },
+    {
+      "file": "03_工程/生成记录/06.json",
+      "sha256": "80aad72a154efd229a50ba0e7a6d713a1cbbfe66cda43add4ab89b020c26480b",
+      "bytes": 2736,
+      "mtime_ns": 1791031499798287053
+    },
+    {
+      "file": "03_工程/生成记录/07.json",
+      "sha256": "cfd4bd04f6c1d7501d77a1ed2c8930bff2070929693551c777a2bca5621e4861",
+      "bytes": 2736,
+      "mtime_ns": 1791031592056512762
+    },
+    {
+      "file": "03_工程/生成记录/08.json",
+      "sha256": "c73a48fe8326b2e7fe2422180f4a7d62bfd2b410e3f763eda5a6f348c7521fb2",
+      "bytes": 2736,
+      "mtime_ns": 1791031500498793206
+    },
+    {
+      "file": "03_工程/生成记录/09.json",
+      "sha256": "09690d35475d748978f8401645583df55db2f36179df086b64d5d1f3bbb23ec9",
+      "bytes": 2736,
+      "mtime_ns": 1791031683347703438
+    },
+    {
+      "file": "03_工程/生成记录/10.json",
+      "sha256": "89628f54f3fa22431e37586446a58e6d6bd411a59e55c55d724a30e5d9452858",
+      "bytes": 2736,
+      "mtime_ns": 1791031722838272877
+    },
+    {
+      "file": "03_工程/生成记录/11.json",
+      "sha256": "021e37556a2bdf865edd3481f40653e2a3c098bef2e248822e4a087a46865fef",
+      "bytes": 2736,
+      "mtime_ns": 1791031640857435152
+    },
+    {
+      "file": "03_工程/生成记录/12.json",
+      "sha256": "9e3cc5ced1473d68bba6136c1795711ee0408e73bda04bb911f91e92732995fb",
+      "bytes": 2736,
+      "mtime_ns": 1791031593475255222
+    },
+    {
+      "file": "03_工程/生成记录/13.json",
+      "sha256": "9e70fa5e60022666912f9e8ef3d042046fd07ac58420c93a2ecb641f5391d278",
+      "bytes": 2736,
+      "mtime_ns": 1791031574855660708
+    },
+    {
+      "file": "03_工程/生成记录/14.json",
+      "sha256": "103ec337fda556c81ad07f80d1fe3f928620834d10f9b420777b78a2e572ff50",
+      "bytes": 2736,
+      "mtime_ns": 1791031650476815576
+    },
+    {
+      "file": "03_工程/生成记录/15.json",
+      "sha256": "799325d5c10785847cf6e78f3f56fad110ac1e745a7c681db9a8d5cef0da2671",
+      "bytes": 2736,
+      "mtime_ns": 1791031606927310655
+    },
+    {
+      "file": "03_工程/生成记录/16.json",
+      "sha256": "47887cb0f032bf3ced4348f2f9934a58b7bbb084771bb5e479582c0f33d590da",
+      "bytes": 2736,
+      "mtime_ns": 1791031678535994017
+    },
+    {
+      "file": "03_工程/生成记录/17.json",
+      "sha256": "287147e3996a92b69edcc1485ef2c17b987764caeb981e64b2295c835df84031",
+      "bytes": 2737,
+      "mtime_ns": 1791031729660652873
+    },
+    {
+      "file": "03_工程/生成记录/18.json",
+      "sha256": "0a05c6f1004b4b23cadb44222c6147bdc07e583bcb505a22f7395cbf93f61926",
+      "bytes": 2736,
+      "mtime_ns": 1791031673609209276
+    },
+    {
+      "file": "03_工程/生成记录/19.json",
+      "sha256": "8c5a8990258060bec46cd3dafc8b6fec06cf5b4a93853a1faf0330a5ce1b113e",
+      "bytes": 2736,
+      "mtime_ns": 1791031785965696243
+    },
+    {
+      "file": "03_工程/生成记录/20.json",
+      "sha256": "858f178e1068ede653607ce3cd5659a1ad0f971ada6d51fff79313939905b42c",
+      "bytes": 2736,
+      "mtime_ns": 1791031810214477671
+    },
+    {
+      "file": "03_工程/生成记录/21.json",
+      "sha256": "9dabd74335cd755bacb354de289b34c73528b7b1ec16df9be77869ba8b98d3fc",
+      "bytes": 2736,
+      "mtime_ns": 1791031843871217174
+    },
+    {
+      "file": "03_工程/生成记录/22.json",
+      "sha256": "f66ea5acdec24dbba607c954d5516140aa3c11b555a4ea32f8ff631e7411d14e",
+      "bytes": 2736,
+      "mtime_ns": 1791031814171017473
+    },
+    {
+      "file": "03_工程/生成记录/23.json",
+      "sha256": "8e6aea1398a1dbf87d232a047fb5e5edd02d50b5b195a2703335739079e27784",
+      "bytes": 2737,
+      "mtime_ns": 1791031878073966019
+    },
+    {
+      "file": "03_工程/生成记录/24.json",
+      "sha256": "9a1c55d25dcf4065cb1e41472fa8a5e3c106e52d9e482f761efeaed15d884161",
+      "bytes": 2736,
+      "mtime_ns": 1791031762527035477
+    },
+    {
+      "file": "03_工程/生成记录/banner.json",
+      "sha256": "cafc93e65ab4195bca2816f7d8b1a5cc3596dd1bdc47625581d0942a66344133",
+      "bytes": 1821,
+      "mtime_ns": 1791031837902067694
+    },
+    {
+      "file": "03_工程/生成记录/chat_icon.json",
+      "sha256": "21e8d5a02d3fecca9c35d4f4ed70d350c784f6eea92d1358dd225968d3351d68",
+      "bytes": 2778,
+      "mtime_ns": 1791031911080949214
+    },
+    {
+      "file": "03_工程/生成记录/chat_icon_r2.json",
+      "sha256": "e568f0236ab5bb907337a293ed74ded941dd1f2fdced3d95a25cfffc2b03b8b2",
+      "bytes": 2901,
+      "mtime_ns": 1791032060896466626
+    },
+    {
+      "file": "03_工程/生成记录/cover.json",
+      "sha256": "547c91a0ee14c6f7849d63a3483992083675f9b7f886116b08b6cf1896ee3a8e",
+      "bytes": 2754,
+      "mtime_ns": 1791031950133825596
+    },
+    {
+      "file": "03_工程/目检底图/首图排版.png",
+      "sha256": "e4e721d780cee9f79155c06504077ec364dd5cab0e5eadbc47c60ae558c8f79d",
+      "bytes": 96239,
+      "mtime_ns": 1791031414864229545
+    },
+    {
+      "file": "03_工程/计划/01_古德_古德宝宝有话说/character_references.json",
+      "sha256": "979bbf61213b50a9050d2f821f26fb3db974e59bab8f909f7a8926a60244e155",
+      "bytes": 1160,
+      "mtime_ns": 1791031112000621706
+    },
+    {
+      "file": "03_工程/计划/01_古德_古德宝宝有话说/job-plan.json",
+      "sha256": "7330c3e75f4e3b8ed473f7f02bb82b52cd6b61c1754342b7d1ebc41411fd3095",
+      "bytes": 8297,
+      "mtime_ns": 1791031112001192004
+    },
+    {
+      "file": "03_工程/计划/01_古德_古德宝宝有话说/references/gude_01.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1791030545005587286
+    },
+    {
+      "file": "03_工程/计划/batch.json",
+      "sha256": "76570547fc7d58d5075cdd0050ce99804335e9d867296a5f002ad4c5224b3a97",
+      "bytes": 135,
+      "mtime_ns": 1791031112001571300
+    },
+    {
+      "file": "03_工程/计划/input.json",
+      "sha256": "46bde2902b0c4403218956fd6c4e62cd5a324f6eed74b67f42b6316d684d9e7b",
+      "bytes": 533,
+      "mtime_ns": 1791031111991718648
+    },
+    {
+      "file": "04_成品/SHA256SUMS.txt",
+      "sha256": "beb25545d14bff7ae84d2c14c9d232c225d3d4386ee9e40c07c1a0687dcfc725",
+      "bytes": 258,
+      "mtime_ns": 1791076782756038762
+    },
+    {
+      "file": "04_成品/captions.csv",
+      "sha256": "65776c740cb4d6a64c9a6ff957f2869fb75651bba2dd4de40851795a18bd6627",
+      "bytes": 1944,
+      "mtime_ns": 1791032620608580495
+    },
+    {
+      "file": "04_成品/complete_delivery.zip",
+      "sha256": "f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b",
+      "bytes": 162681584,
+      "mtime_ns": 1791076782390232861
+    },
+    {
+      "file": "04_成品/delivery_notes.md",
+      "sha256": "46f97d19221d8b191d95ce1bc0d5f5d8684a3a9796a7f837d7443229be7266c6",
+      "bytes": 1150,
+      "mtime_ns": 1791076774556606389
+    },
+    {
+      "file": "04_成品/extras/banner_750x400.jpg",
+      "sha256": "33758bb0770cd8000f20862e4c565a66a178b58ad4b9e6b8d9689fc51025a140",
+      "bytes": 78977,
+      "mtime_ns": 1791032620602342247
+    },
+    {
+      "file": "04_成品/extras/chat_icon_240_备用.png",
+      "sha256": "8eb124f45b8850972f11b742373a03ff69b0d25eaedb216ac4acb4d740ae5f48",
+      "bytes": 92022,
+      "mtime_ns": 1791032620490908327
+    },
+    {
+      "file": "04_成品/extras/chat_icon_50.png",
+      "sha256": "ffc5290a3ac9d989130692c7ebfda3763bf4afb9133fe2321d810e2fabe7af0b",
+      "bytes": 5562,
+      "mtime_ns": 1791032620473878384
+    },
+    {
+      "file": "04_成品/extras/cover_240.png",
+      "sha256": "e1dbd2c51cb2968b6d01919eae1527397cea47c7f05b8ef22846b01a674754bb",
+      "bytes": 72928,
+      "mtime_ns": 1791032620209636070
+    },
+    {
+      "file": "04_成品/job.json",
+      "sha256": "771a684056ba8f7e85341f2be004a8bd577970a783d94a7225880a7d863c0836",
+      "bytes": 52767,
+      "mtime_ns": 1791032620604059883
+    },
+    {
+      "file": "04_成品/layers/01_art.png",
+      "sha256": "82adc19bfc832fcb3722225fa60ee0718576eeb33bea70019b10abee35d8064d",
+      "bytes": 613364,
+      "mtime_ns": 1791032593875988545
+    },
+    {
+      "file": "04_成品/layers/01_text.png",
+      "sha256": "89902b831f6181cd2212259fde84af3d20438e3d9f10352b6650cecf2f2b31e6",
+      "bytes": 27538,
+      "mtime_ns": 1791032593913863621
+    },
+    {
+      "file": "04_成品/layers/02_art.png",
+      "sha256": "1d3fe3d9dcf81a0ca710151b1750fdc6f46b45ba27027f3d920a31f60db6216e",
+      "bytes": 740998,
+      "mtime_ns": 1791032594899342961
+    },
+    {
+      "file": "04_成品/layers/02_text.png",
+      "sha256": "1515338c09c06c239ef392a7587e0c0dd0f074c72d8151e7294b43b34afabac2",
+      "bytes": 22526,
+      "mtime_ns": 1791032594931044456
+    },
+    {
+      "file": "04_成品/layers/03_art.png",
+      "sha256": "67905171502e8f13e23ec46443d3123b79909569c42919175ed1cce788eb1db8",
+      "bytes": 683054,
+      "mtime_ns": 1791032595860216811
+    },
+    {
+      "file": "04_成品/layers/03_text.png",
+      "sha256": "81b1cc312d2add50e13d9e27d4435a17458e78a4274dc3c4ec3527ec2ba8ef6e",
+      "bytes": 30654,
+      "mtime_ns": 1791032595899191602
+    },
+    {
+      "file": "04_成品/layers/04_art.png",
+      "sha256": "32b22b88dad406d73b55f1235cebd7c94ceea9fbca019964a15ab0be4843fe80",
+      "bytes": 693541,
+      "mtime_ns": 1791032596859556032
+    },
+    {
+      "file": "04_成品/layers/04_text.png",
+      "sha256": "4a558efd024eba629cd65d220e2e19b3145a1742febcae79d4b07f86d88c5835",
+      "bytes": 41775,
+      "mtime_ns": 1791032596906916418
+    },
+    {
+      "file": "04_成品/layers/05_art.png",
+      "sha256": "ad165830da06f4e51707a385acae393249528f6a28b42a204446fbe77d65cdf9",
+      "bytes": 720378,
+      "mtime_ns": 1791032597933464938
+    },
+    {
+      "file": "04_成品/layers/05_text.png",
+      "sha256": "03b54091c211f16dec50b29e627151f7c6dbb5bc8ed9790df84feea802066a92",
+      "bytes": 34393,
+      "mtime_ns": 1791032597983376382
+    },
+    {
+      "file": "04_成品/layers/06_art.png",
+      "sha256": "9b8e735fdc04eb52151a6dda5627a436fe11e438aa26e6bde878dccb73bf6804",
+      "bytes": 714609,
+      "mtime_ns": 1791032599033396593
+    },
+    {
+      "file": "04_成品/layers/06_text.png",
+      "sha256": "cec439012bb5273287701b1ce2a4654f186db03e92d90b2fb386be1035e7f4dc",
+      "bytes": 23299,
+      "mtime_ns": 1791032599064066623
+    },
+    {
+      "file": "04_成品/layers/07_art.png",
+      "sha256": "6cffd8cec4fc0ef056e3b9adb1c8ce6e693295f2e17544d0608a5b6dcc5e92f8",
+      "bytes": 714025,
+      "mtime_ns": 1791032600462970689
+    },
+    {
+      "file": "04_成品/layers/07_text.png",
+      "sha256": "582f11f72d5e66c91a38b5bce534303e0211d7cf728e695538031d5c4248853e",
+      "bytes": 32813,
+      "mtime_ns": 1791032600547285978
+    },
+    {
+      "file": "04_成品/layers/08_art.png",
+      "sha256": "020d52f57c64e5950d0afd500f35779cd629d57b095db14f23e6bbb0cc5b3384",
+      "bytes": 1109351,
+      "mtime_ns": 1791032601977744996
+    },
+    {
+      "file": "04_成品/layers/08_text.png",
+      "sha256": "69ab4b69665bfe95b06f9462bb9f0d253358a69e507424fddf1ace1861db91f7",
+      "bytes": 54720,
+      "mtime_ns": 1791032602040913691
+    },
+    {
+      "file": "04_成品/layers/09_art.png",
+      "sha256": "accbe20c0cd1a97696f88c471953f51b7d9bce6d075ce5ed4d01eabedb8c5186",
+      "bytes": 793233,
+      "mtime_ns": 1791032603398149450
+    },
+    {
+      "file": "04_成品/layers/09_text.png",
+      "sha256": "769891de890c4885cff926f0852fb1f453b8aa2f5071a7651eb5fccb8892785b",
+      "bytes": 22135,
+      "mtime_ns": 1791032603429030064
+    },
+    {
+      "file": "04_成品/layers/10_art.png",
+      "sha256": "6296bd3e358f6869792ce3e78af242c34d75db4b04f37a25e31db395bf5a4355",
+      "bytes": 734531,
+      "mtime_ns": 1791032604602756816
+    },
+    {
+      "file": "04_成品/layers/10_text.png",
+      "sha256": "618210ad6a8eec033d11c67123d54e80b38f7f119870639b2ccded592018674e",
+      "bytes": 21854,
+      "mtime_ns": 1791032604638878839
+    },
+    {
+      "file": "04_成品/layers/11_art.png",
+      "sha256": "603ea2f6d974d75ab9d4aeb476cc8785365ce5bb06a3bf3fa56b80e42234e4fe",
+      "bytes": 739533,
+      "mtime_ns": 1791032605619845817
+    },
+    {
+      "file": "04_成品/layers/11_text.png",
+      "sha256": "62e29662d6a0d3071d65d6e2c84d50a4bde4451350830893605d38fd0ea12343",
+      "bytes": 41800,
+      "mtime_ns": 1791032605677199309
+    },
+    {
+      "file": "04_成品/layers/12_art.png",
+      "sha256": "6ce11223acf3f5959105bbcd358ed99d338919ddebd4e569e0d53415e0a8f60f",
+      "bytes": 679224,
+      "mtime_ns": 1791032606649357648
+    },
+    {
+      "file": "04_成品/layers/12_text.png",
+      "sha256": "ed3dac1338a59e983a401b0537fc85a7234ef17abb9ba3ea30a2e030c81dca2e",
+      "bytes": 43952,
+      "mtime_ns": 1791032606709462907
+    },
+    {
+      "file": "04_成品/layers/13_art.png",
+      "sha256": "5e67f2bf7fa7f9dc10c98ba7ce89bd3de878f44beb2776473bbb6660673918a2",
+      "bytes": 705346,
+      "mtime_ns": 1791032607715627213
+    },
+    {
+      "file": "04_成品/layers/13_text.png",
+      "sha256": "3d98748c107f52ba426287f5f428d2ae472073515de360dc5e7c8a96b9f7f725",
+      "bytes": 30593,
+      "mtime_ns": 1791032607755432092
+    },
+    {
+      "file": "04_成品/layers/14_art.png",
+      "sha256": "725179504679946225beba333a89f1b205bf3975ba46ed7c442b8b1b3aeaeb4f",
+      "bytes": 762708,
+      "mtime_ns": 1791032608840615319
+    },
+    {
+      "file": "04_成品/layers/14_text.png",
+      "sha256": "bb08661cd5f0e5314a7c16821a951d23bae3e96323e33df1c80092d9144c0d32",
+      "bytes": 46984,
+      "mtime_ns": 1791032608900018532
+    },
+    {
+      "file": "04_成品/layers/15_art.png",
+      "sha256": "3cf5af1bdb281480c2f3c9d2ccb4b2e100a0bdaa03ffeabab089dc5064e83c0e",
+      "bytes": 803076,
+      "mtime_ns": 1791032609979378348
+    },
+    {
+      "file": "04_成品/layers/15_text.png",
+      "sha256": "3c728b51a524d5955059de03cf4c50625435818ac450c1ae4e74fcee139e9ede",
+      "bytes": 11906,
+      "mtime_ns": 1791032610002140660
+    },
+    {
+      "file": "04_成品/layers/16_art.png",
+      "sha256": "43c6dd8e31bbe15880ad215f04ac28deca325514a35749d31762ae5c1545f4ca",
+      "bytes": 671087,
+      "mtime_ns": 1791032610967783665
+    },
+    {
+      "file": "04_成品/layers/16_text.png",
+      "sha256": "6e438516d05c0056934e14af9ef83097abbebb0438bd1346c4d62a524a443eba",
+      "bytes": 23764,
+      "mtime_ns": 1791032611004082856
+    },
+    {
+      "file": "04_成品/layers/17_art.png",
+      "sha256": "e1d5fb9213448b1ca463f86557c518e0f59cd5c06b9580e8aa0755da8f376a7d",
+      "bytes": 684522,
+      "mtime_ns": 1791032611966609716
+    },
+    {
+      "file": "04_成品/layers/17_text.png",
+      "sha256": "6ef1e66a2452bb34d3e7f6d3a966e06ff643b06eb0b53c2f5efb4a224a63f60c",
+      "bytes": 13533,
+      "mtime_ns": 1791032611992572757
+    },
+    {
+      "file": "04_成品/layers/18_art.png",
+      "sha256": "4b5edb78b6373a6d5c5860739a2ae6386a81f920228304e6d784299e6a1607b3",
+      "bytes": 727864,
+      "mtime_ns": 1791032612966207480
+    },
+    {
+      "file": "04_成品/layers/18_text.png",
+      "sha256": "461df1ebf779659efca49eee44652d3e0aa5feaecfbbb148708d80d23b99cbc4",
+      "bytes": 21736,
+      "mtime_ns": 1791032612999550194
+    },
+    {
+      "file": "04_成品/layers/19_art.png",
+      "sha256": "22708712205b4ffa231489a4d1a4835c396c8d9954413d1f35daf1ecbac062ad",
+      "bytes": 819510,
+      "mtime_ns": 1791032613993792215
+    },
+    {
+      "file": "04_成品/layers/19_text.png",
+      "sha256": "a41192234c8f69f99f305d1021ca793bfcc50ca8ce34b181914a92022ba5f72a",
+      "bytes": 48947,
+      "mtime_ns": 1791032614056037780
+    },
+    {
+      "file": "04_成品/layers/20_art.png",
+      "sha256": "dde2eef6f5401b564e95e1545bccb2d92096e00875bca0a651086ebc02daac11",
+      "bytes": 733065,
+      "mtime_ns": 1791032615096753598
+    },
+    {
+      "file": "04_成品/layers/20_text.png",
+      "sha256": "69fbb5265be1d7500f545bebf699f6f1615c8be59b280a135097c3b9b085ff4a",
+      "bytes": 42544,
+      "mtime_ns": 1791032615154325591
+    },
+    {
+      "file": "04_成品/layers/21_art.png",
+      "sha256": "e3529393382803d5d2560396f9e24dd1540ea786b0083df3d3a26bfc34a2f847",
+      "bytes": 923572,
+      "mtime_ns": 1791032616182618206
+    },
+    {
+      "file": "04_成品/layers/21_text.png",
+      "sha256": "b34d9c77d6bc294ec2d99a814e614168991d28d611a73b2616eddf420826976f",
+      "bytes": 27127,
+      "mtime_ns": 1791032616223309674
+    },
+    {
+      "file": "04_成品/layers/22_art.png",
+      "sha256": "336386b106053e586d93c8bdf38c41a7c45158ec3a112099b3bd0a354a02d837",
+      "bytes": 1092922,
+      "mtime_ns": 1791032617324723506
+    },
+    {
+      "file": "04_成品/layers/22_text.png",
+      "sha256": "04316f3ccc0d0e8aa942bb90ec3107569c12472fab2f29d0d8cb7f13a812579f",
+      "bytes": 39420,
+      "mtime_ns": 1791032617374982285
+    },
+    {
+      "file": "04_成品/layers/23_art.png",
+      "sha256": "b930bcdf8216f1c0e54aa3524b2b03a91918e00f096df1fd07304f3f6afd6b13",
+      "bytes": 622347,
+      "mtime_ns": 1791032618435888733
+    },
+    {
+      "file": "04_成品/layers/23_text.png",
+      "sha256": "ba24ed7c7619b2e59ff6d004239aefdc7d5966c15190302fd07c89270630af77",
+      "bytes": 37903,
+      "mtime_ns": 1791032618484969964
+    },
+    {
+      "file": "04_成品/layers/24_art.png",
+      "sha256": "1d4c3cfc3da1e0324b2603f203aa59fb5fd93038662fe395c5338a7787a82e1a",
+      "bytes": 943407,
+      "mtime_ns": 1791032619405079344
+    },
+    {
+      "file": "04_成品/layers/24_text.png",
+      "sha256": "4939940db5f727cb5b043bdb242894be7f9e6d8104982785bb15e61306897386",
+      "bytes": 27919,
+      "mtime_ns": 1791032619447875493
+    },
+    {
+      "file": "04_成品/main_gif/01.gif",
+      "sha256": "3bfc9e64bddde3d517149786aeb6c7252bc154cbaebe122b685de8a101af1e7f",
+      "bytes": 16548,
+      "mtime_ns": 1791032594388295904
+    },
+    {
+      "file": "04_成品/main_gif/02.gif",
+      "sha256": "4f85c26a57643de50fb803cfdbafdb1a7373b19fecce6c0edb5b26b7ef7266ef",
+      "bytes": 19562,
+      "mtime_ns": 1791032595404198480
+    },
+    {
+      "file": "04_成品/main_gif/03.gif",
+      "sha256": "ccd0a230d264ca5aab4c67ab49ee1de4888eebae9b74c8b51674579249ee1850",
+      "bytes": 18462,
+      "mtime_ns": 1791032596355703562
+    },
+    {
+      "file": "04_成品/main_gif/04.gif",
+      "sha256": "33d907e7fd162448a69aff47543faca4e30dca4509d5f488b8afd2569411ec41",
+      "bytes": 19519,
+      "mtime_ns": 1791032597381474327
+    },
+    {
+      "file": "04_成品/main_gif/05.gif",
+      "sha256": "5320ed2cde2ef80f50799746aa043145b5fcdf8dce544583dd4fa0e4e9d276b9",
+      "bytes": 19956,
+      "mtime_ns": 1791032598488528361
+    },
+    {
+      "file": "04_成品/main_gif/06.gif",
+      "sha256": "a148c2520f6d8b4d9f1c829d5b6bdb92673cf75cc5f861f6eeb3f16cd22a758d",
+      "bytes": 18024,
+      "mtime_ns": 1791032599574224467
+    },
+    {
+      "file": "04_成品/main_gif/07.gif",
+      "sha256": "4f88ebf1a6a39b35195b5842d4fa6ab162ab23d4c44b937d47695f9da2f12203",
+      "bytes": 18681,
+      "mtime_ns": 1791032601336491273
+    },
+    {
+      "file": "04_成品/main_gif/08.gif",
+      "sha256": "8adf1af6bece9f4edbf65b708b28c598c11761b66d6deebf330381925e254e21",
+      "bytes": 25996,
+      "mtime_ns": 1791032602857021157
+    },
+    {
+      "file": "04_成品/main_gif/09.gif",
+      "sha256": "5974d5ff277addf722a36e5f4f8b8f8ade03ade1667c2d3911cd2fa2ba519ef1",
+      "bytes": 18753,
+      "mtime_ns": 1791032604101019609
+    },
+    {
+      "file": "04_成品/main_gif/10.gif",
+      "sha256": "1554b94f3825d70a193ece4838d5e695ff607356286bdaf8d19acf98f400bd29",
+      "bytes": 17264,
+      "mtime_ns": 1791032605119541869
+    },
+    {
+      "file": "04_成品/main_gif/11.gif",
+      "sha256": "b7580ad9b35003bf28f26f584b2cb9e11d2f12362354da18e6f85d3c919b01c9",
+      "bytes": 18348,
+      "mtime_ns": 1791032606171227549
+    },
+    {
+      "file": "04_成品/main_gif/12.gif",
+      "sha256": "a6fdba8a40506f4acabaf2cd29d4bec69502b3d0a7504fb872e96ad78ffdccf4",
+      "bytes": 19225,
+      "mtime_ns": 1791032607237932701
+    },
+    {
+      "file": "04_成品/main_gif/13.gif",
+      "sha256": "ea656c9f936f2fac2eae0780717c87f0dc29a3ed9c05fc917cb7bc61f96af8de",
+      "bytes": 17087,
+      "mtime_ns": 1791032608233452772
+    },
+    {
+      "file": "04_成品/main_gif/14.gif",
+      "sha256": "feecda7dcbde8cf694d648299a3d562549a04ab52d46d1a7682cf795d8c16354",
+      "bytes": 20676,
+      "mtime_ns": 1791032609454424076
+    },
+    {
+      "file": "04_成品/main_gif/15.gif",
+      "sha256": "19b41f47255d2a928d13ceaecdaf3d134cef073d045158eca6f4ef2b7129682d",
+      "bytes": 19477,
+      "mtime_ns": 1791032610488974856
+    },
+    {
+      "file": "04_成品/main_gif/16.gif",
+      "sha256": "d63d0b7a3469d9f3b4b4eff82734c07fd756cd5a974d17ff0045f89d20e05438",
+      "bytes": 15641,
+      "mtime_ns": 1791032611518576520
+    },
+    {
+      "file": "04_成品/main_gif/17.gif",
+      "sha256": "e9dc7b33ee9744b671464bb8c310c70b7dbc8bef9248f6a1a21ee61acc127738",
+      "bytes": 15367,
+      "mtime_ns": 1791032612439176196
+    },
+    {
+      "file": "04_成品/main_gif/18.gif",
+      "sha256": "9f1a215b04b13f70064657430b3920e7dfaf2a85919be46a3efae65e4eff30fd",
+      "bytes": 17397,
+      "mtime_ns": 1791032613462749446
+    },
+    {
+      "file": "04_成品/main_gif/19.gif",
+      "sha256": "226181c565b6a89e240186dc24dd916a96aa409f9f9c3d1bcb117b8b70e266ba",
+      "bytes": 21142,
+      "mtime_ns": 1791032614559877167
+    },
+    {
+      "file": "04_成品/main_gif/20.gif",
+      "sha256": "a04c9b277605651744028595597ac3f0545e022d1d6b99717e5814a6a36ed6eb",
+      "bytes": 19582,
+      "mtime_ns": 1791032615636915968
+    },
+    {
+      "file": "04_成品/main_gif/21.gif",
+      "sha256": "5ea75ccdd8e8525fd15c25a727d267543521f26698b27e57b0b96a8cb07855d0",
+      "bytes": 21901,
+      "mtime_ns": 1791032616733974814
+    },
+    {
+      "file": "04_成品/main_gif/22.gif",
+      "sha256": "5f4c624c9d3c59f39f61a1beff7af060aea4f3357e8cfe114c24b5d0e3db4f25",
+      "bytes": 24487,
+      "mtime_ns": 1791032617972513979
+    },
+    {
+      "file": "04_成品/main_gif/23.gif",
+      "sha256": "386754a3bc29eca41c361554b3ee868b5d1e4ec68d8b6e7403a475d6de1a2345",
+      "bytes": 17940,
+      "mtime_ns": 1791032618960411418
+    },
+    {
+      "file": "04_成品/main_gif/24.gif",
+      "sha256": "42019536b9a657bdd8f38d6fc1df4b3e76fbf1d2ba9e6e58cde8ec266562c756",
+      "bytes": 22693,
+      "mtime_ns": 1791032619960604103
+    },
+    {
+      "file": "04_成品/main_png/01.png",
+      "sha256": "a84e34588e9d322e2d0f38b950b375fd56ff25a869c7c4ce8b1976004d9da374",
+      "bytes": 57667,
+      "mtime_ns": 1791032594349637406
+    },
+    {
+      "file": "04_成品/main_png/02.png",
+      "sha256": "2249465a03ddf2137b21342f7eb4e77503afbe2b761cbe9a233fa01cc030a52a",
+      "bytes": 64808,
+      "mtime_ns": 1791032595365067980
+    },
+    {
+      "file": "04_成品/main_png/03.png",
+      "sha256": "df82ae2b3455e16578c617074b755a5788404ed863c9d764dba7c997390d7a7b",
+      "bytes": 62581,
+      "mtime_ns": 1791032596315614264
+    },
+    {
+      "file": "04_成品/main_png/04.png",
+      "sha256": "c51af596b68ae182b8fd932f1d59743d1b9357b3f774f3c780a38170d96e67bc",
+      "bytes": 69914,
+      "mtime_ns": 1791032597341434362
+    },
+    {
+      "file": "04_成品/main_png/05.png",
+      "sha256": "428c05ed9f2632f624c44fdf097f9eb6e8ff095f802a33d31c456cd0e615b49d",
+      "bytes": 66601,
+      "mtime_ns": 1791032598447487182
+    },
+    {
+      "file": "04_成品/main_png/06.png",
+      "sha256": "82dcc2014d39eb3dc86fc6d619609602af5d3e3b4a94c0e17d3112abf02a0fc9",
+      "bytes": 62592,
+      "mtime_ns": 1791032599535336844
+    },
+    {
+      "file": "04_成品/main_png/07.png",
+      "sha256": "ba687a52b24e4add3a2bcdb4ced3c1697c10b90301a6c736eece8757609bae34",
+      "bytes": 62353,
+      "mtime_ns": 1791032601294465879
+    },
+    {
+      "file": "04_成品/main_png/08.png",
+      "sha256": "b639de4ff5cc38de5e5a964d353e4e2fea357abde9710c6931550a28d73b5313",
+      "bytes": 81878,
+      "mtime_ns": 1791032602792097617
+    },
+    {
+      "file": "04_成品/main_png/09.png",
+      "sha256": "58b0beeec424b98a75dcd384852ca65b5288c48b220013f22050c4db28756307",
+      "bytes": 63256,
+      "mtime_ns": 1791032604056133780
+    },
+    {
+      "file": "04_成品/main_png/10.png",
+      "sha256": "5c9c127dad14f9951a8cda716a03aff466a72bc71b13f86688749ea462809086",
+      "bytes": 60448,
+      "mtime_ns": 1791032605078756567
+    },
+    {
+      "file": "04_成品/main_png/11.png",
+      "sha256": "e933367f4f9e7eb45d2ed915ee2ff5cbde8cbe36e8404759eb479ddb003bbdea",
+      "bytes": 68328,
+      "mtime_ns": 1791032606129259364
+    },
+    {
+      "file": "04_成品/main_png/12.png",
+      "sha256": "4f53c320b2dd7fede3dfbaad75547d85f0dff74d0492e307944e4da075e4765f",
+      "bytes": 65709,
+      "mtime_ns": 1791032607197228816
+    },
+    {
+      "file": "04_成品/main_png/13.png",
+      "sha256": "03082d89ecdd02fde1aae71351ad999c0c7ccb186f8de1fcbb69aea831a2673a",
+      "bytes": 58527,
+      "mtime_ns": 1791032608191607963
+    },
+    {
+      "file": "04_成品/main_png/14.png",
+      "sha256": "6595ad79a0520c1e6dec29ee8394c0ab099d283c692dbbdfc603b27430745afc",
+      "bytes": 74115,
+      "mtime_ns": 1791032609406255268
+    },
+    {
+      "file": "04_成品/main_png/15.png",
+      "sha256": "0afdb31a2b3b5e6091ffa27200cabe9a93c1d55b75e62a2b12ae3749d5f2bd2c",
+      "bytes": 61461,
+      "mtime_ns": 1791032610447059254
+    },
+    {
+      "file": "04_成品/main_png/16.png",
+      "sha256": "a2623ce06cb170ab9646e712fa1211090ab2e0ba845f8a3de92f4f87fde11c93",
+      "bytes": 55625,
+      "mtime_ns": 1791032611480640444
+    },
+    {
+      "file": "04_成品/main_png/17.png",
+      "sha256": "a75ccdd43acda28a356dfbb3e8aca3ee3118cb7351088c094b299af114daf458",
+      "bytes": 51786,
+      "mtime_ns": 1791032612403545510
+    },
+    {
+      "file": "04_成品/main_png/18.png",
+      "sha256": "037d8a166db3815beeefce7dea941508005e91f4b3e0aade9b93e0dfb844aebf",
+      "bytes": 60596,
+      "mtime_ns": 1791032613425170039
+    },
+    {
+      "file": "04_成品/main_png/19.png",
+      "sha256": "5074654265a82b6e97b21d7c8836a8b1246d941081eec373f1c02a0719401fbd",
+      "bytes": 75250,
+      "mtime_ns": 1791032614515736677
+    },
+    {
+      "file": "04_成品/main_png/20.png",
+      "sha256": "19e4fae547a2dc11a53bdc9806eb13558cf3eea8b56f6cdb7b7dbcc8ef71288e",
+      "bytes": 66600,
+      "mtime_ns": 1791032615595849789
+    },
+    {
+      "file": "04_成品/main_png/21.png",
+      "sha256": "a45e80d78b5a95b79584b53fcc0373a44803f862697da40380ee1cc88b860b88",
+      "bytes": 72494,
+      "mtime_ns": 1791032616684208829
+    },
+    {
+      "file": "04_成品/main_png/22.png",
+      "sha256": "4e891ca0b77c9ce2649f92a2d744e497de44b03f1947bd90f0bf226d83e17c3a",
+      "bytes": 91840,
+      "mtime_ns": 1791032617908955656
+    },
+    {
+      "file": "04_成品/main_png/23.png",
+      "sha256": "2ea68350d9a4d1494f386289c1f9d1b6390069e1116bb1d454f30095b186d8e3",
+      "bytes": 61390,
+      "mtime_ns": 1791032618922596260
+    },
+    {
+      "file": "04_成品/main_png/24.png",
+      "sha256": "b2bed672560cbafa395702577fc176c37fcc18badbfd62e54cc83d5783bd117e",
+      "bytes": 77176,
+      "mtime_ns": 1791032619914144848
+    },
+    {
+      "file": "04_成品/manifest.json",
+      "sha256": "4a381c3417726985abc145a51335b44de819374aa4a685055c7653ae0b9f050b",
+      "bytes": 18033,
+      "mtime_ns": 1791032620604559970
+    },
+    {
+      "file": "04_成品/masters/01.png",
+      "sha256": "64e5c020b7d1891ee9d36bf0d6af6f9ebf5bdf86a763022267474adb9985d394",
+      "bytes": 665529,
+      "mtime_ns": 1791032594327819892
+    },
+    {
+      "file": "04_成品/masters/02.png",
+      "sha256": "b954a984d679ce9b05ee82dfa808082a4eb1b894ebca831615b35e8fb337ecda",
+      "bytes": 780693,
+      "mtime_ns": 1791032595343774594
+    },
+    {
+      "file": "04_成品/masters/03.png",
+      "sha256": "e9e077eadbe283f7c5c1598bd727764fd2aa7618f7747c82ddfb37b4532af619",
+      "bytes": 731837,
+      "mtime_ns": 1791032596295869429
+    },
+    {
+      "file": "04_成品/masters/04.png",
+      "sha256": "375edd2a27c85ea58c465841148091c15a4ccf3ef9c471ff3cba402b4e616f3f",
+      "bytes": 763849,
+      "mtime_ns": 1791032597320075601
+    },
+    {
+      "file": "04_成品/masters/05.png",
+      "sha256": "66018d9ce1b48ee3708ea754cd5582ade91037fb7998d22c5a29ba3714d346a0",
+      "bytes": 777775,
+      "mtime_ns": 1791032598425152081
+    },
+    {
+      "file": "04_成品/masters/06.png",
+      "sha256": "c7f8f23eb01c538e0df9500a42e5690d1cf3740be6bb05b0ae5b7fd3912b35a5",
+      "bytes": 757620,
+      "mtime_ns": 1791032599514715587
+    },
+    {
+      "file": "04_成品/masters/07.png",
+      "sha256": "2df491145da16c31b3bea9584a0c22f80ce0ae80b212f146cadefcb8065270dd",
+      "bytes": 769689,
+      "mtime_ns": 1791032601272722240
+    },
+    {
+      "file": "04_成品/masters/08.png",
+      "sha256": "51c84aa3fa08985298b4e647d4f1cd71a5b31cc89c950847cd652694b7d60ec8",
+      "bytes": 1195252,
+      "mtime_ns": 1791032602703836679
+    },
+    {
+      "file": "04_成品/masters/09.png",
+      "sha256": "1f6814bfeb63514831234f175dcde2e2882ea743abd346e89a8fb975c83fb899",
+      "bytes": 837196,
+      "mtime_ns": 1791032604035853109
+    },
+    {
+      "file": "04_成品/masters/10.png",
+      "sha256": "fd2a72e8b35814c5736ff04272c42cb3947f421eaa980c77b06592ef4a532a63",
+      "bytes": 781139,
+      "mtime_ns": 1791032605057642682
+    },
+    {
+      "file": "04_成品/masters/11.png",
+      "sha256": "dc4f7fe0b5229c30d3a7ea2c5e242a74cf04b8640f666bee3ea8be064358fb1b",
+      "bytes": 811356,
+      "mtime_ns": 1791032606105173127
+    },
+    {
+      "file": "04_成品/masters/12.png",
+      "sha256": "65f9ef2b8c941fc2ad3ad9572249f1fedb260b1c60040428fbda15e2e5a25eba",
+      "bytes": 754665,
+      "mtime_ns": 1791032607176322640
+    },
+    {
+      "file": "04_成品/masters/13.png",
+      "sha256": "ab5ca52229346c4cef05e1f361d853cbef51c3d775066b9fa4f9d36f74bc9ec7",
+      "bytes": 758283,
+      "mtime_ns": 1791032608170890039
+    },
+    {
+      "file": "04_成品/masters/14.png",
+      "sha256": "273bf4861a151592753f86242c02cab10e5ae5e3f08fe4d7ac493db0c6681b02",
+      "bytes": 840786,
+      "mtime_ns": 1791032609379379972
+    },
+    {
+      "file": "04_成品/masters/15.png",
+      "sha256": "0adbfaf03171622337a6fee179bac9470efb9feb3d0208c0b6fc286877a4687b",
+      "bytes": 832178,
+      "mtime_ns": 1791032610425638284
+    },
+    {
+      "file": "04_成品/masters/16.png",
+      "sha256": "dd328f42867a7f80125901ec3a9e46412088fe6e5bba2e44ab2d1d37c67180c6",
+      "bytes": 714382,
+      "mtime_ns": 1791032611460982652
+    },
+    {
+      "file": "04_成品/masters/17.png",
+      "sha256": "7f5bb8b3d4781695cb65dc5b3fbd1def42fe29258905d310ed4d031dbf9d08d5",
+      "bytes": 715311,
+      "mtime_ns": 1791032612384997766
+    },
+    {
+      "file": "04_成品/masters/18.png",
+      "sha256": "a8fbf9c7b9e10a88d4f0e2fb72c75e4756eb646cae82e7596fefe907be61c997",
+      "bytes": 771933,
+      "mtime_ns": 1791032613405556581
+    },
+    {
+      "file": "04_成品/masters/19.png",
+      "sha256": "4b3f301420e28df655c433e26907517211a42bc35fb20ff2717a384ca82f969c",
+      "bytes": 895956,
+      "mtime_ns": 1791032614494124039
+    },
+    {
+      "file": "04_成品/masters/20.png",
+      "sha256": "b101525b2be29196eb7a04c8edf60ee713258b46d24a1b251c2afbaf096a6205",
+      "bytes": 796703,
+      "mtime_ns": 1791032615574267318
+    },
+    {
+      "file": "04_成品/masters/21.png",
+      "sha256": "cfd26b4eb6167ca3df888362f079dbf4d5adb75723aea0b3f6a3929efa1afc92",
+      "bytes": 970522,
+      "mtime_ns": 1791032616661346724
+    },
+    {
+      "file": "04_成品/masters/22.png",
+      "sha256": "6366f119f121b4a35524cea84017aa36cf462d26683f6a6ab7a81d6b3b9f3029",
+      "bytes": 1167354,
+      "mtime_ns": 1791032617885146796
+    },
+    {
+      "file": "04_成品/masters/23.png",
+      "sha256": "08f739f0ff3f088e43f9955352d5ffb770f685dcf480375215201266f4723b35",
+      "bytes": 683097,
+      "mtime_ns": 1791032618901604584
+    },
+    {
+      "file": "04_成品/masters/24.png",
+      "sha256": "94ac25499425dcbef707ee5e44dbe541934edbecc557796f3f45e3c6a0b125bc",
+      "bytes": 993512,
+      "mtime_ns": 1791032619893253922
+    },
+    {
+      "file": "04_成品/masters/chat_icon.png",
+      "sha256": "24e5f6da6a69d29d438467046f7e46ea98d2fc4fc2e50af8489879f9277fd777",
+      "bytes": 1392245,
+      "mtime_ns": 1791032620469696649
+    },
+    {
+      "file": "04_成品/masters/cover.png",
+      "sha256": "fd6065e34e4da1524871ca43c7627bd31b701bc44eab3f4d50c11bfc34de1b66",
+      "bytes": 1084358,
+      "mtime_ns": 1791032620191790123
+    },
+    {
+      "file": "04_成品/platform-profile.json",
+      "sha256": "86f38feb4b45f3783ea90b096a3c85ff53e938af14ba9d0b2ae5affb02da8961",
+      "bytes": 19576,
+      "mtime_ns": 1791076722557087358
+    },
+    {
+      "file": "04_成品/preview.html",
+      "sha256": "fd49b9170a75452ae56ccc90732ad6f3ca694a1da96d8659e3928598bda64db0",
+      "bytes": 6601,
+      "mtime_ns": 1791076774556263512
+    },
+    {
+      "file": "04_成品/previews/overview_dark.jpg",
+      "sha256": "438077af641516da9d7eb965a48a1acc06d6b286eed8ea386c13a523ff793c67",
+      "bytes": 605639,
+      "mtime_ns": 1791032622021021648
+    },
+    {
+      "file": "04_成品/previews/overview_light.jpg",
+      "sha256": "5cf0147c84cc18a560241b870a5d23f30cdfda53754e6249e56ef8da1c27cc1f",
+      "bytes": 553391,
+      "mtime_ns": 1791032621342035142
+    },
+    {
+      "file": "04_成品/production/GIF修复记录.json",
+      "sha256": "69a162cba11142f5d5a52db12496a3d899f79b3885a8a73e1937bdbdec0484aa",
+      "bytes": 2898,
+      "mtime_ns": 1791033112808010755
+    },
+    {
+      "file": "04_成品/production/build_pack.py",
+      "sha256": "245e39521a47caa561fc6ca11f6824612514b83a094f81fc21560a0f10e7cb54",
+      "bytes": 15855,
+      "mtime_ns": 1791076774554092838
+    },
+    {
+      "file": "04_成品/production/finish执行记录.json",
+      "sha256": "d44e98648695db2dbe4b6574c68fa101aa5f466bf60c9b8f9c8f329932242b5f",
+      "bytes": 771,
+      "mtime_ns": 1791033176554278002
+    },
+    {
+      "file": "04_成品/production/job.json",
+      "sha256": "3851e5e130efbb6fcb02cf21f2d875a0106af2ff80d186e5e6b3f84f6467174e",
+      "bytes": 52905,
+      "mtime_ns": 1791032157182333216
+    },
+    {
+      "file": "04_成品/production/platform-profile.json",
+      "sha256": "86f38feb4b45f3783ea90b096a3c85ff53e938af14ba9d0b2ae5affb02da8961",
+      "bytes": 19576,
+      "mtime_ns": 1791076722556768066
+    },
+    {
+      "file": "04_成品/production/作品库CSV兼容修复.json",
+      "sha256": "698193024e4913445016fd06353a687876194a1f728a8565b118b5bab121ed62",
+      "bytes": 922,
+      "mtime_ns": 1791033833094636767
+    },
+    {
+      "file": "04_成品/production/作品库CSV兼容修复.patch",
+      "sha256": "4761b098bf8786911bbc4fc7f21066a8e18ba34b0a9731b9ccc974561edb9033",
+      "bytes": 3448,
+      "mtime_ns": 1791033833131358280
+    },
+    {
+      "file": "04_成品/production/作品库检查记录.json",
+      "sha256": "921fa581cc5f642b4c4ebae2fc32f81e4dcb3c865534eb5474c4b4a34967c451",
+      "bytes": 1930,
+      "mtime_ns": 1791033733891356418
+    },
+    {
+      "file": "04_成品/production/原始生成文件/01.png",
+      "sha256": "2a9637fa1516ef4c0bff776c257fc12ef91b23c6c79347377634662328221dfb",
+      "bytes": 1883661,
+      "mtime_ns": 1791031139547476142
+    },
+    {
+      "file": "04_成品/production/原始生成文件/02.png",
+      "sha256": "d0ede5b726cc414a6dfaed83a5fcb13b62f41d608236d129c21cdd4aed9a9987",
+      "bytes": 2012925,
+      "mtime_ns": 1791031197190877330
+    },
+    {
+      "file": "04_成品/production/原始生成文件/03.png",
+      "sha256": "34462768a5ccb5f0a661b0f54da5956657b65064625dcbf85099e53fec3bda73",
+      "bytes": 2069399,
+      "mtime_ns": 1791031263287273773
+    },
+    {
+      "file": "04_成品/production/原始生成文件/04.png",
+      "sha256": "fb00dfcb0e3ea9923b8711fc889fa9672c16e66f674fffb887e0dc0b76bf3ab2",
+      "bytes": 2100308,
+      "mtime_ns": 1791031231659167902
+    },
+    {
+      "file": "04_成品/production/原始生成文件/05.png",
+      "sha256": "6e38652d77966bd6b0e788596dadd263f6f2c01fdf3f7aa0b7b2370e7430b17e",
+      "bytes": 2103619,
+      "mtime_ns": 1791031423407153645
+    },
+    {
+      "file": "04_成品/production/原始生成文件/06.png",
+      "sha256": "29059840030d0a7808718bdca8678f301b758994af03b6dee59593127b459dba",
+      "bytes": 2074278,
+      "mtime_ns": 1791031336269607672
+    },
+    {
+      "file": "04_成品/production/原始生成文件/07.png",
+      "sha256": "9554ec71a9d776308c3c13a945bbd25a9d6aa1bd9fa64e65106f5c26d2f525e2",
+      "bytes": 2125191,
+      "mtime_ns": 1791031465041994953
+    },
+    {
+      "file": "04_成品/production/原始生成文件/08.png",
+      "sha256": "f7f10e50755c24fb1c19ee1d31da0ab37f3e7f77809aaff5976fe142eee73836",
+      "bytes": 2072994,
+      "mtime_ns": 1791031372159079564
+    },
+    {
+      "file": "04_成品/production/原始生成文件/09.png",
+      "sha256": "a47288e4e1a6d1122be378a2b133e1af8ffa936a6d4aad7f384a05be261b3c8a",
+      "bytes": 2245303,
+      "mtime_ns": 1791031678668752782
+    },
+    {
+      "file": "04_成品/production/原始生成文件/10.png",
+      "sha256": "8693c82ef2b7ecdc53e546d53fd6c4827bb93cacf9d10ca1699ccd10c1679f6b",
+      "bytes": 2150369,
+      "mtime_ns": 1791031717796044980
+    },
+    {
+      "file": "04_成品/production/原始生成文件/11.png",
+      "sha256": "64b09111a1a23651d9de4123bf2aadd9017b5c6fbe94ccc46de32f9a4ab5e7d1",
+      "bytes": 2191966,
+      "mtime_ns": 1791031635759961392
+    },
+    {
+      "file": "04_成品/production/原始生成文件/12.png",
+      "sha256": "b4bc223379211aa31514be5bd6506556867c77800519d08d95e281d563d51055",
+      "bytes": 2059038,
+      "mtime_ns": 1791031588340156794
+    },
+    {
+      "file": "04_成品/production/原始生成文件/13.png",
+      "sha256": "d4f18745ff531116304428e07a771a2030a186e2f854c0a791adb2644ab6b0d8",
+      "bytes": 2177340,
+      "mtime_ns": 1791031569545661130
+    },
+    {
+      "file": "04_成品/production/原始生成文件/14.png",
+      "sha256": "027fff03babb4ddba84dbaf8571aa9b45c4313b44fb924eecbd91896109928ba",
+      "bytes": 2022700,
+      "mtime_ns": 1791031645795424059
+    },
+    {
+      "file": "04_成品/production/原始生成文件/15.png",
+      "sha256": "82668995e90f723b3c948b8f8e6d63dbee6c7ea2cd65403d166a014d2e7d0e82",
+      "bytes": 2192536,
+      "mtime_ns": 1791031602237712173
+    },
+    {
+      "file": "04_成品/production/原始生成文件/16.png",
+      "sha256": "a3dad33ec1553ab6e5a5fc9f147f0af255916df2eb653c371127c4126b356635",
+      "bytes": 2078489,
+      "mtime_ns": 1791031668832719203
+    },
+    {
+      "file": "04_成品/production/原始生成文件/17.png",
+      "sha256": "1fcc78f15ab6e0b04baf04bea85b4d39de8c231ad02a29884aec656c2b2aaec7",
+      "bytes": 1997099,
+      "mtime_ns": 1791031725041939885
+    },
+    {
+      "file": "04_成品/production/原始生成文件/18.png",
+      "sha256": "4ecd08c5ad12872b7163b1a9ef696a09322c6f540982332fc97ebbd375bd437e",
+      "bytes": 2163025,
+      "mtime_ns": 1791031667720036017
+    },
+    {
+      "file": "04_成品/production/原始生成文件/19.png",
+      "sha256": "bef2665f838ebe7cd49a220dc877404c4ec4d44e646451d952196fd3d55f4c46",
+      "bytes": 2290873,
+      "mtime_ns": 1791031781597361078
+    },
+    {
+      "file": "04_成品/production/原始生成文件/20.png",
+      "sha256": "53007136ae41e1a27d7ce38b725830b53392be3939f19279e682aa04988a9a4c",
+      "bytes": 2156119,
+      "mtime_ns": 1791031806112989968
+    },
+    {
+      "file": "04_成品/production/原始生成文件/21.png",
+      "sha256": "ca094d8f9a37797595aaf0f2ec2e1134fd1b14028548eadab41cc5485ebf38e8",
+      "bytes": 2200837,
+      "mtime_ns": 1791031839792515849
+    },
+    {
+      "file": "04_成品/production/原始生成文件/22.png",
+      "sha256": "bf9bcb6fdb8b1a7d81ae0efaa370722059f33f36d5d231ea85e639c2102df48e",
+      "bytes": 2316558,
+      "mtime_ns": 1791031807924827000
+    },
+    {
+      "file": "04_成品/production/原始生成文件/23.png",
+      "sha256": "c336b66e3d1dc01cdbffe6d71a3a4e8e2e065b97a1c2722371cd239fbb84a2e6",
+      "bytes": 1900965,
+      "mtime_ns": 1791031874107789607
+    },
+    {
+      "file": "04_成品/production/原始生成文件/24.png",
+      "sha256": "87ea9edd7933575bb268e94de6ab13800394e2fdf09dd17457204e7901074530",
+      "bytes": 1921923,
+      "mtime_ns": 1791031757882436202
+    },
+    {
+      "file": "04_成品/production/原始生成文件/banner.png",
+      "sha256": "23269e70bb80271e85f0dd42897e1a17f00b3ad8fa33baa62ba01478c4a385f5",
+      "bytes": 2763531,
+      "mtime_ns": 1791031837630997810
+    },
+    {
+      "file": "04_成品/production/原始生成文件/chat_icon.png",
+      "sha256": "fc204dd45f2251f93a13c697d476b9974f43d9520565658c70c7114f998cf812",
+      "bytes": 2650030,
+      "mtime_ns": 1791031906974931068
+    },
+    {
+      "file": "04_成品/production/原始生成文件/chat_icon_r2.png",
+      "sha256": "b939f373b127f3bcb6f40dc6f9f90a44dc00a4de069e30a83238f2c9a02d183f",
+      "bytes": 2204017,
+      "mtime_ns": 1791032056676527796
+    },
+    {
+      "file": "04_成品/production/原始生成文件/cover.png",
+      "sha256": "0139b73171a756c11500baecb80d10c3c976bbb3a1f72905c52704a79135d8c5",
+      "bytes": 2151632,
+      "mtime_ns": 1791031946084248575
+    },
+    {
+      "file": "04_成品/production/原画技术检查.json",
+      "sha256": "488b4a97e4b1c2eea24ebfdbc74b83a7f4f3fb1f2f994afb3bb6f419763e9edd",
+      "bytes": 9698,
+      "mtime_ns": 1791032199939944152
+    },
+    {
+      "file": "04_成品/production/图标修复记录.json",
+      "sha256": "c081a5884e6c394a987941966b8a4b629f12b2fb95f1a8293ed699865fc87acb",
+      "bytes": 828,
+      "mtime_ns": 1791033112799471170
+    },
+    {
+      "file": "04_成品/production/字体OFL许可.txt",
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "bytes": 4398,
+      "mtime_ns": 1791031239282905423
+    },
+    {
+      "file": "04_成品/production/字体来源.json",
+      "sha256": "0a669833935b569326001f8315c9035c92aa5c38d0bd6069561b248d94a7e6a1",
+      "bytes": 585,
+      "mtime_ns": 1791032263080088667
+    },
+    {
+      "file": "04_成品/production/字体说明.md",
+      "sha256": "096960ce3b38d89581c44699da2e58d6a4378c2d1a37a45e10c20fe5c69e3081",
+      "bytes": 365,
+      "mtime_ns": 1791031239284161562
+    },
+    {
+      "file": "04_成品/production/官方核对/同批官方可见证据_范恩_20261003.json",
+      "sha256": "f743fb3d483b6272ddcd789325aa798217b397f0732c82e6f49d763b5934de8d",
+      "bytes": 1138,
+      "mtime_ns": 1791031311869134130
+    },
+    {
+      "file": "04_成品/production/官方核对/同批官方首次可见素材字段.json",
+      "sha256": "b73a95b8cf42d7ff538b601c656bdb3976d750fe510fa45336eb8171a2eb0c02",
+      "bytes": 8669,
+      "mtime_ns": 1791076722551547090
+    },
+    {
+      "file": "04_成品/production/官方核对/本次核对结果.json",
+      "sha256": "37bcc9862994f0efa055da666be374b2f59bd307fe52982e8a4599ea05c3e11b",
+      "bytes": 581,
+      "mtime_ns": 1791031239286781758
+    },
+    {
+      "file": "04_成品/production/官方核对/本次访问失败.md",
+      "sha256": "f4e37f93d0155eb59b597c04a368b4ed68e07de344b481c7ec8b91add57bf3a2",
+      "bytes": 651,
+      "mtime_ns": 1791031239286881926
+    },
+    {
+      "file": "04_成品/production/官方核对/本版逐字段复核.json",
+      "sha256": "2ec741618d91e5803ebe9957c6e89f48a4d616efe8101fce24e15c7db2996c59",
+      "bytes": 14924,
+      "mtime_ns": 1791076722556006605
+    },
+    {
+      "file": "04_成品/production/接收与透明处理.py",
+      "sha256": "94482752e56147203abb777313f456dd826c5147cda1803b70b8f1b01db987a8",
+      "bytes": 2077,
+      "mtime_ns": 1791031492479655839
+    },
+    {
+      "file": "04_成品/production/提示词/01.txt",
+      "sha256": "284083f96c1cd5adaa34f97998f3c01bb33639c993d4f40d3988fef7dade17f0",
+      "bytes": 1498,
+      "mtime_ns": 1791031094191146163
+    },
+    {
+      "file": "04_成品/production/提示词/02.txt",
+      "sha256": "404142ad3b12a46ada3c0cd431ddf6c7bee7ac7576f1f5c0a654236ee8b4ea9f",
+      "bytes": 1483,
+      "mtime_ns": 1791031094191276373
+    },
+    {
+      "file": "04_成品/production/提示词/03.txt",
+      "sha256": "008febfb89583c50800ad72e60311f1546d65b6b6087087c7490d091ab180c0f",
+      "bytes": 1496,
+      "mtime_ns": 1791031094191414833
+    },
+    {
+      "file": "04_成品/production/提示词/04.txt",
+      "sha256": "fc5b763f98f4542e565394c87b595f6551659ecd0d4cd23e8eb99b0381f9048b",
+      "bytes": 1482,
+      "mtime_ns": 1791031094191537043
+    },
+    {
+      "file": "04_成品/production/提示词/05.txt",
+      "sha256": "fe7eb10204b20cfd99095c007e6f21ff21fdb62ba2bc050f9751576759cd63c0",
+      "bytes": 1524,
+      "mtime_ns": 1791031094191651836
+    },
+    {
+      "file": "04_成品/production/提示词/06.txt",
+      "sha256": "42a3ec39405ed9bbd6b448c98bfcbc12f0d0f39b42545d2ce84bcfba59f85f29",
+      "bytes": 1482,
+      "mtime_ns": 1791031094191765378
+    },
+    {
+      "file": "04_成品/production/提示词/07.txt",
+      "sha256": "a82f42cd6ead7980c695401fdea987bb902fb3a8ed0253842f52ba24b3ca6131",
+      "bytes": 1493,
+      "mtime_ns": 1791031094191876505
+    },
+    {
+      "file": "04_成品/production/提示词/08.txt",
+      "sha256": "425f39d4e9d8d38fe18b8d7ffe2e498b23769bbb97c1286aeaa38e75fe30934d",
+      "bytes": 1520,
+      "mtime_ns": 1791031094191980006
+    },
+    {
+      "file": "04_成品/production/提示词/09.txt",
+      "sha256": "63db299ee98eab85ec2e9f002ad6cec4f77708cb76a08abf0d68938ba80f00d9",
+      "bytes": 1512,
+      "mtime_ns": 1791031094192085757
+    },
+    {
+      "file": "04_成品/production/提示词/10.txt",
+      "sha256": "54f7da754895a0cc22e5354638658f0c234328b9fabc87de5497c871e821ee4c",
+      "bytes": 1504,
+      "mtime_ns": 1791031094192197008
+    },
+    {
+      "file": "04_成品/production/提示词/11.txt",
+      "sha256": "99ac3105577d73dcd32dc806c22c039730a114d9371aa14267d7dc0069346d54",
+      "bytes": 1486,
+      "mtime_ns": 1791031094192307843
+    },
+    {
+      "file": "04_成品/production/提示词/12.txt",
+      "sha256": "3fa5927099d0df145149b8349cf1051f03832ca309123b7cc840240bbc24bb61",
+      "bytes": 1497,
+      "mtime_ns": 1791031094192419178
+    },
+    {
+      "file": "04_成品/production/提示词/13.txt",
+      "sha256": "f517e3156e93d689d8d43267eccc81f8ac09734280376bc07297a0df63f6e27f",
+      "bytes": 1484,
+      "mtime_ns": 1791031094192523220
+    },
+    {
+      "file": "04_成品/production/提示词/14.txt",
+      "sha256": "7f507e439a611d5ccd82a938082f527818b64e8a9d4e94e7887368a563c667e8",
+      "bytes": 1517,
+      "mtime_ns": 1791031094192628888
+    },
+    {
+      "file": "04_成品/production/提示词/15.txt",
+      "sha256": "fcbb83e48eec27a60ee2c08682c4aa8da847ce8ce921f12ccef04bb7d22dec54",
+      "bytes": 1476,
+      "mtime_ns": 1791031094192748098
+    },
+    {
+      "file": "04_成品/production/提示词/16.txt",
+      "sha256": "c4a79cf7e778e4a588e0836b48ceef3fbfc56da41a858b9663ef4f46cc1f794b",
+      "bytes": 1514,
+      "mtime_ns": 1791031094192850974
+    },
+    {
+      "file": "04_成品/production/提示词/17.txt",
+      "sha256": "9de461c2ca5981f4cf719e80d4f887c2d3e363559dfc7564c53c539b02326fd3",
+      "bytes": 1492,
+      "mtime_ns": 1791031094192969017
+    },
+    {
+      "file": "04_成品/production/提示词/18.txt",
+      "sha256": "47886f0fa329aec3cba863551492f99c366b2c2cc3bc6be510aa701480228e4a",
+      "bytes": 1485,
+      "mtime_ns": 1791031094193080268
+    },
+    {
+      "file": "04_成品/production/提示词/19.txt",
+      "sha256": "5312a6dd823440d76d0733890f944464bc8a3c184d7599ebf62249eb1d2dc18f",
+      "bytes": 1499,
+      "mtime_ns": 1791031094193182644
+    },
+    {
+      "file": "04_成品/production/提示词/20.txt",
+      "sha256": "d1dfe8fafdd4db2f73f31ddf8f543c23ed5ffcd146a5482c9de972171308a7a2",
+      "bytes": 1494,
+      "mtime_ns": 1791031094193342979
+    },
+    {
+      "file": "04_成品/production/提示词/21.txt",
+      "sha256": "6f245813b777148d437f363e895aebe35aadcc8071b1ee1321442fb3422e9e32",
+      "bytes": 1499,
+      "mtime_ns": 1791031094193515606
+    },
+    {
+      "file": "04_成品/production/提示词/22.txt",
+      "sha256": "150e53918440673ad6073edd90e02f678036d765ef58bdafc2689ca5a9a41953",
+      "bytes": 1540,
+      "mtime_ns": 1791031094193620566
+    },
+    {
+      "file": "04_成品/production/提示词/23.txt",
+      "sha256": "58e68b46b3a5ff2ac0727c73212ee48b295d3c83d9ef8bd681ff1ee6d38ca3d3",
+      "bytes": 1511,
+      "mtime_ns": 1791031094193740525
+    },
+    {
+      "file": "04_成品/production/提示词/24.txt",
+      "sha256": "b6382aa64fc773e985a5d54e9b9e94b86fbf945c3ab91f3410f09999b3f06f81",
+      "bytes": 1522,
+      "mtime_ns": 1791031682906285704
+    },
+    {
+      "file": "04_成品/production/提示词/banner.txt",
+      "sha256": "b69d4989732212f976f5f3607b4cfbc86ed87372898d5066fdfbfd51c4c522e8",
+      "bytes": 1355,
+      "mtime_ns": 1791031773753267448
+    },
+    {
+      "file": "04_成品/production/提示词/chat_icon.txt",
+      "sha256": "289a4cab7bf6e07b7b81da88bada3e75838280a91b5e65454e3b6a9365cc6ae5",
+      "bytes": 1689,
+      "mtime_ns": 1791031773753156364
+    },
+    {
+      "file": "04_成品/production/提示词/chat_icon_r2.txt",
+      "sha256": "8c3004e06172f469ce10bffde43b18b65d3d0122a9913c916eab51a57dc5daa6",
+      "bytes": 1050,
+      "mtime_ns": 1791032006696764539
+    },
+    {
+      "file": "04_成品/production/提示词/cover.txt",
+      "sha256": "09539b9f3a8f16cdd5f920f2109ac437e39c20daf3a42d1cf7c26d453d541913",
+      "bytes": 1583,
+      "mtime_ns": 1791031773753038071
+    },
+    {
+      "file": "04_成品/production/本版制作计划.md",
+      "sha256": "58b0d72b42f4fa747d8d7f20b0b693899acff975f51a340f1211f127f5c8363b",
+      "bytes": 2193,
+      "mtime_ns": 1791076774560369693
+    },
+    {
+      "file": "04_成品/production/浏览器验收/作品库_古德检索_375px.jpg",
+      "sha256": "ce4878f78ed12f8e11a1024b5fe807cdc652269017f81b2d13d302f123f392d6",
+      "bytes": 54103,
+      "mtime_ns": 1791033588957945893
+    },
+    {
+      "file": "04_成品/production/浏览器验收/作品库_古德检索_桌面.jpg",
+      "sha256": "93d858af3d1eb2a5ab07f83fada5da8243d3b15d8c9e111f514b85bab341139d",
+      "bytes": 71391,
+      "mtime_ns": 1791033458529110925
+    },
+    {
+      "file": "04_成品/production/浏览器验收/作品库_古德详情_375px.jpg",
+      "sha256": "3b1293bd1d36ca09723cb63f4f99c9684c90811e40734207615b0f33f5f912e1",
+      "bytes": 34805,
+      "mtime_ns": 1791033613950414991
+    },
+    {
+      "file": "04_成品/production/浏览器验收/作品库_古德详情_桌面.jpg",
+      "sha256": "1c5f679dc150cdce31cc9cf730cab024a49e1d779697b5c34f377f5f5d8c53b5",
+      "bytes": 112524,
+      "mtime_ns": 1791033487872632109
+    },
+    {
+      "file": "04_成品/production/浏览器验收/作品库_空结果_桌面.jpg",
+      "sha256": "ceca13278e3707a1aa614df219e0f02322e419cf01992ddbf1d1476a5ff429ff",
+      "bytes": 63601,
+      "mtime_ns": 1791033517857825636
+    },
+    {
+      "file": "04_成品/production/浏览器验收/页面验收记录.json",
+      "sha256": "3811f5b17fc6d2dd39ea24157442fa1f9f90ab4f81980f8d6a8436d4f34fd282",
+      "bytes": 31732,
+      "mtime_ns": 1791033774693928988
+    },
+    {
+      "file": "04_成品/production/浏览器验收/预览_375px.jpg",
+      "sha256": "4c67ff297b35e81d6b9ab0e1fd0d7ee0515a5688bedac5c1820937a9f8f9fe2e",
+      "bytes": 39347,
+      "mtime_ns": 1791033661892283151
+    },
+    {
+      "file": "04_成品/production/浏览器验收/预览_桌面.jpg",
+      "sha256": "cfae8df355799dad1ce8f825fa7b5c747642d32a460303b928acc5bb103dfb8e",
+      "bytes": 98864,
+      "mtime_ns": 1791033774789865899
+    },
+    {
+      "file": "04_成品/production/浏览器验收/预览_浅底_桌面.jpg",
+      "sha256": "5f188bc85e43b650727b2c6806e0f2b477e286ee49d48fc0c37342c6840fe091",
+      "bytes": 414405,
+      "mtime_ns": 1791033417436673878
+    },
+    {
+      "file": "04_成品/production/浏览器验收/预览_深底_桌面.jpg",
+      "sha256": "590a4ce115f866b3afd46cfbce27fd31d087166f7babe1242906f2f64a574868",
+      "bytes": 443679,
+      "mtime_ns": 1791033447980552131
+    },
+    {
+      "file": "04_成品/production/生成目检底图.py",
+      "sha256": "1d35b857e5690de5f4e7779d3e9a74d87a96dc2770ab235f23b22294cd349b66",
+      "bytes": 2854,
+      "mtime_ns": 1791032384697469604
+    },
+    {
+      "file": "04_成品/production/生成记录/01.json",
+      "sha256": "bc971f59052557e7f1771c3f5d47187ebfb9e6a23bd2abf95ba41821fd6cc3ed",
+      "bytes": 2200,
+      "mtime_ns": 1791032068533391668
+    },
+    {
+      "file": "04_成品/production/生成记录/02.json",
+      "sha256": "5987d1848e1eeb79f37204b96aca12e241b7fda087564106c9dcfe9773ff9f81",
+      "bytes": 2200,
+      "mtime_ns": 1791032068535744516
+    },
+    {
+      "file": "04_成品/production/生成记录/03.json",
+      "sha256": "c848bbb8fa1dfd6f8d348a9db9c58ae9d98875c119ba70e6db50dbf6ef2c8aa3",
+      "bytes": 2200,
+      "mtime_ns": 1791032068538283074
+    },
+    {
+      "file": "04_成品/production/生成记录/04.json",
+      "sha256": "145adb7ea309471a8d8e571ac7011bc49f34be835431fc1f999fa852299e50f8",
+      "bytes": 2200,
+      "mtime_ns": 1791032068544094028
+    },
+    {
+      "file": "04_成品/production/生成记录/05.json",
+      "sha256": "409d4faddb15390c6d146c3d545f60667b788d348103d08e3f819b71e46d5bf0",
+      "bytes": 2735,
+      "mtime_ns": 1791031498803299965
+    },
+    {
+      "file": "04_成品/production/生成记录/06.json",
+      "sha256": "80aad72a154efd229a50ba0e7a6d713a1cbbfe66cda43add4ab89b020c26480b",
+      "bytes": 2736,
+      "mtime_ns": 1791031499798287053
+    },
+    {
+      "file": "04_成品/production/生成记录/07.json",
+      "sha256": "cfd4bd04f6c1d7501d77a1ed2c8930bff2070929693551c777a2bca5621e4861",
+      "bytes": 2736,
+      "mtime_ns": 1791031592056512762
+    },
+    {
+      "file": "04_成品/production/生成记录/08.json",
+      "sha256": "c73a48fe8326b2e7fe2422180f4a7d62bfd2b410e3f763eda5a6f348c7521fb2",
+      "bytes": 2736,
+      "mtime_ns": 1791031500498793206
+    },
+    {
+      "file": "04_成品/production/生成记录/09.json",
+      "sha256": "09690d35475d748978f8401645583df55db2f36179df086b64d5d1f3bbb23ec9",
+      "bytes": 2736,
+      "mtime_ns": 1791031683347703438
+    },
+    {
+      "file": "04_成品/production/生成记录/10.json",
+      "sha256": "89628f54f3fa22431e37586446a58e6d6bd411a59e55c55d724a30e5d9452858",
+      "bytes": 2736,
+      "mtime_ns": 1791031722838272877
+    },
+    {
+      "file": "04_成品/production/生成记录/11.json",
+      "sha256": "021e37556a2bdf865edd3481f40653e2a3c098bef2e248822e4a087a46865fef",
+      "bytes": 2736,
+      "mtime_ns": 1791031640857435152
+    },
+    {
+      "file": "04_成品/production/生成记录/12.json",
+      "sha256": "9e3cc5ced1473d68bba6136c1795711ee0408e73bda04bb911f91e92732995fb",
+      "bytes": 2736,
+      "mtime_ns": 1791031593475255222
+    },
+    {
+      "file": "04_成品/production/生成记录/13.json",
+      "sha256": "9e70fa5e60022666912f9e8ef3d042046fd07ac58420c93a2ecb641f5391d278",
+      "bytes": 2736,
+      "mtime_ns": 1791031574855660708
+    },
+    {
+      "file": "04_成品/production/生成记录/14.json",
+      "sha256": "103ec337fda556c81ad07f80d1fe3f928620834d10f9b420777b78a2e572ff50",
+      "bytes": 2736,
+      "mtime_ns": 1791031650476815576
+    },
+    {
+      "file": "04_成品/production/生成记录/15.json",
+      "sha256": "799325d5c10785847cf6e78f3f56fad110ac1e745a7c681db9a8d5cef0da2671",
+      "bytes": 2736,
+      "mtime_ns": 1791031606927310655
+    },
+    {
+      "file": "04_成品/production/生成记录/16.json",
+      "sha256": "47887cb0f032bf3ced4348f2f9934a58b7bbb084771bb5e479582c0f33d590da",
+      "bytes": 2736,
+      "mtime_ns": 1791031678535994017
+    },
+    {
+      "file": "04_成品/production/生成记录/17.json",
+      "sha256": "287147e3996a92b69edcc1485ef2c17b987764caeb981e64b2295c835df84031",
+      "bytes": 2737,
+      "mtime_ns": 1791031729660652873
+    },
+    {
+      "file": "04_成品/production/生成记录/18.json",
+      "sha256": "0a05c6f1004b4b23cadb44222c6147bdc07e583bcb505a22f7395cbf93f61926",
+      "bytes": 2736,
+      "mtime_ns": 1791031673609209276
+    },
+    {
+      "file": "04_成品/production/生成记录/19.json",
+      "sha256": "8c5a8990258060bec46cd3dafc8b6fec06cf5b4a93853a1faf0330a5ce1b113e",
+      "bytes": 2736,
+      "mtime_ns": 1791031785965696243
+    },
+    {
+      "file": "04_成品/production/生成记录/20.json",
+      "sha256": "858f178e1068ede653607ce3cd5659a1ad0f971ada6d51fff79313939905b42c",
+      "bytes": 2736,
+      "mtime_ns": 1791031810214477671
+    },
+    {
+      "file": "04_成品/production/生成记录/21.json",
+      "sha256": "9dabd74335cd755bacb354de289b34c73528b7b1ec16df9be77869ba8b98d3fc",
+      "bytes": 2736,
+      "mtime_ns": 1791031843871217174
+    },
+    {
+      "file": "04_成品/production/生成记录/22.json",
+      "sha256": "f66ea5acdec24dbba607c954d5516140aa3c11b555a4ea32f8ff631e7411d14e",
+      "bytes": 2736,
+      "mtime_ns": 1791031814171017473
+    },
+    {
+      "file": "04_成品/production/生成记录/23.json",
+      "sha256": "8e6aea1398a1dbf87d232a047fb5e5edd02d50b5b195a2703335739079e27784",
+      "bytes": 2737,
+      "mtime_ns": 1791031878073966019
+    },
+    {
+      "file": "04_成品/production/生成记录/24.json",
+      "sha256": "9a1c55d25dcf4065cb1e41472fa8a5e3c106e52d9e482f761efeaed15d884161",
+      "bytes": 2736,
+      "mtime_ns": 1791031762527035477
+    },
+    {
+      "file": "04_成品/production/生成记录/banner.json",
+      "sha256": "cafc93e65ab4195bca2816f7d8b1a5cc3596dd1bdc47625581d0942a66344133",
+      "bytes": 1821,
+      "mtime_ns": 1791031837902067694
+    },
+    {
+      "file": "04_成品/production/生成记录/chat_icon.json",
+      "sha256": "21e8d5a02d3fecca9c35d4f4ed70d350c784f6eea92d1358dd225968d3351d68",
+      "bytes": 2778,
+      "mtime_ns": 1791031911080949214
+    },
+    {
+      "file": "04_成品/production/生成记录/chat_icon_r2.json",
+      "sha256": "e568f0236ab5bb907337a293ed74ded941dd1f2fdced3d95a25cfffc2b03b8b2",
+      "bytes": 2901,
+      "mtime_ns": 1791032060896466626
+    },
+    {
+      "file": "04_成品/production/生成记录/cover.json",
+      "sha256": "547c91a0ee14c6f7849d63a3483992083675f9b7f886116b08b6cf1896ee3a8e",
+      "bytes": 2754,
+      "mtime_ns": 1791031950133825596
+    },
+    {
+      "file": "04_成品/production/计划/01_古德_古德宝宝有话说/character_references.json",
+      "sha256": "979bbf61213b50a9050d2f821f26fb3db974e59bab8f909f7a8926a60244e155",
+      "bytes": 1160,
+      "mtime_ns": 1791031112000621706
+    },
+    {
+      "file": "04_成品/production/计划/01_古德_古德宝宝有话说/job-plan.json",
+      "sha256": "7330c3e75f4e3b8ed473f7f02bb82b52cd6b61c1754342b7d1ebc41411fd3095",
+      "bytes": 8297,
+      "mtime_ns": 1791031112001192004
+    },
+    {
+      "file": "04_成品/production/计划/01_古德_古德宝宝有话说/references/gude_01.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1791030545005587286
+    },
+    {
+      "file": "04_成品/production/计划/batch.json",
+      "sha256": "76570547fc7d58d5075cdd0050ce99804335e9d867296a5f002ad4c5224b3a97",
+      "bytes": 135,
+      "mtime_ns": 1791031112001571300
+    },
+    {
+      "file": "04_成品/production/计划/input.json",
+      "sha256": "46bde2902b0c4403218956fd6c4e62cd5a324f6eed74b67f42b6316d684d9e7b",
+      "bytes": 533,
+      "mtime_ns": 1791031111991718648
+    },
+    {
+      "file": "04_成品/production/资料/input.json",
+      "sha256": "46bde2902b0c4403218956fd6c4e62cd5a324f6eed74b67f42b6316d684d9e7b",
+      "bytes": 533,
+      "mtime_ns": 1791030545340589858
+    },
+    {
+      "file": "04_成品/production/资料/创作需求.md",
+      "sha256": "b59376188d40413a24e4f1b5c3e0dad8d150cf011a1b34f78ba506237a84bc8f",
+      "bytes": 562,
+      "mtime_ns": 1791030545008627102
+    },
+    {
+      "file": "04_成品/production/资料/参考/卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "bytes": 2443232,
+      "mtime_ns": 1791030545005587286
+    },
+    {
+      "file": "04_成品/production/资料/参考与权利来源.md",
+      "sha256": "3e0ab91b54ae540e07a0e6364c6a6f1964580b6a0ae06a4f28df16755a541948",
+      "bytes": 591,
+      "mtime_ns": 1791031094187982378
+    },
+    {
+      "file": "04_成品/production/资料/文案.csv",
+      "sha256": "346ed317a8cab4ef2d94e2006020be9936adb52f86c6c1c599800a6be5c76daa",
+      "bytes": 4478,
+      "mtime_ns": 1791031916319790060
+    },
+    {
+      "file": "04_成品/production/资料/用户原始需求.md",
+      "sha256": "85a5bbd0c573e614472d9ebcc31c3894c866ef70209692e18d9804c71df08c60",
+      "bytes": 523,
+      "mtime_ns": 1791030545340747776
+    },
+    {
+      "file": "04_成品/production/资料/角色快照.json",
+      "sha256": "9e8731a59541fb495e62f3583efaf3a8b2272a8bc2cf50c48c83791cc6540aa1",
+      "bytes": 1207,
+      "mtime_ns": 1791031094187842210
+    },
+    {
+      "file": "04_成品/production/重现说明.md",
+      "sha256": "1710e7f18a812d8934b27be74e8bf8d214b5ac1e83ac6f3f7b6de5e15c5ec020",
+      "bytes": 1502,
+      "mtime_ns": 1791076774561866906
+    },
+    {
+      "file": "04_成品/production/验收目检底图/01-04_GIF实际240px.png",
+      "sha256": "f632b314e49366f6acdc112e0c6e3524835e53b480e06133ecd23ff39f3a3678",
+      "bytes": 196069,
+      "mtime_ns": 1791032671116220907
+    },
+    {
+      "file": "04_成品/production/验收目检底图/01-04_实际尺寸三底.png",
+      "sha256": "1ef35301c95fd8378cadb2b0a140c55be8a13a5beedafaacaf184989b4a9a58a",
+      "bytes": 444951,
+      "mtime_ns": 1791032670347536869
+    },
+    {
+      "file": "04_成品/production/验收目检底图/05-08_GIF实际240px.png",
+      "sha256": "c8ccfc3245fbc022c10bfcef375c79f3bdb50eba427d9afe2b97fa9607846d9d",
+      "bytes": 219503,
+      "mtime_ns": 1791032671167329983
+    },
+    {
+      "file": "04_成品/production/验收目检底图/05-08_实际尺寸三底.png",
+      "sha256": "4bab9ae38d003ce0234fc503bc1004ebbedb13d7e323b872caa4af8e93a7ce3c",
+      "bytes": 472673,
+      "mtime_ns": 1791032670404306982
+    },
+    {
+      "file": "04_成品/production/验收目检底图/09-12_GIF实际240px.png",
+      "sha256": "6ed001f4065cdfcc0548b80d9a175aa7f325a967d4840e246393835880ee1d2a",
+      "bytes": 199245,
+      "mtime_ns": 1791032671225463563
+    },
+    {
+      "file": "04_成品/production/验收目检底图/09-12_实际尺寸三底.png",
+      "sha256": "28e122b8933edcd5daf75f363f20cd4d305cc78bdb3cdf843e56419992e162c8",
+      "bytes": 444523,
+      "mtime_ns": 1791032670456141021
+    },
+    {
+      "file": "04_成品/production/验收目检底图/13-16_GIF实际240px.png",
+      "sha256": "e2669669e0994f9ba1f9e4c62d52995d55985ae052758e4b45979fa604d6920d",
+      "bytes": 195970,
+      "mtime_ns": 1791032671277713689
+    },
+    {
+      "file": "04_成品/production/验收目检底图/13-16_实际尺寸三底.png",
+      "sha256": "6ba93fc35fac660b1b16817860984b77ec5a95d63bbd263767cc9a2f84f9abf5",
+      "bytes": 423967,
+      "mtime_ns": 1791032670509774447
+    },
+    {
+      "file": "04_成品/production/验收目检底图/17-20_GIF实际240px.png",
+      "sha256": "246577d04c61d18f873585f1a03ef9b37f58468f95208e3b6a80a7188feecae9",
+      "bytes": 199311,
+      "mtime_ns": 1791032671311090736
+    },
+    {
+      "file": "04_成品/production/验收目检底图/17-20_实际尺寸三底.png",
+      "sha256": "4f25755aa9ae59cba075bab9b1e35577e4d2fe78e6c63a945ee46ef1954a4598",
+      "bytes": 431954,
+      "mtime_ns": 1791032670586557647
+    },
+    {
+      "file": "04_成品/production/验收目检底图/21-24_GIF实际240px.png",
+      "sha256": "19a5ac8db30036e18ccde9bb27b772bdfda0e94997daf8358e9c53431efb4f04",
+      "bytes": 231677,
+      "mtime_ns": 1791032671393577596
+    },
+    {
+      "file": "04_成品/production/验收目检底图/21-24_实际尺寸三底.png",
+      "sha256": "55a115e405104986809937165b3e47a91e0bc94c534cce9610e0f5646afc4551",
+      "bytes": 497936,
+      "mtime_ns": 1791032670662656758
+    },
+    {
+      "file": "04_成品/production/验收目检底图/初导GIF_失败证据/01-04_GIF实际240px.png",
+      "sha256": "824ed0dc51573216ae7c4842c3aecc38ce7972f49c040e270341de8d14185c8d",
+      "bytes": 222398,
+      "mtime_ns": 1791032384597234380
+    },
+    {
+      "file": "04_成品/production/验收目检底图/初导GIF_失败证据/05-08_GIF实际240px.png",
+      "sha256": "de82e32496524924f45b9f3842265aa2da3c7174c992bbb507492af44cb4f332",
+      "bytes": 253924,
+      "mtime_ns": 1791032384618180972
+    },
+    {
+      "file": "04_成品/production/验收目检底图/初导GIF_失败证据/09-12_GIF实际240px.png",
+      "sha256": "036fbe0e6f911a79e18c0606b869e0e54d52794d78f37f432b199c89b5e7742b",
+      "bytes": 224692,
+      "mtime_ns": 1791032384636245546
+    },
+    {
+      "file": "04_成品/production/验收目检底图/初导GIF_失败证据/13-16_GIF实际240px.png",
+      "sha256": "5d9bebeeb10e31c09068f9447594d27661b0b9b93c85a8d59bcef8993c1d2719",
+      "bytes": 218141,
+      "mtime_ns": 1791032384657395973
+    },
+    {
+      "file": "04_成品/production/验收目检底图/初导GIF_失败证据/17-20_GIF实际240px.png",
+      "sha256": "a506660ad3a47fc94279d03c84c4916584573d6efa94d724188badc6bd0e97c2",
+      "bytes": 222954,
+      "mtime_ns": 1791032384676566845
+    },
+    {
+      "file": "04_成品/production/验收目检底图/初导GIF_失败证据/21-24_GIF实际240px.png",
+      "sha256": "e5501721650305fb84604da202f32094aedc2271520ab80050bdc1fb14c0ed35",
+      "bytes": 261610,
+      "mtime_ns": 1791032384697031518
+    },
+    {
+      "file": "04_成品/production/验收目检底图/配套素材_实际尺寸三底.png",
+      "sha256": "588fcb73fba3fab8e577a4fa6263f9b5bca0bf6542c9bff3463c1aba3041237a",
+      "bytes": 678495,
+      "mtime_ns": 1791032670729633561
+    },
+    {
+      "file": "04_成品/provenance.json",
+      "sha256": "6bf8cd95b41a9f117efff1b072e2afa5842d9ed628c51b2eb3cdbacef99f6af6",
+      "bytes": 12865,
+      "mtime_ns": 1791032620608134117
+    },
+    {
+      "file": "04_成品/scripts/build_pack.py",
+      "sha256": "245e39521a47caa561fc6ca11f6824612514b83a094f81fc21560a0f10e7cb54",
+      "bytes": 15855,
+      "mtime_ns": 1791076774555934886
+    },
+    {
+      "file": "04_成品/scripts/pack_utils.py",
+      "sha256": "473eefb6d2fabf967c50b27791f2e6ec4c1d3015e71330ac14d90afe1ffd1e87",
+      "bytes": 11849,
+      "mtime_ns": 1791032593347522876
+    },
+    {
+      "file": "04_成品/scripts/validate_pack.py",
+      "sha256": "a85719b642a8ba91125c66db8d626d793bad47714c563fc85453cd8729830d45",
+      "bytes": 17443,
+      "mtime_ns": 1791032593346882706
+    },
+    {
+      "file": "04_成品/sources/01.png",
+      "sha256": "f6efd35c9662105072818804d44b6de23d2f65aa9a3016801a36b0a815bae3b2",
+      "bytes": 1293057,
+      "mtime_ns": 1791032593676348645
+    },
+    {
+      "file": "04_成品/sources/02.png",
+      "sha256": "67c6831fc730b3e8e1f36da169ce7acac4f1834b4663e1d7e6a76db47c64f5ae",
+      "bytes": 1521016,
+      "mtime_ns": 1791032594707768571
+    },
+    {
+      "file": "04_成品/sources/03.png",
+      "sha256": "a6326c47247fdabbf65a3845e468288f167890f66fe7e337c6463f30c59c000e",
+      "bytes": 1558332,
+      "mtime_ns": 1791032595701256588
+    },
+    {
+      "file": "04_成品/sources/04.png",
+      "sha256": "dab5eb47db3fa18ce714a8e3dd25f27b3156315b6ab0523bd2690f5118db46ba",
+      "bytes": 1612578,
+      "mtime_ns": 1791032596672064918
+    },
+    {
+      "file": "04_成品/sources/05.png",
+      "sha256": "48c54780eb4bbbc5f694dc55c5fb9a3dceef83ec2f39ff975a9a1427d16ac6d2",
+      "bytes": 1660924,
+      "mtime_ns": 1791032597739938618
+    },
+    {
+      "file": "04_成品/sources/06.png",
+      "sha256": "b98e4d4dd9410464b4f2125de49f02786601f2915995e2055b0b7bdd5bf666ac",
+      "bytes": 1597381,
+      "mtime_ns": 1791032598846101271
+    },
+    {
+      "file": "04_成品/sources/07.png",
+      "sha256": "6791cd9771fdf35b7ac6705ee77aef1b8e7202b9442759c886387d0f1b852ca4",
+      "bytes": 1653427,
+      "mtime_ns": 1791032600132589369
+    },
+    {
+      "file": "04_成品/sources/08.png",
+      "sha256": "a9984328e48068df89268add4519ef68d1e2d78d1ce9513037ffb94aab6179ba",
+      "bytes": 1692325,
+      "mtime_ns": 1791032601731898092
+    },
+    {
+      "file": "04_成品/sources/09.png",
+      "sha256": "fa8dc74ddc4d7daab75a5167236adaabcced7cc340ae1502a307d47a755e9fa2",
+      "bytes": 1841172,
+      "mtime_ns": 1791032603230263752
+    },
+    {
+      "file": "04_成品/sources/10.png",
+      "sha256": "b2163f62a110f9192ef4acf301a3cc66f3f34071a6e0490b37edfb648b2b59cf",
+      "bytes": 1673781,
+      "mtime_ns": 1791032604449137793
+    },
+    {
+      "file": "04_成品/sources/11.png",
+      "sha256": "4ddb3dbd6752ab9dcee9ce3b6aba8ad7507f9934ccdfc258e374552a89ce7080",
+      "bytes": 1730293,
+      "mtime_ns": 1791032605464072488
+    },
+    {
+      "file": "04_成品/sources/12.png",
+      "sha256": "4261457aea05798539bd179ceb2aaa8200b00a0dc75d6a0edbafc6bb79c1c369",
+      "bytes": 1551523,
+      "mtime_ns": 1791032606487853407
+    },
+    {
+      "file": "04_成品/sources/13.png",
+      "sha256": "ae2d58241a2fb3d9b583c3e0c223662b829790c3618bbd1d3a7ed9f247f798b3",
+      "bytes": 1706240,
+      "mtime_ns": 1791032607561352977
+    },
+    {
+      "file": "04_成品/sources/14.png",
+      "sha256": "4b49e643a81a0a946af7458794d083aa10bb8473572cdc3ec947da8ea4971dbd",
+      "bytes": 1520257,
+      "mtime_ns": 1791032608604518228
+    },
+    {
+      "file": "04_成品/sources/15.png",
+      "sha256": "c65224614091123e094f7826a11054fe3d6f61f2ef8961f67f5dc836fb4b6095",
+      "bytes": 1753980,
+      "mtime_ns": 1791032609822616263
+    },
+    {
+      "file": "04_成品/sources/16.png",
+      "sha256": "bac9f71d8c0510cf54a468a46fd7e43f47821e0f097cd5807db7e337d5d5e417",
+      "bytes": 1555758,
+      "mtime_ns": 1791032610830369287
+    },
+    {
+      "file": "04_成品/sources/17.png",
+      "sha256": "489e92abc553618b65462e792790ed9aa53a3ee024a839f31b47b724fad06101",
+      "bytes": 1451025,
+      "mtime_ns": 1791032611828128539
+    },
+    {
+      "file": "04_成品/sources/18.png",
+      "sha256": "a7cd95146cd2fadf4aa05b1f852caacf28b69688ce539a67d83f3980beb20a57",
+      "bytes": 1694703,
+      "mtime_ns": 1791032612809463812
+    },
+    {
+      "file": "04_成品/sources/19.png",
+      "sha256": "c5c1cbe6a0e9b79117974db54ff5731a66a2e6f9c9302c6a674b09c7009e0e25",
+      "bytes": 1903821,
+      "mtime_ns": 1791032613822468703
+    },
+    {
+      "file": "04_成品/sources/20.png",
+      "sha256": "b59374eb3d554ab8d9353b8a9d72985b909c519c779932ea75dcc80d45d69cc7",
+      "bytes": 1694448,
+      "mtime_ns": 1791032614927127097
+    },
+    {
+      "file": "04_成品/sources/21.png",
+      "sha256": "03b5ae40cd19d68fc433930048e50201ebf58de46827eb0cbac4d58258fa2d50",
+      "bytes": 1807324,
+      "mtime_ns": 1791032615976143677
+    },
+    {
+      "file": "04_成品/sources/22.png",
+      "sha256": "519e3b30eabf5801cd7559fbd76b9da3c8e182ecd39ab7007cbf8ea3d9400a00",
+      "bytes": 1982561,
+      "mtime_ns": 1791032617111550351
+    },
+    {
+      "file": "04_成品/sources/23.png",
+      "sha256": "f4fa3668d9d5ba00a981a11e938c94f7d26da183c793ad809fb5a7e9be744ef3",
+      "bytes": 1322946,
+      "mtime_ns": 1791032618286885072
+    },
+    {
+      "file": "04_成品/sources/24.png",
+      "sha256": "eba71fcc465bbc562caab76146ebacbacace9f6bc1c378e7c1b59cee86f84c56",
+      "bytes": 1453562,
+      "mtime_ns": 1791032619224723692
+    },
+    {
+      "file": "04_成品/sources/banner.png",
+      "sha256": "23269e70bb80271e85f0dd42897e1a17f00b3ad8fa33baa62ba01478c4a385f5",
+      "bytes": 2763531,
+      "mtime_ns": 1791032620492559837
+    },
+    {
+      "file": "04_成品/sources/chat_icon.png",
+      "sha256": "c5201d4e4e287e36685c0c59453279b0c112fe3cbf6eb16165b94c73994dea25",
+      "bytes": 1822019,
+      "mtime_ns": 1791032620211400831
+    },
+    {
+      "file": "04_成品/sources/cover.png",
+      "sha256": "edace10f570e3e94995ce7987c761b839f3060ed67dcb2cc34218145fe047aa5",
+      "bytes": 1729142,
+      "mtime_ns": 1791032619962164905
+    },
+    {
+      "file": "04_成品/submission_GIF.zip",
+      "sha256": "b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e",
+      "bytes": 1227081,
+      "mtime_ns": 1791076778358245090
+    },
+    {
+      "file": "04_成品/submission_PNG.zip",
+      "sha256": "6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649",
+      "bytes": 2359614,
+      "mtime_ns": 1791076778327065777
+    },
+    {
+      "file": "04_成品/thumbnail/01.png",
+      "sha256": "19d14e1897be918098470e314f2f3d2daf37f9cf0c2390d278712676daa05795",
+      "bytes": 17982,
+      "mtime_ns": 1791032594358648172
+    },
+    {
+      "file": "04_成品/thumbnail/02.png",
+      "sha256": "d233bb0b42362f94d64dd0b62cafbc134b14fa5e712a0326aeb6bcbee307e026",
+      "bytes": 19884,
+      "mtime_ns": 1791032595373742119
+    },
+    {
+      "file": "04_成品/thumbnail/03.png",
+      "sha256": "b5dfa21dccc13444c0e9b4f922361f0e1b3cbc1c182cdad240ed845b5d23ca45",
+      "bytes": 19383,
+      "mtime_ns": 1791032596324401862
+    },
+    {
+      "file": "04_成品/thumbnail/04.png",
+      "sha256": "f95dbf6b74bbc94e84e79e4b1a934c28b5a89b302e15743a7e1c854f4b7bcf52",
+      "bytes": 21700,
+      "mtime_ns": 1791032597350057334
+    },
+    {
+      "file": "04_成品/thumbnail/05.png",
+      "sha256": "7362592fd662e35870f2c1b084e48a0cd96430f765865a0e2295393394258991",
+      "bytes": 20854,
+      "mtime_ns": 1791032598456314697
+    },
+    {
+      "file": "04_成品/thumbnail/06.png",
+      "sha256": "ae1ff1e7e76c14414e1127bd6a09a65f9644ae2473ccab0e97489b482fef16a6",
+      "bytes": 18629,
+      "mtime_ns": 1791032599543627938
+    },
+    {
+      "file": "04_成品/thumbnail/07.png",
+      "sha256": "1cb9a8132eb92e2e37bcd4d63e83c6afafbf2d2afe56b1e6809dff39e22a7f79",
+      "bytes": 18762,
+      "mtime_ns": 1791032601304064857
+    },
+    {
+      "file": "04_成品/thumbnail/08.png",
+      "sha256": "eabba8eeba7911cf8ca7c8a14eeabac5b57fd093f6ba262236ec7022bc175574",
+      "bytes": 29787,
+      "mtime_ns": 1791032602801351427
+    },
+    {
+      "file": "04_成品/thumbnail/09.png",
+      "sha256": "f06bcf5374862573fed253c0bb053e5833494860f94d9394caff655f26a708a1",
+      "bytes": 18750,
+      "mtime_ns": 1791032604065427631
+    },
+    {
+      "file": "04_成品/thumbnail/10.png",
+      "sha256": "9e51a9bf84d41fad0d2ea15e600039698647eb88a706b3a9c35450f760faf584",
+      "bytes": 18283,
+      "mtime_ns": 1791032605087957625
+    },
+    {
+      "file": "04_成品/thumbnail/11.png",
+      "sha256": "20c0189a0936efaaf343265fe749cf4fb802c6e36f0f97e377b7e6975b7fa2ba",
+      "bytes": 20685,
+      "mtime_ns": 1791032606138922343
+    },
+    {
+      "file": "04_成品/thumbnail/12.png",
+      "sha256": "d967d535cd5f0a50d0e39fe858545d622cd7f3c5d191d5f316de3fbe418d369f",
+      "bytes": 20225,
+      "mtime_ns": 1791032607206751127
+    },
+    {
+      "file": "04_成品/thumbnail/13.png",
+      "sha256": "5478164dd3d57f0e869c4c8033252d3f0d952915428ed852a8760963dc52ecfe",
+      "bytes": 17507,
+      "mtime_ns": 1791032608201096940
+    },
+    {
+      "file": "04_成品/thumbnail/14.png",
+      "sha256": "7e7ddf4f29961abd5188b208f84fd426552dd42f04d579edc13ec07ff196a209",
+      "bytes": 23011,
+      "mtime_ns": 1791032609418217012
+    },
+    {
+      "file": "04_成品/thumbnail/15.png",
+      "sha256": "3b0953e28ccd7a98d7a6a545b0060c8d76bbf11ce240231273975b2292314062",
+      "bytes": 18294,
+      "mtime_ns": 1791032610455482267
+    },
+    {
+      "file": "04_成品/thumbnail/16.png",
+      "sha256": "aca3cf9dc0f28a7d098dd25a561248a48cf80de27b934502ce8a837334b0a986",
+      "bytes": 16677,
+      "mtime_ns": 1791032611488979914
+    },
+    {
+      "file": "04_成品/thumbnail/17.png",
+      "sha256": "4546370366c72f7bdf29555259257e9418ee2004dcbc9494d3872cca163d6b66",
+      "bytes": 15241,
+      "mtime_ns": 1791032612411711853
+    },
+    {
+      "file": "04_成品/thumbnail/18.png",
+      "sha256": "d2617e69ca06fa5f36f91da2fb387724401af0423a3b44108d5029a9f491fdbe",
+      "bytes": 18328,
+      "mtime_ns": 1791032613434020596
+    },
+    {
+      "file": "04_成品/thumbnail/19.png",
+      "sha256": "a6a8d903d72734e11b503bc9bad987b98cde8bc94b6cea7d3a11b41c9d1f31c0",
+      "bytes": 22771,
+      "mtime_ns": 1791032614524745651
+    },
+    {
+      "file": "04_成品/thumbnail/20.png",
+      "sha256": "20a0dc3bd467d12b36043dae2c0ab29703296ef4cdf5484e4ed8031a874a6147",
+      "bytes": 20131,
+      "mtime_ns": 1791032615604693387
+    },
+    {
+      "file": "04_成品/thumbnail/21.png",
+      "sha256": "65bdab3b49f4ca258ff26f9f817b5ab874e2028a99e5faeda5adb843af2d5478",
+      "bytes": 21651,
+      "mtime_ns": 1791032616692816509
+    },
+    {
+      "file": "04_成品/thumbnail/22.png",
+      "sha256": "2570a0ecdcbac402731a3498b05beb96d0acd16bc20f3ff22860bfb8b7a8257c",
+      "bytes": 27244,
+      "mtime_ns": 1791032617918213632
+    },
+    {
+      "file": "04_成品/thumbnail/23.png",
+      "sha256": "10b89e161627cdef0412ca265aa8fa3ea5a7cfd62d26b68907b97f16c3c9b6ab",
+      "bytes": 18865,
+      "mtime_ns": 1791032618932360322
+    },
+    {
+      "file": "04_成品/thumbnail/24.png",
+      "sha256": "32afb8343848505eda977bd62ef3d0dfe3495ef996fcc5b222179bbd2e97551c",
+      "bytes": 23090,
+      "mtime_ns": 1791032619922624152
+    },
+    {
+      "file": "04_成品/validation_report.json",
+      "sha256": "62367ddd3b9c15d7e4d256af0731cdbed8259c65c6bd2a50f168aaca78fcd5db",
+      "bytes": 131676,
+      "mtime_ns": 1791076778272412217
+    },
+    {
+      "file": "04_成品/visual_review.json",
+      "sha256": "fdf88f7cf7a623d089b4cd1219e741fccd76ccb10df1bb9b68c313a78a5fbad1",
+      "bytes": 18912,
+      "mtime_ns": 1791076722557750277
+    },
+    {
+      "file": "04_成品/zip_validation.json",
+      "sha256": "8def1ab193bdde051fe27ecf52c22387b0712252faa1bf0385baeca0a0a478d9",
+      "bytes": 655,
+      "mtime_ns": 1791076782755729927
+    },
+    {
+      "file": "04_成品/上传填写文案.md",
+      "sha256": "1674517346739f5098f78c95abfc7fcf49db734795e2900f490f7b49d1821969",
+      "bytes": 1763,
+      "mtime_ns": 1791076774556854181
+    }
+  ]
+}

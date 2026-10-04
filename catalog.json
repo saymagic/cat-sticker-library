@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T16:07:13.487668+08:00",
+  "updated_at": "2026-10-04T10:06:49.326705+08:00",
   "characters": [
     "奶思",
     "古德",
@@ -760,6 +760,1316 @@
       ],
       "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
       "can_download": true,
+      "default": true
+    },
+    {
+      "id": "pack-a4e39c770a56",
+      "character": "古德",
+      "theme": "宝宝有话说",
+      "title": "古德宝宝有话说",
+      "media": "静态",
+      "count": 24,
+      "sequence": 1,
+      "date": "20261003",
+      "status": "本地成品",
+      "current": true,
+      "archived": false,
+      "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张",
+      "tags": [
+        "猫咪",
+        "宝宝",
+        "日常",
+        "撒娇",
+        "小情绪"
+      ],
+      "description": "古德把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+      "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+      "copy_exception": "",
+      "created_at": "2026-10-03T20:29:05.007277+08:00",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "dd252b7a84eb5ad65369b7b3a8d6d95e15c0669a3d42a3f920c56b35833d8b92",
+        "completed_at": "2026-10-04T09:21:05.436545+08:00",
+        "gate": {
+          "technical_checks": 1129,
+          "visual_items": 24,
+          "assets": 76,
+          "packages": 3,
+          "profile_date": "2026-10-03"
+        }
+      },
+      "health": {
+        "state": "有效",
+        "issues": [],
+        "checked": 794,
+        "mode": "文件大小与修改时间"
+      },
+      "display_status": "本地成品",
+      "items": [
+        {
+          "number": "01",
+          "caption": "早上好",
+          "meaning": "晨安",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/01.png"
+        },
+        {
+          "number": "02",
+          "caption": "哥哥呢",
+          "meaning": "找哥哥",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/02.png"
+        },
+        {
+          "number": "03",
+          "caption": "宝宝到咯",
+          "meaning": "到啦",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/03.png"
+        },
+        {
+          "number": "04",
+          "caption": "胖胖快回来",
+          "meaning": "盼归",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/04.png"
+        },
+        {
+          "number": "05",
+          "caption": "慢点开车",
+          "meaning": "慢开",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/05.png"
+        },
+        {
+          "number": "06",
+          "caption": "饿饿！",
+          "meaning": "肚饿",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/06.png"
+        },
+        {
+          "number": "07",
+          "caption": "吃啥呀",
+          "meaning": "问饭",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/07.png"
+        },
+        {
+          "number": "08",
+          "caption": "想吃小蛋糕",
+          "meaning": "馋糕",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/08.png"
+        },
+        {
+          "number": "09",
+          "caption": "已买",
+          "meaning": "买好",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/09.png"
+        },
+        {
+          "number": "10",
+          "caption": "欧了",
+          "meaning": "搞定",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/10.png"
+        },
+        {
+          "number": "11",
+          "caption": "这个可以",
+          "meaning": "赞同",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/11.png"
+        },
+        {
+          "number": "12",
+          "caption": "我木有诶",
+          "meaning": "没有",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/12.png"
+        },
+        {
+          "number": "13",
+          "caption": "你说",
+          "meaning": "听你",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/13.png"
+        },
+        {
+          "number": "14",
+          "caption": "还在思考中",
+          "meaning": "琢磨",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/14.png"
+        },
+        {
+          "number": "15",
+          "caption": "嘻嘻",
+          "meaning": "偷乐",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/15.png"
+        },
+        {
+          "number": "16",
+          "caption": "比心",
+          "meaning": "爱你",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/16.png"
+        },
+        {
+          "number": "17",
+          "caption": "哼",
+          "meaning": "小哼",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/17.png"
+        },
+        {
+          "number": "18",
+          "caption": "啊？？",
+          "meaning": "惊问",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/18.png"
+        },
+        {
+          "number": "19",
+          "caption": "你认真的？",
+          "meaning": "怀疑",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/19.png"
+        },
+        {
+          "number": "20",
+          "caption": "你最好是",
+          "meaning": "警告",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/20.png"
+        },
+        {
+          "number": "21",
+          "caption": "宝服了",
+          "meaning": "服气",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/21.png"
+        },
+        {
+          "number": "22",
+          "caption": "火都来了",
+          "meaning": "冒火",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/22.png"
+        },
+        {
+          "number": "23",
+          "caption": "脑袋空空",
+          "meaning": "放空",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/23.png"
+        },
+        {
+          "number": "24",
+          "caption": "宝宝累了",
+          "meaning": "累趴",
+          "image": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/24.png"
+        }
+      ],
+      "packages": [
+        {
+          "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_PNG.zip",
+          "label": "PNG上传包",
+          "bytes": 2359614,
+          "download": "古德_宝宝有话说_v001_submission_PNG.zip",
+          "sha256": "6bd2077286d5d531b85a62cf62549fe0988fdb146f2783537387878c630b6649"
+        },
+        {
+          "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_GIF.zip",
+          "label": "GIF静态备用",
+          "bytes": 1227081,
+          "download": "古德_宝宝有话说_v001_submission_GIF.zip",
+          "sha256": "b365663e9d1e087ac002fb145da4a9b673078a99f6befb232c1805d617cdaa8e"
+        },
+        {
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b.zip",
+          "label": "完整制作备份",
+          "bytes": 162681584,
+          "download": "古德_宝宝有话说_v001_complete_delivery.zip",
+          "sha256": "f38d34eb6e29e61b969a7b9d62beb3eb912cd5e0d2f61b7f245cdaa11537742b"
+        }
+      ],
+      "reports": [
+        {
+          "label": "技术检查",
+          "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/validation_report.json"
+        },
+        {
+          "label": "逐张目检",
+          "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/visual_review.json"
+        },
+        {
+          "label": "ZIP检查",
+          "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/zip_validation.json"
+        },
+        {
+          "label": "完成锁定",
+          "path": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/05_验收/完成锁定.json"
+        }
+      ],
+      "cover": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/cover_240.png",
+      "preview": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/preview.html",
+      "copy": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/上传填写文案.html",
+      "readme": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/README.html",
+      "extras": {
+        "cover": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/cover_240.png",
+        "chat_icon": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/chat_icon_50.png",
+        "banner": "01_作品/古德/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/banner_750x400.jpg"
+      },
+      "aliases": [
+        "古德猫",
+        "棕虎斑",
+        "棕虎斑猫"
+      ],
+      "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
+      "can_download": true,
+      "default": true
+    },
+    {
+      "id": "pack-b8d226d1bc49",
+      "character": "奶思",
+      "theme": "宝宝有话说",
+      "title": "奶思宝宝有话说",
+      "media": "静态",
+      "count": 24,
+      "sequence": 1,
+      "date": "20261003",
+      "status": "本地成品",
+      "current": true,
+      "archived": false,
+      "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张",
+      "tags": [
+        "猫咪",
+        "宝宝",
+        "日常",
+        "撒娇",
+        "小情绪"
+      ],
+      "description": "奶思把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+      "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+      "copy_exception": "",
+      "created_at": "2026-10-03T20:29:05.411312+08:00",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "fabf03a8144638dfefb16a8c4227da0d9f3223db22b422f8b6882654fcb1789f",
+        "completed_at": "2026-10-03T21:28:59.032270+08:00",
+        "gate": {
+          "technical_checks": 1129,
+          "visual_items": 24,
+          "assets": 76,
+          "packages": 3,
+          "profile_date": "2026-10-03"
+        }
+      },
+      "health": {
+        "state": "有效",
+        "issues": [],
+        "checked": 488,
+        "mode": "文件大小与修改时间"
+      },
+      "display_status": "本地成品",
+      "items": [
+        {
+          "number": "01",
+          "caption": "早上好",
+          "meaning": "早安",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/01.png"
+        },
+        {
+          "number": "02",
+          "caption": "哥哥呢",
+          "meaning": "寻人",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/02.png"
+        },
+        {
+          "number": "03",
+          "caption": "宝宝到咯",
+          "meaning": "到啦",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/03.png"
+        },
+        {
+          "number": "04",
+          "caption": "胖胖快回来",
+          "meaning": "快回",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/04.png"
+        },
+        {
+          "number": "05",
+          "caption": "慢点开车",
+          "meaning": "慢行",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/05.png"
+        },
+        {
+          "number": "06",
+          "caption": "饿饿！",
+          "meaning": "饿啦",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/06.png"
+        },
+        {
+          "number": "07",
+          "caption": "吃啥呀",
+          "meaning": "饭点",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/07.png"
+        },
+        {
+          "number": "08",
+          "caption": "想吃小蛋糕",
+          "meaning": "蛋糕",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/08.png"
+        },
+        {
+          "number": "09",
+          "caption": "已买",
+          "meaning": "买好",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/09.png"
+        },
+        {
+          "number": "10",
+          "caption": "欧了",
+          "meaning": "搞定",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/10.png"
+        },
+        {
+          "number": "11",
+          "caption": "这个可以",
+          "meaning": "认可",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/11.png"
+        },
+        {
+          "number": "12",
+          "caption": "我木有诶",
+          "meaning": "没有",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/12.png"
+        },
+        {
+          "number": "13",
+          "caption": "你说",
+          "meaning": "倾听",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/13.png"
+        },
+        {
+          "number": "14",
+          "caption": "还在思考中",
+          "meaning": "思考",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/14.png"
+        },
+        {
+          "number": "15",
+          "caption": "嘻嘻",
+          "meaning": "偷笑",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/15.png"
+        },
+        {
+          "number": "16",
+          "caption": "比心",
+          "meaning": "爱你",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/16.png"
+        },
+        {
+          "number": "17",
+          "caption": "哼",
+          "meaning": "小哼",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/17.png"
+        },
+        {
+          "number": "18",
+          "caption": "啊？？",
+          "meaning": "震惊",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/18.png"
+        },
+        {
+          "number": "19",
+          "caption": "你认真的？",
+          "meaning": "质疑",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/19.png"
+        },
+        {
+          "number": "20",
+          "caption": "你最好是",
+          "meaning": "盯住",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/20.png"
+        },
+        {
+          "number": "21",
+          "caption": "宝服了",
+          "meaning": "服气",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/21.png"
+        },
+        {
+          "number": "22",
+          "caption": "火都来了",
+          "meaning": "冒火",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/22.png"
+        },
+        {
+          "number": "23",
+          "caption": "脑袋空空",
+          "meaning": "放空",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/23.png"
+        },
+        {
+          "number": "24",
+          "caption": "宝宝累了",
+          "meaning": "累啦",
+          "image": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/24.png"
+        }
+      ],
+      "packages": [
+        {
+          "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_PNG.zip",
+          "label": "PNG上传包",
+          "bytes": 2414140,
+          "download": "奶思_宝宝有话说_v001_submission_PNG.zip",
+          "sha256": "360b2e2a64a4e1b4571291eb93d0ab894c50efac0df0b1fe518af6fd7bd3850d"
+        },
+        {
+          "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_GIF.zip",
+          "label": "GIF静态备用",
+          "bytes": 1415697,
+          "download": "奶思_宝宝有话说_v001_submission_GIF.zip",
+          "sha256": "8cf91c2a6cbf04b69a8a08182f9553d80f502aa21e7b4e286cca1b391997be2e"
+        },
+        {
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4.zip",
+          "label": "完整制作备份",
+          "bytes": 153569582,
+          "download": "奶思_宝宝有话说_v001_complete_delivery.zip",
+          "sha256": "0198c576dccc770334fa00861692d98d4711204688578cabfa84e238c81cfba4"
+        }
+      ],
+      "reports": [
+        {
+          "label": "技术检查",
+          "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/validation_report.json"
+        },
+        {
+          "label": "逐张目检",
+          "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/visual_review.json"
+        },
+        {
+          "label": "ZIP检查",
+          "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/zip_validation.json"
+        },
+        {
+          "label": "完成锁定",
+          "path": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/05_验收/完成锁定.json"
+        }
+      ],
+      "cover": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/cover_240.png",
+      "preview": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/preview.html",
+      "copy": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/上传填写文案.html",
+      "readme": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/README.html",
+      "extras": {
+        "cover": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/cover_240.png",
+        "chat_icon": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/chat_icon_50.png",
+        "banner": "01_作品/奶思/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/banner_750x400.jpg"
+      },
+      "aliases": [
+        "奶思猫",
+        "乃斯",
+        "灰虎斑",
+        "灰虎斑猫"
+      ],
+      "identity": "灰黑虎斑短毛，金棕眼，奶油口鼻与粉鼻",
+      "can_download": true,
+      "default": true
+    },
+    {
+      "id": "pack-41c15d18e196",
+      "character": "范恩",
+      "theme": "宝宝有话说",
+      "title": "范恩宝宝有话说",
+      "media": "静态",
+      "count": 24,
+      "sequence": 1,
+      "date": "20261003",
+      "status": "本地成品",
+      "current": true,
+      "archived": false,
+      "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张",
+      "tags": [
+        "猫咪",
+        "宝宝",
+        "日常",
+        "撒娇",
+        "小情绪"
+      ],
+      "description": "范恩把撒娇、惦念、饭点和小情绪变成24句软萌回应，陪宝宝聊好每一天。",
+      "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+      "copy_exception": "",
+      "created_at": "2026-10-03T20:29:05.792405+08:00",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": {
+        "seal": "05_验收/完成锁定.json",
+        "sha256": "5f5760313203766390c1f8f4c01efe46c869a5ee9836f07cbcd3b914fbbbd8bd",
+        "completed_at": "2026-10-03T21:53:56.407263+08:00",
+        "gate": {
+          "technical_checks": 1129,
+          "visual_items": 24,
+          "assets": 76,
+          "packages": 3,
+          "profile_date": "2026-10-03"
+        }
+      },
+      "health": {
+        "state": "有效",
+        "issues": [],
+        "checked": 465,
+        "mode": "文件大小与修改时间"
+      },
+      "display_status": "本地成品",
+      "items": [
+        {
+          "number": "01",
+          "caption": "早上好",
+          "meaning": "早安",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/01.png"
+        },
+        {
+          "number": "02",
+          "caption": "哥哥呢",
+          "meaning": "找哥哥",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/02.png"
+        },
+        {
+          "number": "03",
+          "caption": "宝宝到咯",
+          "meaning": "到场",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/03.png"
+        },
+        {
+          "number": "04",
+          "caption": "胖胖快回来",
+          "meaning": "盼归",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/04.png"
+        },
+        {
+          "number": "05",
+          "caption": "慢点开车",
+          "meaning": "慢行",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/05.png"
+        },
+        {
+          "number": "06",
+          "caption": "饿饿！",
+          "meaning": "饥饿",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/06.png"
+        },
+        {
+          "number": "07",
+          "caption": "吃啥呀",
+          "meaning": "选餐",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/07.png"
+        },
+        {
+          "number": "08",
+          "caption": "想吃小蛋糕",
+          "meaning": "蛋糕",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/08.png"
+        },
+        {
+          "number": "09",
+          "caption": "已买",
+          "meaning": "买好",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/09.png"
+        },
+        {
+          "number": "10",
+          "caption": "欧了",
+          "meaning": "搞定",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/10.png"
+        },
+        {
+          "number": "11",
+          "caption": "这个可以",
+          "meaning": "认可",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/11.png"
+        },
+        {
+          "number": "12",
+          "caption": "我木有诶",
+          "meaning": "没有",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/12.png"
+        },
+        {
+          "number": "13",
+          "caption": "你说",
+          "meaning": "倾听",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/13.png"
+        },
+        {
+          "number": "14",
+          "caption": "还在思考中",
+          "meaning": "思考",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/14.png"
+        },
+        {
+          "number": "15",
+          "caption": "嘻嘻",
+          "meaning": "偷笑",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/15.png"
+        },
+        {
+          "number": "16",
+          "caption": "比心",
+          "meaning": "爱你",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/16.png"
+        },
+        {
+          "number": "17",
+          "caption": "哼",
+          "meaning": "傲娇",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/17.png"
+        },
+        {
+          "number": "18",
+          "caption": "啊？？",
+          "meaning": "惊讶",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/18.png"
+        },
+        {
+          "number": "19",
+          "caption": "你认真的？",
+          "meaning": "质疑",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/19.png"
+        },
+        {
+          "number": "20",
+          "caption": "你最好是",
+          "meaning": "警告",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/20.png"
+        },
+        {
+          "number": "21",
+          "caption": "宝服了",
+          "meaning": "佩服",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/21.png"
+        },
+        {
+          "number": "22",
+          "caption": "火都来了",
+          "meaning": "生气",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/22.png"
+        },
+        {
+          "number": "23",
+          "caption": "脑袋空空",
+          "meaning": "放空",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/23.png"
+        },
+        {
+          "number": "24",
+          "caption": "宝宝累了",
+          "meaning": "疲惫",
+          "image": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/main_png/24.png"
+        }
+      ],
+      "packages": [
+        {
+          "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_PNG.zip",
+          "label": "PNG上传包",
+          "bytes": 2164049,
+          "download": "范恩_宝宝有话说_v001_submission_PNG.zip",
+          "sha256": "647411448f46901155d10fb5a48991fb84d345326f8422440bf4e34bbcf7f26a"
+        },
+        {
+          "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/submission_GIF.zip",
+          "label": "GIF静态备用",
+          "bytes": 1243980,
+          "download": "范恩_宝宝有话说_v001_submission_GIF.zip",
+          "sha256": "794b58572cfeae949ccde2c20751ac5c03b9ba4fa478860d9fd44118651c1faa"
+        },
+        {
+          "path": "https://github.com/saymagic/cat-sticker-library/releases/download/materials-20261004-baby-v1/archive-7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869.zip",
+          "label": "完整制作备份",
+          "bytes": 140749139,
+          "download": "范恩_宝宝有话说_v001_complete_delivery.zip",
+          "sha256": "7bf89875dca9f385ccf726cba9b7d44a4d54d9b69e0d75acba6b513289d85869"
+        }
+      ],
+      "reports": [
+        {
+          "label": "技术检查",
+          "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/validation_report.json"
+        },
+        {
+          "label": "逐张目检",
+          "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/visual_review.json"
+        },
+        {
+          "label": "ZIP检查",
+          "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/zip_validation.json"
+        },
+        {
+          "label": "完成锁定",
+          "path": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/05_验收/完成锁定.json"
+        }
+      ],
+      "cover": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/cover_240.png",
+      "preview": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/preview.html",
+      "copy": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/上传填写文案.html",
+      "readme": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/README.html",
+      "extras": {
+        "cover": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/cover_240.png",
+        "chat_icon": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/chat_icon_50.png",
+        "banner": "01_作品/范恩/宝宝有话说/版本/v001_20261003_静态24张/04_成品/extras/banner_750x400.jpg"
+      },
+      "aliases": [
+        "范恩猫",
+        "白色长毛猫"
+      ],
+      "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
+      "can_download": true,
+      "default": true
+    },
+    {
+      "id": "pack-f553ea391eed",
+      "character": "古德",
+      "theme": "小情绪上辑",
+      "title": "古德小情绪上",
+      "media": "静态",
+      "count": 14,
+      "sequence": 1,
+      "date": "20261004",
+      "status": "制作中",
+      "current": false,
+      "archived": false,
+      "path": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张",
+      "tags": [
+        "小情绪",
+        "俏皮",
+        "用户文案"
+      ],
+      "description": "古德的小情绪上辑，按原顺序收录第1至14条文案，用棕虎斑猫回应坏笑、撒娇与天气。",
+      "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+      "copy_exception": "",
+      "created_at": "2026-10-04T09:32:48.957892+08:00",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": null,
+      "health": {
+        "state": "未完成",
+        "issues": [],
+        "checked": 0
+      },
+      "display_status": "制作中",
+      "items": [
+        {
+          "number": "01",
+          "caption": "坏",
+          "meaning": "调皮",
+          "image": null
+        },
+        {
+          "number": "02",
+          "caption": "嘿嘿嘿",
+          "meaning": "坏笑",
+          "image": null
+        },
+        {
+          "number": "03",
+          "caption": "看扁我？",
+          "meaning": "不服",
+          "image": null
+        },
+        {
+          "number": "04",
+          "caption": "被看扁了",
+          "meaning": "委屈",
+          "image": null
+        },
+        {
+          "number": "05",
+          "caption": "稍等",
+          "meaning": "等待",
+          "image": null
+        },
+        {
+          "number": "06",
+          "caption": "跳舞",
+          "meaning": "起舞",
+          "image": null
+        },
+        {
+          "number": "07",
+          "caption": "跳",
+          "meaning": "跳跃",
+          "image": null
+        },
+        {
+          "number": "08",
+          "caption": "冷",
+          "meaning": "怕冷",
+          "image": null
+        },
+        {
+          "number": "09",
+          "caption": "发抖",
+          "meaning": "颤抖",
+          "image": null
+        },
+        {
+          "number": "10",
+          "caption": "热",
+          "meaning": "怕热",
+          "image": null
+        },
+        {
+          "number": "11",
+          "caption": "淋雨",
+          "meaning": "落汤猫",
+          "image": null
+        },
+        {
+          "number": "12",
+          "caption": "摸摸头",
+          "meaning": "安慰",
+          "image": null
+        },
+        {
+          "number": "13",
+          "caption": "吐血",
+          "meaning": "扎心",
+          "image": null
+        },
+        {
+          "number": "14",
+          "caption": "呆住",
+          "meaning": "愣住",
+          "image": null
+        }
+      ],
+      "packages": [],
+      "reports": [],
+      "cover": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
+      "preview": null,
+      "copy": null,
+      "readme": "01_作品/古德/小情绪上辑/版本/v001_20261004_静态14张/README.html",
+      "extras": {
+        "cover": null,
+        "chat_icon": null,
+        "banner": null
+      },
+      "aliases": [
+        "古德猫",
+        "棕虎斑",
+        "棕虎斑猫"
+      ],
+      "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
+      "can_download": false,
+      "default": true
+    },
+    {
+      "id": "pack-73b2cce6e825",
+      "character": "古德",
+      "theme": "小情绪下辑",
+      "title": "古德小情绪下",
+      "media": "静态",
+      "count": 14,
+      "sequence": 1,
+      "date": "20261004",
+      "status": "制作中",
+      "current": false,
+      "archived": false,
+      "path": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张",
+      "tags": [
+        "小情绪",
+        "俏皮",
+        "用户文案"
+      ],
+      "description": "古德的小情绪下辑，按原顺序收录第15至28条文案，从小脾气到咪咪卖萌，陪你轻松聊天。",
+      "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+      "copy_exception": "用户原文含“20.OK”和“22.kiss”；本次明确保留OK和kiss，不翻译、不改写。",
+      "created_at": "2026-10-04T09:32:49.516682+08:00",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": null,
+      "health": {
+        "state": "未完成",
+        "issues": [],
+        "checked": 0
+      },
+      "display_status": "制作中",
+      "items": [
+        {
+          "number": "01",
+          "caption": "勃然小怒",
+          "meaning": "微怒",
+          "image": null
+        },
+        {
+          "number": "02",
+          "caption": "小发雷霆",
+          "meaning": "发怒",
+          "image": null
+        },
+        {
+          "number": "03",
+          "caption": "捶你",
+          "meaning": "轻捶",
+          "image": null
+        },
+        {
+          "number": "04",
+          "caption": "困了",
+          "meaning": "困倦",
+          "image": null
+        },
+        {
+          "number": "05",
+          "caption": "哦。",
+          "meaning": "平淡",
+          "image": null
+        },
+        {
+          "number": "06",
+          "caption": "OK",
+          "meaning": "答应",
+          "image": null
+        },
+        {
+          "number": "07",
+          "caption": "笑",
+          "meaning": "开心",
+          "image": null
+        },
+        {
+          "number": "08",
+          "caption": "kiss",
+          "meaning": "亲亲",
+          "image": null
+        },
+        {
+          "number": "09",
+          "caption": "撅嘴",
+          "meaning": "嘟嘴",
+          "image": null
+        },
+        {
+          "number": "10",
+          "caption": "三分冷漠",
+          "meaning": "冷漠",
+          "image": null
+        },
+        {
+          "number": "11",
+          "caption": "炸弹",
+          "meaning": "炸弹",
+          "image": null
+        },
+        {
+          "number": "12",
+          "caption": "心虚",
+          "meaning": "心虚",
+          "image": null
+        },
+        {
+          "number": "13",
+          "caption": "流汗",
+          "meaning": "尴尬",
+          "image": null
+        },
+        {
+          "number": "14",
+          "caption": "咪",
+          "meaning": "卖萌",
+          "image": null
+        }
+      ],
+      "packages": [],
+      "reports": [],
+      "cover": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
+      "preview": null,
+      "copy": null,
+      "readme": "01_作品/古德/小情绪下辑/版本/v001_20261004_静态14张/README.html",
+      "extras": {
+        "cover": null,
+        "chat_icon": null,
+        "banner": null
+      },
+      "aliases": [
+        "古德猫",
+        "棕虎斑",
+        "棕虎斑猫"
+      ],
+      "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
+      "can_download": false,
+      "default": true
+    },
+    {
+      "id": "pack-3801868b3050",
+      "character": "范恩",
+      "theme": "小情绪上辑",
+      "title": "范恩小情绪上",
+      "media": "静态",
+      "count": 14,
+      "sequence": 1,
+      "date": "20261004",
+      "status": "制作中",
+      "current": false,
+      "archived": false,
+      "path": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张",
+      "tags": [
+        "小情绪",
+        "俏皮",
+        "用户文案"
+      ],
+      "description": "范恩的小情绪上辑，按原顺序收录第1至14条文案，用奶白长毛猫回应坏笑、撒娇与天气。",
+      "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+      "copy_exception": "",
+      "created_at": "2026-10-04T09:32:50.027159+08:00",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": null,
+      "health": {
+        "state": "未完成",
+        "issues": [],
+        "checked": 0
+      },
+      "display_status": "制作中",
+      "items": [
+        {
+          "number": "01",
+          "caption": "坏",
+          "meaning": "调皮",
+          "image": null
+        },
+        {
+          "number": "02",
+          "caption": "嘿嘿嘿",
+          "meaning": "坏笑",
+          "image": null
+        },
+        {
+          "number": "03",
+          "caption": "看扁我？",
+          "meaning": "不服",
+          "image": null
+        },
+        {
+          "number": "04",
+          "caption": "被看扁了",
+          "meaning": "委屈",
+          "image": null
+        },
+        {
+          "number": "05",
+          "caption": "稍等",
+          "meaning": "等待",
+          "image": null
+        },
+        {
+          "number": "06",
+          "caption": "跳舞",
+          "meaning": "起舞",
+          "image": null
+        },
+        {
+          "number": "07",
+          "caption": "跳",
+          "meaning": "跳跃",
+          "image": null
+        },
+        {
+          "number": "08",
+          "caption": "冷",
+          "meaning": "怕冷",
+          "image": null
+        },
+        {
+          "number": "09",
+          "caption": "发抖",
+          "meaning": "颤抖",
+          "image": null
+        },
+        {
+          "number": "10",
+          "caption": "热",
+          "meaning": "怕热",
+          "image": null
+        },
+        {
+          "number": "11",
+          "caption": "淋雨",
+          "meaning": "落汤猫",
+          "image": null
+        },
+        {
+          "number": "12",
+          "caption": "摸摸头",
+          "meaning": "安慰",
+          "image": null
+        },
+        {
+          "number": "13",
+          "caption": "吐血",
+          "meaning": "扎心",
+          "image": null
+        },
+        {
+          "number": "14",
+          "caption": "呆住",
+          "meaning": "愣住",
+          "image": null
+        }
+      ],
+      "packages": [],
+      "reports": [],
+      "cover": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
+      "preview": null,
+      "copy": null,
+      "readme": "01_作品/范恩/小情绪上辑/版本/v001_20261004_静态14张/README.html",
+      "extras": {
+        "cover": null,
+        "chat_icon": null,
+        "banner": null
+      },
+      "aliases": [
+        "范恩猫",
+        "白色长毛猫"
+      ],
+      "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
+      "can_download": false,
+      "default": true
+    },
+    {
+      "id": "pack-6e2459078410",
+      "character": "范恩",
+      "theme": "小情绪下辑",
+      "title": "范恩小情绪下",
+      "media": "静态",
+      "count": 14,
+      "sequence": 1,
+      "date": "20261004",
+      "status": "制作中",
+      "current": false,
+      "archived": false,
+      "path": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张",
+      "tags": [
+        "小情绪",
+        "俏皮",
+        "用户文案"
+      ],
+      "description": "范恩的小情绪下辑，按原顺序收录第15至28条文案，从小脾气到咪咪卖萌，陪你轻松聊天。",
+      "style": "沿用所引用卡通基准的手绘贴纸框架；中文短句在上，猫咪动作在下，主图白色外沿；封面和50px聊天图标无白色外沿。具体风格以本次用户要求为准。",
+      "copy_exception": "用户原文含“20.OK”和“22.kiss”；本次明确保留OK和kiss，不翻译、不改写。",
+      "created_at": "2026-10-04T09:32:50.549307+08:00",
+      "platform": {
+        "state": "未投稿",
+        "evidence": null
+      },
+      "completion": null,
+      "health": {
+        "state": "未完成",
+        "issues": [],
+        "checked": 0
+      },
+      "display_status": "制作中",
+      "items": [
+        {
+          "number": "01",
+          "caption": "勃然小怒",
+          "meaning": "微怒",
+          "image": null
+        },
+        {
+          "number": "02",
+          "caption": "小发雷霆",
+          "meaning": "发怒",
+          "image": null
+        },
+        {
+          "number": "03",
+          "caption": "捶你",
+          "meaning": "轻捶",
+          "image": null
+        },
+        {
+          "number": "04",
+          "caption": "困了",
+          "meaning": "困倦",
+          "image": null
+        },
+        {
+          "number": "05",
+          "caption": "哦。",
+          "meaning": "平淡",
+          "image": null
+        },
+        {
+          "number": "06",
+          "caption": "OK",
+          "meaning": "答应",
+          "image": null
+        },
+        {
+          "number": "07",
+          "caption": "笑",
+          "meaning": "开心",
+          "image": null
+        },
+        {
+          "number": "08",
+          "caption": "kiss",
+          "meaning": "亲亲",
+          "image": null
+        },
+        {
+          "number": "09",
+          "caption": "撅嘴",
+          "meaning": "嘟嘴",
+          "image": null
+        },
+        {
+          "number": "10",
+          "caption": "三分冷漠",
+          "meaning": "冷漠",
+          "image": null
+        },
+        {
+          "number": "11",
+          "caption": "炸弹",
+          "meaning": "炸弹",
+          "image": null
+        },
+        {
+          "number": "12",
+          "caption": "心虚",
+          "meaning": "心虚",
+          "image": null
+        },
+        {
+          "number": "13",
+          "caption": "流汗",
+          "meaning": "尴尬",
+          "image": null
+        },
+        {
+          "number": "14",
+          "caption": "咪",
+          "meaning": "卖萌",
+          "image": null
+        }
+      ],
+      "packages": [],
+      "reports": [],
+      "cover": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/01_资料/参考/卡通基准.png",
+      "preview": null,
+      "copy": null,
+      "readme": "01_作品/范恩/小情绪下辑/版本/v001_20261004_静态14张/README.html",
+      "extras": {
+        "cover": null,
+        "chat_icon": null,
+        "banner": null
+      },
+      "aliases": [
+        "范恩猫",
+        "白色长毛猫"
+      ],
+      "identity": "浅奶白长毛，蓝眼，浅灰棕耳尾，粉鼻",
+      "can_download": false,
       "default": true
     }
   ]

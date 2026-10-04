@@ -1,0 +1,18 @@
+{
+  "tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "request": {
+    "prompt": "Use case: illustration-story.\nAsset type: 三只猫一起的独立赞赏引导图，横向750:560，最终750×560。仅一张完整场景插画，不是网格、拼图或样机。\nInput images: 1古德卡通身份：棕虎斑短毛，绿色眼睛；2范恩卡通身份：奶白长毛，蓝色眼睛，浅灰棕耳尾；3奶思卡通身份：灰黑虎斑短毛，金棕眼睛；4已交付范恩引导图，取暖奶油底、毛绒手绘水彩笔触与圆润粗中文排版。不要照抄任何英文、网格或原文案。\nSubjects: 恰好三只、仅三只不同小猫，左古德（棕色短毛、绿眼），中范恩（奶白长毛、蓝眼），右奶思（灰黑短毛、金棕眼）。三猫都粉鼻、圆软脸，头身比自然，与各自身份参考一致。三只猫完整独立，不混色、不融合、不多猫、不多肢体；每只猫一根尾巴，自然朝自己的外侧或身后。\nScene: 三只猫在下部同一排排排坐，开心抬头看观者，各自两前爪捧自己的一只小鱼碗：古德浅绿碗，范恩粉碗，奶思浅蓝碗；每碗两条简洁金色小鱼干。猫与猫之间少许呼吸空间，前后脚爪与自己的碗关系清楚，白长毛范恩稍蓬松但三只脸同样醒目。纯净暖奶油色完整不透明背景，少量珊瑚粉、浅蓝、柔绿圆点小爱心，温暖俏皮。\nTypography: 上方居中两行圆润饱满粗中文，深咖啡细描边与白色外沿。第一行浅蓝，第二行珊瑚粉。唯一文字逐字准确为：第一行“投喂一份喜欢”；第二行“收获三份可爱”。不能有其它任何文字、英文、角色名字、水印或标志。\nComposition: 横向750:560完整场景，上部约30%文字，下部约60%三只猫同排，文本不碰耳朵。主体宽度利用画面但四周至少5%安全边距，全体猫身体、脚、碗、尾巴与所有文字完整不切。精致清爽，同一系列毛绒水彩风。无钱币、二维码、付款按钮。",
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/04_角色素材/共用/三猫赞赏配套/v001_20261004/01_资料/参考/古德_卡通基准.png",
+      "/Users/saymagic/workspace/表情包/04_角色素材/共用/三猫赞赏配套/v001_20261004/01_资料/参考/范恩_卡通基准.png",
+      "/Users/saymagic/workspace/表情包/04_角色素材/共用/三猫赞赏配套/v001_20261004/01_资料/参考/奶思_卡通基准.png",
+      "/Users/saymagic/workspace/表情包/04_角色素材/共用/三猫赞赏配套/v001_20261004/01_资料/参考/风格_范恩引导图.jpg"
+    ],
+    "transparent_background": false
+  },
+  "output_hint": "Generated images are saved to /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3 as /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-bf904610-be66-4734-ab0f-dc37fab8201c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "native_file": "/Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-bf904610-be66-4734-ab0f-dc37fab8201c.png",
+  "stored_original": "02_原画/guide.png"
+}

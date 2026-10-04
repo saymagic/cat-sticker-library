@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "guide",
+    "size": [
+      750,
+      560
+    ],
+    "caption": [
+      "投喂一份喜欢",
+      "收获三份可爱"
+    ],
+    "original": "02_原画/guide.png"
+  },
+  {
+    "kind": "thanks",
+    "size": [
+      750,
+      750
+    ],
+    "caption": [
+      "谢谢投喂！",
+      "三只猫一起爱你"
+    ],
+    "original": "02_原画/thanks.png"
+  }
+]

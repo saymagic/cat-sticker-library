@@ -1,0 +1,34 @@
+{
+  "originals": [
+    {
+      "file": "02_原画/guide.png",
+      "sha256": "bce70270025eb7f8f6f9070f176bfdf0f1bfb52de28e76112fec61a27361803b",
+      "size": [
+        1451,
+        1084
+      ]
+    },
+    {
+      "file": "02_原画/thanks.png",
+      "sha256": "739f7f13441c21f5be321cce9d65c240ab382d992413d163b87136484bb16ca6",
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "references": [
+    {
+      "file": "01_资料/参考/奶思_卡通基准.png",
+      "sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec"
+    },
+    {
+      "file": "01_资料/参考/风格_范恩引导图.jpg",
+      "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+    },
+    {
+      "file": "01_资料/参考/风格_范恩致谢图.jpg",
+      "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+    }
+  ]
+}

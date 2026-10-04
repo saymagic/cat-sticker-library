@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "guide",
+    "size": [
+      750,
+      560
+    ],
+    "caption": [
+      "给古德加个餐",
+      "可爱继续营业"
+    ],
+    "original": "02_原画/guide.png"
+  },
+  {
+    "kind": "thanks",
+    "size": [
+      750,
+      750
+    ],
+    "caption": [
+      "谢谢投喂！",
+      "古德给你比个心"
+    ],
+    "original": "02_原画/thanks.png"
+  }
+]

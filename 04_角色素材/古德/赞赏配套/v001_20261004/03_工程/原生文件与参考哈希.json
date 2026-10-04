@@ -1,0 +1,34 @@
+{
+  "originals": [
+    {
+      "file": "02_原画/guide.png",
+      "sha256": "2d8effd940f3350e41abff6dea519f973784513fea6dfc0f6dbc1104e4992910",
+      "size": [
+        1451,
+        1084
+      ]
+    },
+    {
+      "file": "02_原画/thanks.png",
+      "sha256": "04604b1fc2cb02b167c6cf7022aae85e960a80743aeb6a09ab0efa633b47efba",
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "references": [
+    {
+      "file": "01_资料/参考/古德_卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9"
+    },
+    {
+      "file": "01_资料/参考/风格_范恩引导图.jpg",
+      "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+    },
+    {
+      "file": "01_资料/参考/风格_范恩致谢图.jpg",
+      "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+    }
+  ]
+}

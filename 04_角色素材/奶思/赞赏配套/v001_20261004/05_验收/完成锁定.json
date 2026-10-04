@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "metadata": {
+    "id": "material-0ecb849147cb",
+    "character": "奶思",
+    "title": "奶思赞赏配套",
+    "path": "04_角色素材/奶思/赞赏配套/v001_20261004",
+    "preview": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/preview.html",
+    "copy": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/赞赏引导语.md",
+    "assets": [
+      {
+        "label": "赞赏引导图 · JPG",
+        "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏引导图_750x560.jpg",
+        "size": [
+          750,
+          560
+        ],
+        "bytes": 99002,
+        "sha256": "c7eaecdecf2cdf73d785ba9f0ca56638030fa6650295affa131e6a8e7d7a3cc1"
+      },
+      {
+        "label": "赞赏引导图 · PNG",
+        "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏引导图_750x560.png",
+        "size": [
+          750,
+          560
+        ],
+        "bytes": 254503,
+        "sha256": "3bc62e0c9447f78bb46681929530a08c1c0634aaef0e1fa732ddbcacc79a7e1c"
+      },
+      {
+        "label": "赞赏致谢图 · JPG",
+        "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏致谢图_750x750.jpg",
+        "size": [
+          750,
+          750
+        ],
+        "bytes": 146928,
+        "sha256": "f6ab92ac482f542c346c8cb941aca3dfe3f8e4b3a03c22665a739d08067fa980"
+      },
+      {
+        "label": "赞赏致谢图 · PNG",
+        "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/奶思_赞赏致谢图_750x750.png",
+        "size": [
+          750,
+          750
+        ],
+        "bytes": 332393,
+        "sha256": "5ce286ea7371ef1ef7b3e18afda7ec3ccb2745136f5c326bd8d96d9a26ba208b"
+      }
+    ],
+    "packages": [
+      {
+        "label": "两图与引导语",
+        "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip",
+        "bytes": 834691,
+        "sha256": "f39466294abcb9caed8764fac84c080a05217cf4d9f21523a2607dda91c081ee"
+      },
+      {
+        "label": "完整制作备份",
+        "path": "04_角色素材/奶思/赞赏配套/v001_20261004/04_成品/complete_materials.zip",
+        "bytes": 8441764,
+        "sha256": "8243f4664e98f8b60c44db6fa9bc0dd257b61fab9e9e5e167e51cd4b9c7fb15c"
+      }
+    ]
+  },
+  "completed_at": "2026-10-04T16:16:04.839224+08:00",
+  "files": [
+    {
+      "path": "01_资料/参考/奶思_卡通基准.png",
+      "sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec"
+    },
+    {
+      "path": "01_资料/参考/风格_范恩引导图.jpg",
+      "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+    },
+    {
+      "path": "01_资料/参考/风格_范恩致谢图.jpg",
+      "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+    },
+    {
+      "path": "01_资料/角色快照.json",
+      "sha256": "322385320b3be1c3233680691fa1e941485b1209331a03f82eaeb14df337a139"
+    },
+    {
+      "path": "01_资料/逐图文案.json",
+      "sha256": "7cd661f2f5b097e592fe9268fd4544fd140c1624eca774d71d4c209d30dcaece"
+    },
+    {
+      "path": "01_资料/需求与来源.md",
+      "sha256": "09e86dd391e6e64b4774ac156ae4a738fa6c2e661d877e2c763b22fc8307d04e"
+    },
+    {
+      "path": "02_原画/guide.png",
+      "sha256": "bce70270025eb7f8f6f9070f176bfdf0f1bfb52de28e76112fec61a27361803b"
+    },
+    {
+      "path": "02_原画/thanks.png",
+      "sha256": "739f7f13441c21f5be321cce9d65c240ab382d992413d163b87136484bb16ca6"
+    },
+    {
+      "path": "03_工程/guide_全彩尺寸导出.png",
+      "sha256": "8fa220fcb13016b5836698b4e282a017ec3f01e7a576a3eaf3a40a7041d6f6fe"
+    },
+    {
+      "path": "03_工程/guide_生成记录.json",
+      "sha256": "52c2c025131fd49003f24d433f6a8e3901ee7beb5c59a3864910b579e76ebea2"
+    },
+    {
+      "path": "03_工程/guide_生成请求.json",
+      "sha256": "1eaff96eb154928d511e1a5dbe1b0e11460e65532803d260c4d82eba0b60bd09"
+    },
+    {
+      "path": "03_工程/job.json",
+      "sha256": "18c6163629021a72ecf365d74696f3403c0d4dea18dea5f6883bc9c7811ef934"
+    },
+    {
+      "path": "03_工程/platform-profile.json",
+      "sha256": "027a7a4b1b641bc7c9c2ddb01b93984bc18bc01b5b43aa5fb17ebe151f3e4076"
+    },
+    {
+      "path": "03_工程/thanks_全彩尺寸导出.png",
+      "sha256": "f299807e71a20ad109eac11f09922528a246471113f794e4f4baa5f9782dd8b4"
+    },
+    {
+      "path": "03_工程/thanks_生成记录.json",
+      "sha256": "ef8d54f27c4123c1d4ea21944f012831bb7090e86d360d2ca0416ec0d8dcc5be"
+    },
+    {
+      "path": "03_工程/thanks_生成请求.json",
+      "sha256": "5aaf7d8fa58aecd7557067592057acc029827452a01d300e99e45c5740125459"
+    },
+    {
+      "path": "03_工程/原生文件与参考哈希.json",
+      "sha256": "b5770dffc0385a0a66c00e7844d0475f6cc7acd904540b290eccde4f4c9f9bf3"
+    },
+    {
+      "path": "03_工程/导出与打包.py",
+      "sha256": "601476195c4d018fc13020b089c7997b5e959f568ef1fa2e8c55fa479e0ec096"
+    },
+    {
+      "path": "03_工程/导出参数.json",
+      "sha256": "2aba75a44821c017f179a43799733cb6dd43c08edeacdd92b36ce53e06fe75a6"
+    },
+    {
+      "path": "04_成品/captions.csv",
+      "sha256": "12bc1964fcc4bf837dfacc90ce6bae8eec250463d519c0519d648a120f5c4cce"
+    },
+    {
+      "path": "04_成品/complete_materials.zip",
+      "sha256": "8243f4664e98f8b60c44db6fa9bc0dd257b61fab9e9e5e167e51cd4b9c7fb15c"
+    },
+    {
+      "path": "04_成品/job.json",
+      "sha256": "18c6163629021a72ecf365d74696f3403c0d4dea18dea5f6883bc9c7811ef934"
+    },
+    {
+      "path": "04_成品/manifest.json",
+      "sha256": "e5ecb4107fee26482a365cb817c308e17e8bafcb1d121f87e964e988359aa613"
+    },
+    {
+      "path": "04_成品/platform-profile.json",
+      "sha256": "027a7a4b1b641bc7c9c2ddb01b93984bc18bc01b5b43aa5fb17ebe151f3e4076"
+    },
+    {
+      "path": "04_成品/preview.html",
+      "sha256": "786b7804cd348281ce532d7e9a09e8898fc176f715cae4ac53a341bc44c09ed1"
+    },
+    {
+      "path": "04_成品/qa_240.html",
+      "sha256": "11f2a42c0fb405a3f4ed3f2474b238b750d627558be65f1edea810199ed8586d"
+    },
+    {
+      "path": "04_成品/submission_赞赏配套.zip",
+      "sha256": "f39466294abcb9caed8764fac84c080a05217cf4d9f21523a2607dda91c081ee"
+    },
+    {
+      "path": "04_成品/validation_report.json",
+      "sha256": "58c7bfe50ff939563460018f77c6096c0f1313f3208c4cf4ff9246ad757790b1"
+    },
+    {
+      "path": "04_成品/visual_review.json",
+      "sha256": "16ba67fa77ac5b44bd606c52505d4effd26386eac38c90ef505f227bf2ac0dfc"
+    },
+    {
+      "path": "04_成品/zip_validation.json",
+      "sha256": "39321f04c3bac334f6096d4efb55db2f336aee79eb9e364a62ade1f80c9c630e"
+    },
+    {
+      "path": "04_成品/上传填写文案.md",
+      "sha256": "7509c729572091bfb0355c05076e01d52a64010eecb5b2b9936dcc0d6e1b5b40"
+    },
+    {
+      "path": "04_成品/奶思_赞赏引导图_750x560.jpg",
+      "sha256": "c7eaecdecf2cdf73d785ba9f0ca56638030fa6650295affa131e6a8e7d7a3cc1"
+    },
+    {
+      "path": "04_成品/奶思_赞赏引导图_750x560.png",
+      "sha256": "3bc62e0c9447f78bb46681929530a08c1c0634aaef0e1fa732ddbcacc79a7e1c"
+    },
+    {
+      "path": "04_成品/奶思_赞赏致谢图_750x750.jpg",
+      "sha256": "f6ab92ac482f542c346c8cb941aca3dfe3f8e4b3a03c22665a739d08067fa980"
+    },
+    {
+      "path": "04_成品/奶思_赞赏致谢图_750x750.png",
+      "sha256": "5ce286ea7371ef1ef7b3e18afda7ec3ccb2745136f5c326bd8d96d9a26ba208b"
+    },
+    {
+      "path": "04_成品/赞赏引导语.md",
+      "sha256": "3f45a637ee621c90ff2654689d7e6e203e883bea83811dc80478c0c74245d9a1"
+    }
+  ]
+}

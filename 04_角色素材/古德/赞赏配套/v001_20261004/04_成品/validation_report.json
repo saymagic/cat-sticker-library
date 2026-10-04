@@ -1,0 +1,169 @@
+{
+  "technical_pass": true,
+  "checks": [
+    {
+      "file": "古德_赞赏引导图_750x560.jpg",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.jpg",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.jpg",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.jpg",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.jpg",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.png",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.png",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.png",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.png",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.png",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.jpg",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.jpg",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.jpg",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.jpg",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.jpg",
+      "check": "single_frame",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.png",
+      "check": "size",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.png",
+      "check": "format",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.png",
+      "check": "bytes",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.png",
+      "check": "opaque",
+      "pass": true
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.png",
+      "check": "single_frame",
+      "pass": true
+    }
+  ],
+  "assets": [
+    {
+      "file": "古德_赞赏引导图_750x560.jpg",
+      "sha256": "8bfcfd7aed2aabbf2dd30cb2a01ba5c324052c6addfde7511862dda8d07d6ba3",
+      "bytes": 99591,
+      "size": [
+        750,
+        560
+      ],
+      "format": "JPEG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "古德_赞赏引导图_750x560.png",
+      "sha256": "44ee17b403d16657bfc1aaa9fdf40b51eaea428ede77dc43e40c0b3c0b289810",
+      "bytes": 241485,
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.jpg",
+      "sha256": "f0323eeef3b143705e0acab81bde6db031cc1a648b4f14b2906ded9f5835ea52",
+      "bytes": 151784,
+      "size": [
+        750,
+        750
+      ],
+      "format": "JPEG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    },
+    {
+      "file": "古德_赞赏致谢图_750x750.png",
+      "sha256": "1816515290061ddee911f60c7ac32fb7414105e8db874ea6d34bda540f537c14",
+      "bytes": 297925,
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "frames": 1,
+      "alpha": [
+        255,
+        255
+      ]
+    }
+  ],
+  "official_rules_verified": false,
+  "dimension_basis": "用户指定尺寸"
+}

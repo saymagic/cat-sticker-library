@@ -1,0 +1,57 @@
+{
+  "title": "奶思赞赏配套",
+  "label": "奶思",
+  "kind": "independent_appreciation_materials",
+  "characters": [
+    "奶思"
+  ],
+  "reference_override": [
+    {
+      "name": "奶思",
+      "identity": "灰黑虎斑短毛，金棕眼，奶油口鼻与粉鼻",
+      "reference": "01_资料/参考/奶思_卡通基准.png",
+      "sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec",
+      "source": "04_角色素材/奶思/卡通基准.png",
+      "actually_viewed": true
+    }
+  ],
+  "style": "延续范恩赞赏配套的奶油底、手绘毛绒水彩、上方圆润彩色中文；每张独立构图",
+  "items": [
+    {
+      "kind": "guide",
+      "size": [
+        750,
+        560
+      ],
+      "caption": [
+        "小鱼干到账",
+        "奶思快乐加倍"
+      ],
+      "original": "02_原画/guide.png"
+    },
+    {
+      "kind": "thanks",
+      "size": [
+        750,
+        750
+      ],
+      "caption": [
+        "谢谢投喂！",
+        "奶思蹭蹭你"
+      ],
+      "original": "02_原画/thanks.png"
+    }
+  ],
+  "copy": [
+    "小鱼干到账，奶思快乐加倍。",
+    "奶思负责可爱，你负责加餐。",
+    "投喂一小口，贴贴不松手。",
+    "给奶思加点粮，快乐不打烊。",
+    "摸摸还不够，小鱼干也收。",
+    "小鱼干收到，蹭蹭马上到。"
+  ],
+  "tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "font_name": "not_disclosed"
+}

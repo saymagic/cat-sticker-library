@@ -194,10 +194,14 @@ def material_integrity(root, material):
 
 
 def register_materials(root, data, config, args):
-    cat = canonical(config, args.cat)
+    cats = [canonical(config, args.cat)] + [canonical(config, name) for name in (getattr(args, 'with_cat', None) or [])]
+    if len(cats) != len(set(cats)):
+        raise ValueError('共用配套素材不能重复列出同一角色或别名')
+    cat = cats[0] if len(cats) == 1 else '、'.join(cats)
     version = inside(root, args.path)
-    if not version.is_relative_to(root / '04_角色素材' / cat):
-        raise ValueError('角色配套素材须保存在所选角色的04_角色素材目录')
+    folder = cats[0] if len(cats) == 1 else '共用'
+    if not version.is_relative_to(root / '04_角色素材' / folder):
+        raise ValueError('单猫配套须放角色目录，多猫共用配套须放04_角色素材/共用')
     if any(x['path'] == args.path for x in data.get('materials', [])):
         raise ValueError('角色配套素材已锁定，修改须保存新版本')
     for section in config['sections']:
@@ -244,6 +248,8 @@ def register_materials(root, data, config, args):
         raise ValueError('角色配套素材须有图片和下载包')
     material = {'id': 'material-' + uuid.uuid4().hex[:12], 'character': cat, 'title': component(args.title), 'path': args.path,
                 'preview': relative('preview.html'), 'copy': relative('赞赏引导语.md'), 'assets': assets, 'packages': links}
+    if len(cats) > 1:
+        material['characters'] = cats
     seal = {'schema_version': 1, 'metadata': dict(material), 'completed_at': now().isoformat(),
             'files': [{'path': p.relative_to(version).as_posix(), 'sha256': sha(p)} for p in protected_files(version)]}
     seal_path = version / '05_验收/完成锁定.json'
@@ -257,9 +263,13 @@ def hydrate_materials(root, data, config):
     materials = data.get('materials', [])
     ids, paths = set(), set()
     for material in materials:
-        if material['character'] not in config['characters'] or material['id'] in ids or material['path'] in paths:
+        cats = material.get('characters', [material['character']])
+        if not isinstance(cats, list) or not cats or any(cat not in config['characters'] for cat in cats) or len(cats) != len(set(cats)):
+            raise ValueError('角色配套素材角色无效或重复')
+        if material['character'] != '、'.join(cats) or material['id'] in ids or material['path'] in paths:
             raise ValueError('角色配套素材登记重复或角色无效')
-        if not inside(root, material['path']).is_relative_to(root / '04_角色素材' / material['character']):
+        folder = cats[0] if len(cats) == 1 else '共用'
+        if not inside(root, material['path']).is_relative_to(root / '04_角色素材' / folder):
             raise ValueError('角色配套素材目录越界')
         health = material_integrity(root, material)
         if health['issues']:
@@ -685,6 +695,7 @@ def main():
     create.add_argument('--draft', action='store_true', help='先登记文案策划草稿')
     material = sub.add_parser('materials', help='验收并登记独立的角色配套素材，不改变已完成套装')
     material.add_argument('--cat', required=True); material.add_argument('--path', required=True); material.add_argument('--title', required=True)
+    material.add_argument('--with-cat', action='append', help='用户明确要求合体时添加既有角色，素材保存于共用目录')
     done = sub.add_parser('finish', help='检验真实文件和记录后锁定本地成品')
     done.add_argument('--path', required=True); done.add_argument('--current', action='store_true')
     sub.add_parser('refresh', help='刷新统一作品库，不创建新版本')

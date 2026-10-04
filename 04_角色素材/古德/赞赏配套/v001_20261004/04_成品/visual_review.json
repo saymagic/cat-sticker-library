@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际图像目检",
+  "reviewed_at": "2026-10-04T08:14:42.246744+00:00",
+  "issues": [],
+  "asset_sha256": {
+    "古德_赞赏引导图_750x560.jpg": "8bfcfd7aed2aabbf2dd30cb2a01ba5c324052c6addfde7511862dda8d07d6ba3",
+    "古德_赞赏引导图_750x560.png": "44ee17b403d16657bfc1aaa9fdf40b51eaea428ede77dc43e40c0b3c0b289810",
+    "古德_赞赏致谢图_750x750.jpg": "f0323eeef3b143705e0acab81bde6db031cc1a648b4f14b2906ded9f5835ea52",
+    "古德_赞赏致谢图_750x750.png": "1816515290061ddee911f60c7ac32fb7414105e8db874ea6d34bda540f537c14"
+  },
+  "items": {
+    "古德_赞赏引导图_750x560.jpg": true,
+    "古德_赞赏引导图_750x560.png": true,
+    "古德_赞赏致谢图_750x750.jpg": true,
+    "古德_赞赏致谢图_750x750.png": true
+  },
+  "characters": [
+    "古德"
+  ],
+  "full_size_review": "全部四种成品文件通过view_image逐张实际查看",
+  "background_modes": [
+    "light",
+    "dark",
+    "checker"
+  ],
+  "actual_size_px": [
+    240
+  ],
+  "size_review_evidence": "04_成品/qa_240.html；实际浏览器截图及DOM读取12张图片均加载、各宽240px；不透明配套图保留原奶油底，三底色是页面周边底色",
+  "actual_120px": "NOT_RUN: 非120px表情缩略图，本任务为750px配套图",
+  "notes": "实际查看棕虎斑短毛与绿眼、完整前后爪和单尾、捧鱼碗和抱心动作；两图中文逐字正确，JPG压缩与PNG调色板导出均可读。",
+  "user_approval": "not_recorded",
+  "wechat_submission": "not_attempted",
+  "official_rules_verified": false
+}

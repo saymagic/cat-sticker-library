@@ -1,0 +1,16 @@
+{
+  "tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "request": {
+    "prompt": "Use case: illustration-story.\nAsset type: 古德的独立赞赏引导图，横幅比例750:560，最终750×560。只创作一张完整插画，不是网格、拼图、样机。\nInput images: 1是古德角色身份参考，只取其中绿色眼睛的棕虎斑短毛猫，不取英文、网格或其它动作；2是范恩已经交付的赞赏引导图，取奶油底、软萌手绘水彩、中文上猫下的排版与字形风格，不取其中白猫身份和文案。\nSubject: 唯一一只古德，温暖棕色虎斑短毛，深棕条纹，大而清澈的绿色眼睛，奶油色口鼻，粉鼻，参考中的圆软脸型、头身比例。必须棕毛绿眼，不要白猫、灰猫或蓝眼。\nScene: 纯净暖奶油色不透明背景，少量柔绿、珊瑚粉小圆点和小爱心。下部正中古德开心坐着，两前爪捧一个浅绿色小鱼碗，碗中两条金色小鱼干；微笑露小舌尖，眼睛睁开，单条棕虎斑尾巴自然弯在身侧。完整四肢关系合理，前爪和碗接触自然。毛发细腻柔软、水彩笔触，整体温柔俏皮。\nTypography: 顶部居中两行圆润饱满的中文，沿用风格图的深咖啡细描边和白色外沿。第一行柔绿色，第二行珊瑚粉色。逐字准确的文字只有：第一行“给古德加个餐”，第二行“可爱继续营业”。不要添加其它任何文字、英文、标志或水印。\nComposition: 横向750:560构图，文字约上部30%，古德约下部60%，两行文字不碰耳朵，猫身体、碗、单尾均完整。四边留6%安全区。与范恩风格图同一系列，但猫身份和动作明确为古德。不要货币、付款码、平台UI。",
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/04_角色素材/古德/赞赏配套/v001_20261004/01_资料/参考/古德_卡通基准.png",
+      "/Users/saymagic/workspace/表情包/04_角色素材/古德/赞赏配套/v001_20261004/01_资料/参考/风格_范恩引导图.jpg"
+    ],
+    "transparent_background": false
+  },
+  "output_hint": "Generated images are saved to /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3 as /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-7550a01e-8d68-4f67-96f4-9b0b8c4dfc62.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "native_file": "/Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-7550a01e-8d68-4f67-96f4-9b0b8c4dfc62.png",
+  "stored_original": "02_原画/guide.png"
+}

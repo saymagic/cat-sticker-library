@@ -97,9 +97,11 @@ class LibraryTests(unittest.TestCase):
     def complete(self, e):
         gate=lib.acceptance(self.root,e);lib.seal_version(self.root,e,gate);e['status']='本地成品';lib.set_current(self.data,e)
 
-    def material_fixture(self, preview_copy_link=False):
+    def material_fixture(self, preview_copy_link=False, cats=None):
         """Synthetic role material, including explicit test-only visual evidence."""
-        relative = '04_角色素材/范恩/赞赏配套/v001_20261004'
+        cats = cats or ['范恩']
+        folder = cats[0] if len(cats) == 1 else '共用'
+        relative = f'04_角色素材/{folder}/赞赏配套/v001_20261004'
         version = self.root / relative
         for folder in self.config['sections']:
             (version / folder).mkdir(parents=True)
@@ -114,7 +116,19 @@ class LibraryTests(unittest.TestCase):
         with zipfile.ZipFile(out / 'submission_角色配套.zip', 'w') as archive:
             archive.write(out / 'guide.png', 'guide.png')
         lib.save(out / 'zip_validation.json', [{'file': 'submission_角色配套.zip', 'label': '素材下载包', 'sha256': lib.sha(out / 'submission_角色配套.zip')}])
-        return lib.register_materials(self.root, self.data, self.config, SimpleNamespace(cat='范恩', path=relative, title='范恩测试配套'))
+        return lib.register_materials(self.root, self.data, self.config, SimpleNamespace(cat=cats[0], with_cat=cats[1:], path=relative, title='测试赞赏配套'))
+
+    def test_shared_materials_use_existing_roles_without_new_character(self):
+        cats = ['古德', '范恩', '奶思']
+        material = self.material_fixture(cats=cats)
+        self.assertEqual(material['characters'], cats)
+        self.assertEqual(material['character'], '古德、范恩、奶思')
+        self.assertEqual(set(self.config['characters']), set(cats))
+        self.assertEqual(lib.hydrate_materials(self.root, self.data, self.config), [material])
+        lib.refresh(self.root, self.data, self.config)
+        self.assertIn('共用', material['path'])
+        with self.assertRaises(ValueError):
+            lib.register_materials(self.root, self.data, self.config, SimpleNamespace(cat='奶思', with_cat=['乃斯'], path='04_角色素材/共用/重复', title='重复'))
 
     def test_role_materials_preserve_pack_seals_and_reject_changes(self):
         entry = self.fixture(); self.complete(entry)

@@ -1,0 +1,94 @@
+[
+  {
+    "file": "三猫_赞赏引导图_750x560.jpg",
+    "label": "赞赏引导图 · JPG",
+    "characters": [
+      "古德",
+      "范恩",
+      "奶思"
+    ],
+    "caption": [
+      "投喂一份喜欢",
+      "收获三份可爱"
+    ],
+    "spec": {
+      "size": [
+        750,
+        560
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 100000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  },
+  {
+    "file": "三猫_赞赏引导图_750x560.png",
+    "label": "赞赏引导图 · PNG",
+    "characters": [
+      "古德",
+      "范恩",
+      "奶思"
+    ],
+    "caption": [
+      "投喂一份喜欢",
+      "收获三份可爱"
+    ],
+    "spec": {
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  },
+  {
+    "file": "三猫_赞赏致谢图_750x750.jpg",
+    "label": "赞赏致谢图 · JPG",
+    "characters": [
+      "古德",
+      "范恩",
+      "奶思"
+    ],
+    "caption": [
+      "谢谢投喂！",
+      "三只猫一起爱你"
+    ],
+    "spec": {
+      "size": [
+        750,
+        750
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 200000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  },
+  {
+    "file": "三猫_赞赏致谢图_750x750.png",
+    "label": "赞赏致谢图 · PNG",
+    "characters": [
+      "古德",
+      "范恩",
+      "奶思"
+    ],
+    "caption": [
+      "谢谢投喂！",
+      "三只猫一起爱你"
+    ],
+    "spec": {
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000,
+      "limit_basis": "内部导出目标，非本次重新核对的官方上限"
+    }
+  }
+]

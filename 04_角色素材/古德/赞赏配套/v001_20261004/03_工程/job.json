@@ -1,0 +1,57 @@
+{
+  "title": "古德赞赏配套",
+  "label": "古德",
+  "kind": "independent_appreciation_materials",
+  "characters": [
+    "古德"
+  ],
+  "reference_override": [
+    {
+      "name": "古德",
+      "identity": "棕虎斑短毛，绿色眼睛，粉鼻",
+      "reference": "01_资料/参考/古德_卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9",
+      "source": "04_角色素材/古德/卡通基准.png",
+      "actually_viewed": true
+    }
+  ],
+  "style": "延续范恩赞赏配套的奶油底、手绘毛绒水彩、上方圆润彩色中文；每张独立构图",
+  "items": [
+    {
+      "kind": "guide",
+      "size": [
+        750,
+        560
+      ],
+      "caption": [
+        "给古德加个餐",
+        "可爱继续营业"
+      ],
+      "original": "02_原画/guide.png"
+    },
+    {
+      "kind": "thanks",
+      "size": [
+        750,
+        750
+      ],
+      "caption": [
+        "谢谢投喂！",
+        "古德给你比个心"
+      ],
+      "original": "02_原画/thanks.png"
+    }
+  ],
+  "copy": [
+    "给古德加个餐，可爱继续营业。",
+    "小鱼干一到，古德立刻乖巧。",
+    "赏个小鱼干，古德甜到翻。",
+    "投喂已就位，呼噜声加倍。",
+    "古德今天超乖，申请一口加餐。",
+    "你的小心意，古德抱紧啦。"
+  ],
+  "tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "font_name": "not_disclosed"
+}

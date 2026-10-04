@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际图像目检",
+  "reviewed_at": "2026-10-04T08:14:43.283981+00:00",
+  "issues": [],
+  "asset_sha256": {
+    "三猫_赞赏引导图_750x560.jpg": "a4ef33052fa46c69b364e52ea7facf8db97dbbc607165d996a7bfdbc41c460f3",
+    "三猫_赞赏引导图_750x560.png": "4ab00fde0e45661e81ae42f4ffe033ef047e0d2642fa8b79ba235307550768fe",
+    "三猫_赞赏致谢图_750x750.jpg": "790614d9616281ca60f2cd9971385188ff4d49d95fe51fca682dcd514c96bde3",
+    "三猫_赞赏致谢图_750x750.png": "5e7a3bc2fcdc4ff27877949cd26f77aaba179569a0e6ad87b7b7a9bf69363c9e"
+  },
+  "items": {
+    "三猫_赞赏引导图_750x560.jpg": true,
+    "三猫_赞赏引导图_750x560.png": true,
+    "三猫_赞赏致谢图_750x750.jpg": true,
+    "三猫_赞赏致谢图_750x750.png": true
+  },
+  "characters": [
+    "古德",
+    "范恩",
+    "奶思"
+  ],
+  "full_size_review": "全部四种成品文件通过view_image逐张实际查看",
+  "background_modes": [
+    "light",
+    "dark",
+    "checker"
+  ],
+  "actual_size_px": [
+    240
+  ],
+  "size_review_evidence": "04_成品/qa_240.html；实际浏览器截图及DOM读取12张图片均加载、各宽240px；不透明配套图保留原奶油底，三底色是页面周边底色",
+  "actual_120px": "NOT_RUN: 非120px表情缩略图，本任务为750px配套图",
+  "notes": "实际确认仅三只猫，左古德棕毛绿眼、中范恩白长毛蓝眼、右奶思灰黑毛金棕眼；每猫两前爪、两后爪与单尾关系自然、无串色或融合；两图文案正确，尾巴虽近边缘但完整未裁切。",
+  "user_approval": "not_recorded",
+  "wechat_submission": "not_attempted",
+  "official_rules_verified": false
+}

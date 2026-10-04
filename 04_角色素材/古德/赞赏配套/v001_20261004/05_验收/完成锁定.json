@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "metadata": {
+    "id": "material-3555d91a7747",
+    "character": "古德",
+    "title": "古德赞赏配套",
+    "path": "04_角色素材/古德/赞赏配套/v001_20261004",
+    "preview": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/preview.html",
+    "copy": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/赞赏引导语.md",
+    "assets": [
+      {
+        "label": "赞赏引导图 · JPG",
+        "path": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/古德_赞赏引导图_750x560.jpg",
+        "size": [
+          750,
+          560
+        ],
+        "bytes": 99591,
+        "sha256": "8bfcfd7aed2aabbf2dd30cb2a01ba5c324052c6addfde7511862dda8d07d6ba3"
+      },
+      {
+        "label": "赞赏引导图 · PNG",
+        "path": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/古德_赞赏引导图_750x560.png",
+        "size": [
+          750,
+          560
+        ],
+        "bytes": 241485,
+        "sha256": "44ee17b403d16657bfc1aaa9fdf40b51eaea428ede77dc43e40c0b3c0b289810"
+      },
+      {
+        "label": "赞赏致谢图 · JPG",
+        "path": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/古德_赞赏致谢图_750x750.jpg",
+        "size": [
+          750,
+          750
+        ],
+        "bytes": 151784,
+        "sha256": "f0323eeef3b143705e0acab81bde6db031cc1a648b4f14b2906ded9f5835ea52"
+      },
+      {
+        "label": "赞赏致谢图 · PNG",
+        "path": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/古德_赞赏致谢图_750x750.png",
+        "size": [
+          750,
+          750
+        ],
+        "bytes": 297925,
+        "sha256": "1816515290061ddee911f60c7ac32fb7414105e8db874ea6d34bda540f537c14"
+      }
+    ],
+    "packages": [
+      {
+        "label": "两图与引导语",
+        "path": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip",
+        "bytes": 792625,
+        "sha256": "514ecf27ad387b9d0f86b6ef8c72f0fc0522f735170a0bc374733580d85dcee0"
+      },
+      {
+        "label": "完整制作备份",
+        "path": "04_角色素材/古德/赞赏配套/v001_20261004/04_成品/complete_materials.zip",
+        "bytes": 8430630,
+        "sha256": "fa7eaf777237bc6cfa88035dc52141aa723050ccdcf1076f0bd9af307ebb6dca"
+      }
+    ]
+  },
+  "completed_at": "2026-10-04T16:16:03.917176+08:00",
+  "files": [
+    {
+      "path": "01_资料/参考/古德_卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9"
+    },
+    {
+      "path": "01_资料/参考/风格_范恩引导图.jpg",
+      "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+    },
+    {
+      "path": "01_资料/参考/风格_范恩致谢图.jpg",
+      "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+    },
+    {
+      "path": "01_资料/角色快照.json",
+      "sha256": "51a63949ac68f33c2f95828cad58dd5d0e56933c596c597a9bb7864c4c2c9dfe"
+    },
+    {
+      "path": "01_资料/逐图文案.json",
+      "sha256": "d96cbb911d14f971eb5cd4d433decc5a39bd43504e0a923e434b876f26921a7b"
+    },
+    {
+      "path": "01_资料/需求与来源.md",
+      "sha256": "c0b062c6c4283b3668be548ca93d91d5bcaf6936ec17b81191dee0f4733d94e3"
+    },
+    {
+      "path": "02_原画/guide.png",
+      "sha256": "2d8effd940f3350e41abff6dea519f973784513fea6dfc0f6dbc1104e4992910"
+    },
+    {
+      "path": "02_原画/thanks.png",
+      "sha256": "04604b1fc2cb02b167c6cf7022aae85e960a80743aeb6a09ab0efa633b47efba"
+    },
+    {
+      "path": "03_工程/guide_全彩尺寸导出.png",
+      "sha256": "e364b69f53ae9f0376bffc517bc4ce3c709a4690f5ebf517688f344d7e464adc"
+    },
+    {
+      "path": "03_工程/guide_生成记录.json",
+      "sha256": "90a0413d4fc592f8be99398dbc854de8c1434b25ec8681630fe443407f6642a3"
+    },
+    {
+      "path": "03_工程/guide_生成请求.json",
+      "sha256": "a26243bd234a507ff7a8f9ce549aec57b5f4a432c17905c7d78da6340e162e18"
+    },
+    {
+      "path": "03_工程/job.json",
+      "sha256": "881418f94879a9af4c3b5bae44cc8d49b71fc2f14abfb9390fce3b496153fe9a"
+    },
+    {
+      "path": "03_工程/platform-profile.json",
+      "sha256": "027a7a4b1b641bc7c9c2ddb01b93984bc18bc01b5b43aa5fb17ebe151f3e4076"
+    },
+    {
+      "path": "03_工程/thanks_全彩尺寸导出.png",
+      "sha256": "4b8b506079c2f54c7d3ad1c88398c9fa312f967054b26ea3a007cfa04fb39c99"
+    },
+    {
+      "path": "03_工程/thanks_生成记录.json",
+      "sha256": "a7161fad32d820a32cb7b37c3846fc951f76e4f5f7c334de227cef273e4da6d0"
+    },
+    {
+      "path": "03_工程/thanks_生成请求.json",
+      "sha256": "536f5bda7307c33b252abbf20280f59ddfbe1144007ed80c9c5a1c29f63efb57"
+    },
+    {
+      "path": "03_工程/原生文件与参考哈希.json",
+      "sha256": "92427266a8fffb7c083fa5db1efee0e520200499998c7c2fa4142695f270a84e"
+    },
+    {
+      "path": "03_工程/导出与打包.py",
+      "sha256": "601476195c4d018fc13020b089c7997b5e959f568ef1fa2e8c55fa479e0ec096"
+    },
+    {
+      "path": "03_工程/导出参数.json",
+      "sha256": "345db86478de3e55c856b5cd45baffb9ed35c3db9c54ff8487a4b811fedae9eb"
+    },
+    {
+      "path": "04_成品/captions.csv",
+      "sha256": "dd1f1c5075129d91c8e6854cddafab95253a3b3c47a0f339f29eed0f7acd89ca"
+    },
+    {
+      "path": "04_成品/complete_materials.zip",
+      "sha256": "fa7eaf777237bc6cfa88035dc52141aa723050ccdcf1076f0bd9af307ebb6dca"
+    },
+    {
+      "path": "04_成品/job.json",
+      "sha256": "881418f94879a9af4c3b5bae44cc8d49b71fc2f14abfb9390fce3b496153fe9a"
+    },
+    {
+      "path": "04_成品/manifest.json",
+      "sha256": "b42f1762892b58ee9889709c259c9e0be431d7f81ae80155fa262e86738ac392"
+    },
+    {
+      "path": "04_成品/platform-profile.json",
+      "sha256": "027a7a4b1b641bc7c9c2ddb01b93984bc18bc01b5b43aa5fb17ebe151f3e4076"
+    },
+    {
+      "path": "04_成品/preview.html",
+      "sha256": "212f841f58f7e45e9f724b2e9fe6a1256e82141608ca8d0ba32832653b0c31ca"
+    },
+    {
+      "path": "04_成品/qa_240.html",
+      "sha256": "cb59fb56e5ccaa1871b44f282d64dd70bbd6e609158e8a212cdf271bcbf8ac39"
+    },
+    {
+      "path": "04_成品/submission_赞赏配套.zip",
+      "sha256": "514ecf27ad387b9d0f86b6ef8c72f0fc0522f735170a0bc374733580d85dcee0"
+    },
+    {
+      "path": "04_成品/validation_report.json",
+      "sha256": "a385f5d0229444a7bf29d6e8cd69f4b22ca3c8bc0f8aa2d800274c5c567bd947"
+    },
+    {
+      "path": "04_成品/visual_review.json",
+      "sha256": "77219b9976e0773038d76e5ae94c821ec4e025a667a022f7423e0cfc41d9d14d"
+    },
+    {
+      "path": "04_成品/zip_validation.json",
+      "sha256": "71a321d9dbcab62addabfc35ae4b0a5097efa5f75beb9d48024310619a550c18"
+    },
+    {
+      "path": "04_成品/上传填写文案.md",
+      "sha256": "a7d992647bbeb93116f6a063cb62602d84090085c27654de447e3ab68f5640e1"
+    },
+    {
+      "path": "04_成品/古德_赞赏引导图_750x560.jpg",
+      "sha256": "8bfcfd7aed2aabbf2dd30cb2a01ba5c324052c6addfde7511862dda8d07d6ba3"
+    },
+    {
+      "path": "04_成品/古德_赞赏引导图_750x560.png",
+      "sha256": "44ee17b403d16657bfc1aaa9fdf40b51eaea428ede77dc43e40c0b3c0b289810"
+    },
+    {
+      "path": "04_成品/古德_赞赏致谢图_750x750.jpg",
+      "sha256": "f0323eeef3b143705e0acab81bde6db031cc1a648b4f14b2906ded9f5835ea52"
+    },
+    {
+      "path": "04_成品/古德_赞赏致谢图_750x750.png",
+      "sha256": "1816515290061ddee911f60c7ac32fb7414105e8db874ea6d34bda540f537c14"
+    },
+    {
+      "path": "04_成品/赞赏引导语.md",
+      "sha256": "1effeece42483aaefeed975bd71807b65ba3cf50d94f1c797ff15319e5a1e949"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "originals": [
+    {
+      "file": "02_原画/guide.png",
+      "sha256": "3b9e959159f5d78bab00776138bce42b3d8eba5b04ca7adbddf2a4eb362d0eca",
+      "size": [
+        1451,
+        1084
+      ]
+    },
+    {
+      "file": "02_原画/thanks.png",
+      "sha256": "ac1a97e8c3d674c3b64aaea19bc5fa01d2b3f37d4e869c3c19e5cd0541d21f6d",
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "references": [
+    {
+      "file": "01_资料/参考/古德_卡通基准.png",
+      "sha256": "08a09f174e593dbfe942de691adb52c53443f801068d39c81e992c352a00f0d9"
+    },
+    {
+      "file": "01_资料/参考/奶思_卡通基准.png",
+      "sha256": "0fb76bc89ee3cde36b57b5bd51a3a47ccfd710d93774db7b59f0615dc88971ec"
+    },
+    {
+      "file": "01_资料/参考/范恩_卡通基准.png",
+      "sha256": "9d57e48a9f1bb3dd5d8ec48a940b4d5bde3086b6ffffa7e7087d40116bcd0267"
+    },
+    {
+      "file": "01_资料/参考/风格_范恩引导图.jpg",
+      "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+    },
+    {
+      "file": "01_资料/参考/风格_范恩致谢图.jpg",
+      "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+    }
+  ]
+}

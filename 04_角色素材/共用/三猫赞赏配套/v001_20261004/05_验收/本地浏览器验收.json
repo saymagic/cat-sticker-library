@@ -1,0 +1,27 @@
+{
+  "reviewed_at": "2026-10-04T08:16:49.175569+00:00",
+  "scope": "本版本本地预览",
+  "local_preview": "PASS",
+  "mobile_viewport": [
+    375,
+    812
+  ],
+  "scroll_width": 375,
+  "images_loaded": [
+    [
+      750,
+      560
+    ],
+    [
+      750,
+      750
+    ]
+  ],
+  "download_links": 6,
+  "visual_240px_three_backgrounds": "PASS: JPG与PNG各两张、每张浅/深/棋盘实际浏览器目检，12节点均已加载、实际宽240px",
+  "native_file_download": "NOT_RUN: 公网发布后另验",
+  "source_production_seal": "完成锁定.json",
+  "user_approval": "not_recorded",
+  "wechat_submission": "not_attempted",
+  "official_rules_verified": false
+}

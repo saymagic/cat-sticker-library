@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际图像目检",
+  "reviewed_at": "2026-10-04T08:14:42.879229+00:00",
+  "issues": [],
+  "asset_sha256": {
+    "奶思_赞赏引导图_750x560.jpg": "c7eaecdecf2cdf73d785ba9f0ca56638030fa6650295affa131e6a8e7d7a3cc1",
+    "奶思_赞赏引导图_750x560.png": "3bc62e0c9447f78bb46681929530a08c1c0634aaef0e1fa732ddbcacc79a7e1c",
+    "奶思_赞赏致谢图_750x750.jpg": "f6ab92ac482f542c346c8cb941aca3dfe3f8e4b3a03c22665a739d08067fa980",
+    "奶思_赞赏致谢图_750x750.png": "5ce286ea7371ef1ef7b3e18afda7ec3ccb2745136f5c326bd8d96d9a26ba208b"
+  },
+  "items": {
+    "奶思_赞赏引导图_750x560.jpg": true,
+    "奶思_赞赏引导图_750x560.png": true,
+    "奶思_赞赏致谢图_750x750.jpg": true,
+    "奶思_赞赏致谢图_750x750.png": true
+  },
+  "characters": [
+    "奶思"
+  ],
+  "full_size_review": "全部四种成品文件通过view_image逐张实际查看",
+  "background_modes": [
+    "light",
+    "dark",
+    "checker"
+  ],
+  "actual_size_px": [
+    240
+  ],
+  "size_review_evidence": "04_成品/qa_240.html；实际浏览器截图及DOM读取12张图片均加载、各宽240px；不透明配套图保留原奶油底，三底色是页面周边底色",
+  "actual_120px": "NOT_RUN: 非120px表情缩略图，本任务为750px配套图",
+  "notes": "实际查看灰黑虎斑短毛与金棕眼、完整前后爪和单尾、捧鱼碗与歪头抱心；小鱼干到账／奶思快乐加倍和谢谢投喂／奶思蹭蹭你逐字正确。",
+  "user_approval": "not_recorded",
+  "wechat_submission": "not_attempted",
+  "official_rules_verified": false
+}

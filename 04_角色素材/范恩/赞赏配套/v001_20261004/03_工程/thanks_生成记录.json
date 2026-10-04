@@ -1,0 +1,16 @@
+{
+  "tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "request": {
+    "prompt": "Use case: illustration-story.\nAsset type: 范恩微信表情赞赏致谢图，最终750×750正方形，一张完整独立画面。\nInput images: Image 1 is locked 范恩 identity and fuzzy hand-painted style reference only, do not reproduce montage or English words. Image 2 is the matching appreciation guide artwork: use the SAME creamy background, rounded Chinese lettering, soft blue/coral palette and same 范恩 kitten identity, but create a different loving pose.\nSubject: Exactly one 范恩 kitten with pale creamy white long soft fur, clear blue eyes, pale gray taupe ears and one fluffy gray taupe tail, small pink nose and paw pads, round face and kitten proportions consistent with both references. Hand-painted watercolor fur, gentle shading, no 3D or photo.\nScene: Whole canvas is opaque warm cream. Beneath the typography the kitten is sitting and leaning slightly toward the viewer, two front paws embracing a large soft coral-pink heart at its chest as a heart gesture, two hind paws on the floor, one bushy tail gently curling at its side. Happy grateful eyes and a small sweet smile. A few soft blue/coral floating tiny hearts and small dots, clean open composition, no money or payment UI.\nTypography: Top quarter centered two lines of round friendly thick Chinese. Soft blue first line, coral pink second line, dark coffee fine outline and small white inner edging consistent with Image 2. EXACT Chinese text: first line “谢谢投喂！”; second line “范恩给你比个心”. Spell all Chinese characters correctly and preserve exactly; no other text, English, logos or watermark.\nComposition: Square, kitten and heart occupy approximately 58% of height below the text. Keep the typography smaller than the main cat image, enough breathing space and minimum 6% safe margins at all edges. Do not overlap letters with ears. The complete cat, tail, heart and every letter remain fully within the canvas. Clear four-limb anatomy and one tail. Final polished companion artwork for appreciation thanks.",
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/04_角色素材/范恩/赞赏配套/v001_20261004/01_资料/参考/卡通基准.png",
+      "/Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-4ef87864-6d7e-4307-aca8-6920c23a2f2e.png"
+    ],
+    "transparent_background": false
+  },
+  "output_hint": "Generated images are saved to /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3 as /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-69148a94-db23-4120-b1ca-2879b44b4047.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "native_file": "/Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-69148a94-db23-4120-b1ca-2879b44b4047.png",
+  "stored_original": "02_原画/thanks.png"
+}

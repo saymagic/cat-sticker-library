@@ -1,0 +1,58 @@
+[
+  {
+    "file": "范恩_赞赏引导图_750x560.jpg",
+    "label": "赞赏引导图 · JPG",
+    "caption": "投喂一点点 / 卖萌一整天",
+    "spec": {
+      "size": [
+        750,
+        560
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 100000
+    }
+  },
+  {
+    "file": "范恩_赞赏引导图_750x560.png",
+    "label": "赞赏引导图 · PNG",
+    "caption": "投喂一点点 / 卖萌一整天",
+    "spec": {
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000
+    }
+  },
+  {
+    "file": "范恩_赞赏致谢图_750x750.jpg",
+    "label": "赞赏致谢图 · JPG",
+    "caption": "谢谢投喂！/ 范恩给你比个心",
+    "spec": {
+      "size": [
+        750,
+        750
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 200000
+    }
+  },
+  {
+    "file": "范恩_赞赏致谢图_750x750.png",
+    "label": "赞赏致谢图 · PNG",
+    "caption": "谢谢投喂！/ 范恩给你比个心",
+    "spec": {
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000
+    }
+  }
+]

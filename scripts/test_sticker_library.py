@@ -97,6 +97,39 @@ class LibraryTests(unittest.TestCase):
     def complete(self, e):
         gate=lib.acceptance(self.root,e);lib.seal_version(self.root,e,gate);e['status']='本地成品';lib.set_current(self.data,e)
 
+    def material_fixture(self):
+        """Synthetic role material, including explicit test-only visual evidence."""
+        relative = '04_角色素材/范恩/赞赏配套/v001_20261004'
+        version = self.root / relative
+        for folder in self.config['sections']:
+            (version / folder).mkdir(parents=True)
+        out = version / '04_成品'
+        Image.new('RGB', (30, 20), (240, 225, 210)).save(out / 'guide.png')
+        digest = lib.sha(out / 'guide.png')
+        lib.save(out / 'manifest.json', [{'file': 'guide.png', 'label': '测试引导图', 'spec': {'size': [30, 20], 'format': 'PNG', 'alpha': False, 'limit': 500000}}])
+        lib.save(out / 'validation_report.json', {'technical_pass': True, 'checks': [{'pass': True}], 'assets': [{'file': 'guide.png', 'sha256': digest}]})
+        lib.save(out / 'visual_review.json', {'status': 'passed', 'reviewer': 'test fixture only', 'issues': [], 'asset_sha256': {'guide.png': digest}, 'items': {'guide.png': True}})
+        lib.save(out / 'preview.html', '<img src="guide.png" alt="隔离测试">')
+        lib.save(out / '赞赏引导语.md', '仅用于隔离测试。')
+        with zipfile.ZipFile(out / 'submission_角色配套.zip', 'w') as archive:
+            archive.write(out / 'guide.png', 'guide.png')
+        lib.save(out / 'zip_validation.json', [{'file': 'submission_角色配套.zip', 'label': '素材下载包', 'sha256': lib.sha(out / 'submission_角色配套.zip')}])
+        return lib.register_materials(self.root, self.data, self.config, SimpleNamespace(cat='范恩', path=relative, title='范恩测试配套'))
+
+    def test_role_materials_preserve_pack_seals_and_reject_changes(self):
+        entry = self.fixture(); self.complete(entry)
+        seal = self.root / entry['path'] / entry['completion']['seal']
+        before = lib.sha(seal)
+        material = self.material_fixture()
+        lib.refresh(self.root, self.data, self.config)
+        self.assertEqual(before, lib.sha(seal))
+        self.assertEqual(lib.hydrate_materials(self.root, self.data, self.config), [material])
+        with self.assertRaises(ValueError):
+            lib.register_materials(self.root, self.data, self.config, SimpleNamespace(cat='范恩', path=material['path'], title='重复登记'))
+        (self.root / material['assets'][0]['path']).write_bytes(b'changed')
+        with self.assertRaises(ValueError):
+            lib.hydrate_materials(self.root, self.data, self.config)
+
     def test_alias_and_monotonic_versions(self):
         first=self.create(cat='灰虎斑猫'); second=self.create(cat='乃斯',type='动态')
         self.assertEqual(first['character'],'奶思');self.assertEqual(second['sequence'],2)

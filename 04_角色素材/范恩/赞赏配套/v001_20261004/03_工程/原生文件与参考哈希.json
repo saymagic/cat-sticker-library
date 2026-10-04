@@ -1,0 +1,23 @@
+{
+  "originals": [
+    {
+      "file": "02_原画/guide.png",
+      "sha256": "68c1f6a5d93a9dc8166ebe335e3a19a43450c3177841079c920f37777691ca9e",
+      "bytes": 1485634,
+      "size": [
+        1451,
+        1084
+      ]
+    },
+    {
+      "file": "02_原画/thanks.png",
+      "sha256": "8730a698e434e4e4849ce267b8767df8b91c0db03819e169c36c4a4d7e9032e9",
+      "bytes": 1776423,
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "reference_sha256": "9d57e48a9f1bb3dd5d8ec48a940b4d5bde3086b6ffffa7e7087d40116bcd0267"
+}

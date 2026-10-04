@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "metadata": {
+    "id": "material-5100fe6cb823",
+    "character": "范恩",
+    "title": "范恩赞赏配套",
+    "path": "04_角色素材/范恩/赞赏配套/v001_20261004",
+    "preview": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/preview.html",
+    "copy": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/赞赏引导语.md",
+    "assets": [
+      {
+        "label": "赞赏引导图 · JPG",
+        "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏引导图_750x560.jpg",
+        "size": [
+          750,
+          560
+        ],
+        "bytes": 83579,
+        "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+      },
+      {
+        "label": "赞赏引导图 · PNG",
+        "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏引导图_750x560.png",
+        "size": [
+          750,
+          560
+        ],
+        "bytes": 223299,
+        "sha256": "98df2f3bdd07ca3e826c6f9a7cd774d11aeb468c6332d3cde586deb68768e359"
+      },
+      {
+        "label": "赞赏致谢图 · JPG",
+        "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏致谢图_750x750.jpg",
+        "size": [
+          750,
+          750
+        ],
+        "bytes": 127119,
+        "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+      },
+      {
+        "label": "赞赏致谢图 · PNG",
+        "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/范恩_赞赏致谢图_750x750.png",
+        "size": [
+          750,
+          750
+        ],
+        "bytes": 303717,
+        "sha256": "0c3b54dd4d57a63f6af4664a57b4c0c3740524b73aefd79988683261a0cec810"
+      }
+    ],
+    "packages": [
+      {
+        "label": "两图与引导语",
+        "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip",
+        "bytes": 738849,
+        "sha256": "1e4561ee653b57c9016e9a4a6d8a8e9da68581cd72aa9591316ff90c7b62bb3c"
+      },
+      {
+        "label": "完整制作备份",
+        "path": "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/complete_materials.zip",
+        "bytes": 7204334,
+        "sha256": "efe1e39e5f68e19bc2f01254edc5d162d905241da98bc86aa00b6273d50c59aa"
+      }
+    ]
+  },
+  "completed_at": "2026-10-04T15:16:41.459087+08:00",
+  "files": [
+    {
+      "path": "01_资料/参考/卡通基准.png",
+      "sha256": "9d57e48a9f1bb3dd5d8ec48a940b4d5bde3086b6ffffa7e7087d40116bcd0267"
+    },
+    {
+      "path": "01_资料/需求与来源.md",
+      "sha256": "420d95ac50b714e2f3b40b856774fd61cf35fb7bcd121e64f1d180444eb5d25b"
+    },
+    {
+      "path": "02_原画/guide.png",
+      "sha256": "68c1f6a5d93a9dc8166ebe335e3a19a43450c3177841079c920f37777691ca9e"
+    },
+    {
+      "path": "02_原画/thanks.png",
+      "sha256": "8730a698e434e4e4849ce267b8767df8b91c0db03819e169c36c4a4d7e9032e9"
+    },
+    {
+      "path": "03_工程/guide_全彩尺寸导出.png",
+      "sha256": "8ddf842a03b04555aa912631e37dd5aa6c737296ce7b21e0b6c6230b4e06d726"
+    },
+    {
+      "path": "03_工程/guide_生成记录.json",
+      "sha256": "28deb87ec6354bd34f745d1716ad18f3475186af256141b50d65cf81a4e30c81"
+    },
+    {
+      "path": "03_工程/platform-profile.json",
+      "sha256": "91eec88470b39afbe7512db8a730d31e2cdc8a49e596894f05df4a9ebf5d1aaa"
+    },
+    {
+      "path": "03_工程/thanks_全彩尺寸导出.png",
+      "sha256": "fc2262b711143382dee2d91f8a9e7ad5495088f318e47e83bcb4712c3db96c44"
+    },
+    {
+      "path": "03_工程/thanks_生成记录.json",
+      "sha256": "82c4663de5ad716a53d08de194592af898455352c2f7c77ab9aeb0b69949d517"
+    },
+    {
+      "path": "03_工程/原生文件与参考哈希.json",
+      "sha256": "9107c6c4cfadb22fbe78c847c6b2dc446a8713b508de2bb2226b040aafffb065"
+    },
+    {
+      "path": "03_工程/导出参数.json",
+      "sha256": "c6754e6281112d7d0ae9cc4b8455000e076552fc404553c3e142d479ed2bf9a3"
+    },
+    {
+      "path": "03_工程/验收与打包.py",
+      "sha256": "17295ae965a9b266169855dca96fc582bb36d569fd41b2b54a4641a32df554d3"
+    },
+    {
+      "path": "04_成品/complete_materials.zip",
+      "sha256": "efe1e39e5f68e19bc2f01254edc5d162d905241da98bc86aa00b6273d50c59aa"
+    },
+    {
+      "path": "04_成品/manifest.json",
+      "sha256": "7d6f50e66af26ad323b36cce438a2069bdaace4fc52ad9344f2cc1f80c8b1506"
+    },
+    {
+      "path": "04_成品/preview.html",
+      "sha256": "6b65986298ab69bd93a9472c069c65e04b90542160579eb6bdda43263b712cb7"
+    },
+    {
+      "path": "04_成品/submission_赞赏配套.zip",
+      "sha256": "1e4561ee653b57c9016e9a4a6d8a8e9da68581cd72aa9591316ff90c7b62bb3c"
+    },
+    {
+      "path": "04_成品/validation_report.json",
+      "sha256": "dff3a8381fd3d4d15483fa67251dad471c0f06e5847b1868ac942f0d7f77506d"
+    },
+    {
+      "path": "04_成品/visual_review.json",
+      "sha256": "fd6d27a67b2b68dea016c6090dfea4780b3a67b9f728eec59a583b933d29401f"
+    },
+    {
+      "path": "04_成品/zip_validation.json",
+      "sha256": "4f6a6a7bed67a32a2c9d62496557025294667f898f536021b0b0147df9b612e4"
+    },
+    {
+      "path": "04_成品/范恩_赞赏引导图_750x560.jpg",
+      "sha256": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07"
+    },
+    {
+      "path": "04_成品/范恩_赞赏引导图_750x560.png",
+      "sha256": "98df2f3bdd07ca3e826c6f9a7cd774d11aeb468c6332d3cde586deb68768e359"
+    },
+    {
+      "path": "04_成品/范恩_赞赏致谢图_750x750.jpg",
+      "sha256": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242"
+    },
+    {
+      "path": "04_成品/范恩_赞赏致谢图_750x750.png",
+      "sha256": "0c3b54dd4d57a63f6af4664a57b4c0c3740524b73aefd79988683261a0cec810"
+    },
+    {
+      "path": "04_成品/赞赏引导语.md",
+      "sha256": "176cd6f3773537ff9e98f25fc445a00d56d3494c6aa7b3a9b84654ff3dc82449"
+    }
+  ]
+}

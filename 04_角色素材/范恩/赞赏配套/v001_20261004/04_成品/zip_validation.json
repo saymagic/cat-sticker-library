@@ -1,0 +1,18 @@
+[
+  {
+    "file": "submission_赞赏配套.zip",
+    "label": "两图与引导语",
+    "sha256": "1e4561ee653b57c9016e9a4a6d8a8e9da68581cd72aa9591316ff90c7b62bb3c",
+    "bytes": 738849,
+    "content_verified": true,
+    "files": 6
+  },
+  {
+    "file": "complete_materials.zip",
+    "label": "完整制作备份",
+    "sha256": "efe1e39e5f68e19bc2f01254edc5d162d905241da98bc86aa00b6273d50c59aa",
+    "bytes": 7204334,
+    "content_verified": true,
+    "files": 21
+  }
+]

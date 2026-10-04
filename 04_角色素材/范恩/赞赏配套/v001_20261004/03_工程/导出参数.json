@@ -1,0 +1,36 @@
+{
+  "image_tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "typography": {
+    "method": "生成工具绘制中文",
+    "font_name": "not_disclosed",
+    "font_file_distributed": false
+  },
+  "sizes": {
+    "guide": [
+      750,
+      560
+    ],
+    "thanks": [
+      750,
+      750
+    ]
+  },
+  "export": {
+    "size_tool": "macOS sips",
+    "jpg": {
+      "format": "jpeg",
+      "formatOptions": 78
+    },
+    "png": {
+      "tool": "ffmpeg",
+      "palettegen": "max_colors=256:reserve_transparent=0",
+      "paletteuse": "dither=none",
+      "compression_level": 9
+    },
+    "composition_changes": "none",
+    "resize_note": "原生横图1451×1084近似750:560比例，导出750×560；方图1254×1254导出750×750"
+  },
+  "reference": "01_资料/参考/卡通基准.png"
+}

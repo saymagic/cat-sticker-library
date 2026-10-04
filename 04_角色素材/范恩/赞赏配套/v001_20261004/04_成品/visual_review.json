@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "reviewer": "Codex 实际图像目检",
+  "review_method": "通过view_image逐一查看最终750×560/750×750 JPG与PNG四个文件，而非以脚本成功代替目检",
+  "asset_sha256": {
+    "范恩_赞赏引导图_750x560.jpg": "2e1c9f08670348f77d89311122b1cfe11f3baf03017fc6e131be97d88a724c07",
+    "范恩_赞赏引导图_750x560.png": "98df2f3bdd07ca3e826c6f9a7cd774d11aeb468c6332d3cde586deb68768e359",
+    "范恩_赞赏致谢图_750x750.jpg": "9c82986508d8485b36d051446c8273d646b061c1d2ef280fd7d31f4e949df242",
+    "范恩_赞赏致谢图_750x750.png": "0c3b54dd4d57a63f6af4664a57b4c0c3740524b73aefd79988683261a0cec810"
+  },
+  "items": {
+    "范恩_赞赏引导图_750x560.jpg": true,
+    "范恩_赞赏引导图_750x560.png": true,
+    "范恩_赞赏致谢图_750x750.jpg": true,
+    "范恩_赞赏致谢图_750x750.png": true
+  },
+  "issues": [],
+  "observations": {
+    "identity": "浅奶白长毛、蓝眼、浅灰棕耳尾、粉鼻与基准一致，两图同一角色",
+    "guide": "投喂一点点 / 卖萌一整天逐字正确；双前爪捧小鱼碗、双后爪落地，一条尾巴，完整留边",
+    "thanks": "谢谢投喂！/ 范恩给你比个心逐字正确；双前爪抱爱心、双后爪露粉肉垫，一条尾巴，完整留边",
+    "encoding": "查看JPG和256色PNG实际尺寸；文字轮廓清楚，猫毛细节可辨，无明显JPEG块状、PNG断色或错误裁切"
+  },
+  "actual_size_px": [
+    [
+      750,
+      560
+    ],
+    [
+      750,
+      750
+    ]
+  ],
+  "user_confirmation": "NOT_RUN",
+  "official_rules_recheck": "BLOCKED",
+  "wechat_submission": "NOT_RUN",
+  "wechat_review": "NOT_RUN"
+}

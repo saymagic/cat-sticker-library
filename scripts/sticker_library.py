@@ -173,6 +173,101 @@ def select_entry(root, data, value):
     raise ValueError('没有找到该版本，请使用new返回的ID或路径')
 
 
+def material_integrity(root, material):
+    """Reusable character assets are sealed separately from completed sticker packs."""
+    version = inside(root, material['path'])
+    seal_path = inside(version, material['completion']['seal'])
+    issues = []
+    if not seal_path.is_file() or sha(seal_path) != material['completion']['sha256']:
+        return {'state': '需复检', 'issues': ['角色配套素材的完成锁定无效']}
+    seal = load(seal_path)
+    if seal['metadata'] != {k: v for k, v in material.items() if k != 'completion'}:
+        issues.append('角色配套素材登记与锁定不一致')
+    actual = {p.relative_to(version).as_posix(): p for p in protected_files(version)}
+    expected = {x['path']: x for x in seal['files']}
+    if actual.keys() != expected.keys():
+        issues.append('角色配套素材的文件清单变化')
+    for name in actual.keys() & expected.keys():
+        if sha(actual[name]) != expected[name]['sha256']:
+            issues.append('角色配套素材内容变化：' + name)
+    return {'state': '需复检' if issues else '有效', 'issues': issues}
+
+
+def register_materials(root, data, config, args):
+    cat = canonical(config, args.cat)
+    version = inside(root, args.path)
+    if not version.is_relative_to(root / '04_角色素材' / cat):
+        raise ValueError('角色配套素材须保存在所选角色的04_角色素材目录')
+    if any(x['path'] == args.path for x in data.get('materials', [])):
+        raise ValueError('角色配套素材已锁定，修改须保存新版本')
+    for section in config['sections']:
+        if not (version / section).is_dir():
+            raise ValueError('角色配套素材缺少目录：' + section)
+    out = version / '04_成品'
+    report = read_required(out, 'validation_report.json')
+    visual = read_required(out, 'visual_review.json')
+    packages = read_required(out, 'zip_validation.json')
+    manifest = read_required(out, 'manifest.json')
+    if not report.get('technical_pass') or not report.get('checks') or not all(x.get('pass') is True for x in report['checks']):
+        raise ValueError('角色配套素材技术检查未通过')
+    hashes = {x['file']: x['sha256'] for x in report['assets']}
+    if visual.get('status') != 'passed' or not visual.get('reviewer') or visual.get('issues') != [] or visual.get('asset_sha256') != hashes:
+        raise ValueError('角色配套素材缺少实际目检或素材已改变')
+    def relative(file):
+        path = inside(out, file)
+        if not path.is_file():
+            raise ValueError('角色配套素材文件不存在：' + file)
+        return path.relative_to(root).as_posix()
+    assets = []
+    for asset in manifest:
+        path = inside(out, asset['file'])
+        if hashes.get(asset['file']) != sha(path):
+            raise ValueError('角色配套素材与技术报告不一致')
+        inspect_image(path, asset['spec'])
+        if visual.get('items', {}).get(asset['file']) is not True:
+            raise ValueError('角色配套素材有未目检图片')
+        assets.append({'label': asset['label'], 'path': relative(asset['file']), 'size': asset['spec']['size'], 'bytes': path.stat().st_size, 'sha256': sha(path)})
+    links = []
+    for record in packages:
+        path = inside(out, record['file'])
+        if sha(path) != record['sha256']:
+            raise ValueError('角色配套素材ZIP哈希不一致')
+        with zipfile.ZipFile(path) as archive:
+            names = archive.namelist()
+            if archive.testzip() or len(names) != len(set(names)) or any(n.startswith(('/', '\\')) or '..' in Path(n.replace('\\', '/')).parts for n in names):
+                raise ValueError('角色配套素材ZIP不完整或路径不安全')
+            for asset in manifest:
+                if hashlib.sha256(archive.read(asset['file'])).hexdigest() != hashes[asset['file']]:
+                    raise ValueError('角色配套素材ZIP中图片与成品不一致')
+        links.append({'label': record['label'], 'path': relative(record['file']), 'bytes': path.stat().st_size, 'sha256': sha(path)})
+    if not assets or not links:
+        raise ValueError('角色配套素材须有图片和下载包')
+    material = {'id': 'material-' + uuid.uuid4().hex[:12], 'character': cat, 'title': component(args.title), 'path': args.path,
+                'preview': relative('preview.html'), 'copy': relative('赞赏引导语.md'), 'assets': assets, 'packages': links}
+    seal = {'schema_version': 1, 'metadata': dict(material), 'completed_at': now().isoformat(),
+            'files': [{'path': p.relative_to(version).as_posix(), 'sha256': sha(p)} for p in protected_files(version)]}
+    seal_path = version / '05_验收/完成锁定.json'
+    save(seal_path, seal)
+    material['completion'] = {'seal': '05_验收/完成锁定.json', 'sha256': sha(seal_path)}
+    data.setdefault('materials', []).append(material)
+    return material
+
+
+def hydrate_materials(root, data, config):
+    materials = data.get('materials', [])
+    ids, paths = set(), set()
+    for material in materials:
+        if material['character'] not in config['characters'] or material['id'] in ids or material['path'] in paths:
+            raise ValueError('角色配套素材登记重复或角色无效')
+        if not inside(root, material['path']).is_relative_to(root / '04_角色素材' / material['character']):
+            raise ValueError('角色配套素材目录越界')
+        health = material_integrity(root, material)
+        if health['issues']:
+            raise ValueError('角色配套素材需复检：' + ';'.join(health['issues']))
+        ids.add(material['id']); paths.add(material['path'])
+    return materials
+
+
 def read_required(out, name):
     path = inside(out, name)
     if not path.is_file():
@@ -476,7 +571,8 @@ def refresh(root, data, config):
         e.setdefault('default', False)
     data['updated_at'] = now().isoformat()
     save(root / CATALOG, data)
-    payload = {'updated_at': data['updated_at'], 'characters': list(config['characters']), 'entries': entries}
+    materials = hydrate_materials(root, data, config)
+    payload = {'updated_at': data['updated_at'], 'characters': list(config['characters']), 'entries': entries, 'materials': materials}
     serialized = json.dumps(payload, ensure_ascii=False).replace('<', '\\u003c').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
     template = (root / 'scripts/templates/library.html').read_text()
     save(root / PAGE, template.replace('__LIBRARY_DATA__', serialized))
@@ -495,6 +591,8 @@ def refresh(root, data, config):
         links += [x['image'] for x in e['items']]
         links += [x['path'] for x in [*e['packages'], *e['reports']]]
         links += list(e['extras'].values())
+    for material in materials:
+        links += [material['preview'], material['copy'], *[x['path'] for x in material['assets']], *[x['path'] for x in material['packages']]]
     missing = [x for x in filter(None, links) if not inside(root, x).is_file()]
     save(root / '99_记录/作品库链接检查.json', {'status': 'FAIL' if missing else 'PASS', 'checked': len([x for x in links if x]), 'missing': missing})
     issues = [{'id': e['id'], 'issues': e['health']['issues']} for e in entries if e['health']['issues']]
@@ -585,6 +683,8 @@ def main():
     create.add_argument('--tag', action='append'); create.add_argument('--reference')
     create.add_argument('--copy-exception', help='仅记录用户明确要求非中文文案的原话')
     create.add_argument('--draft', action='store_true', help='先登记文案策划草稿')
+    material = sub.add_parser('materials', help='验收并登记独立的角色配套素材，不改变已完成套装')
+    material.add_argument('--cat', required=True); material.add_argument('--path', required=True); material.add_argument('--title', required=True)
     done = sub.add_parser('finish', help='检验真实文件和记录后锁定本地成品')
     done.add_argument('--path', required=True); done.add_argument('--current', action='store_true')
     sub.add_parser('refresh', help='刷新统一作品库，不创建新版本')
@@ -615,6 +715,8 @@ def main():
             changed = []
             if args.command == 'new':
                 e = new_entry(root, data, config, args); changed = [e['id']]
+            elif args.command == 'materials':
+                e = register_materials(root, data, config, args); changed = [e['id']]
             if args.command in ('finish', 'prefer', 'describe', 'platform', 'archive', 'stage'):
                 e = select_entry(root, data, args.path); changed = [e['id']]
                 if args.command == 'finish':
@@ -650,6 +752,7 @@ def main():
             validate_registry(root, data, config)
             if args.command == 'check':
                 statuses = [{'id': e['id'], **integrity(root, e, args.deep)} for e in data['entries']]
+                statuses += [{'id': e['id'], **material_integrity(root, e)} for e in data.get('materials', [])]
                 issues = [x for x in statuses if x['issues']]
                 result = {'status': 'FAIL' if issues else 'PASS', 'versions': len(statuses), 'checks': statuses, 'mode': '完整哈希与ZIP' if args.deep else '快速'}
                 save(root / '99_记录/作品库验收.json', result)

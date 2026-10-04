@@ -1,0 +1,15 @@
+{
+  "tool": "image_gen.imagegen",
+  "model": "not_disclosed",
+  "quality": "not_disclosed",
+  "request": {
+    "prompt": "Use case: illustration-story.\nAsset type: 范恩微信表情赞赏引导图，最终750×560横向，宽高比750:560。请创作一张独立完整设计，不是网格、拼图或效果展示。\nInput image: 锁定的范恩卡通基准，仅作角色身份与手绘毛绒风格参考；不要照抄参考里的英文文案或多个姿势。\nSubject: 唯一一只范恩，浅奶白长毛小猫，大而清澈的蓝眼睛，浅灰棕色耳朵与一条蓬松尾巴，粉鼻、粉肉垫，圆软脸型，头身比例与参考一致。保持柔和的手绘水彩毛发质感，不做3D或照片。\nScene: 奶油色完整不透明背景，极简柔粉与浅蓝圆点和少量小爱心。下部中央范恩乖巧坐着，两只前爪捧着小小的淡粉色小鱼碗，碗里有两条简洁金色小鱼干，抬头看观者，甜甜微笑，蓬松尾巴自然在身侧。脚爪与碗关系合理，无额外肢体。主题是轻松自愿赞赏，不展示货币、付款码、价格或平台按钮。\nTypography: 顶部居中两行圆润粗中文，深咖啡细描边，柔和蓝与珊瑚粉字色。Exact text, line 1: “投喂一点点”; line 2: “卖萌一整天”. 只能有这10个汉字，不要其他文字、英文、水印、标识。\nComposition: 猫占画幅高度约55%，文本在上、猫在下，文字和耳朵不重叠，四周留6%安全边距，全部文字和猫的身体、尾巴都在安全区域中。画面精致、清爽、俏皮，与参考的软萌角色一致。",
+    "referenced_image_paths": [
+      "/Users/saymagic/workspace/表情包/04_角色素材/范恩/赞赏配套/v001_20261004/01_资料/参考/卡通基准.png"
+    ],
+    "transparent_background": false
+  },
+  "output_hint": "Generated images are saved to /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3 as /Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-4ef87864-6d7e-4307-aca8-6920c23a2f2e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "native_file": "/Users/saymagic/.codex/generated_images/01a1047f-de0e-7273-ad14-87c73d8796f3/exec-4ef87864-6d7e-4307-aca8-6920c23a2f2e.png",
+  "stored_original": "02_原画/guide.png"
+}

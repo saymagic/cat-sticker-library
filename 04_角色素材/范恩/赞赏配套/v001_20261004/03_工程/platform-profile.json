@@ -1,0 +1,56 @@
+{
+  "name": "fanen-appreciation-user-request-20261004",
+  "basis_date": "2026-10-04",
+  "official_rules_verified": false,
+  "dimension_basis": "用户本次指定750×560及750×750",
+  "limit_basis": "内部编码目标；JPEG引导图小于100000B，致谢图小于200000B，PNG副本小于500000B；不声明这些上限为已复核官方规则",
+  "inherited_reference": "03_工程/platform-profile.json，2026-10-02历史规范仅供参考",
+  "official_source": "https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/readtemplate?t=guide/index.html#/makingSpecifications",
+  "official_lookup": {
+    "status": "BLOCKED",
+    "reason": "网页工具无法读取，浏览器site-safety策略阻止；没有绕过",
+    "current_rules_checked": false
+  },
+  "assets": [
+    {
+      "file": "范恩_赞赏引导图_750x560.jpg",
+      "size": [
+        750,
+        560
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 100000
+    },
+    {
+      "file": "范恩_赞赏引导图_750x560.png",
+      "size": [
+        750,
+        560
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000
+    },
+    {
+      "file": "范恩_赞赏致谢图_750x750.jpg",
+      "size": [
+        750,
+        750
+      ],
+      "format": "JPEG",
+      "alpha": false,
+      "limit": 200000
+    },
+    {
+      "file": "范恩_赞赏致谢图_750x750.png",
+      "size": [
+        750,
+        750
+      ],
+      "format": "PNG",
+      "alpha": false,
+      "limit": 500000
+    }
+  ]
+}

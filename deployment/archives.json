@@ -280,6 +280,24 @@
         "01_作品/范恩/范恩软萌日常/版本/v001_20261002_静态24张/04_成品/submission_PNG.zip",
         "02_上传包/范恩软萌日常_PNG_20261002.zip"
       ]
+    },
+    {
+      "sha256": "efe1e39e5f68e19bc2f01254edc5d162d905241da98bc86aa00b6273d50c59aa",
+      "bytes": 7204334,
+      "name": "archive-efe1e39e5f68e19bc2f01254edc5d162d905241da98bc86aa00b6273d50c59aa.zip",
+      "tag": "materials-20261004-fanen-appreciation-v1",
+      "paths": [
+        "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/complete_materials.zip"
+      ]
+    },
+    {
+      "sha256": "1e4561ee653b57c9016e9a4a6d8a8e9da68581cd72aa9591316ff90c7b62bb3c",
+      "bytes": 738849,
+      "name": "archive-1e4561ee653b57c9016e9a4a6d8a8e9da68581cd72aa9591316ff90c7b62bb3c.zip",
+      "tag": "materials-20261004-fanen-appreciation-v1",
+      "paths": [
+        "04_角色素材/范恩/赞赏配套/v001_20261004/04_成品/submission_赞赏配套.zip"
+      ]
     }
   ]
 }

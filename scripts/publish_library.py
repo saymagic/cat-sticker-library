@@ -46,6 +46,10 @@ def prepare(root):
             for package in entry['packages']:
                 file = lib.inside(root, package['path'])
                 approved[file] = lib.sha(file)
+    for material in lib.hydrate_materials(root, data, characters):
+        for package in material['packages']:
+            file = lib.inside(root, package['path'])
+            approved[file] = lib.sha(file)
     approved_hashes = set(approved.values())
     old = root / 'deployment/archives.json'
     known = {x['sha256']: x for x in lib.load(old)['assets']} if old.is_file() else {}
@@ -266,7 +270,19 @@ def _build(root, output):
             entry.pop(key, None)
     for path in ('作品库设计与规则.md', 'AGENTS.md', '00_官方调研/微信表情制作与投稿调研.md', 'deployment/部署与更新.md'):
         copy_file(path)
-    payload = {'updated_at': lib.now().isoformat(), 'characters': list(characters['characters']), 'entries': entries}
+    materials = copy.deepcopy(lib.hydrate_materials(root, data, characters))
+    for material in materials:
+        material['preview'] = copy_file(material['preview'])
+        material['copy'] = copy_file(material['copy'])
+        for asset in material['assets']:
+            asset['path'] = copy_file(asset['path'])
+        for package in material['packages']:
+            asset = by_path.get(package['path'])
+            if not asset:
+                raise ValueError('角色配套素材ZIP尚未准备发布：' + package['path'])
+            package['path'] = copy_file(package['path']) if direct_download(package['path'], asset) else archive_url(settings, asset)
+        material.pop('completion', None)
+    payload = {'updated_at': lib.now().isoformat(), 'characters': list(characters['characters']), 'entries': entries, 'materials': materials}
     serialized = json.dumps(payload, ensure_ascii=False).replace('<', '\\u003c').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
     template = (root / 'scripts/templates/library.html').read_text(encoding='utf-8')
     page = template.replace('__LIBRARY_DATA__', serialized)

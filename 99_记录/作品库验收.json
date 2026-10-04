@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "versions": 10,
+  "versions": 11,
   "checks": [
     {
       "id": "pack-ca58ed5f4c50",
@@ -71,6 +71,11 @@
       "issues": [],
       "checked": 290,
       "mode": "完整哈希与ZIP"
+    },
+    {
+      "id": "material-5100fe6cb823",
+      "state": "有效",
+      "issues": []
     }
   ],
   "mode": "完整哈希与ZIP"

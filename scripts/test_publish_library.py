@@ -28,6 +28,19 @@ class PublishTests(unittest.TestCase):
     def tearDown(self):
         self.fixture.tearDown()
 
+    def test_character_materials_publish_images_and_same_domain_zip(self):
+        material = self.fixture.material_fixture()
+        lib.refresh(self.root, self.fixture.data, self.fixture.config)
+        pub.prepare(self.root)
+        site = self.root / '_site'; pub.build(self.root, site)
+        catalog = lib.load(site / 'catalog.json')
+        published = catalog['materials'][0]
+        self.assertEqual(published['id'], material['id'])
+        self.assertEqual(lib.sha(site / published['assets'][0]['path']), material['assets'][0]['sha256'])
+        self.assertTrue((site / published['packages'][0]['path']).is_file())
+        self.assertTrue((site / published['preview']).is_file())
+        self.assertTrue((site / published['copy']).is_file())
+
     def test_public_links_and_release_downloads(self):
         site = self.root / '_site'; result = pub.build(self.root, site)
         self.assertEqual(result['versions'], 1); self.assertEqual(result['stickers'], 8)
